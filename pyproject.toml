@@ -1,0 +1,80 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prismatic"
+authors = [
+    {name = "Siddharth Karamcheti", email="skaramcheti@cs.stanford.edu"},
+    {name = "Suraj Nair", email="suraj.nair@tri.global"},
+    {name = "Ashwin Balakrishna", email="ashwin.balakrishna@tri.global"},
+]
+description = "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models"
+version = "0.0.1"
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["vision-language models", "multimodal pretraining", "machine learning"]
+license = {file = "LICENSE"}
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "accelerate>=0.25.0",
+    "draccus @ git+https://github.com/dlwh/draccus",
+    "einops",
+    # "flash_attn>=2.3.3",  # Here for documentation -- install *AFTER* editable install (follow README)
+    "jsonlines",
+    "rich",
+    "timm>=0.9.10",
+    "torch>=2.1.0",
+    "torchvision>=0.16.0",
+    "torchaudio",
+    "transformers==4.34.1",
+    "wandb"
+]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "gpustat",
+    "ipython",
+    "pre-commit",
+    "ruff",
+]
+
+[project.urls]
+homepage = "https://github.com/TRI-ML/prismatic-vlms"
+repository = "https://github.com/TRI-ML/prismatic-vlms"
+documentation = "https://github.com/TRI-ML/prismatic-vlms"
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["cache"]
+
+[tool.setuptools.package-data]
+"prismatic" = ["py.typed"]
+
+[tool.black]
+line-length = 121
+target-version = ["py38", "py39", "py310"]
+preview = true
+
+[tool.ruff]
+line-length = 121
+target-version = "py38"
+select = ["A", "B", "E", "F", "I", "RUF", "W"]
+ignore = ["F722"]
+
+[tool.ruff.per-file-ignores]
+"__init__.py" = ["E402", "F401"]
