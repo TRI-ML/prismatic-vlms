@@ -43,7 +43,8 @@ pip install packaging ninja
 # Verify Ninja --> should return exit code "0"
 ninja --version; echo $?
 
-# Install Flash Attention 2 (in case you have problems with this step, try `pip cache remove flash_attn` first)
+# Install Flash Attention 2 
+#   =>> If you run into difficulty, try `pip cache remove flash_attn` first
 pip install flash-attn --no-build-isolation
 ```
 
