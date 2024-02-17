@@ -183,7 +183,7 @@ torchrun --standalone --nnodes 1 --nproc-per-node 8 scripts/pretrain.py \
 
 Note that specifying `model.type` is important for identifying the _base configuration_ that you want to build on top of;
 the full list of model types are avaiable in our [config file](prismatic/conf/models.py), under the `model_id` key for 
-each dataclass. Setting `model.model_id` specified the new name (directory path) to write model checkpoints.
+each dataclass.
 
 ---
 
