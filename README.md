@@ -174,10 +174,16 @@ representations, processing non-square images with a "letterbox padding" transfo
 ```bash
 # Run from the root of the repository
 torchrun --standalone --nnodes 1 --nproc-per-node 8 scripts/pretrain.py \
+  --model.type "one-stage+7b" \
+  --model.model_id "<NAME OF NEW MODEL>" \
   --model.vision_backbone_id "dinosiglip-vit-so-384px" \
   --model.image_resize_strategy "letterbox" \
   --model.llm_backbone_id "vicuna-v15-7b" 
 ```
+
+Note that specifying `model.type` is important for identifying the _base configuration_ that you want to build on top of;
+the full list of model types are avaiable in our [config file](prismatic/conf/models.py), under the `model_id` key for 
+each dataclass. Setting `model.model_id` specified the new name (directory path) to write model checkpoints.
 
 ---
 
