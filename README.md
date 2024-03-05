@@ -125,12 +125,11 @@ understanding and localization tasks.
 
 ---
 **Explicit Notes on Model Licensing & Commercial Use**: While all code in this repository is released under an MIT
-License, our pretrained models inherit restrictions from the _datasets_ and _underlying LMs_ we use for training. 
+License, our pretrained models may inherit restrictions from the _datasets_ and _underlying LMs_ we use for training. 
 
 **[02/09/24]** Our current VLMs are all derived from Llama-2, and as such are subject to the 
 [Llama Community License](https://ai.meta.com/llama/license/), which does permit commercial use. We additionally train 
-on the LLaVa Instruct Tuning data, which is synthetically generated using OpenAI's GPT-4 (subject to the 
-[OpenAI Terms of Use](https://openai.com/policies/terms-of-use)).
+on the LLaVa Instruct Tuning data.
 
 As we train new models, we will update this section of the README (and the LICENSE files associated with each model)
 appropriately. If there are any questions, please file an Issue!
