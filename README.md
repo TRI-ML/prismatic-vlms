@@ -38,7 +38,7 @@ cd prismatic-vlms
 pip install -e .
 
 # Training additionally requires Flash-Attention 2 (https://github.com/Dao-AILab/flash-attention)
-pip install packaging ninja
+pip install packaging ninja wheel
 
 # Verify Ninja --> should return exit code "0"
 ninja --version; echo $?
