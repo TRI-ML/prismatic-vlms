@@ -259,6 +259,37 @@ class Exp_13B_Llama2(Exp_13B_One_Stage):
     llm_backbone_id: str = "llama2-13b-pure"
 
 
+# ~ Additional LLM Backbones :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
+@dataclass
+class Ext_Exp_7B_Llama2_Chat(Exp_7B_One_Stage):
+    model_id: str = "llama2-chat+7b"
+    llm_backbone_id: str = "llama2-7b-chat"
+
+
+@dataclass
+class Ext_Exp_13B_Llama2_Chat(Exp_13B_One_Stage):
+    model_id: str = "llama2-chat+13b"
+    llm_backbone_id: str = "llama2-13b-chat"
+
+
+@dataclass
+class Ext_Exp_7B_Mistral_V1(Exp_7B_One_Stage):
+    model_id: str = "mistral-v0.1+7b"
+    llm_backbone_id: str = "mistral-v0.1-7b-pure"
+
+
+@dataclass
+class Ext_Exp_7B_Mistral_Instruct_V1(Exp_7B_One_Stage):
+    model_id: str = "mistral-instruct-v0.1+7b"
+    llm_backbone_id: str = "mistral-v0.1-7b-instruct"
+
+
+@dataclass
+class Ext_Exp_3B_Phi_2(Exp_7B_One_Stage):
+    model_id: str = "phi-2+3b"
+    llm_backbone_id: str = "phi-2-3b"
+
+
 # Section 4.3B :: ✌️ --> Co-training on Language-only Data
 #   =>> Note :: Run with `--dataset.type "llava-multimodal" (multimodal data only / no co-training)
 @dataclass
@@ -492,6 +523,15 @@ class ModelRegistry(Enum):
     # === Section 4.3 :: Language Models ===
     EXP_LLAMA2_7B = Exp_7B_Llama2
     EXP_LLAMA2_13B = Exp_13B_Llama2
+
+    # ~ Additional LLM Backbone Experiments :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
+    EXT_EXP_LLAMA2_CHAT_7B = Ext_Exp_7B_Llama2_Chat
+    EXT_EXP_LLAMA2_CHAT_13B = Ext_Exp_13B_Llama2_Chat
+    EXT_EXP_MISTRAL_V1_7B = Ext_Exp_7B_Mistral_V1
+    EXT_EXP_MISTRAL_INSTRUCT_V1_7B = Ext_Exp_7B_Mistral_Instruct_V1
+    EXT_EXP_PHI_2_3B = Ext_Exp_3B_Phi_2
+
+    # Cotraining w/ Unimodal Data
 
     EXP_VICUNA_NO_COTRAINING_7B = Exp_7B_Vicuna_No_Cotraining
     EXP_LLAMA2_NO_COTRAINING_7B = Exp_7B_Llama2_No_Cotraining

@@ -122,7 +122,7 @@ def pretrain(cfg: PretrainConfig) -> None:
     overwatch.info("Prismatic VLM Training :: Gathering Light")
 
     # Note => Under `torchrun` initializing `overwatch` will automatically set up `torch.distributed`
-    torch.cuda.set_device(device_id := (overwatch.rank() % torch.cuda.device_count()))
+    torch.cuda.set_device(device_id := (overwatch.local_rank()))
     torch.cuda.empty_cache()
 
     # Create Unique Run Name & Save Directory
