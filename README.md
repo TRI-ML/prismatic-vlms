@@ -99,7 +99,7 @@ For a complete terminal-based CLI for interacting with our VLMs, check out [scri
 
 ## Pretrained Models
 
-We release **all 44** VLMs trained as part of our work, with a range of different visual representations, language
+We release **all 49** VLMs trained as part of our work, with a range of different visual representations, language
 models, data, and scale. The exhaustive set of models (with structured descriptions) can be found in 
 [`prismatic/models/registry.py](prismatic/models/registry.py) - we will continue to update this registry as we train
 additional models.

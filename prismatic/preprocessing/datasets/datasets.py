@@ -17,7 +17,7 @@ from typing import Dict, List, Tuple, Type
 import torch
 from PIL import Image
 from torch.utils.data import Dataset
-from transformers import LlamaTokenizerFast, PreTrainedTokenizerBase
+from transformers import CodeGenTokenizerFast, LlamaTokenizerFast, PreTrainedTokenizerBase
 
 from prismatic.models.backbones.llm.prompting import PromptBuilder
 from prismatic.models.backbones.vision import ImageTransform
@@ -52,7 +52,7 @@ class AlignDataset(Dataset[Dict[str, torch.Tensor]]):
         the "prompt" from the human, and instead directly predict the caption from the image.
 
         As a concrete example given the "raw data" for the first example:
-            example = self.examples[0]["conversations]` = {
+            example = self.examples[0]["conversations"]` = {
                 [
                     {"from": "human", "value": "Render a clear and concise summary of the photo.\n<image>"},
                     {"from": "gpt", "value": "select luxury furniture 3 - inch gel memory foam mattress topper"}
@@ -144,6 +144,11 @@ class FinetuneDataset(Dataset[Dict[str, torch.Tensor]]):
             # Llama Tokenizer (Fast) adds extra character if a string ends in whitespace --> strip if non-empty!
             if isinstance(self.tokenizer, LlamaTokenizerFast):
                 msg = msg.rstrip()
+
+            # Phi-2 Tokenizer == CodeGenTokenizer (Fast) -- no special handling!
+            elif isinstance(self.tokenizer, CodeGenTokenizerFast):
+                pass
+
             else:
                 raise ValueError(f"Tokenizer of type `{type(self.tokenizer)}` is not explicitly handled!")
 
