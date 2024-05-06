@@ -6,6 +6,7 @@ URLs, prompts, and language generation parameters.
 
 Run with: python scripts/generate.py --model_path <PATH TO LOCAL MODEL OR HF HUB>
 """
+
 import os
 from dataclasses import dataclass
 from pathlib import Path

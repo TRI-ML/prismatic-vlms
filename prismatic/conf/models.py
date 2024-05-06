@@ -8,6 +8,7 @@ variant thereof. A given model variant configures the following attributes:
     - [Optional] Stage 1 (`align`) Optimization Hyperparameters
     - Stage 2 (`finetune`) Optimization Hyperparameters
 """
+
 from dataclasses import dataclass
 from enum import Enum, unique
 from typing import Optional
@@ -436,6 +437,27 @@ class Prism_13B_DINOSigLIP(Exp_13B_One_Stage):
     finetune_epochs: int = 2
 
 
+# [Inference-Optimized] 224px Prism Models
+@dataclass
+class Prism_7B_DINOSigLIP_224px_Controlled(Exp_7B_One_Stage):
+    model_id: str = "prism-dinosiglip-224px-controlled+7b"
+    vision_backbone_id: str = "dinosiglip-vit-so-224px"
+    image_resize_strategy: str = "resize-naive"
+    llm_backbone_id: str = "llama2-7b-pure"
+    arch_specifier: str = "no-align+fused-gelu-mlp"
+
+
+#   =>> Note :: Run with `--dataset.type "llava-lvis4v-lrv"`
+@dataclass
+class Prism_7B_DINOSigLIP_224px(Exp_7B_One_Stage):
+    model_id: str = "prism-dinosiglip-224px+7b"
+    vision_backbone_id: str = "dinosiglip-vit-so-224px"
+    image_resize_strategy: str = "resize-naive"
+    llm_backbone_id: str = "llama2-7b-pure"
+    arch_specifier: str = "no-align+fused-gelu-mlp"
+    finetune_epochs: int = 2
+
+
 # === Define a Model Registry Enum for Reference & Validation ===
 @unique
 class ModelRegistry(Enum):
@@ -499,6 +521,10 @@ class ModelRegistry(Enum):
     PRISM_DINOSIGLIP_CONTROLLED_13B = Prism_13B_DINOSigLIP_Controlled
     PRISM_DINOSIGLIP_7B = Prism_7B_DINOSigLIP
     PRISM_DINOSIGLIP_13B = Prism_13B_DINOSigLIP
+
+    # === Inference Optimized :: 224px Prism Models ===
+    PRISM_DINOSIGLIP_224PX_CONTROLLED_7B = Prism_7B_DINOSigLIP_224px_Controlled
+    PRISM_DINOSIGLIP_224PX_7B = Prism_7B_DINOSigLIP_224px
 
     @property
     def model_id(self) -> str:

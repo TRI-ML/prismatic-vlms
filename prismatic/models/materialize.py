@@ -4,6 +4,7 @@ materialize.py
 Factory class for initializing Vision Backbones, LLM Backbones, and VLMs from a set registry; provides and exports
 individual functions for clear control flow.
 """
+
 from typing import Optional, Tuple
 
 from transformers import PreTrainedTokenizerBase
@@ -31,6 +32,7 @@ VISION_BACKBONES = {
     "siglip-vit-so400m": {"cls": SigLIPViTBackbone, "kwargs": {"default_image_size": 224}},
     "dinov2-vit-l": {"cls": DinoV2ViTBackbone, "kwargs": {"default_image_size": 224}},
     "in1k-vit-l": {"cls": IN1KViTBackbone, "kwargs": {"default_image_size": 224}},
+    "dinosiglip-vit-so-224px": {"cls": DinoSigLIPViTBackbone, "kwargs": {"default_image_size": 224}},
 
     # === Assorted CLIP Backbones ===
     "clip-vit-b": {"cls": CLIPViTBackbone, "kwargs": {"default_image_size": 224}},

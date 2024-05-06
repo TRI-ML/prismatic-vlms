@@ -3,6 +3,7 @@ in1k_vit.py
 
 Vision Transformers trained / finetuned on ImageNet (ImageNet-21K =>> ImageNet-1K)
 """
+
 from prismatic.models.backbones.vision.base_vision import TimmViTBackbone
 
 # Registry =>> Supported Vision Backbones (from TIMM)

@@ -11,6 +11,7 @@ the AutoModelForCausalLM API (though we may add Seq2Seq models in the future).
 We make this assumption to keep the LLM handling in this codebase relatively lightweight, and to inherit all the nice HF
 utilities around different types of decoding/generation strategies.
 """
+
 import warnings
 from abc import ABC, abstractmethod
 from functools import partial
@@ -129,11 +130,6 @@ class HFCausalLLMBackbone(LLMBackbone, ABC):
             overwatch.info(f"Building empty [bold]{llm_family}[/] LLM from [underline]`{hf_hub_path}`[/]", ctx_level=1)
             llm_config = AutoConfig.from_pretrained(hf_hub_path, token=hf_token)
             self.llm = llm_cls._from_config(llm_config)
-            #
-            # print("DEBUG EMPTY LLM INITIALIZE")
-            # import IPython
-            # IPython.embed()
-            # exit(0)
 
         # Lightweight Handling (with extended explanation) for setting some LLM Parameters
         #   => Set `decoder.use_cache = False` --> incompatible with gradient checkpointing (+ training in general)

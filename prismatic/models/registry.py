@@ -4,7 +4,6 @@ registry.py
 Exhaustive list of pretrained VLMs (with full descriptions / links to corresponding names and sections of paper).
 """
 
-
 # === Pretrained Model Registry ===
 # fmt: off
 MODEL_REGISTRY = {
@@ -588,6 +587,34 @@ MODEL_REGISTRY = {
             "datasets": ["LLaVa v1.5 Instruct", "LVIS-Instruct-4V", "LRV-Instruct"],
             "train_epochs": 2,
         },
+    },
+
+    # === [Inference-Optimized] 224px Prism Models ===
+    "prism-dinosiglip-224px-controlled+7b": {
+        "model_id": "prism-dinosiglip-224px-controlled+7b",
+        "names": ["Prism-DINOSigLIP 224px 7B (Controlled)"],
+        "description": {
+            "name": "DINOSigLIP 224px 7B (Controlled)",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO 14 @ 224px",
+            "image_processing": "Naive Resize",
+            "language_model": "Llama-2 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "prism-dinosiglip-224px+7b": {
+        "model_id": "prism-dinosiglip-224px+7b",
+        "names": ["Prism-DINOSigLIP 224px 7B"],
+        "description": {
+            "name": "DINOSigLIP 224px 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO 14 @ 224px",
+            "image_processing": "Naive Resize",
+            "language_model": "Llama-2 7B",
+            "datasets": ["LLaVa v1.5 Instruct", "LVIS-Instruct-4V", "LRV-Instruct"],
+            "train_epochs": 2,
+        }
     },
 }
 

@@ -1,6 +1,7 @@
 """
 clip_vit.py
 """
+
 from prismatic.models.backbones.vision.base_vision import TimmViTBackbone
 
 # Registry =>> Supported CLIP Vision Backbones (from TIMM)
