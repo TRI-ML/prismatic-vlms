@@ -3,6 +3,7 @@ base_prompter.py
 
 Abstract class definition of a multi-turn prompt builder for ensuring consistent formatting for chat-based LLMs.
 """
+
 from abc import ABC, abstractmethod
 from typing import Optional
 

@@ -3,9 +3,11 @@ overwatch.py
 
 Utility class for creating a centralized/standardized logger (built on Rich) and accelerate handler.
 """
+
 import logging
 import logging.config
 import os
+from contextlib import nullcontext
 from logging import LoggerAdapter
 from typing import Any, Callable, ClassVar, Dict, MutableMapping, Tuple, Union
 
@@ -61,14 +63,30 @@ class DistributedOverwatch:
         # Logging Defaults =>> only Log `INFO` on Main Process, `ERROR` on others!
         self.logger.setLevel(logging.INFO if self.distributed_state.is_main_process else logging.ERROR)
 
+    @property
     def rank_zero_only(self) -> Callable[..., Any]:
         return self.distributed_state.on_main_process
+
+    @property
+    def local_zero_only(self) -> Callable[..., Any]:
+        return self.distributed_state.on_local_main_process
+
+    @property
+    def rank_zero_first(self) -> Callable[..., Any]:
+        return self.distributed_state.main_process_first
+
+    @property
+    def local_zero_first(self) -> Callable[..., Any]:
+        return self.distributed_state.local_main_process_first
 
     def is_rank_zero(self) -> bool:
         return self.distributed_state.is_main_process
 
     def rank(self) -> int:
         return self.distributed_state.process_index
+
+    def local_rank(self) -> int:
+        return self.distributed_state.local_process_index
 
     def world_size(self) -> int:
         return self.distributed_state.num_processes
@@ -90,11 +108,27 @@ class PureOverwatch:
         self.logger.setLevel(logging.INFO)
 
     @staticmethod
-    def rank_zero_only() -> Callable[[Callable[..., Any]], Callable[..., Any]]:
+    def get_identity_ctx() -> Callable[..., Any]:
         def identity(fn: Callable[..., Any]) -> Callable[..., Any]:
             return fn
 
         return identity
+
+    @property
+    def rank_zero_only(self) -> Callable[..., Any]:
+        return self.get_identity_ctx()
+
+    @property
+    def local_zero_only(self) -> Callable[..., Any]:
+        return self.get_identity_ctx()
+
+    @property
+    def rank_zero_first(self) -> Callable[..., Any]:
+        return nullcontext
+
+    @property
+    def local_zero_first(self) -> Callable[..., Any]:
+        return nullcontext
 
     @staticmethod
     def is_rank_zero() -> bool:

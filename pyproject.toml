@@ -10,7 +10,7 @@ authors = [
     {name = "Ashwin Balakrishna", email="ashwin.balakrishna@tri.global"},
 ]
 description = "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models"
-version = "0.0.1"
+version = "0.0.2"
 readme = "README.md"
 requires-python = ">=3.8"
 keywords = ["vision-language models", "multimodal pretraining", "machine learning"]
@@ -33,24 +33,26 @@ dependencies = [
     "accelerate>=0.25.0",
     "draccus @ git+https://github.com/dlwh/draccus",
     "einops",
-    # "flash_attn>=2.3.3",  # Here for documentation -- install *AFTER* editable install (follow README)
+    # "flash_attn>=2.5.5",  # Here for documentation -- install *AFTER* editable install (follow README)
+    "huggingface_hub",
     "jsonlines",
     "rich",
+    "sentencepiece",
     "timm>=0.9.10",
     "torch>=2.1.0",
     "torchvision>=0.16.0",
     "torchaudio",
-    "transformers==4.34.1",
+    "transformers>=4.38.1",
     "wandb"
 ]
 
 [project.optional-dependencies]
 dev = [
-    "black",
+    "black>=24.2.0",
     "gpustat",
     "ipython",
     "pre-commit",
-    "ruff",
+    "ruff>=0.2.2",
 ]
 
 [project.urls]
@@ -73,8 +75,10 @@ preview = true
 [tool.ruff]
 line-length = 121
 target-version = "py38"
+
+[tool.ruff.lint]
 select = ["A", "B", "E", "F", "I", "RUF", "W"]
 ignore = ["F722"]
 
-[tool.ruff.per-file-ignores]
+[tool.ruff.lint.per-file-ignores]
 "__init__.py" = ["E402", "F401"]

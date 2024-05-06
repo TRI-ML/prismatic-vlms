@@ -7,6 +7,7 @@ functions, and initialization logic.
 Training Strategies (DDP, FSDP-Grad, FSDP-Full) tend to have a lot of repeated components; this class does a lot of
 heavy lifting.
 """
+
 from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Callable, Optional
@@ -78,7 +79,7 @@ class TrainingStrategy(ABC):
         # Lightweight Validation
         assert (
             self.global_batch_size % self.per_device_batch_size == 0
-        ), "Per-Device Batch Size must evenly divide Global Batch Size!"
+        ), "Per-device batch size must evenly divide global batch size!"
         self.grad_accumulation_steps = self.global_batch_size // self.per_device_batch_size // overwatch.world_size()
         if self.enable_mixed_precision_training:
             assert self.mixed_precision_dtype == torch.bfloat16, "Only BF16 mixed precision training is supported!"

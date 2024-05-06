@@ -10,6 +10,7 @@ We use Abstract base classes *sparingly* -- mostly as a way to encapsulate any r
 (e.g., dependence on nn.Module, HF PretrainedModel, etc.). For other abstract objects (e.g., Tokenizers/Transforms),
 prefer Protocol definitions instead.
 """
+
 from __future__ import annotations
 
 from abc import ABC, abstractmethod

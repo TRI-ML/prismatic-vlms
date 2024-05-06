@@ -8,6 +8,7 @@ Notes:
       of the {Model}ForCausalLM API that enables dispatch to the underlying LLM's `generate` utilities (feeding inputs
       through our custom projection shim).
 """
+
 from __future__ import annotations
 
 from functools import partial

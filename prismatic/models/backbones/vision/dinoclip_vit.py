@@ -3,6 +3,7 @@ dinoclip_vit.py
 
 Vision backbone that returns concatenated features from both DINOv2 and CLIP.
 """
+
 from dataclasses import dataclass
 from functools import partial
 from typing import Callable, Dict, Tuple
@@ -75,19 +76,19 @@ class DinoCLIPViTBackbone(VisionBackbone):
         if self.image_resize_strategy == "resize-naive":
             assert isinstance(default_dino_transform, Compose), "Unexpected `default_dino_image_transform`!"
             assert isinstance(default_clip_transform, Compose), "Unexpected `default_clip_image_transform`!"
-            assert isinstance(dino_resize_transform := default_dino_transform.transforms[0], Resize)
-            assert isinstance(clip_resize_transform := default_clip_transform.transforms[0], Resize)
+            assert isinstance(default_dino_transform.transforms[0], Resize)
+            assert isinstance(default_clip_transform.transforms[0], Resize)
 
             target_size = (self.default_image_size, self.default_image_size)
             dino_transform = Compose(
                 [
-                    Resize(target_size, interpolation=dino_resize_transform.interpolation),
+                    Resize(target_size, interpolation=default_dino_transform.transforms[0].interpolation),
                     *default_dino_transform.transforms[1:],
                 ]
             )
             clip_transform = Compose(
                 [
-                    Resize(target_size, interpolation=clip_resize_transform.interpolation),
+                    Resize(target_size, interpolation=default_clip_transform.transforms[0].interpolation),
                     *default_clip_transform.transforms[1:],
                 ]
             )

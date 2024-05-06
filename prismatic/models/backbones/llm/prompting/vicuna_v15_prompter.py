@@ -5,6 +5,7 @@ Defines a PromptBuilder for building Vicuna-v1.5 Chat Prompts.
 
 Reference: https://huggingface.co/lmsys/vicuna-13b-v1.5
 """
+
 from typing import Optional
 
 from prismatic.models.backbones.llm.prompting.base_prompter import PromptBuilder

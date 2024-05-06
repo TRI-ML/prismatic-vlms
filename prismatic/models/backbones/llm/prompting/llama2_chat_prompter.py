@@ -6,6 +6,7 @@ that's used by HF and other online tutorials.
 
 Reference: https://huggingface.co/blog/llama2#how-to-prompt-llama-2
 """
+
 from typing import Optional
 
 from prismatic.models.backbones.llm.prompting.base_prompter import PromptBuilder

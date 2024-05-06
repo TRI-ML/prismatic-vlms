@@ -16,6 +16,7 @@ Terminology
     -> Rank :: Integer index of current process in the total world size
     -> Local Rank :: Local index on given node in [0, Devices per Node]
 """
+
 import os
 import random
 from typing import Callable, Optional

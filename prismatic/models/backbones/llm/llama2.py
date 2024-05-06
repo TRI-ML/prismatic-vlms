@@ -3,6 +3,7 @@ llama2.py
 
 Class definition for all LLMs derived from LlamaForCausalLM.
 """
+
 from typing import Optional, Type
 
 import torch

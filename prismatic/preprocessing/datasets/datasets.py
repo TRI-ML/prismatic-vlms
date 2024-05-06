@@ -8,6 +8,7 @@ formatting (e.g., SYS_PROMPT + USER: ... ASSISTANT: ... for Vicuña v1.5 Chat mo
 We currently only support Map-style Datasets; assumes that all files (annotations, images) are on local disk, and that
 random access image reading is relatively cheap/fast.
 """
+
 import copy
 import json
 from pathlib import Path

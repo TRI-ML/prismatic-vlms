@@ -5,6 +5,7 @@ Core definitions of (Distributed) Samplers for VLM finetuning; provides function
 "split-modality" batches as described in the LLaVa paper; this makes sure that a given device/batch is either entirely
 (vision, language) or (language-only) data, which leads to sizeable efficiency gains.
 """
+
 import math
 from typing import Iterator, List, Optional, Tuple
 

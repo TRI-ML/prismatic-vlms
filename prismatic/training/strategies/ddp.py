@@ -22,7 +22,7 @@ overwatch = initialize_overwatch(__name__)
 
 
 class DDPStrategy(TrainingStrategy):
-    @overwatch.rank_zero_only()
+    @overwatch.rank_zero_only
     def save_checkpoint(
         self,
         run_dir: Path,

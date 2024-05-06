@@ -1,7 +1,7 @@
 # Prismatic VLMs
 
 [![arXiv](https://img.shields.io/badge/arXiv-2402.07865-df2a2a.svg?style=for-the-badge)](https://arxiv.org/abs/2402.07865)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.2.1-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
 [![Python](https://img.shields.io/badge/python-3.10-blue?style=for-the-badge)](https://www.python.org)
 [![License](https://img.shields.io/github/license/TRI-ML/prismatic-vlms?style=for-the-badge)](LICENSE)
 
@@ -19,15 +19,17 @@ A flexible and efficient codebase for training visually-conditioned language-mod
   34B parameters, on different, easily configurable dataset mixtures.
 
 If you're interested in rigorously evaluating existing VLMs, check our [evaluation codebase](https://github.com/TRI-ML/vlm-evaluation)
-that bundles together 11 different battle-tested vision-and-language benchmarks through a clean, automated test harness. 
+that bundles together 12 different battle-tested vision-and-language benchmarks through a clean, automated test harness. 
 
 ---
 
 ## Installation
 
 This repository was built using Python 3.10, but should be backwards compatible with any Python >= 3.8. We require
-PyTorch 2.1 or greater installation instructions [can be found here](https://pytorch.org/get-started/locally/). This 
-repository was developed and has been thoroughly tested with PyTorch 2.1.0, Torchvision 0.16.0, and Flash-Attention 2.3.3.
+PyTorch 2.1 or greater -- installation instructions [can be found here](https://pytorch.org/get-started/locally/). This 
+repository was developed and has been thoroughly tested with:
+  - [2/16/24] PyTorch 2.1.0, Torchvision 0.16.0, Transformers 4.34.1, and Flash-Attention 2.3.3.
+  - [3/24/24] PyTorch 2.2.1, Torchvision 0.17.0, Transformers 4.38.1, and Flash-Attention 2.5.5.
 
 Once PyTorch has been properly installed, you can install this package locally via an editable installation (or via
 `pip install git+https://github.com/TRI-ML/prismatic-vlms`):
@@ -97,7 +99,7 @@ For a complete terminal-based CLI for interacting with our VLMs, check out [scri
 
 ## Pretrained Models
 
-We release **all 42** VLMs trained as part of our work, with a range of different visual representations, language
+We release **all 44** VLMs trained as part of our work, with a range of different visual representations, language
 models, data, and scale. The exhaustive set of models (with structured descriptions) can be found in 
 [`prismatic/models/registry.py](prismatic/models/registry.py) - we will continue to update this registry as we train
 additional models.
@@ -106,14 +108,14 @@ We also provide a top-level API for instantiating models from the names mentione
 as well as for generally browsing our pretrained models by description:
 
 ```python
-from prismatic import available_model_names, available_models, get_model_description
+from prismatic import available_model_ids_and_names, available_model_ids, get_model_description
 from pprint import pprint
 
 # List all Pretrained VLMs (by HF Hub IDs)
-pprint(available_models())
+pprint(available_model_ids())
 
-# List all Pretrained VLMs + Descriptions (by explicit labels / names from paper figures)
-pprint(available_model_names())
+# List all Pretrained VLMs with both HF Hub IDs AND semantically meaningful names from paper
+pprint(available_model_ids_and_names())
 
 # Print and return a targeted description of a model (by name or ID) 
 #   =>> See `prismatic/models/registry.py` for explicit schema
@@ -130,6 +132,9 @@ License, our pretrained models may inherit restrictions from the _datasets_ and 
 **[02/09/24]** Our current VLMs are all derived from Llama-2, and as such are subject to the 
 [Llama Community License](https://ai.meta.com/llama/license/), which does permit commercial use. We additionally train 
 on the LLaVa Instruct Tuning data.
+
+**[05/05/24]** Our new VLMs derived from Mistral and Phi-2 are subject to the original Apache and MIT Licenses attached
+to each model.
 
 As we train new models, we will update this section of the README (and the LICENSE files associated with each model)
 appropriately. If there are any questions, please file an Issue!
@@ -204,10 +209,10 @@ High-level overview of repository/project file-tree:
 If you find our code or models useful in your work, please cite [our paper](https://arxiv.org/abs/2402.07865):
 
 ```bibtex
-@article{karamcheti2024prismatic,
+@inproceedings{karamcheti2024prismatic,
   title = {Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models},
   author = {Siddharth Karamcheti and Suraj Nair and Ashwin Balakrishna and Percy Liang and Thomas Kollar and Dorsa Sadigh},
-  journal = {arXiv preprint arXiv:2402.07865},
+  booktitle = {International Conference on Machine Learning (ICML)},
   year = {2024},
 }
 ```

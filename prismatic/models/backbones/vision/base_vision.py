@@ -7,6 +7,7 @@ functions, and initialization logic.
 We also define the generic TimmViTBackbone class here, providing a default interface for loading any TIMM Vision
 Transformer model for feature extraction.
 """
+
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from functools import partial
@@ -142,10 +143,10 @@ class TimmViTBackbone(VisionBackbone, ABC):
         # Fix =>> SigLIP & IN1K default transforms resize to *larger* than `self.default_image_size` (crops image)!
         if "siglip" in self.timm_path_or_url or "in1k" in self.timm_path_or_url:
             assert isinstance(default_image_transform, Compose), "Unexpected `default_image_transform`!"
-            assert isinstance(resize_transform := default_image_transform.transforms[0], Resize)
+            assert isinstance(default_image_transform.transforms[0], Resize)
             default_image_transform = Compose(
                 [
-                    Resize(self.default_image_size, interpolation=resize_transform.interpolation),
+                    Resize(self.default_image_size, interpolation=default_image_transform.transforms[0].interpolation),
                     *default_image_transform.transforms[1:],
                 ]
             )
@@ -153,12 +154,12 @@ class TimmViTBackbone(VisionBackbone, ABC):
         # Switch on `image_resize_strategy`
         if self.image_resize_strategy == "resize-naive":
             assert isinstance(default_image_transform, Compose), "Unexpected `default_image_transform`!"
-            assert isinstance(resize_transform := default_image_transform.transforms[0], Resize)
+            assert isinstance(default_image_transform.transforms[0], Resize)
 
             target_size = (self.default_image_size, self.default_image_size)
             self.image_transform = Compose(
                 [
-                    Resize(target_size, interpolation=resize_transform.interpolation),
+                    Resize(target_size, interpolation=default_image_transform.transforms[0].interpolation),
                     *default_image_transform.transforms[1:],
                 ]
             )
