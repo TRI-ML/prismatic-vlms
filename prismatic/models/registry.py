@@ -644,6 +644,19 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
+    "llama3-instruct+8b": {
+        "model_id": "llama3-instruct+8b",
+        "names": ["Llama-3 Instruct 8B"],
+        "description": {
+            "name": "Llama-3 Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-3 Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
 
     "mistral-v0.1+7b": {
         "model_id": "mistral-v0.1+7b",
@@ -671,6 +684,19 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
+    "mistral-instruct-v0.2+7b": {
+        "model_id": "mistral-instruct-v0.2+7b",
+        "names": ["Mistral Instruct v0.2 7B"],
+        "description": {
+            "name": "Mistral Instruct v0.2 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Mistral Instruct v0.2 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
 
     "phi-2+3b": {
         "model_id": "phi-2+3b",
@@ -681,6 +707,19 @@ MODEL_REGISTRY = {
             "visual_representation": "CLIP ViT-L/14 @ 336px",
             "image_processing": "Letterbox",
             "language_model": "Phi-2 3B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "phi-instruct-3-+4b": {
+        "model_id": "phi-3-instruct+4b",
+        "names": ["Phi-3 4B"],
+        "description": {
+            "name": "Phi-3 4B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Phi-3 4B",
             "datasets": ["LLaVa v1.5 Instruct"],
             "train_epochs": 1,
         }
