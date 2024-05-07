@@ -25,6 +25,11 @@ MISTRAL_MODELS = {
     # === Mistral Instruct v0.1 ===
     "mistral-v0.1-7b-instruct": {
         "llm_family": "mistral", "llm_cls": MistralForCausalLM, "hf_hub_path": "mistralai/Mistral-7B-Instruct-v0.1"
+    },
+
+    # === Mistral Instruct v0.1 ===
+    "mistral-v0.2-7b-instruct": {
+        "llm_family": "mistral", "llm_cls": MistralForCausalLM, "hf_hub_path": "mistralai/Mistral-7B-Instruct-v0.2"
     }
 }
 # fmt: on

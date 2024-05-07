@@ -8,45 +8,35 @@ from typing import Optional, Type
 
 import torch
 from torch import nn as nn
-from transformers import LlamaForCausalLM
+from transformers import GemmaForCausalLM
 from transformers.models.llama.modeling_llama import LlamaDecoderLayer
 
 from prismatic.models.backbones.llm.base_llm import HFCausalLLMBackbone
 from prismatic.models.backbones.llm.prompting import (
-    LLaMa2ChatPromptBuilder,
+    GemmaChatPromptBuilder,
     PromptBuilder,
     PurePromptBuilder,
-    VicunaV15ChatPromptBuilder,
 )
 
 # Registry =>> Support LLaMa-2 Models (from HF Transformers)
 # fmt: off
-LLAMA2_MODELS = {
-    # === Pure Meta LLaMa-2 (non-instruct/chat-tuned) Models ===
-    "llama2-7b-pure": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-7b-hf"
+GEMMA_MODELS = {
+    # === Google Gemma Instruction-Tuned ===
+    "gemma-2b": {
+        "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-2b"
     },
 
-    "llama2-13b-pure": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-13b-hf"
+    "gemma-7b": {
+        "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-7b"
     },
 
-    # === Meta LLaMa-2 Chat Models ===
-    "llama2-7b-chat": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-7b-chat-hf"
+    # === Google Gemma Instruction-Tuned ===
+    "gemma-2b-instruct": {
+        "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-2b-it"
     },
 
-    "llama2-13b-chat": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-13b-chat-hf"
-    },
-
-    # === Vicuna v1.5 Chat Models ===
-    "vicuna-v15-7b": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "lmsys/vicuna-7b-v1.5"
-    },
-
-    "vicuna-v15-13b": {
-        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "lmsys/vicuna-13b-v1.5"
+    "gemma-7b-instruct": {
+        "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-7b-it"
     },
 }
 # fmt: on
@@ -67,7 +57,7 @@ class LLaMa2LLMBackbone(HFCausalLLMBackbone):
             hf_token=hf_token,
             inference_mode=inference_mode,
             use_flash_attention_2=use_flash_attention_2,
-            **LLAMA2_MODELS[llm_backbone_id],
+            **GEMMA_MODELS[llm_backbone_id],
         )
 
         # [Special Case] LLaMa-2 PAD Token Handling --> for clarity, we add an extra token (and resize)
