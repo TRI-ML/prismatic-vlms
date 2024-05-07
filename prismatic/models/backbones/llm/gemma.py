@@ -35,7 +35,7 @@ GEMMA_MODELS = {
         "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-2b-it"
     },
 
-    "gemma-7b-instruct": {
+    "gemma-8b-instruct": {
         "llm_family": "llama2", "llm_cls": GemmaForCausalLM, "hf_hub_path": "google/gemma-7b-it"
     },
 }

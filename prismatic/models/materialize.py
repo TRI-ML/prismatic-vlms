@@ -84,7 +84,7 @@ LLM_BACKBONES = {
 
     # === Gemma-2 Instruct Backbones ===
     "gemma-instruct+2b": {"cls": GemmaLLMBackbone, "kwargs": {}},
-    "gemma-instruct+7b": {"cls": GemmaLLMBackbone, "kwargs": {}},
+    "gemma-instruct+8b": {"cls": GemmaLLMBackbone, "kwargs": {}},
 }
 
 # fmt: on

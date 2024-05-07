@@ -631,15 +631,15 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-    "gemma-instruct+7b+clip": {
-        "model_id": "gemma-instruct+7b",
-        "names": ["Gemma Instruct 7B"],
+    "gemma-instruct+8b+clip": {
+        "model_id": "gemma-instruct+8b",
+        "names": ["Gemma Instruct 8B"],
         "description": {
-            "name": "Gemma Instruct 7B",
+            "name": "Gemma Instruct 8B",
             "optimization_procedure": "single-stage",
             "visual_representation": "CLIP ViT-L/14 @ 336px",
             "image_processing": "Letterbox",
-            "language_model": "Gemma Instruct 7B",
+            "language_model": "Gemma Instruct 8B",
             "datasets": ["LLaVa v1.5 Instruct"],
             "train_epochs": 1,
         }

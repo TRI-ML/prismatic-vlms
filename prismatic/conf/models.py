@@ -255,9 +255,9 @@ class Ext_Exp_2B_Gemma_Instruct(Exp_7B_One_Stage):
 
 
 @dataclass
-class Ext_Exp_7B_Gemma_Instruct(Exp_7B_One_Stage):
-    model_id: str = "gemma-instruct+7b"
-    llm_backbone_id: str = "gemma-7b-instruct"
+class Ext_Exp_8B_Gemma_Instruct(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+8b"
+    llm_backbone_id: str = "gemma-8b-instruct"
 
 
 @dataclass
@@ -560,7 +560,7 @@ class ModelRegistry(Enum):
     EXT_EXP_LLAMA2_CHAT_13B = Ext_Exp_13B_Llama2_Chat
     EXT_EXP_LLAMA3_CHAT_8B = Ext_Exp_8B_Llama3_Chat
     EXT_EXP_GEMMA_INSTRUCT_2B = Ext_Exp_2B_Gemma_Instruct
-    EXT_EXP_GEMMA_INSTRUCT_7B = Ext_Exp_7B_Gemma_Instruct
+    EXT_EXP_GEMMA_INSTRUCT_7B = Ext_Exp_8B_Gemma_Instruct
     EXT_EXP_MISTRAL_V1_7B = Ext_Exp_7B_Mistral_V1
     EXT_EXP_MISTRAL_INSTRUCT_V1_7B = Ext_Exp_7B_Mistral_Instruct_V1
     EXT_EXP_MISTRAL_INSTRUCT_V2_7B = Ext_Exp_7B_Mistral_Instruct_V2
