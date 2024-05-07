@@ -42,7 +42,7 @@ GEMMA_MODELS = {
 # fmt: on
 
 
-class LLaMa2LLMBackbone(HFCausalLLMBackbone):
+class GemmaLLMBackbone(HFCausalLLMBackbone):
     def __init__(
         self,
         llm_backbone_id: str,
@@ -67,14 +67,11 @@ class LLaMa2LLMBackbone(HFCausalLLMBackbone):
 
     @property
     def prompt_builder_fn(self) -> Type[PromptBuilder]:
-        if self.identifier.startswith("llama2-") and self.identifier.endswith("-pure"):
+        if self.identifier.startswith("gemma-") and not self.identifier.endswith("-it"):
             return PurePromptBuilder
 
-        elif self.identifier.startswith("llama2-") and self.identifier.endswith("-chat"):
-            return LLaMa2ChatPromptBuilder
-
-        elif self.identifier.startswith("vicuna"):
-            return VicunaV15ChatPromptBuilder
+        elif self.identifier.startswith("gemma-") and self.identifier.endswith("-it"):
+            return GemmaChatPromptBuilder
 
         raise ValueError(f"No PromptBuilder defined for LLM Backbone `{self.identifier}`")
 

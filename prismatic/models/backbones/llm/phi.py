@@ -21,9 +21,9 @@ PHI_MODELS = {
     "phi-2-3b": {
         "llm_family": "phi", "llm_cls": PhiForCausalLM, "hf_hub_path": "microsoft/phi-2"
     },
-    
+
     # === Phi-3 3.8B Instruct ===
-    "phi-3-instruct+4b": {
+    "phi-3-instruct-4b": {
         "llm_family": "phi", "llm_cls": PhiForCausalLM, "hf_hub_path": "microsoft/Phi-3-mini-4k-instruct"
     }
 }

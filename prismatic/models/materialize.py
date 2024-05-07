@@ -9,7 +9,13 @@ from typing import Optional, Tuple
 
 from transformers import PreTrainedTokenizerBase
 
-from prismatic.models.backbones.llm import LLaMa2LLMBackbone, LLMBackbone, MistralLLMBackbone, PhiLLMBackbone
+from prismatic.models.backbones.llm import (
+    GemmaLLMBackbone,
+    LLaMa2LLMBackbone,
+    LLMBackbone,
+    MistralLLMBackbone,
+    PhiLLMBackbone
+)
 from prismatic.models.backbones.vision import (
     CLIPViTBackbone,
     DinoCLIPViTBackbone,
@@ -60,6 +66,9 @@ LLM_BACKBONES = {
     "llama2-7b-chat": {"cls": LLaMa2LLMBackbone, "kwargs": {}},
     "llama2-13b-chat": {"cls": LLaMa2LLMBackbone, "kwargs": {}},
 
+    # === LLaMa-3 Backbones ===
+    "llama3-instruct+8b": {"cls": LLaMa2LLMBackbone, "kwargs": {}},
+
     # === Vicuna-v1.5 Backbones ===
     "vicuna-v15-7b": {"cls": LLaMa2LLMBackbone, "kwargs": {}},
     "vicuna-v15-13b": {"cls": LLaMa2LLMBackbone, "kwargs": {}},
@@ -67,9 +76,15 @@ LLM_BACKBONES = {
     # === Mistral v0.1 Backbones ===
     "mistral-v0.1-7b-pure": {"cls": MistralLLMBackbone, "kwargs": {}},
     "mistral-v0.1-7b-instruct": {"cls": MistralLLMBackbone, "kwargs": {}},
+    "mistral-v0.2-7b-instruct": {"cls": MistralLLMBackbone, "kwargs": {}},
 
     # === Phi-2 Backbone ===
     "phi-2-3b": {"cls": PhiLLMBackbone, "kwargs": {}},
+    "phi-3-instruct+4b": {"cls": PhiLLMBackbone, "kwargs": {}},
+
+    # === Gemma-2 Instruct Backbones ===
+    "gemma-instruct+2b": {"cls": GemmaLLMBackbone, "kwargs": {}},
+    "gemma-instruct+7b": {"cls": GemmaLLMBackbone, "kwargs": {}},
 }
 
 # fmt: on
