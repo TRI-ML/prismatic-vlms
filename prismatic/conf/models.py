@@ -274,8 +274,8 @@ class Ext_Exp_13B_Llama2_Chat(Exp_13B_One_Stage):
 
 @dataclass
 class Ext_Exp_8B_Llama3_Chat(Exp_7B_One_Stage):
-    model_id: str = "llama3-chat+8b"
-    llm_backbone_id: str = "llama3-8b-chat"
+    model_id: str = "llama3-instruct+8b"
+    llm_backbone_id: str = "llama3-8b-instruct"
 
 
 @dataclass

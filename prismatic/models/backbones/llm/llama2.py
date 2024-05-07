@@ -31,13 +31,18 @@ LLAMA2_MODELS = {
         "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-13b-hf"
     },
 
-    # === Meta LLaMa-2 Chat Models ===
+    # === Meta Llama-2 Chat Models ===
     "llama2-7b-chat": {
         "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-7b-chat-hf"
     },
 
     "llama2-13b-chat": {
         "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Llama-2-13b-chat-hf"
+    },
+
+    # === Meta Llama-3 Chat Models ===
+    "llama3-8b-chat": {
+        "llm_family": "llama2", "llm_cls": LlamaForCausalLM, "hf_hub_path": "meta-llama/Meta-Llama-3-8B-Instruct"
     },
 
     # === Vicuna v1.5 Chat Models ===
