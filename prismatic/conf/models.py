@@ -247,6 +247,19 @@ class Exp_7B_DINOSigLIP_ViT_L_p14_384px_Resize_Naive(Exp_7B_One_Stage):
 
 
 # Section 4.3A :: 📝 --> Base vs. Instruct-Tuned (Chat) LLMs
+
+@dataclass
+class Ext_Exp_2B_Gemma_Instruct(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+2b"
+    llm_backbone_id: str = "gemma-2b-instruct"
+
+
+@dataclass
+class Ext_Exp_7B_Gemma_Instruct(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+7b"
+    llm_backbone_id: str = "gemma-7b-instruct"
+
+
 @dataclass
 class Exp_7B_Llama2(Exp_7B_One_Stage):
     model_id: str = "llama2+7b"
@@ -276,18 +289,6 @@ class Ext_Exp_13B_Llama2_Chat(Exp_13B_One_Stage):
 class Ext_Exp_8B_Llama3_Chat(Exp_7B_One_Stage):
     model_id: str = "llama3-instruct+8b"
     llm_backbone_id: str = "llama3-8b-instruct"
-
-
-@dataclass
-class Ext_Exp_2B_Gemma_Instruct(Exp_7B_One_Stage):
-    model_id: str = "gemma-instruct+2b"
-    llm_backbone_id: str = "gemma-2b-instruct"
-
-
-@dataclass
-class Ext_Exp_7B_Gemma_Instruct(Exp_7B_One_Stage):
-    model_id: str = "gemma-instruct+7b"
-    llm_backbone_id: str = "gemma-7b-instruct"
 
 
 @dataclass

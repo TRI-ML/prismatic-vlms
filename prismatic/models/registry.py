@@ -618,6 +618,33 @@ MODEL_REGISTRY = {
     },
 
     # === Additional LLM Backbones ===
+    "gemma-instruct+2b+clip": {
+        "model_id": "gemma-instruct+2b",
+        "names": ["Gemma Instruct 2B"],
+        "description": {
+            "name": "Gemma Instruct 2B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 2B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+7b+clip": {
+        "model_id": "gemma-instruct+7b",
+        "names": ["Gemma Instruct 7B"],
+        "description": {
+            "name": "Gemma Instruct 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+
     "llama2-chat+7b": {
         "model_id": "llama2-chat+7b",
         "names": ["Llama-2 Chat 7B"],
@@ -644,7 +671,7 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-    "llama3-instruct+8b": {
+    "llama3-instruct+8b+clip": {
         "model_id": "llama3-instruct+8b",
         "names": ["Llama-3 Instruct 8B"],
         "description": {
@@ -684,7 +711,7 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-    "mistral-instruct-v0.2+7b": {
+    "mistral-instruct-v0.2+7b+clip": {
         "model_id": "mistral-instruct-v0.2+7b",
         "names": ["Mistral Instruct v0.2 7B"],
         "description": {
@@ -711,7 +738,7 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-    "phi-instruct-3-+4b": {
+    "phi-instruct-3+4b+clip": {
         "model_id": "phi-3-instruct+4b",
         "names": ["Phi-3 4B"],
         "description": {
