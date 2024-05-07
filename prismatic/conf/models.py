@@ -273,6 +273,24 @@ class Ext_Exp_13B_Llama2_Chat(Exp_13B_One_Stage):
 
 
 @dataclass
+class Ext_Exp_8B_Llama3_Chat(Exp_7B_One_Stage):
+    model_id: str = "llama3-chat+8b"
+    llm_backbone_id: str = "llama3-8b-chat"
+
+
+@dataclass
+class Ext_Exp_2B_Gemma_Instruct(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+2b"
+    llm_backbone_id: str = "gemma-2b-instruct"
+
+
+@dataclass
+class Ext_Exp_7B_Gemma_Instruct(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+7b"
+    llm_backbone_id: str = "gemma-7b-instruct"
+
+
+@dataclass
 class Ext_Exp_7B_Mistral_V1(Exp_7B_One_Stage):
     model_id: str = "mistral-v0.1+7b"
     llm_backbone_id: str = "mistral-v0.1-7b-pure"
@@ -285,9 +303,21 @@ class Ext_Exp_7B_Mistral_Instruct_V1(Exp_7B_One_Stage):
 
 
 @dataclass
+class Ext_Exp_7B_Mistral_Instruct_V2(Exp_7B_One_Stage):
+    model_id: str = "mistral-instruct-v0.2+7b"
+    llm_backbone_id: str = "mistral-v0.2-7b-instruct"
+
+
+@dataclass
 class Ext_Exp_3B_Phi_2(Exp_7B_One_Stage):
     model_id: str = "phi-2+3b"
     llm_backbone_id: str = "phi-2-3b"
+
+
+@dataclass
+class Ext_Exp_4B_Phi_3_Instruct(Exp_7B_One_Stage):
+    model_id: str = "phi-3-instruct+4b"
+    llm_backbone_id: str = "phi-3-instruct-4b"
 
 
 # Section 4.3B :: ✌️ --> Co-training on Language-only Data
@@ -527,9 +557,14 @@ class ModelRegistry(Enum):
     # ~ Additional LLM Backbone Experiments :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
     EXT_EXP_LLAMA2_CHAT_7B = Ext_Exp_7B_Llama2_Chat
     EXT_EXP_LLAMA2_CHAT_13B = Ext_Exp_13B_Llama2_Chat
+    EXT_EXP_LLAMA3_CHAT_8B = Ext_Exp_8B_Llama3_Chat
+    EXT_EXP_GEMMA_INSTRUCT_2B = Ext_Exp_2B_Gemma_Instruct
+    EXT_EXP_GEMMA_INSTRUCT_7B = Ext_Exp_7B_Gemma_Instruct
     EXT_EXP_MISTRAL_V1_7B = Ext_Exp_7B_Mistral_V1
     EXT_EXP_MISTRAL_INSTRUCT_V1_7B = Ext_Exp_7B_Mistral_Instruct_V1
+    EXT_EXP_MISTRAL_INSTRUCT_V2_7B = Ext_Exp_7B_Mistral_Instruct_V2
     EXT_EXP_PHI_2_3B = Ext_Exp_3B_Phi_2
+    EXT_EXP_PHI_2_4B = Ext_Exp_4B_Phi_3_Instruct
 
     # Cotraining w/ Unimodal Data
 
