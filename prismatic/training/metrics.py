@@ -178,7 +178,7 @@ class Metrics:
             else:
                 self.state[key].append(value.detach())
 
-    @overwatch.rank_zero_only()
+    @overwatch.rank_zero_only
     def push(self) -> str:
         # Note :: Raw Loss is an Average over Gradient Accumulation Steps --> No Smoothing!
         loss_raw = torch.stack(list(self.state["loss_raw"])).mean().item()
