@@ -23,6 +23,7 @@ def get_train_strategy(
     train_strategy: str,
     vlm: PrismaticVLM,
     device_id: int,
+    stage: str,
     epochs: int,
     max_steps: Optional[int],
     global_batch_size: int,
@@ -43,6 +44,7 @@ def get_train_strategy(
         strategy = strategy_cfg["cls"](
             vlm=vlm,
             device_id=device_id,
+            stage=stage,
             epochs=epochs,
             max_steps=max_steps,
             global_batch_size=global_batch_size,

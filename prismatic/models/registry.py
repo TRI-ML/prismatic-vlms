@@ -644,7 +644,6 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-
     "mistral-v0.1+7b": {
         "model_id": "mistral-v0.1+7b",
         "names": ["Mistral v0.1 7B"],
@@ -671,7 +670,6 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
-
     "phi-2+3b": {
         "model_id": "phi-2+3b",
         "names": ["Phi-2 3B"],
