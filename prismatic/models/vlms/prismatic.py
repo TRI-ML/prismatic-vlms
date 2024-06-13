@@ -43,7 +43,6 @@ class PrismaticVLM(VLM):
         llm_backbone: LLMBackbone,
         enable_mixed_precision_training: bool = True,
         arch_specifier: str = "gelu-mlp",
-        **kwargs,
     ) -> None:
         super().__init__(
             "prismatic",
@@ -91,8 +90,6 @@ class PrismaticVLM(VLM):
         llm_backbone: LLMBackbone,
         enable_mixed_precision_training: bool = True,
         arch_specifier: str = "gelu-mlp",
-        freeze_weights: bool = True,
-        **kwargs,
     ) -> PrismaticVLM:
         """Initialize a PrismaticVLM from a pretrained checkpoint, freezing all weights, tailored for inference."""
         vlm = cls(
@@ -101,7 +98,6 @@ class PrismaticVLM(VLM):
             llm_backbone,
             enable_mixed_precision_training=enable_mixed_precision_training,
             arch_specifier=arch_specifier,
-            **kwargs,
         )
 
         # Load from Checkpoint (Custom --> should load both *projector* and *llm* weights)
@@ -112,13 +108,10 @@ class PrismaticVLM(VLM):
 
         vlm.projector.load_state_dict(model_state_dict["projector"])
         vlm.llm_backbone.load_state_dict(model_state_dict["llm_backbone"])
-        if "vision_backbone" in model_state_dict.keys():
-            vlm.vision_backbone.load_state_dict(model_state_dict["vision_backbone"])
 
         # Freeze Weights
-        if freeze_weights:
-            vlm.requires_grad_(False)
-            vlm.eval()
+        vlm.requires_grad_(False)
+        vlm.eval()
 
         return vlm
 
@@ -134,7 +127,7 @@ class PrismaticVLM(VLM):
             => "align" --> vision_backbone*, llm_backbone* are frozen; only the `projector` is trained.
             => "finetune" --> vision_backbone* is frozen; both `projector` and `llm_backbone` are trained.
 
-        :param stage: Pretraining stage in < "align" | "finetune" | "full-finetune" | "vla-train" | "vla-full-train" >
+        :param stage: Pretraining stage in < "align" | "finetune" | "full-finetune" >
         """
         if stage == "align":
             self.vision_backbone.requires_grad_(False)
@@ -152,7 +145,7 @@ class PrismaticVLM(VLM):
             overwatch.info(f"[Frozen]    🥶 =>> LLM Backbone `{self.llm_backbone.identifier}`", ctx_level=1)
             overwatch.info(f"[TRAINABLE] 🔥 =>> Projector `{self.arch_specifier}`", ctx_level=1)
 
-        elif stage in {"finetune", "vla-train"}:
+        elif stage == "finetune":
             self.vision_backbone.requires_grad_(False)
             self.llm_backbone.requires_grad_(True)
             self.projector.requires_grad_(True)
@@ -168,7 +161,7 @@ class PrismaticVLM(VLM):
             overwatch.info(f"[TRAINABLE] 🔥 =>> LLM Backbone `{self.llm_backbone.identifier}`", ctx_level=1)
             overwatch.info(f"[TRAINABLE] 🔥 =>> Projector `{self.arch_specifier}`", ctx_level=1)
 
-        elif stage in {"full-finetune", "vla-full-train"}:
+        elif stage == "full-finetune":
             self.vision_backbone.dtype = torch.float32
             self.vision_backbone.requires_grad_(True)
             self.llm_backbone.requires_grad_(True)
@@ -185,60 +178,8 @@ class PrismaticVLM(VLM):
             overwatch.info(f"[TRAINABLE] 🔥 =>> LLM Backbone `{self.llm_backbone.identifier}`", ctx_level=1)
             overwatch.info(f"[TRAINABLE] 🔥 =>> Projector `{self.arch_specifier}`", ctx_level=1)
 
-        elif stage in {"last-layer-finetune", "vla-last-layer-train"}:
-            self.vision_backbone.requires_grad_(False)
-            self.projector.requires_grad_(False)
-            self.llm_backbone.requires_grad_(False)
-
-            # Unfreeze final LLM layer
-            for module in self.llm_backbone.last_layer_finetune_modules:
-                module.requires_grad_(True)
-
-            # Add to `self.trainable_module_keys`
-            self.trainable_module_keys = ["llm_backbone"]
-
-            # Update Trackers
-            self.vision_backbone_requires_grad = False
-
-            # Explicitly Log Frozen / Unfrozen Components
-            # fmt: off
-            overwatch.info(f"[Frozen]                    🥶   =>> Vision Backbone `{self.vision_backbone.identifier}`", ctx_level=1)  # noqa: E501
-            overwatch.info(f"[Frozen, except last layer] 🥶🔥 =>> LLM Backbone `{self.llm_backbone.identifier}`", ctx_level=1)  # noqa: E501
-            overwatch.info(f"[Frozen]                    🥶   =>> Projector `{self.arch_specifier}`", ctx_level=1)
-            # fmt: on
-
-        elif stage in {"vla-sandwich-train"}:
-            self.vision_backbone.dtype = torch.float32
-            self.vision_backbone.requires_grad_(True)
-            self.projector.requires_grad_(True)
-            self.llm_backbone.requires_grad_(False)
-
-            # Unfreeze final LLM layer
-            for module in self.llm_backbone.last_layer_finetune_modules:
-                module.requires_grad_(True)
-
-            # Add to `self.trainable_module_keys`
-            self.trainable_module_keys = ["vision_backbone", "projector", "llm_backbone"]
-
-            # Update Trackers
-            self.vision_backbone_requires_grad = True
-
-            # Explicitly Log Frozen / Unfrozen Components
-            # fmt: off
-            overwatch.info(f"[TRAINABLE]                 🔥   =>> Vision Backbone `{self.vision_backbone.identifier}`", ctx_level=1)  # noqa: E501
-            overwatch.info(f"[Frozen, except last layer] 🥶🔥 =>> LLM Backbone `{self.llm_backbone.identifier}`", ctx_level=1)  # noqa: E501
-            overwatch.info(f"[TRAINABLE]                 🔥   =>> Projector `{self.arch_specifier}`", ctx_level=1)
-            # fmt: on
-
         else:
             raise ValueError(f"Stage `{stage}` is not supported for LLaVa! Try < align | finetune >")
-
-        overwatch.debug("##################################################")
-        overwatch.debug("#####      Trainable Network Parameters:     #####")
-        overwatch.debug("##################################################")
-        for name, param in self.named_parameters():
-            if param.requires_grad:
-                overwatch.debug(name)
 
     def load_from_checkpoint(self, stage: str, run_dir: Path, pretrained_checkpoint: Optional[Path] = None) -> None:
         """Load weights from checkpoint (if required by the given stage)."""

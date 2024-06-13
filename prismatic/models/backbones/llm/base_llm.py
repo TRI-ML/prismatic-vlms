@@ -15,7 +15,7 @@ utilities around different types of decoding/generation strategies.
 import warnings
 from abc import ABC, abstractmethod
 from functools import partial
-from typing import Callable, List, Optional, Sequence, Type
+from typing import Callable, List, Optional, Type
 
 import torch
 import torch.nn as nn
@@ -85,10 +85,6 @@ class LLMBackbone(nn.Module, ABC):
     def half_precision_dtype(self) -> torch.dtype: ...
 
     @property
-    @abstractmethod
-    def last_layer_finetune_modules(self) -> Sequence[nn.Module]: ...
-
-    @property
     def embed_dim(self) -> int:
         return self.llm.config.hidden_size
 
@@ -150,8 +146,14 @@ class HFCausalLLMBackbone(LLMBackbone, ABC):
         # Load (Fast) Tokenizer
         overwatch.info(f"Loading [bold]{llm_family}[/] (Fast) Tokenizer via the AutoTokenizer API", ctx_level=1)
         self.tokenizer = AutoTokenizer.from_pretrained(
-            hf_hub_path, model_max_length=self.llm_max_length, token=hf_token, padding_side="right"
+            hf_hub_path,
+            model_max_length=self.llm_max_length,
+            token=hf_token,
+            padding_side="right",
         )
+
+        # Explicitly verify that Tokenizer padding_side is set to right for training!
+        assert self.tokenizer.padding_side == "right", "Tokenizer `padding_side` is not set to `right`!"
 
         # Validation =>> Our VLM logic currently operates under the assumption that the tokenization of a new input
         #                starts with a <BOS> token unless `add_special_tokens = False`; for these models, we empirically

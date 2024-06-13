@@ -1,7 +1,7 @@
 """
 mistral_instruct_prompter.py
 
-Defines a PromptBuilder for building Mistral Instruct Chat Prompts --> recommended pattern used by HF / online tutorial.s
+Defines a PromptBuilder for building Mistral Instruct Chat Prompts --> recommended pattern used by HF / tutorials.
 
 Reference: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1#instruction-format
 """

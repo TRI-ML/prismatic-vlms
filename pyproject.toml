@@ -3,17 +3,17 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "openvla"
+name = "prismatic"
 authors = [
-    {name = "Moo Jin Kim", email="moojink@stanford.edu"},
-    {name = "Karl Pertsch", email="pertsch@berkeley.edu"},
     {name = "Siddharth Karamcheti", email="skaramcheti@cs.stanford.edu"},
+    {name = "Suraj Nair", email="suraj.nair@tri.global"},
+    {name = "Ashwin Balakrishna", email="ashwin.balakrishna@tri.global"},
 ]
-description = "OpenVLA: Vision-Language-Action Models for Robotics"
-version = "0.0.3"
+description = "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models"
+version = "0.0.2"
 readme = "README.md"
 requires-python = ">=3.8"
-keywords = ["vision-language-actions models", "multimodal pretraining", "robot learning"]
+keywords = ["vision-language models", "multimodal pretraining", "machine learning"]
 license = {file = "LICENSE"}
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -31,28 +31,19 @@ classifiers = [
 ]
 dependencies = [
     "accelerate>=0.25.0",
-    "draccus==0.8.0",
+    "draccus @ git+https://github.com/dlwh/draccus",
     "einops",
-    # "flash_attn==2.5.5",      # Here for documentation -- install *AFTER* editable install (follow README)
+    # "flash_attn>=2.5.5",  # Here for documentation -- install *AFTER* editable install (follow README)
     "huggingface_hub",
-    "json-numpy",
     "jsonlines",
-    "matplotlib",
-    "peft==0.11.1",
-    "protobuf",
     "rich",
-    "sentencepiece==0.1.99",
+    "sentencepiece",
     "timm==0.9.10",
-    "tokenizers==0.19.1",
-    "torch==2.2.0",
+    "torch>=2.1.0",
     "torchvision>=0.16.0",
     "torchaudio",
-    "transformers==4.40.1",
-    "wandb",
-    "tensorflow==2.15.0",
-    "tensorflow_datasets==4.9.3",
-    "tensorflow_graphics==2021.12.3",
-    "dlimp @ git+https://github.com/kvablack/dlimp@ad72ce3a9b414db2185bc0b38461d4101a65477a"
+    "transformers>=4.38.1",
+    "wandb"
 ]
 
 [project.optional-dependencies]
@@ -63,15 +54,11 @@ dev = [
     "pre-commit",
     "ruff>=0.2.2",
 ]
-sagemaker = [
-    "boto3",
-    "sagemaker"
-]
 
 [project.urls]
-homepage = "https://github.com/openvla/openvla"
-repository = "https://github.com/openvla/openvla"
-documentation = "https://github.com/openvla/openvla"
+homepage = "https://github.com/TRI-ML/prismatic-vlms"
+repository = "https://github.com/TRI-ML/prismatic-vlms"
+documentation = "https://github.com/TRI-ML/prismatic-vlms"
 
 [tool.setuptools.packages.find]
 where = ["."]

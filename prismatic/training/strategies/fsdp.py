@@ -6,6 +6,7 @@ fine-grained control over wrapping policies and mixed precision per component).
 """
 
 import math
+import shutil
 from collections import OrderedDict
 from functools import partial
 from pathlib import Path
@@ -27,7 +28,7 @@ from torch.distributed.fsdp import (
 )
 from torch.distributed.fsdp import FullyShardedDataParallel as FSDP
 from torch.optim import AdamW
-from transformers.optimization import get_constant_schedule, get_cosine_schedule_with_warmup
+from transformers.optimization import get_cosine_schedule_with_warmup
 
 from prismatic.models.vlms import PrismaticVLM
 from prismatic.overwatch import initialize_overwatch
@@ -42,7 +43,6 @@ class FSDPStrategy(TrainingStrategy):
         self,
         vlm: PrismaticVLM,
         device_id: int,
-        stage: str,
         epochs: int,
         max_steps: Optional[int],
         global_batch_size: int,
@@ -63,7 +63,6 @@ class FSDPStrategy(TrainingStrategy):
         super().__init__(
             vlm=vlm,
             device_id=device_id,
-            stage=stage,
             epochs=epochs,
             max_steps=max_steps,
             global_batch_size=global_batch_size,
@@ -128,9 +127,7 @@ class FSDPStrategy(TrainingStrategy):
 
                 # Save Checkpoint & Copy Latest to `latest-checkpoint.pt`
                 torch.save({"model": model_state_dicts}, checkpoint_path)
-
-                # TODO (siddk) :: This breaks w/ Sagemaker default permissions (root vs. <user>)... skip?
-                # shutil.copy(checkpoint_path, checkpoint_dir / "latest-checkpoint.pt")
+                shutil.copy(checkpoint_path, checkpoint_dir / "latest-checkpoint.pt")
 
     def run_setup(self, run_dir: Path, n_train_examples: int) -> None:
         # Iteratively Assemble FSDP Wrapping Policy by fetching the wrapping policies for each backbone/constituent
@@ -146,9 +143,8 @@ class FSDPStrategy(TrainingStrategy):
             )
 
             # When running FSDP with a frozen vision backbone --> move to half precision!
-            if self.stage not in {"full-finetune", "vla-full-train", "vla-sandwich-train"}:
-                overwatch.info("Casting Vision Backbone to *Half Precision* via `.to(dtype=...)`")
-                self.vlm.vision_backbone.to(dtype=self.vlm.vision_backbone.half_precision_dtype)
+            overwatch.info("Casting Vision Backbone to *Half Precision* via `.to(dtype=...)`")
+            self.vlm.vision_backbone.to(dtype=self.vlm.vision_backbone.half_precision_dtype)
 
         else:
             # If we're not using mixed precision, everything is in default full precision!
@@ -187,13 +183,13 @@ class FSDPStrategy(TrainingStrategy):
 
         # Create Optimizer and LR Scheduler =>> note that most of the LR Schedulers we use require `max_steps/epochs`
         #   => Optimizer should only operate on parameters that are *unfrozen* / trainable!
-        n_train_examples = math.ceil(n_train_examples / self.global_batch_size) * self.global_batch_size
-        if self.max_steps is None:
-            num_training_steps = (n_train_examples * self.epochs) // self.global_batch_size
-        else:
-            num_training_steps = self.max_steps
-
         if self.lr_scheduler_type == "linear-warmup+cosine-decay":
+            n_train_examples = math.ceil(n_train_examples / self.global_batch_size) * self.global_batch_size
+            if self.max_steps is None:
+                num_training_steps = (n_train_examples * self.epochs) // self.global_batch_size
+            else:
+                num_training_steps = self.max_steps
+
             # Set warmup steps (floor) based on `warmup_ratio` (should be 0.03 - 0.05)
             num_warmup_steps = int(num_training_steps * self.warmup_ratio)
 
@@ -218,29 +214,6 @@ class FSDPStrategy(TrainingStrategy):
             self.lr_scheduler = get_cosine_schedule_with_warmup(self.optimizer, num_warmup_steps, num_training_steps)
             for param_group in self.optimizer.param_groups:
                 param_group["lr"] = 0.0
-
-        elif self.lr_scheduler_type == "constant":
-            num_warmup_steps = 0
-
-            # Default AdamW w/ specified LR & Linear Warmup / Cosine Decay & Weight Decay
-            #   => Create Parameter Groups --> bias terms, normalization layer parameters shouldn't be decayed!
-            decay, no_decay = [], []
-            for name, param in self.vlm.named_parameters():
-                if not param.requires_grad:
-                    continue
-
-                # Check on any parameters with fewer than 2 dimensions or with "bias" in the name
-                if param.ndim <= 1 or name.endswith(".bias"):
-                    no_decay.append(param)
-                else:
-                    decay.append(param)
-
-            # Build Parameter Groups
-            groups = [{"params": decay, "weight_decay": self.weight_decay}, {"params": no_decay, "weight_decay": 0.0}]
-
-            # Create Optimizer & LR Scheduler
-            self.optimizer = AdamW(groups, lr=self.learning_rate)
-            self.lr_scheduler = get_constant_schedule(self.optimizer)
 
         else:
             raise ValueError(f"Learning Rate Schedule with type `{self.lr_scheduler_type}` is not supported!")

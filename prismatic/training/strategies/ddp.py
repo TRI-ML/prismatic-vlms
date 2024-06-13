@@ -12,7 +12,7 @@ from typing import Optional
 import torch
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.optim import AdamW
-from transformers.optimization import get_constant_schedule, get_cosine_schedule_with_warmup
+from transformers.optimization import get_cosine_schedule_with_warmup
 
 from prismatic.overwatch import initialize_overwatch
 from prismatic.training.strategies.base_strategy import TrainingStrategy
@@ -82,12 +82,12 @@ class DDPStrategy(TrainingStrategy):
         # Create Optimizer and LR Scheduler =>> note that most of the LR Schedulers we use require `max_steps/epochs`
         #   => Optimizer should only operate on parameters that are *unfrozen* / trainable!
         trainable_params = [param for param in self.vlm.parameters() if param.requires_grad]
-        if self.max_steps is None:
-            num_training_steps = (n_train_examples * self.epochs) // self.global_batch_size
-        else:
-            num_training_steps = self.max_steps
-
         if self.lr_scheduler_type == "linear-warmup+cosine-decay":
+            if self.max_steps is None:
+                num_training_steps = (n_train_examples * self.epochs) // self.global_batch_size
+            else:
+                num_training_steps = self.max_steps
+
             # Set warmup steps (floor) based on `warmup_ratio` (should be 0.03 - 0.05)
             num_warmup_steps = int(num_training_steps * self.warmup_ratio)
 
@@ -96,13 +96,6 @@ class DDPStrategy(TrainingStrategy):
             self.lr_scheduler = get_cosine_schedule_with_warmup(self.optimizer, num_warmup_steps, num_training_steps)
             for param_group in self.optimizer.param_groups:
                 param_group["lr"] = 0.0
-
-        elif self.lr_scheduler_type == "constant":
-            num_warmup_steps = 0
-
-            assert self.weight_decay == 0, "DDP training does not currently support `weight_decay` > 0!"
-            self.optimizer = AdamW(trainable_params, lr=self.learning_rate, weight_decay=self.weight_decay)
-            self.lr_scheduler = get_constant_schedule(self.optimizer)
 
         else:
             raise ValueError(f"Learning Rate Schedule with type `{self.lr_scheduler_type}` is not supported!")

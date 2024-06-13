@@ -4,7 +4,7 @@ llama2.py
 Class definition for all LLMs derived from LlamaForCausalLM.
 """
 
-from typing import Optional, Sequence, Type
+from typing import Optional, Type
 
 import torch
 from torch import nn as nn
@@ -96,7 +96,3 @@ class LLaMa2LLMBackbone(HFCausalLLMBackbone):
     def half_precision_dtype(self) -> torch.dtype:
         """LLaMa-2 was trained in BF16; see https://huggingface.co/docs/transformers/main/model_doc/llama2."""
         return torch.bfloat16
-
-    @property
-    def last_layer_finetune_modules(self) -> Sequence[nn.Module]:
-        return (self.llm.model.embed_tokens, self.llm.model.layers[-1], self.llm.lm_head)
