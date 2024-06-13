@@ -468,7 +468,15 @@ class Prism_13B_DINOSigLIP(Exp_13B_One_Stage):
     finetune_epochs: int = 2
 
 
-# [Inference-Optimized] 224px Prism Models
+# [Inference-Optimized] 224px Prisms
+@dataclass
+class Opt_7B_DINOSigLIP_ViT_SO_p14_224px_Resize_Naive(Exp_7B_One_Stage):
+    model_id: str = "dinosiglip-224px-resize-naive+7b"
+    vision_backbone_id: str = "dinosiglip-vit-so-224px"
+    image_resize_strategy: str = "resize-naive"
+    arch_specifier: str = "no-align+fused-gelu-mlp"
+
+
 @dataclass
 class Prism_7B_DINOSigLIP_224px_Controlled(Exp_7B_One_Stage):
     model_id: str = "prism-dinosiglip-224px-controlled+7b"
@@ -524,7 +532,7 @@ class ModelRegistry(Enum):
     EXP_LLAMA2_7B = Exp_7B_Llama2
     EXP_LLAMA2_13B = Exp_13B_Llama2
 
-    # ~ Additional LLM Backbone Experiments :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
+    # ~ Additional LLM Backbone Experiments :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct ~
     EXT_EXP_LLAMA2_CHAT_7B = Ext_Exp_7B_Llama2_Chat
     EXT_EXP_LLAMA2_CHAT_13B = Ext_Exp_13B_Llama2_Chat
     EXT_EXP_MISTRAL_V1_7B = Ext_Exp_7B_Mistral_V1
@@ -532,7 +540,6 @@ class ModelRegistry(Enum):
     EXT_EXP_PHI_2_3B = Ext_Exp_3B_Phi_2
 
     # Cotraining w/ Unimodal Data
-
     EXP_VICUNA_NO_COTRAINING_7B = Exp_7B_Vicuna_No_Cotraining
     EXP_LLAMA2_NO_COTRAINING_7B = Exp_7B_Llama2_No_Cotraining
 
@@ -562,7 +569,8 @@ class ModelRegistry(Enum):
     PRISM_DINOSIGLIP_7B = Prism_7B_DINOSigLIP
     PRISM_DINOSIGLIP_13B = Prism_13B_DINOSigLIP
 
-    # === Inference Optimized :: 224px Prism Models ===
+    # === Inference Optimized :: 224px Prisms ===
+    OPT_DINOSIGLIP_224PX_RESIZE_NAIVE = Opt_7B_DINOSigLIP_ViT_SO_p14_224px_Resize_Naive
     PRISM_DINOSIGLIP_224PX_CONTROLLED_7B = Prism_7B_DINOSigLIP_224px_Controlled
     PRISM_DINOSIGLIP_224PX_7B = Prism_7B_DINOSigLIP_224px
 
