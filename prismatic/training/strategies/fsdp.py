@@ -115,6 +115,7 @@ class FSDPStrategy(TrainingStrategy):
                     if key.startswith(mprefix := f"{mkey}."):
                         model_state_dicts[mkey][key.removeprefix(mprefix)] = param
 
+            torch.barrier()
             # Save on rank zero *only*
             if overwatch.is_rank_zero():
                 checkpoint_dir = run_dir / "checkpoints"
