@@ -37,7 +37,7 @@ class GenerateConfig:
         "prism-dinosiglip+7b"
     )
 
-    # HF Hub Credentials (required for Gated Models like LLaMa-2)
+    # HF Hub Credentials (required for Gated Models like Llama-2)
     hf_token: Union[str, Path] = Path(".hf_token")                      # Environment variable or Path to HF Token
 
     # Default Generation Parameters =>> subscribes to HuggingFace's GenerateMixIn API

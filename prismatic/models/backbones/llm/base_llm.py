@@ -105,6 +105,7 @@ class HFCausalLLMBackbone(LLMBackbone, ABC):
         hf_token: Optional[str] = None,
         inference_mode: bool = False,
         use_flash_attention_2: bool = False,
+        torch_dtype: torch.dtype = torch.float16,
     ) -> None:
         super().__init__(llm_backbone_id)
         self.llm_family = llm_family
@@ -119,6 +120,7 @@ class HFCausalLLMBackbone(LLMBackbone, ABC):
                 hf_hub_path,
                 token=hf_token,
                 use_flash_attention_2=use_flash_attention_2 if not self.inference_mode else False,
+                torch_dtype=torch_dtype,
                 # The following parameters are set to prevent `UserWarnings` from HF; we want greedy decoding!
                 do_sample=False,
                 temperature=1.0,

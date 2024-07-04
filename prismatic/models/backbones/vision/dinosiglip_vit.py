@@ -81,12 +81,10 @@ class DinoSigLIPViTBackbone(VisionBackbone):
         # Fix =>> SigLIP default transform resizes to *larger* than `self.default_image_size` (crops image)!!
         assert isinstance(default_siglip_transform, Compose), "Unexpected `default_image_transform`!"
         assert isinstance(default_siglip_transform.transforms[0], Resize)
-        default_siglip_transform = Compose(
-            [
-                Resize(self.default_image_size, interpolation=default_siglip_transform.transforms[0].interpolation),
-                *default_siglip_transform.transforms[1:],
-            ]
-        )
+        default_siglip_transform = Compose([
+            Resize(self.default_image_size, interpolation=default_siglip_transform.transforms[0].interpolation),
+            *default_siglip_transform.transforms[1:],
+        ])
 
         if self.image_resize_strategy == "resize-naive":
             assert isinstance(default_dino_transform, Compose), "Unexpected `default_dino_image_transform`!"
@@ -95,18 +93,14 @@ class DinoSigLIPViTBackbone(VisionBackbone):
             assert isinstance(default_siglip_transform.transforms[0], Resize)
 
             target_size = (self.default_image_size, self.default_image_size)
-            dino_transform = Compose(
-                [
-                    Resize(target_size, interpolation=default_dino_transform.transforms[0].interpolation),
-                    *default_dino_transform.transforms[1:],
-                ]
-            )
-            siglip_transform = Compose(
-                [
-                    Resize(target_size, interpolation=default_siglip_transform.transforms[0].interpolation),
-                    *default_siglip_transform.transforms[1:],
-                ]
-            )
+            dino_transform = Compose([
+                Resize(target_size, interpolation=default_dino_transform.transforms[0].interpolation),
+                *default_dino_transform.transforms[1:],
+            ])
+            siglip_transform = Compose([
+                Resize(target_size, interpolation=default_siglip_transform.transforms[0].interpolation),
+                *default_siglip_transform.transforms[1:],
+            ])
 
             self.image_transform = DinoSigLIPImageTransform(dino_transform, siglip_transform)
 
@@ -143,7 +137,12 @@ class DinoSigLIPViTBackbone(VisionBackbone):
         """Runs the transformed image/pixel tensors through each vision backbone, returning concatenated patches."""
         dino_patches = self.dino_featurizer(pixel_values["dino"])
         siglip_patches = self.siglip_featurizer(pixel_values["siglip"])
-
+        if isinstance(dino_patches, list):
+            assert len(dino_patches) == 1
+            dino_patches = dino_patches[0]
+        if isinstance(siglip_patches, list):
+            assert len(siglip_patches) == 1
+            siglip_patches = siglip_patches[0]
         return torch.cat([dino_patches, siglip_patches], dim=2)
 
     @property

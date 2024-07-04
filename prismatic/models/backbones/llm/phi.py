@@ -12,7 +12,7 @@ from transformers import PhiForCausalLM
 from transformers.models.phi.modeling_phi import PhiDecoderLayer
 
 from prismatic.models.backbones.llm.base_llm import HFCausalLLMBackbone
-from prismatic.models.backbones.llm.prompting import PhiPromptBuilder, PromptBuilder
+from prismatic.models.backbones.llm.prompting import Phi2PromptBuilder, Phi3PromptBuilder, PromptBuilder
 
 # Registry ==> Support Phi Models (from HF Transformers)
 # fmt: off
@@ -20,6 +20,11 @@ PHI_MODELS = {
     # === Phi-2 ===
     "phi-2-3b": {
         "llm_family": "phi", "llm_cls": PhiForCausalLM, "hf_hub_path": "microsoft/phi-2"
+    },
+
+    # === Phi-3 3.8B Instruct ===
+    "phi-3-instruct-4b": {
+        "llm_family": "phi", "llm_cls": PhiForCausalLM, "hf_hub_path": "microsoft/Phi-3-mini-4k-instruct"
     }
 }
 # fmt: on
@@ -51,7 +56,9 @@ class PhiLLMBackbone(HFCausalLLMBackbone):
     @property
     def prompt_builder_fn(self) -> Type[PromptBuilder]:
         if self.identifier.startswith("phi-2"):
-            return PhiPromptBuilder
+            return Phi2PromptBuilder
+        elif self.identifier.startswith("phi-3"):
+            return Phi3PromptBuilder
 
         raise ValueError(f"No PromptBuilder defined for LLM Backbone `{self.identifier}`")
 

@@ -3,7 +3,7 @@ models.py
 
 Draccus Dataclass Definition for a ModelConfig object, with various registered subclasses for each model family and
 variant thereof. A given model variant configures the following attributes:
-    - Pretrained Visual Representation (e.g., OpenAI CLIP ViT-L/14) + Pretrained LLM Backbone (e.g., LLaMa-2 7B)
+    - Pretrained Visual Representation (e.g., OpenAI CLIP ViT-L/14) + Pretrained LLM Backbone (e.g., Llama-2 7B)
     - VLM Configuration + Parameters (e.g., MLP Projector, Image Preprocessing, etc.)
     - [Optional] Stage 1 (`align`) Optimization Hyperparameters
     - Stage 2 (`finetune`) Optimization Hyperparameters
@@ -247,6 +247,46 @@ class Exp_7B_DINOSigLIP_ViT_L_p14_384px_Resize_Naive(Exp_7B_One_Stage):
 
 
 # Section 4.3A :: 📝 --> Base vs. Instruct-Tuned (Chat) LLMs
+
+
+@dataclass
+class Ext_Exp_2B_Gemma_Instruct_CLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+2b+clip"
+    llm_backbone_id: str = "gemma-2b-instruct"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+class Ext_Exp_2B_Gemma_Instruct_DINOv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+2b+dinosiglip"
+    llm_backbone_id: str = "gemma-2b-instruct"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+class Ext_Exp_2B_Gemma_Instruct_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+2b+siglip"
+    llm_backbone_id: str = "gemma-8b-instruct"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
+
+
+@dataclass
+class Ext_Exp_8B_Gemma_Instruct_CLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+8b+clip"
+    llm_backbone_id: str = "gemma-8b-instruct"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+class Ext_Exp_8B_Gemma_Instruct_DINOv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+8b+dinosiglip"
+    llm_backbone_id: str = "gemma-8b-instruct"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+class Ext_Exp_8B_Gemma_Instruct_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "gemma-instruct+8b+siglip"
+    llm_backbone_id: str = "gemma-8b-instruct"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
+
+
 @dataclass
 class Exp_7B_Llama2(Exp_7B_One_Stage):
     model_id: str = "llama2+7b"
@@ -259,7 +299,7 @@ class Exp_13B_Llama2(Exp_13B_One_Stage):
     llm_backbone_id: str = "llama2-13b-pure"
 
 
-# ~ Additional LLM Backbones :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
+# ~ Additional LLM Backbones :: Llama-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
 @dataclass
 class Ext_Exp_7B_Llama2_Chat(Exp_7B_One_Stage):
     model_id: str = "llama2-chat+7b"
@@ -270,6 +310,48 @@ class Ext_Exp_7B_Llama2_Chat(Exp_7B_One_Stage):
 class Ext_Exp_13B_Llama2_Chat(Exp_13B_One_Stage):
     model_id: str = "llama2-chat+13b"
     llm_backbone_id: str = "llama2-13b-chat"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_CLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3+8b+clip"
+    llm_backbone_id: str = "llama3-8b-pure"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_Instruct_CLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3-instruct+8b+clip"
+    llm_backbone_id: str = "llama3-8b-instruct"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_DINOPv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3+8b+dinosiglip"
+    llm_backbone_id: str = "llama3-8b-pure"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_Instruct_DINOPv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3-instruct+8b+dinosiglip"
+    llm_backbone_id: str = "llama3-8b-instruct"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3+8b+siglip"
+    llm_backbone_id: str = "llama3-8b-pure"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
+
+
+@dataclass
+class Ext_Exp_8B_Llama3_Instruct_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "llama3-instruct+8b+siglip"
+    llm_backbone_id: str = "llama3-8b-instruct"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
 
 
 @dataclass
@@ -285,9 +367,52 @@ class Ext_Exp_7B_Mistral_Instruct_V1(Exp_7B_One_Stage):
 
 
 @dataclass
+class Ext_Exp_7B_Mistral_Instruct_V2_CLIP(Exp_7B_One_Stage):
+    model_id: str = "mistral-instruct-v0.2+7b+clip"
+    llm_backbone_id: str = "mistral-v0.2-7b-instruct"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+@dataclass
+class Ext_Exp_7B_Mistral_Instruct_V2_DINOv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "mistral-instruct-v0.2+7b+dinosiglip"
+    llm_backbone_id: str = "mistral-v0.2-7b-instruct"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+@dataclass
+class Ext_Exp_7B_Mistral_Instruct_V2_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "mistral-instruct-v0.2+7b+siglip"
+    llm_backbone_id: str = "mistral-v0.2-7b-instruct"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
+
+
+
+@dataclass
 class Ext_Exp_3B_Phi_2(Exp_7B_One_Stage):
     model_id: str = "phi-2+3b"
     llm_backbone_id: str = "phi-2-3b"
+
+
+@dataclass
+class Ext_Exp_4B_Phi_3_Instruct_CLIP(Exp_7B_One_Stage):
+    model_id: str = "phi-3-instruct+4b+clip"
+    llm_backbone_id: str = "phi-3-instruct-4b"
+    vision_backbone_id: str = "clip-vit-l-336px"
+
+
+@dataclass
+class Ext_Exp_4B_Phi_3_Instruct_DINOv2SigLIP(Exp_7B_One_Stage):
+    model_id: str = "phi-3-instruct+4b+dinosiglip"
+    llm_backbone_id: str = "phi-3-instruct-4b"
+    vision_backbone_id: str = "dinosiglip-vit-so-384px"
+
+
+@dataclass
+class Ext_Exp_4B_Phi_3_Instruct_SigLIP(Exp_7B_One_Stage):
+    model_id: str = "phi-3-instruct+4b+siglip"
+    llm_backbone_id: str = "phi-3-instruct-4b"
+    vision_backbone_id: str = "siglip-vit-so400m-384px"
 
 
 # Section 4.3B :: ✌️ --> Co-training on Language-only Data
@@ -524,12 +649,28 @@ class ModelRegistry(Enum):
     EXP_LLAMA2_7B = Exp_7B_Llama2
     EXP_LLAMA2_13B = Exp_13B_Llama2
 
-    # ~ Additional LLM Backbone Experiments :: LLaMa-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
+    # ~ Additional LLM Backbone Experiments :: Llama-2 Chat, Mistral v0.1, Mistral v0.1 Instruct, Phi-2 ~
     EXT_EXP_LLAMA2_CHAT_7B = Ext_Exp_7B_Llama2_Chat
     EXT_EXP_LLAMA2_CHAT_13B = Ext_Exp_13B_Llama2_Chat
+    EXT_EXP_LLAMA3_CHAT_8B_CLIP = Ext_Exp_8B_Llama3_Instruct_CLIP
+    EXT_EXP_LLAMA3_CHAT_8B_DINOv2SigLIP = Ext_Exp_8B_Llama3_Instruct_DINOPv2SigLIP
+    EXT_EXP_LLAMA3_CHAT_8B_SIGLIP = Ext_Exp_8B_Llama3_Instruct_SigLIP
+    EXT_EXP_GEMMA_INSTRUCT_2B_CLIP = Ext_Exp_2B_Gemma_Instruct_CLIP
+    EXT_EXP_GEMMA_INSTRUCT_2B_DINOv2SigLIP = Ext_Exp_2B_Gemma_Instruct_DINOv2SigLIP
+    EXT_EXP_GEMMA_INSTRUCT_2B_SigLIP = Ext_Exp_2B_Gemma_Instruct_SigLIP
+    EXT_EXP_GEMMA_INSTRUCT_8B_CLIP = Ext_Exp_8B_Gemma_Instruct_CLIP
+    EXT_EXP_GEMMA_INSTRUCT_8B_DINOv2SigLIP = Ext_Exp_8B_Gemma_Instruct_DINOv2SigLIP
+    EXT_EXP_GEMMA_INSTRUCT_8B_SIGLIP = Ext_Exp_8B_Gemma_Instruct_SigLIP
     EXT_EXP_MISTRAL_V1_7B = Ext_Exp_7B_Mistral_V1
     EXT_EXP_MISTRAL_INSTRUCT_V1_7B = Ext_Exp_7B_Mistral_Instruct_V1
+    EXT_EXP_MISTRAL_INSTRUCT_V2_7B_CLIP = Ext_Exp_7B_Mistral_Instruct_V2_CLIP
+    EXT_EXP_MISTRAL_INSTRUCT_V2_7B_SigLIP = Ext_Exp_7B_Mistral_Instruct_V2_DINOv2SigLIP
+    EXT_EXP_MISTRAL_INSTRUCT_V2_7B_DINOv2SigLIP = Ext_Exp_7B_Mistral_Instruct_V2_SigLIP
     EXT_EXP_PHI_2_3B = Ext_Exp_3B_Phi_2
+    EXT_EXP_PHI_3_4B_CLIP = Ext_Exp_4B_Phi_3_Instruct_CLIP
+    EXT_EXP_PHI_3_4B_DINOv2SigLIP = Ext_Exp_4B_Phi_3_Instruct_DINOv2SigLIP
+    EXT_EXP_PHI_3_4B_SigLIP = Ext_Exp_4B_Phi_3_Instruct_SigLIP
+
 
     # Cotraining w/ Unimodal Data
 

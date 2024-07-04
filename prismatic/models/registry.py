@@ -618,13 +618,118 @@ MODEL_REGISTRY = {
     },
 
     # === Additional LLM Backbones ===
-    "llama2-chat+7b": {
-        "model_id": "llama2-chat+7b",
+    "gemma-instruct+2b+clip": {
+        "model_id": "gemma-instruct+2b+clip",
+        "names": ["Gemma Instruct 2B"],
+        "description": {
+            "name": "Gemma Instruct 2B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 2B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+2b+siglip": {
+        "model_id": "gemma-instruct+2b+siglip",
+        "names": ["Gemma Instruct 2B"],
+        "description": {
+            "name": "Gemma Instruct 2B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 2B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+2b+dinosiglip": {
+        "model_id": "gemma-instruct+2b+dinosiglip",
+        "names": ["Gemma Instruct 2B"],
+        "description": {
+            "name": "Gemma Instruct 2B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 2B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+8b+clip": {
+        "model_id": "gemma-instruct+8b+clip",
+        "names": ["Gemma Instruct 8B"],
+        "description": {
+            "name": "Gemma Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+8b+siglip": {
+        "model_id": "gemma-instruct+8b+clip",
+        "names": ["Gemma Instruct 8B"],
+        "description": {
+            "name": "Gemma Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "gemma-instruct+8b+dinosiglip": {
+        "model_id": "gemma-instruct+8b+clip",
+        "names": ["Gemma Instruct 8B"],
+        "description": {
+            "name": "Gemma Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Gemma Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+
+    "llama2-chat+7b+clip": {
+        "model_id": "llama2-chat+7b+clip",
         "names": ["Llama-2 Chat 7B"],
         "description": {
             "name": "Llama-2 Chat 7B",
             "optimization_procedure": "single-stage",
             "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-2 Chat 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "llama2-chat+7b+dinosiglip": {
+        "model_id": "llama2-chat+7b+dinosiglip",
+        "names": ["Llama-2 Chat 7B"],
+        "description": {
+            "name": "Llama-2 Chat 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-2 Chat 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "llama2-chat+7b+siglip": {
+        "model_id": "llama2-chat+7b+siglip",
+        "names": ["Llama-2 Chat 7B"],
+        "description": {
+            "name": "Llama-2 Chat 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
             "image_processing": "Letterbox",
             "language_model": "Llama-2 Chat 7B",
             "datasets": ["LLaVa v1.5 Instruct"],
@@ -640,6 +745,45 @@ MODEL_REGISTRY = {
             "visual_representation": "CLIP ViT-L/14 @ 336px",
             "image_processing": "Letterbox",
             "language_model": "Llama-2 Chat 13B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "llama3-instruct+8b+clip": {
+        "model_id": "llama3-instruct+8b+clip",
+        "names": ["Llama-3 Instruct 8B"],
+        "description": {
+            "name": "Llama-3 Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-3 Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "llama3-instruct+8b+siglip": {
+        "model_id": "llama3-instruct+8b",
+        "names": ["Llama-3 Instruct 8B"],
+        "description": {
+            "name": "Llama-3 Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-3 Instruct 8B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "llama3-instruct+8b+dinosiglip": {
+        "model_id": "llama3-instruct+8b+dinosiglip",
+        "names": ["Llama-3 Instruct 8B"],
+        "description": {
+            "name": "Llama-3 Instruct 8B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Llama-3 Instruct 8B",
             "datasets": ["LLaVa v1.5 Instruct"],
             "train_epochs": 1,
         }
@@ -671,6 +815,45 @@ MODEL_REGISTRY = {
             "train_epochs": 1,
         }
     },
+    "mistral-instruct-v0.2+7b+clip": {
+        "model_id": "mistral-instruct-v0.2+7b+clip",
+        "names": ["Mistral Instruct v0.2 7B"],
+        "description": {
+            "name": "Mistral Instruct v0.2 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Mistral Instruct v0.2 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "mistral-instruct-v0.2+7b+siglip": {
+        "model_id": "mistral-instruct-v0.2+7b+siglip",
+        "names": ["Mistral Instruct v0.2 7B"],
+        "description": {
+            "name": "Mistral Instruct v0.2 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Mistral Instruct v0.2 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "mistral-instruct-v0.2+7b+dinosiglip": {
+        "model_id": "mistral-instruct-v0.2+7b+dinosiglip",
+        "names": ["Mistral Instruct v0.2 7B"],
+        "description": {
+            "name": "Mistral Instruct v0.2 7B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Mistral Instruct v0.2 7B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
 
     "phi-2+3b": {
         "model_id": "phi-2+3b",
@@ -681,6 +864,45 @@ MODEL_REGISTRY = {
             "visual_representation": "CLIP ViT-L/14 @ 336px",
             "image_processing": "Letterbox",
             "language_model": "Phi-2 3B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "phi-instruct-3+4b+clip": {
+        "model_id": "phi-instruct-3+4b+clip",
+        "names": ["Phi-3 4B"],
+        "description": {
+            "name": "Phi-3 4B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "CLIP ViT-L/14 @ 336px",
+            "image_processing": "Letterbox",
+            "language_model": "Phi-3 4B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "phi-instruct-3+4b+siglip": {
+        "model_id": "phi-3-instruct+4b",
+        "names": ["Phi-3 4B"],
+        "description": {
+            "name": "Phi-3 4B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Phi-3 4B",
+            "datasets": ["LLaVa v1.5 Instruct"],
+            "train_epochs": 1,
+        }
+    },
+    "phi-instruct-3+4b+dinosiglip": {
+        "model_id": "phi-3-instruct+4b",
+        "names": ["Phi-3 4B"],
+        "description": {
+            "name": "Phi-3 4B",
+            "optimization_procedure": "single-stage",
+            "visual_representation": "DINOv2 ViT-L/14 + SigLIP ViT-SO/14 @ 384px",
+            "image_processing": "Letterbox",
+            "language_model": "Phi-3 4B",
             "datasets": ["LLaVa v1.5 Instruct"],
             "train_epochs": 1,
         }

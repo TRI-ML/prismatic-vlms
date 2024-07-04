@@ -31,7 +31,7 @@ from prismatic.util.nn_utils import FusedMLPProjector, LinearProjector, MLPProje
 overwatch = initialize_overwatch(__name__)
 
 
-# HuggingFace Default / LLaMa-2 IGNORE_INDEX (for labels)
+# HuggingFace Default / Llama-2 IGNORE_INDEX (for labels)
 IGNORE_INDEX = -100
 
 
@@ -306,11 +306,11 @@ class PrismaticVLM(VLM):
             )
 
         # Run Visual Feature Extraction
-        with torch.set_grad_enabled(self.vision_backbone_requires_grad):
-            if isinstance(pixel_values, dict):
-                patch_features = self.vision_backbone({k: pixel_values[k][multimodal_indices] for k in pixel_values})
-            else:
-                patch_features = self.vision_backbone(pixel_values[multimodal_indices])
+        # with torch.set_grad_enabled(self.vision_backbone_requires_grad):
+        if isinstance(pixel_values, dict):
+            patch_features = self.vision_backbone({k: pixel_values[k][multimodal_indices] for k in pixel_values})
+        else:
+            patch_features = self.vision_backbone(pixel_values[multimodal_indices])
 
         # Projection Logic :: [bsz, num_patches, llm_embed_dim] =>> num_patches = (2 *) (256 + 1) for ViT-L + CLS
         projected_patch_embeddings = self.projector(patch_features)
@@ -447,14 +447,12 @@ class PrismaticVLM(VLM):
             model_inputs = {"input_ids": input_ids}
 
         # Make sure `pixel_values` are preserved in `model_inputs`
-        model_inputs.update(
-            {
-                "attention_mask": attention_mask,
-                "pixel_values": pixel_values,
-                "past_key_values": past_key_values,
-                "use_cache": use_cache,
-            }
-        )
+        model_inputs.update({
+            "attention_mask": attention_mask,
+            "pixel_values": pixel_values,
+            "past_key_values": past_key_values,
+            "use_cache": use_cache,
+        })
 
         return model_inputs
 

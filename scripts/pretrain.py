@@ -6,8 +6,8 @@ distributed training across GPUs. By default, assumes that CUDA toolkit is >= 11
 
 
 Notes & Prerequisites:
-    - We're loading LLaMa-2 (and possibly other) gated models from HuggingFace (HF Hub); these require an auth_token.
-      For LLaMa-2, make sure to first get Meta approval, then fill out the form at the top of the HF LLaMa-2 page:
+    - We're loading Llama-2 (and possibly other) gated models from HuggingFace (HF Hub); these require an auth_token.
+      For Llama-2, make sure to first get Meta approval, then fill out the form at the top of the HF Llama-2 page:
         => Link: https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
         => Generate Token (from `huggingface.co`): Settings / Access Tokens / New "Read" Token
         => Set `cfg.hf_token` to file path with token (as single line text file) or environment variable name

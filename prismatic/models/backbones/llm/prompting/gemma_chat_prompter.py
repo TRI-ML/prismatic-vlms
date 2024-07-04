@@ -1,7 +1,7 @@
 """
 llama2_prompter.py
 
-Defines a PromptBuilder for building LLaMa-2 Chat Prompts --> not sure if this is "optimal", but this is the pattern
+Defines a PromptBuilder for building Llama-2 Chat Prompts --> not sure if this is "optimal", but this is the pattern
 that's used by HF and other online tutorials.
 
 Reference: https://huggingface.co/blog/llama2#how-to-prompt-llama-2
@@ -25,14 +25,14 @@ def format_system_prompt(system_prompt: str) -> str:
     return f"<<SYS>\n{system_prompt.strip()}\n<</SYS>>\n\n"
 
 
-class LLaMa2ChatPromptBuilder(PromptBuilder):
+class GemmaChatPromptBuilder(PromptBuilder):
     def __init__(self, model_family: str, system_prompt: Optional[str] = None) -> None:
         super().__init__(model_family, system_prompt)
         self.system_prompt = format_system_prompt(
             SYS_PROMPTS[self.model_family] if system_prompt is None else system_prompt
         )
 
-        # LLaMa-2 Specific
+        # Llama-2 Specific
         self.bos, self.eos = "<s>", "</s>"
 
         # Get role-specific "wrap" functions

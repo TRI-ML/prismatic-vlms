@@ -17,12 +17,12 @@ from typing import Dict, List, Tuple, Type
 import torch
 from PIL import Image
 from torch.utils.data import Dataset
-from transformers import CodeGenTokenizerFast, LlamaTokenizerFast, PreTrainedTokenizerBase
+from transformers import CodeGenTokenizerFast, GemmaTokenizerFast, LlamaTokenizerFast, PreTrainedTokenizerBase, PreTrainedTokenizerFast
 
 from prismatic.models.backbones.llm.prompting import PromptBuilder
 from prismatic.models.backbones.vision import ImageTransform
 
-# HuggingFace Default / LLaMa-2 IGNORE_INDEX (for labels)
+# HuggingFace Default / Llama-2 IGNORE_INDEX (for labels)
 IGNORE_INDEX = -100
 
 
@@ -141,8 +141,18 @@ class FinetuneDataset(Dataset[Dict[str, torch.Tensor]]):
             # Get "effective" string added to prompt --> handle whitespace for tokenizer type!
             msg = prompt_builder.add_turn(turn["from"], turn["value"])
 
-            # Llama Tokenizer (Fast) adds extra character if a string ends in whitespace --> strip if non-empty!
+            # Llama 1 & 2 Tokenizer (Fast) adds extra character if a string ends in whitespace --> strip if non-empty!
             if isinstance(self.tokenizer, LlamaTokenizerFast):
+                msg = msg.rstrip()
+
+            # Llama 3 Tokenizer (Fast).
+            elif isinstance(self.tokenizer, PreTrainedTokenizerFast):
+                # Sidd said that there was no harm in always applying rstrip, so do this to be safe!
+                msg = msg.rstrip()
+
+            # Gemma Tokenizer
+            elif isinstance(self.tokenizer, GemmaTokenizerFast):
+                # Sidd said that there was no harm in always applying rstrip, so do this to be safe!
                 msg = msg.rstrip()
 
             # Phi-2 Tokenizer == CodeGenTokenizer (Fast) -- no special handling!

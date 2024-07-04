@@ -182,7 +182,9 @@ torchrun --standalone --nnodes 1 --nproc-per-node 8 scripts/pretrain.py \
   --model.model_id "<NAME OF NEW MODEL>" \
   --model.vision_backbone_id "dinosiglip-vit-so-384px" \
   --model.image_resize_strategy "letterbox" \
-  --model.llm_backbone_id "vicuna-v15-7b" 
+  --model.llm_backbone_id "vicuna-v15-7b" \
+  --wandb_entity "your W&B username or team" \
+  --wandb_project "your W&B project name"
 ```
 
 Note that specifying `model.type` is important for identifying the _base configuration_ that you want to build on top of;

@@ -10,7 +10,7 @@ from typing import Dict, Sequence, Tuple
 import torch
 from torch.nn.utils.rnn import pad_sequence
 
-# HuggingFace Default / LLaMa-2 IGNORE_INDEX (for labels)
+# HuggingFace Default / Llama-2 IGNORE_INDEX (for labels)
 IGNORE_INDEX = -100
 
 

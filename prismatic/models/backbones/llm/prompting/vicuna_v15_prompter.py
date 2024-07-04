@@ -24,7 +24,7 @@ class VicunaV15ChatPromptBuilder(PromptBuilder):
         super().__init__(model_family, system_prompt)
         self.system_prompt = (SYS_PROMPTS[self.model_family] if system_prompt is None else system_prompt).strip() + " "
 
-        # LLaMa-2 Specific
+        # Llama-2 Specific
         self.bos, self.eos = "<s>", "</s>"
 
         # Get role-specific "wrap" functions

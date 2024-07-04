@@ -57,13 +57,41 @@ def load(
         assert config_json.exists(), f"Missing `config.json` for `{run_dir = }`"
         assert checkpoint_pt.exists(), f"Missing checkpoint for `{run_dir = }`"
     else:
-        if model_id_or_path not in GLOBAL_REGISTRY:
+        rylan_trained_models = {
+            "prism-gemma-instruct+2b+clip",
+            "prism-gemma-instruct+2b+siglip",
+            "prism-gemma-instruct+2b+dinosiglip",
+            "prism-gemma-instruct+8b+clip",
+            "prism-gemma-instruct+8b+siglip",
+            "prism-gemma-instruct+8b+dinosiglip",
+            "prism-llama2-chat+7b+clip",
+            "prism-llama2-chat+7b+siglip",
+            "prism-llama2-chat+7b+dinosiglip",
+            "prism-llama3-instruct+8b+clip",
+            "prism-llama3-instruct+8b+siglip",
+            "prism-llama3-instruct+8b+dinosiglip",
+            "prism-mistral-instruct-v0.2+7b+clip",
+            "prism-mistral-instruct-v0.2+7b+siglip",
+            "prism-mistral-instruct-v0.2+7b+dinosiglip",
+            "prism-phi-instruct-3+4b+clip",
+            "prism-phi-instruct-3+4b+siglip",
+            "prism-phi-instruct-3+4b+dinosiglip",
+        }
+        
+        if (model_id_or_path not in rylan_trained_models) and (model_id_or_path not in GLOBAL_REGISTRY):
             raise ValueError(f"Couldn't find `{model_id_or_path = }; check `prismatic.available_model_names()`")
 
-        overwatch.info(f"Downloading `{(model_id := GLOBAL_REGISTRY[model_id_or_path]['model_id'])} from HF Hub")
-        config_json = hf_hub_download(repo_id=HF_HUB_REPO, filename=f"{model_id}/config.json", cache_dir=cache_dir)
+        if model_id_or_path in rylan_trained_models:
+            repo_id = "RylanSchaeffer/prismatic-vlms"
+            model_id = model_id_or_path.replace("prism-", "")
+        else:
+            repo_id = "TRI-ML/prismatic-vlms"
+            model_id = GLOBAL_REGISTRY[model_id_or_path]['model_id']
+
+        overwatch.info(f"Downloading `{model_id} from HF Hub")
+        config_json = hf_hub_download(repo_id=repo_id, filename=f"{model_id}/config.json", cache_dir=cache_dir)
         checkpoint_pt = hf_hub_download(
-            repo_id=HF_HUB_REPO, filename=f"{model_id}/checkpoints/latest-checkpoint.pt", cache_dir=cache_dir
+            repo_id=repo_id, filename=f"{model_id}/checkpoints/latest-checkpoint.pt", cache_dir=cache_dir
         )
 
     # Load Model Config from `config.json`
