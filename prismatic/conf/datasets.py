@@ -29,6 +29,19 @@ class DatasetConfig(ChoiceRegistry):
     dataset_root_dir: Path                          # Path to dataset root directory; others paths are relative to root
     # fmt: on
 
+dataclass
+class Small_OpenSpacesMC_Config(DatasetConfig):
+    dataset_id: str = "OpenSpaces_MC_small"
+    # Align stage should never be used for OpenSpaces, but we include it here for consistency
+    align_stage_components: Tuple[Path, Path] = (
+        Path("OpenSpaces_MC_small/train/instruct.json"),
+        Path("OpenSpaces_MC_small/train/images/"),
+    )
+    finetune_stage_components: Tuple[Path, Path] = (
+        Path("OpenSpaces_MC_small/train/instruct.json"),
+        Path("OpenSpaces_MC_small/train/images/"),
+    )
+    dataset_root_dir: Path = Path("data")
 @dataclass
 class OpenSpacesMC_Config(DatasetConfig):
     dataset_id: str = "OpenSpaces_MC"
@@ -138,6 +151,7 @@ class DatasetRegistry(Enum):
     LLAVA_LVIS4V_LRV = LLaVa_LVIS4V_LRV_Config
     
     OPENSPACES = OpenSpacesMC_Config
+    OPENSPACES_SMALL = Small_OpenSpacesMC_Config
 
     @property
     def dataset_id(self) -> str:

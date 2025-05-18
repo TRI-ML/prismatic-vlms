@@ -6,9 +6,9 @@ import json
 
 # Login using e.g. `huggingface-cli login` to access this dataset
 ds = load_dataset("remyxai/OpenSpaces_MC")
-
+load_small = True
 # create a root folder for this dataset
-dataset_dir = "data/OpenSpaces_MC"
+dataset_dir = "data/OpenSpaces_MC" + "_small" if load_small else ""
 
 for split in ["train", "test"]:
     sample_dir = os.path.join(dataset_dir, split, "images")
@@ -20,6 +20,8 @@ for split in ["train", "test"]:
     for idx, image in enumerate(ds[split]["images"]):
         image[0].save(os.path.join(sample_dir, f"{idx}.jpg"))
         instruct_json.append({"image": f"{idx}.jpg"})
+        if load_small and idx > 1000:
+            break
 
     # process messages and attach conversations to each entry
     for idx, messages in enumerate(ds[split]["messages"]):
@@ -36,6 +38,9 @@ for split in ["train", "test"]:
         ]
         # attach to the corresponding list entry (idx−1)
         instruct_json[idx]["conversations"] = convs
+        
+        if load_small and idx > 1000:
+            break
     
     # save the instruct_json as .json
     with open(os.path.join(dataset_dir, split, "instruct.json"), "w") as f:
