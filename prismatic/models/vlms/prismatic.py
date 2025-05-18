@@ -576,8 +576,39 @@ class PrismaticVLM(VLM):
                     full_out_ids = super().generate(input_ids=input_ids, pixel_values=pixel_values, **kwargs)
                     gen_ids = full_out_ids[0, input_ids.shape[1] :]
 
-                    # Decode `
+                    # Decode `gen_ids` and strip any <EOS> tokens
+                    gen_texts.append(tokenizer.decode(gen_ids, skip_special_tokens=True).strip())
 
+                else:
+                    full_out_dict = super().generate(
+                        input_ids=input_ids,
+                        pixel_values=pixel_values,
+                        output_scores=True,
+                        return_dict_in_generate=True,
+                        **kwargs,
+                    )
+
+                    # Generation pattern should usually be [TOKEN] <EOS> for True/False and Yes/No Generations
+                    gen_ids = full_out_dict.sequences[0, input_ids.shape[1] :]
+
+                    # [Debug] Verify that the first token generated is in `self.string2idx.values()`
+                    # assert gen_ids[0] in self.string2idx.values(), "Generated ID not in mapping!"
+
+                    # Decode `gen_ids` and strip any <EOS> tokens
+                    gen_texts.append(tokenizer.decode(gen_ids, skip_special_tokens=True).strip())
+
+                    # Get all token probabilities --> softmax over logits
+                    token_probs = torch.softmax(full_out_dict.scores[0][0], dim=0)
+
+                    # Get *normalized* probabilities for all values in `return_token_probabilities`
+                    slice_idxs = torch.tensor([self.string2idx[s] for s in return_string_probabilities])
+                    string_probs_unnormalized = token_probs[slice_idxs]
+                    string_probs = string_probs_unnormalized / string_probs_unnormalized.sum()
+                    gen_probabilities.append(string_probs.cpu().numpy().tolist())
+
+        return gen_texts if return_string_probabilities is None else gen_probabilities
+
+    @torch.inference_mode()
     def generate(
         self,
         image: Union[Image.Image, torch.Tensor, Dict[str, torch.Tensor]],
