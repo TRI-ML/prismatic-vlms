@@ -33,10 +33,11 @@ class DatasetConfig(ChoiceRegistry):
 class OpenSpacesMC_Config(DatasetConfig):
     dataset_id: str = "OpenSpaces_MC"
 
-    # align_stage_components: Tuple[Path, Path] = (
-    #     Path("download/openspaces-mc/annotations.json"),
-    #     Path("download/openspaces-mc/images/"),
-    # )
+    # Align stage should never be used for OpenSpaces, but we include it here for consistency
+    align_stage_components: Tuple[Path, Path] = (
+        Path("OpenSpaces_MC/train/instruct.json"),
+        Path("OpenSpaces_MC/train/images/"),
+    )
     finetune_stage_components: Tuple[Path, Path] = (
         Path("OpenSpaces_MC/train/instruct.json"),
         Path("OpenSpaces_MC/train/images/"),
