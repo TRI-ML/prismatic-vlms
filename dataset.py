@@ -8,15 +8,17 @@ import json
 ds = load_dataset("remyxai/OpenSpaces_MC")
 
 # create a root folder for this dataset
-dataset_dir = "OpenSpaces_MC"
+dataset_dir = "data/OpenSpaces_MC"
 
 for split in ["train", "test"]:
-    for idx, (image, messages) in enumerate(zip(ds[split]["images"], ds[split]["messages"]), start=1):
-        sample_dir = os.path.join(dataset_dir, split, str(idx))
-        os.makedirs(sample_dir, exist_ok=True)
-
+    sample_dir = os.path.join(dataset_dir, split, "images")
+    os.makedirs(sample_dir, exist_ok=True)
+    instruct_json = {}
+    for idx, image in enumerate(ds[split]["images"], start=1):
         image[0].save(os.path.join(sample_dir, f"{idx}.jpg"))
+        instruct_json[idx] = {"image": f"{idx}.jpg"}
 
+    for idx, messages in enumerate(ds[split]["messages"], start=1):
         # save messages as .json
         # For some reason the first message is not in the format of the rest
         z = [x['content'][0] for x in messages]
@@ -30,9 +32,11 @@ for split in ["train", "test"]:
             {"from": "human" if i % 2 == 0 else "gpt", "value": text} for i, text in enumerate(texts)
         ]
         # save the image
-        msg_out = os.path.join(sample_dir, f"{idx}.json")
-        with open(msg_out, "w", encoding="utf-8") as f:
-            json.dump(messages, f, ensure_ascii=False, indent=2)
+        instruct_json[idx]["conversations"] = messages
+    
+    # save the instruct_json as .json
+    with open(os.path.join(dataset_dir, split, "instruct.json"), "w") as f:
+        json.dump(instruct_json, f, indent=4)
 
 # # Print the dataset
 # print(ds)

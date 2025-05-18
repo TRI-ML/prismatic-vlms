@@ -29,6 +29,19 @@ class DatasetConfig(ChoiceRegistry):
     dataset_root_dir: Path                          # Path to dataset root directory; others paths are relative to root
     # fmt: on
 
+@dataclass
+class OpenSpacesMC_Config(DatasetConfig):
+    dataset_id: str = "OpenSpaces_MC"
+
+    # align_stage_components: Tuple[Path, Path] = (
+    #     Path("download/openspaces-mc/annotations.json"),
+    #     Path("download/openspaces-mc/images/"),
+    # )
+    finetune_stage_components: Tuple[Path, Path] = (
+        Path("OpenSpaces_MC/train/instruct.json"),
+        Path("OpenSpaces_MC/train/images/"),
+    )
+    dataset_root_dir: Path = Path("data")
 
 # [Reproduction] LLaVa-v15 (exact dataset used in all public LLaVa-v15 models)
 @dataclass
@@ -122,6 +135,8 @@ class DatasetRegistry(Enum):
     LLAVA_LRV = LLaVa_LRV_Config
 
     LLAVA_LVIS4V_LRV = LLaVa_LVIS4V_LRV_Config
+    
+    OPENSPACES = OpenSpacesMC_Config
 
     @property
     def dataset_id(self) -> str:

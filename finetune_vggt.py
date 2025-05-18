@@ -7,7 +7,7 @@ import torch.distributed as dist
 if __name__ == "__main__":
     # Set up config to match train_vggt.py
     model_id = "dinov2-224px+7b"
-    dataset_id = DatasetRegistry.LLAVA_V15.dataset_id
+    dataset_id = DatasetRegistry.OPENSPACES.dataset_id
     model_cfg = ModelConfig.get_choice_class(model_id)
     dataset_cfg = DatasetConfig.get_choice_class(dataset_id)
 
