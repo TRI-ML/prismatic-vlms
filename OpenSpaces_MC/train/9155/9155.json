@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the baseball bat lie in front of the white and red striped baseball uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the white and red striped baseball uniform."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white baseball cap is wider than the white baseball shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white baseball cap is not wider than the white baseball shoes."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the baseball bat to the white baseball cap."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 5.9 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the white baseball pants closer to camera compared to the white and red striped baseball socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the white baseball cap wider than the white baseball shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white baseball cap is not wider than the white baseball shoes."
+  }
+]

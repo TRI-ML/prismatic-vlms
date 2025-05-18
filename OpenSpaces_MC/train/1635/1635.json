@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the blue object in truck bed and the white object in truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue object in truck bed and the white object in truck bed are 0.4 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the concrete ground and the sky horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 26.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person operating forklift and the orange forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.29 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the person operating forklift and the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.29 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How close is the concrete ground from the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.92 meters"
+  }
+]

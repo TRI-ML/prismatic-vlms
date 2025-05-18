@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white pillow on couch to the left of the window from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white pillow on couch is to the left of the window."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue blanket on couch appear on the left side of the white pillow on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue blanket on couch is not to the left of the white pillow on couch."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the ceiling less distant than that of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the blue blanket on couch and the window."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 65.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white pillow on couch is positioned to the left of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white pillow on couch to the left of the window."
+  }
+]

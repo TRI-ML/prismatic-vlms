@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the door further to camera compared to the coffee cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the coffee cups to the woman."
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the coffee cups lie behind the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the coffee cups is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the coffee cups and the coffee cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee cups and the coffee cups are 18.9 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the door come behind the coffee cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

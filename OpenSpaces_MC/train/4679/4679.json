@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the books in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "22.83 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wall and the rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the books closer to the viewer compared to the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the books in front of the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the books and the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "18.7 inches"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the stacked boxes to the stacked boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 5.0 feet away from the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stacked boxes from the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 35.5 inches from the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the stacked boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 27.22 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stacked boxes from the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 22.4 inches from the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the stacked boxes or the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, stacked boxes appears more on the left side."
+  }
+]

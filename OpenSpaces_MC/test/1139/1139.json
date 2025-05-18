@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow tennis racket wider than the white baseball cap?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the yellow tennis racket might be narrower or the same width as the white baseball cap."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue shorts smaller than the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue shorts is not smaller than the white building."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the white sky in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white t-shirt to the chain-link fence."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the white t-shirt from the chain-link fence is 14.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the blue shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue shorts is 8.2 feet wide."
+  }
+]

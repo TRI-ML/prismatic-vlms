@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the red car appear on the left side of the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red car is not on the left side of the table."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the person standing and the table?Could you provide the horizontal distance between the person standing and the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 10.41 feet exists between the person standing and the table."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the red car and the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "82.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red car and the table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red car is 27.6 centimeters from the table vertically."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the red car to the table."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the red car from the table is 82.0 centimeters."
+  }
+]

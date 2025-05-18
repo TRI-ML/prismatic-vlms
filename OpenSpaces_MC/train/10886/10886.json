@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the silver trash can or the staircase?"
+  },
+  {
+    "from": "gpt",
+    "value": "silver trash can is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the silver trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the silver trash can is 5.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the silver railing or the black plaque with white text?"
+  },
+  {
+    "from": "gpt",
+    "value": "black plaque with white text is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the silver railing?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the silver trash can from the staircase?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver trash can and the staircase are 9.0 meters apart from each other."
+  }
+]

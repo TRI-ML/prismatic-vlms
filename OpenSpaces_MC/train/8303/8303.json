@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the tomatoes and the tomatoes horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.5 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the tomatoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 14.48 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the olives to the onions."
+  },
+  {
+    "from": "gpt",
+    "value": "the olives is 4.0 inches from the onions."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the onions."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 87.77 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the olives or the tomatoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is tomatoes."
+  }
+]

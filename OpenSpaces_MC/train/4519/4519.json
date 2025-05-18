@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the trees from the red sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 20.1 centimeters away from the red sign vertically."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the gray car body and the blue building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the gray car body from the blue building is 12.58 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red building from the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red building is 29.0 feet from the trees."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the red sign or the side mirror of a car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is side mirror of a car."
+  }
+]

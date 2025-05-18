@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the grassy area?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 177.67 feet."
+  },
+  {
+    "from": "human",
+    "value": "Between the grassy area and the two-story building, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "grassy area is taller."
+  },
+  {
+    "from": "human",
+    "value": "Between the trees and the trees, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the blue wooden bench or the brick walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue wooden bench is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the grassy area or the trees, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "grassy area is shorter."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the silver car and the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver car is 0.0 inches away from the white car vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the silver car occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver car is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white car and the white car vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white car is 3.0 meters from the white car vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the silver car and the white car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 0.0 inches exists between the silver car and the white car."
+  }
+]

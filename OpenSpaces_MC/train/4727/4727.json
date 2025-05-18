@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the shadows and the grass, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is grass."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the shadows to the grass."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 8.5 feet exists between the shadows and the grass."
+  },
+  {
+    "from": "human",
+    "value": "How far is the green text on sign from the red banner on sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the green text on sign to the red banner on sign."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.13 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the shadows?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shadows is 7.0 meters tall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the door occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 6.1 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the stairs or the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "stairs is above."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the door occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 1.7 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the door is taller than the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the door's height is not larger of the door's."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the door or the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "door is above."
+  }
+]

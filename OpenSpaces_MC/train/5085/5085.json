@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the books on nightstand or the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "books on shelf is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the books on shelf and the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on shelf and the books on shelf are 4.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the books on nightstand and the books on nightstand, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "books on nightstand is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the books on shelf and the books on shelf vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 96.1 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the books on shelf and the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on shelf is 4.2 meters from the books on shelf."
+  }
+]

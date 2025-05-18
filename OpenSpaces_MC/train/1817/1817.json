@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow forklift to the left of the black tires from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the yellow forklift to the left of the black tires."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the warehouse shelves and the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse shelves is 5.61 feet from the boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the yellow forklift and the black tires?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift is 1.46 meters away from the black tires."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the warehouse shelves is positioned to the left of the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the warehouse shelves is positioned on the left side of the boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white ceiling from the yellow forklift vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white ceiling and the yellow forklift are 3.0 feet apart vertically from each other."
+  }
+]

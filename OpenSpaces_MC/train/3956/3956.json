@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is taller, the large containers with spoons or the donuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is large containers with spoons."
+  },
+  {
+    "from": "human",
+    "value": "Is the additional paper cups behind the paper cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the large containers with spoons or the donuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is large containers with spoons."
+  },
+  {
+    "from": "human",
+    "value": "Is the can of whipped cream behind the large containers with spoons?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How far is the can of whipped cream from the large containers with spoons?"
+  },
+  {
+    "from": "gpt",
+    "value": "the can of whipped cream and the large containers with spoons are 34.1 inches apart."
+  }
+]

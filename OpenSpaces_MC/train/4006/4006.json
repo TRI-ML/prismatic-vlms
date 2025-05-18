@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the orange forklift positioned before the red metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the orange forklift is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the orange forklift in front of the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red metal shelving unit from the red metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red metal shelving unit is 42.4 feet away from the red metal shelving unit."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the red metal shelving unit and the red metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.6 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the orange forklift come in front of the red metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the orange forklift is in front of the red metal shelving unit."
+  }
+]

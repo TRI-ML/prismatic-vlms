@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the sign with letter a is wider than the person standing in front of building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the sign with letter a has a greater width compared to the person standing in front of building."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the sign with letter i or the sign with letter e?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is sign with letter e."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the sign with letter a?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter a is 1.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the sign with letter f and the person standing in front of building."
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter f and the person standing in front of building are 15.26 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the sign with letter i and the sign with letter e?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter i is 7.0 meters away from the sign with letter e."
+  }
+]

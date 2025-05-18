@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the white object from the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white object and the white object are 4.0 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the white object have a greater width compared to the red object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white object is wider than the red object."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow object above the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow object is not above the white object."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the white object is 12.97 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the black object to the red object."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 23.78 centimeters exists between the black object and the red object."
+  }
+]

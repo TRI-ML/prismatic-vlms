@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the street sign and the snow-covered cars horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the street sign from the snow-covered cars is 7.86 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the snow-covered cars and the snow-covered cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snow-covered cars and the snow-covered cars are 57.78 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the snow-covered cars and the snow-covered cars?Could you provide the horizontal distance between the snow-covered cars and the snow-covered cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 55.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the snow-covered cars to the oncoming car."
+  },
+  {
+    "from": "gpt",
+    "value": "the snow-covered cars and the oncoming car are 4.4 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the street sign from the snow-covered cars horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 7.86 feet."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the player with red hat and jersey number 12."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the player with red hat and jersey number 12 is 3.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the player with red hat and jersey number 53 in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 17.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the player with red hat and jersey number 50 and the coach in red shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.19 feet"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the player with red hat and jersey number 50 and the coach in red shirt and black shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "4.19 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the player with red hat and jersey number 12 bigger than the person in blue shirt and khaki shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the player with red hat and jersey number 12 might be smaller or the same size as the person in blue shirt and khaki shorts."
+  }
+]

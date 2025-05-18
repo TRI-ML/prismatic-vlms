@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the time limit sign taller than the macaco de perigo sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the time limit sign's height is not larger of the macaco de perigo sign's."
+  },
+  {
+    "from": "human",
+    "value": "How far is the reserved parking sign from the mailbox?"
+  },
+  {
+    "from": "gpt",
+    "value": "the reserved parking sign is 8.13 meters away from the mailbox."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the mailbox and the macaco de perigo sign."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the mailbox from the macaco de perigo sign is 15.75 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the brick building occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brick building is 71.28 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Between the time limit sign and the macaco de perigo sign, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is macaco de perigo sign."
+  }
+]

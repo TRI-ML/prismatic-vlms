@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the man in white to the left of the woman in blue from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in white is to the left of the woman in blue."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the man in white is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 29.28 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the man in white to the woman in blue."
+  },
+  {
+    "from": "gpt",
+    "value": "3.5 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the man in blue from the man in white?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue is 8.0 meters from the man in white."
+  },
+  {
+    "from": "human",
+    "value": "Does the man in blue appear on the left side of the man in white?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in blue is not to the left of the man in white."
+  }
+]

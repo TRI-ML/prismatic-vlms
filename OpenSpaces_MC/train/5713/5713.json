@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the pots on stove (repeated) thinner than the violin on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the pots on stove (repeated) is thinner than the violin on wall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the pots on stove (repeated) and the violin on wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pots on stove (repeated) is 97.5 centimeters from the violin on wall horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the pots on stove (repeated)?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pots on stove (repeated) is 14.79 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the pots on stove (repeated) and the violin on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 2.3 meters exists between the pots on stove (repeated) and the violin on wall."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the pots on stove (repeated) is."
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 inches"
+  }
+]

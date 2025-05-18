@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the toyota from the toyota text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toyota and the toyota text are 18.3 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the toyota and the toyota text, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, toyota text appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the toyota text or the actis location?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, toyota text appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the toyota text and the actis location?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toyota text and the actis location are 8.18 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the toyota logo or the toyota branding?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, toyota logo appears more on the left side."
+  }
+]

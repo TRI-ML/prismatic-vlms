@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the sign with letters is positioned to the left of the red bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the sign with letters is either to the right of or directly aligned with the red bus."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sign with letters and the sign with letters."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 13.77 feet exists between the sign with letters and the sign with letters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the sign with letters from the sign with letters?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the sign with letters from the sign with letters is 13.77 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the sign with letters occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the sign with letters is 6.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the sign with letters in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the sign with letters is 8.08 meters."
+  }
+]

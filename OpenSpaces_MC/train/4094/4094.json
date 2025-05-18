@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the woman's black hair and the woman's tennis racket?Could you provide the horizontal distance between the woman's black hair and the woman's tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's black hair and the woman's tennis racket are 23.48 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the person sitting in white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting in white chair is 71.3 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the woman's black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's black hair is 25.19 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman's white shoes from the woman's black hair horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.29 meters."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the woman's white shoes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.35 feet."
+  }
+]

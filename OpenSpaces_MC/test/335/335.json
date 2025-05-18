@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the red box and the clock on right wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the red box is 20.4 feet away from the clock on right wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the book more distant than that of the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the bookcase on back wall positioned in front of the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Does the window come behind the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Does the red box come behind the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the stool."
+  }
+]

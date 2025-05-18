@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the cat on top shelf further to camera compared to the cat tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant in white pot above the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the plant in white pot is positioned over the window."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cat on top shelf from the cat tree horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "38.24 inches"
+  },
+  {
+    "from": "human",
+    "value": "Does the cat on bottom shelf appear over the plant in white pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cat on bottom shelf is positioned over the plant in white pot."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant in white pot come behind the cat on top shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

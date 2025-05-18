@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the circular ceiling light?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 84.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the light switch or the light brown wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is light switch."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the light switch in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light switch is 11.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the light switch from the light brown wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the stove with black and silver color scheme or the silver microwave above stove, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is silver microwave above stove."
+  }
+]

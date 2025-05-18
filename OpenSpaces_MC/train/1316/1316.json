@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the 10th street nw wider than the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the 10th street nw is not wider than the street sign."
+  },
+  {
+    "from": "human",
+    "value": "Does the 10th street have a greater width compared to the 10th street nw?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the 10th street exceeds that of the 10th street nw."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the 10th street nw?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the 10th street nw is 4.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the st and the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the st is 16.2 feet from the street sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the 10th street from the 10th street nw?"
+  },
+  {
+    "from": "gpt",
+    "value": "39.1 centimeters"
+  }
+]

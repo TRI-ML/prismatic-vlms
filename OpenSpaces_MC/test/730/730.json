@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the red berries occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red berries is 6.22 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the red berries to the yellow noodles."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.4 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red berries is positioned to the left of the red berries?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the red berries is to the left of the red berries."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the green herbs to the green herbs."
+  },
+  {
+    "from": "gpt",
+    "value": "the green herbs is 5.0 feet away from the green herbs."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the green herbs to the red berries."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green herbs from the red berries is 1.9 meters."
+  }
+]

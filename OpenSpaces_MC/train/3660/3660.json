@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the walkway from the man holding kite horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.34 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the walkway positioned in front of the man holding kite?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the walkway from the man holding kite?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the walkway from the man holding kite is 12.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the trees and the black fence?Could you provide the horizontal distance between the trees and the black fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 0.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the black fence and the kite?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black fence is 19.2 meters from the kite horizontally."
+  }
+]

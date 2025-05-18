@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the kitchen table from the kitchen chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen table is 11.0 inches from the kitchen chairs."
+  },
+  {
+    "from": "human",
+    "value": "Is the kitchen table positioned at the back of the kitchen chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the kitchen decor is positioned to the right of the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the kitchen decor is to the right of the sink."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the stove and the kitchen decor?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the kitchen table positioned at the back of the kitchen chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the kitchen chairs."
+  }
+]

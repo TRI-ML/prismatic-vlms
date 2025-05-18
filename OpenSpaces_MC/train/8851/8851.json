@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the white gourd with yellow spots is positioned to the right of the yellow gourd with green stripes?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white gourd with yellow spots is either to the left of or directly aligned with the yellow gourd with green stripes."
+  },
+  {
+    "from": "human",
+    "value": "Does the white plate come behind the black wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white gourd with yellow spots is positioned to the right of the yellow gourd with green stripes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white gourd with yellow spots is not to the right of the yellow gourd with green stripes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the brown wooden spoon more distant than that of the green leaves?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown wooden spoon is positioned to the right of the green leaves?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown wooden spoon is not to the right of the green leaves."
+  }
+]

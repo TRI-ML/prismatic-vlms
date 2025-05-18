@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the person in red jacket in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person in red jacket is 71.51 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the snowboard appear on the right side of the person in black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the snowboard is either to the left of or directly aligned with the person in black jacket."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person in red jacket from the snowboarder in mid-air?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in red jacket is 18.05 meters away from the snowboarder in mid-air."
+  },
+  {
+    "from": "human",
+    "value": "How far is the snowboard from the snow-covered hill?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 82.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the snow-covered trees lie behind the snowboard leaning against mound?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

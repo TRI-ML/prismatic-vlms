@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the microwave is wider than the chips bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the microwave is not wider than the chips bag."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the microwave or the microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is microwave."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the microwave and the chips bag."
+  },
+  {
+    "from": "gpt",
+    "value": "the microwave is 1.2 meters away from the chips bag."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the microwave and the chips bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "the microwave is 1.2 meters away from the chips bag."
+  },
+  {
+    "from": "human",
+    "value": "How far is the chips bag from the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chips bag and the knife block are 11.56 feet apart from each other."
+  }
+]

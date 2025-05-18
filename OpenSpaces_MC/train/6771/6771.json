@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the snowboard and the ski lift."
+  },
+  {
+    "from": "gpt",
+    "value": "3.04 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the snowboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snowboard is 73.89 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the snowboard to the ski lift."
+  },
+  {
+    "from": "gpt",
+    "value": "the snowboard is 4.72 meters away from the ski lift vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the red rail and the ski lift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red rail and the ski lift are 87.8 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the red rail smaller than the ski lift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the red rail has a smaller size compared to the ski lift."
+  }
+]

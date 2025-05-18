@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the ventilation system and the ventilation system?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ventilation system and the ventilation system are 5.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the ventilation system and the ventilation system vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ventilation system and the ventilation system are 86.0 centimeters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the ventilation system occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ventilation system is 9.9 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the sink or the torn cloth?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is torn cloth."
+  },
+  {
+    "from": "human",
+    "value": "Between the ventilation system and the ventilation system, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "ventilation system is above."
+  }
+]

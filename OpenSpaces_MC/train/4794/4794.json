@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the roast turkey to the plant with green leaves."
+  },
+  {
+    "from": "gpt",
+    "value": "the roast turkey is 3.36 feet away from the plant with green leaves."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the bowl of sliced tomatoes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 44.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the roast turkey from the bottle of wine?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.0 meters exists between the roast turkey and the bottle of wine."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the roast turkey."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 27.9 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the roast turkey from the plant with green leaves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the roast turkey and the plant with green leaves are 1.0 meters apart horizontally."
+  }
+]

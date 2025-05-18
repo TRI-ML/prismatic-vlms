@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the blue overalls to the background houses."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 0.95 centimeters exists between the blue overalls and the background houses."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the star of david is."
+  },
+  {
+    "from": "gpt",
+    "value": "8.5 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the title text and the american flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "47.14 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the star of david and the girl with red curly hair vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 17.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue overalls and the background houses vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue overalls and the background houses are 1.0 centimeters apart vertically from each other."
+  }
+]

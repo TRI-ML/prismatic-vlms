@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the cabinetry and the plant in vase on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the plant in vase on counter and the microwave, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "microwave is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant in vase on counter and the microwave, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is microwave."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the plant in vase on counter to the microwave."
+  },
+  {
+    "from": "gpt",
+    "value": "10.55 meters"
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the microwave."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  }
+]

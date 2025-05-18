@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the bananas from the bowl of yellow fruit with spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 56.0 centimeters exists between the bananas and the bowl of yellow fruit with spoon."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the strawberries in glass bowl to the bowl of yellow fruit with spoon."
+  },
+  {
+    "from": "gpt",
+    "value": "the strawberries in glass bowl is 48.6 centimeters away from the bowl of yellow fruit with spoon."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the bananas less distant than that of the bowl of yellow fruit with spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bananas is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas is 11.1 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Does the bananas lie in front of the strawberries in glass bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the strawberries in glass bowl."
+  }
+]

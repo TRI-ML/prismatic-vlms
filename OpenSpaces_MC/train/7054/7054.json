@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the cutting board appear over the small bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cutting board is above the small bowl."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wooden spoon and the small bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon is 1.4 centimeters from the small bowl."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the wooden spoon and the small bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon is 9.35 centimeters from the small bowl vertically."
+  },
+  {
+    "from": "human",
+    "value": "Between the wooden spoon and the knife, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, wooden spoon appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the wooden spoon occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon is 7.7 inches wide."
+  }
+]

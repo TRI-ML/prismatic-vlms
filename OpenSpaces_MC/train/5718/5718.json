@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the white teddy bear with pink bow from the brown teddy bear vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white teddy bear with pink bow and the brown teddy bear are 0.4 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the blue teddy bear or the white teddy bear with pink bow?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue teddy bear appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the black teddy bear from the blue teddy bear horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 10.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue teddy bear and the white teddy bear with pink bow."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 67.0 centimeters exists between the blue teddy bear and the white teddy bear with pink bow."
+  },
+  {
+    "from": "human",
+    "value": "How far is the brown teddy bear from the white teddy bear with red hearts?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 15.3 centimeters exists between the brown teddy bear and the white teddy bear with red hearts."
+  }
+]

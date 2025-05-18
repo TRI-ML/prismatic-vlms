@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the wet black asphalt road appear on the right side of the person walking on snow-covered side of road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the wet black asphalt road is not on the right side of the person walking on snow-covered side of road."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the wet black asphalt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the wet black asphalt road or the snow-covered trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is wet black asphalt road."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white rectangular sign above stop sign and the snow-covered trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white rectangular sign above stop sign from the snow-covered trees is 3.3 feet."
+  },
+  {
+    "from": "human",
+    "value": "Between the wet black asphalt road and the person walking on snow-covered side of road, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is wet black asphalt road."
+  }
+]

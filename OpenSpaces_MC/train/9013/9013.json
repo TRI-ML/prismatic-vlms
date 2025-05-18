@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the children in soccer camp t-shirts (repeated) to the parents holding children."
+  },
+  {
+    "from": "gpt",
+    "value": "the children in soccer camp t-shirts (repeated) is 1.7 meters away from the parents holding children."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the sky from the parents holding children?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the sky from the parents holding children is 9.19 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the parents to the right of the parents holding children from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the parents is not on the right side of the parents holding children."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the parents to the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the parents is 5.11 meters from the sky."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the soccer balls?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 43.13 centimeters."
+  }
+]

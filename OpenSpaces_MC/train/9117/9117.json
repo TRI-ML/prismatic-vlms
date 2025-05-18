@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the hanging objects on the wall to the hanging objects on the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the hanging objects on the wall from the hanging objects on the wall is 78.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the shelves on the wall to the hanging objects on the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the hanging objects on the wall have a lesser width compared to the pictures on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the hanging objects on the wall might be wider or the same width as the pictures on the wall."
+  },
+  {
+    "from": "human",
+    "value": "How big is the pictures on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the pictures on the wall and the hanging objects on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 centimeters"
+  }
+]

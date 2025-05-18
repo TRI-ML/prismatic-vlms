@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the road with white lines less distant than that of the van on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the road with white lines is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the road with white lines closer to camera compared to the van on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the van on the right side of the road."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the yellow house on the left and the skateboarder in mid-air horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow house on the left and the skateboarder in mid-air are 11.4 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the yellow house on the left from the road with white lines?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow house on the left is 8.82 meters away from the road with white lines."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the road with white lines and the van on the right side of the road."
+  },
+  {
+    "from": "gpt",
+    "value": "the road with white lines and the van on the right side of the road are 28.2 meters apart horizontally from each other."
+  }
+]

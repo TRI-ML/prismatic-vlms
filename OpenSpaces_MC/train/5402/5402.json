@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the pull sign or the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is door."
+  },
+  {
+    "from": "human",
+    "value": "Is the man's t-shirt to the right of the large shopping bag from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the man's t-shirt to the right of the large shopping bag."
+  },
+  {
+    "from": "human",
+    "value": "Between the pull sign and the door, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, door appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the pull sign or the woman's dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman's dress is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the door or the man's shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is door."
+  }
+]

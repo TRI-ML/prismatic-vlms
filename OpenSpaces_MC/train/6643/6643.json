@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the stacked boxes and the boxes, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "stacked boxes is taller."
+  },
+  {
+    "from": "human",
+    "value": "How far is the boxes from the boxes horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the boxes from the boxes is 18.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the boxes and the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.84 meters exists between the boxes and the floor."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the stacked boxes from the boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 4.5 feet from the boxes vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes shorter than the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the boxes has a lesser height compared to the stacked boxes."
+  }
+]

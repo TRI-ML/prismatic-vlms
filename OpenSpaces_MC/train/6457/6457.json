@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the cabinets and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinets and the plant are 1.03 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the couch or the clock on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "couch is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the cabinets to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cabinets from the plant is 1.03 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the couch lie in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the cabinets is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  }
+]

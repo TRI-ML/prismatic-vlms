@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the person with brown hair appear on the left side of the person with red helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person with brown hair to the left of the person with red helmet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow bus is positioned to the left of the person with red helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow bus is not to the left of the person with red helmet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the shop and the yellow bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shop and the yellow bus are 14.8 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the large building is wider than the orange bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the large building's width does not surpass the orange bus's."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person with brown hair is wider than the person with red helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person with brown hair's width does not surpass the person with red helmet's."
+  }
+]

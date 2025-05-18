@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the green chandelier from the plant on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant on wall and the plant on wall, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is plant on wall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the green chandelier and the plant on wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the green chandelier from the plant on wall is 24.74 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the plant on wall and the plant on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant on wall is 21.0 centimeters from the plant on wall."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the plant on wall occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant on wall is 4.11 meters tall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white table and the gray pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white table and the gray pillow are 38.1 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white table from the gray pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white table is 38.1 inches from the gray pillow."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the mirror and the gray pillow."
+  },
+  {
+    "from": "gpt",
+    "value": "the mirror is 38.0 inches from the gray pillow."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray pillow and the gray couch, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, gray pillow appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray pillow and the gray couch, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is gray couch."
+  }
+]

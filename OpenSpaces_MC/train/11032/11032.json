@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person sitting on bench is 23.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the person skateboarding to the person standing with hand on hip."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.82 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person skateboarding or the person skateboarding?"
+  },
+  {
+    "from": "gpt",
+    "value": "person skateboarding is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person skateboarding in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person skateboarding is 90.97 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the person skateboarding from the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 38.0 feet."
+  }
+]

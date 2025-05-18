@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the red brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the silver suv with green stripe taller than the white suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the silver suv with green stripe's height is not larger of the white suv's."
+  },
+  {
+    "from": "human",
+    "value": "Does the white suv lie behind the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the silver suv with green stripe to the white suv."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.67 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver suv with green stripe positioned at the back of the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the person walking."
+  }
+]

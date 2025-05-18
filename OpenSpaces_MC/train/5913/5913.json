@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the ceiling to the couch."
+  },
+  {
+    "from": "gpt",
+    "value": "the ceiling and the couch are 6.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the ceiling to the right of the chairs from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the ceiling is not to the right of the chairs."
+  },
+  {
+    "from": "human",
+    "value": "Is the ceiling in front of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the window."
+  },
+  {
+    "from": "human",
+    "value": "Is the ceiling closer to the viewer compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the ceiling from the window vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ceiling and the window are 4.0 meters apart vertically from each other."
+  }
+]

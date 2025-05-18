@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the person in puffer jacket and the ketchup bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.0 meters exists between the person in puffer jacket and the ketchup bottle."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person in puffer jacket and the ketchup bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in puffer jacket is 5.0 meters from the ketchup bottle."
+  },
+  {
+    "from": "human",
+    "value": "Between the ketchup bottle and the person in puffer jacket, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in puffer jacket is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the ketchup bottle in front of the person in puffer jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the ketchup bottle is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the person in puffer jacket to the ketchup bottle."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.2 meters apart."
+  }
+]

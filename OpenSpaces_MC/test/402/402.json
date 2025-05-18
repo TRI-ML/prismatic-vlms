@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the red building."
+  },
+  {
+    "from": "gpt",
+    "value": "13.49 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the palm trees and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 33.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the palm trees or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, palm trees appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the park benches and the red building, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "red building is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the park benches to the red building."
+  },
+  {
+    "from": "gpt",
+    "value": "the park benches and the red building are 7.0 feet apart vertically from each other."
+  }
+]

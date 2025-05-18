@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue vase come in front of the black object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Does the black object lie behind the wooden coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black object is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white pillows more distant than that of the blue vase?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white pillows is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far is the rug from the glass objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the rug and the glass objects."
+  },
+  {
+    "from": "human",
+    "value": "How big is the black object in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the black object is 7.9 feet."
+  }
+]

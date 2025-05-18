@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the second base coach in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the second base coach is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the second base coach come behind the third baseline?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the second base coach behind the home plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the home plate."
+  },
+  {
+    "from": "human",
+    "value": "Does the first baseline lie behind the third baseline?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the third baseline."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the batter to the umpire."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the batter from the umpire is 16.7 feet."
+  }
+]

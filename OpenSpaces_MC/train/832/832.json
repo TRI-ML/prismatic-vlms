@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the white wristbands to the yellow tennis racket."
+  },
+  {
+    "from": "gpt",
+    "value": "19.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue tennis court from the white wristbands?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue tennis court from the white wristbands is 47.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue tennis court from the white wristbands vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 21.75 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the blue tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 36.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue headband and the blue tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue headband and the blue tennis court are 3.62 feet apart from each other."
+  }
+]

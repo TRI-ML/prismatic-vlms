@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is higher up, the gray pole or the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "white car is above."
+  },
+  {
+    "from": "human",
+    "value": "Between the walk/don't walk sign and the white car, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "white car is below."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the red brick building to the white car."
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the gray pole or the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is white car."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the gray pole is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  }
+]

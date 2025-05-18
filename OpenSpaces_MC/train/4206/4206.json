@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the skateboard is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the skateboard is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the grass wider than the child wearing orange t-shirt, gray shorts, and pink helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the grass has a greater width compared to the child wearing orange t-shirt, gray shorts, and pink helmet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the trees from the grass vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the grass are 1.2 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the skateboard from the chain-link fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is wider than the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees is not wider than the grass."
+  }
+]

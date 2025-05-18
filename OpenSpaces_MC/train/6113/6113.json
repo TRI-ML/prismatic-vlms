@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the white sauce and the person's hands?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.63 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far is the green sauce from the paper with writing horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green sauce and the paper with writing are 76.0 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the green sauce is."
+  },
+  {
+    "from": "gpt",
+    "value": "the green sauce is 17.3 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the cheese."
+  },
+  {
+    "from": "gpt",
+    "value": "the cheese is 1.51 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the cheese from the clear plastic container?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cheese from the clear plastic container is 1.1 meters."
+  }
+]

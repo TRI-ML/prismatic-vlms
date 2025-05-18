@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the pens in blue pencil holder occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pens in blue pencil holder is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the pens in blue pencil holder from the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "88.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the blue pencil holder and the pens in blue pencil holder, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue pencil holder is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the pens in blue pencil holder and the pens in blue pencil holder, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is pens in blue pencil holder."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pens in blue pencil holder from the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 42.3 centimeters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blue plate with fork from the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue plate with fork is 9.2 inches away from the cell phone."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the white napkin to the cell phone."
+  },
+  {
+    "from": "gpt",
+    "value": "13.53 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the blue plate with fork or the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is cell phone."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blue plate with fork from the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.2 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue plate with fork and the pizza on a metal tray, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is blue plate with fork."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the strawberries from the zucchini?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.13 inches"
+  },
+  {
+    "from": "human",
+    "value": "Between the strawberries and the zucchini, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is strawberries."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the zucchini and the zucchini."
+  },
+  {
+    "from": "gpt",
+    "value": "the zucchini is 18.65 centimeters away from the zucchini."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the green beans?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green beans is 64.6 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the zucchini further to the viewer compared to the zucchini?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

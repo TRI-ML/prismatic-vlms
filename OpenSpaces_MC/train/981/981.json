@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the black purse and the yellow umbrella, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is yellow umbrella."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the black stockings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black stockings is 81.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the yellow shoes or the red coat?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow shoes is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the black stockings or the yellow shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow shoes is below."
+  },
+  {
+    "from": "human",
+    "value": "Between the black purse and the yellow umbrella, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "black purse is shorter."
+  }
+]

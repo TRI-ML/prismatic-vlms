@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the rug and the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the rug is 12.11 feet from the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the rug is."
+  },
+  {
+    "from": "gpt",
+    "value": "the rug is 1.0 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the rug thinner than the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the rug might be wider or the same width as the lamp."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the couch and the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the couch is 1.8 meters from the table."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the rug and the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the rug and the lamp are 12.11 feet apart."
+  }
+]

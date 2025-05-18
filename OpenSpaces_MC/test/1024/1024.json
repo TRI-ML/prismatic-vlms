@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the machine in the background and the machine in the background, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, machine in the background appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the machine in the background and the machine in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "the machine in the background is 6.3 feet away from the machine in the background."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the machine in the background to the machine in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "the machine in the background and the machine in the background are 1.98 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the machine in the background and the machine in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "the machine in the background and the machine in the background are 11.8 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the machine in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 49.0 feet."
+  }
+]

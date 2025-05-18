@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the vase on table in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the vase on table is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the vase on table and the vase on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 13.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the vase on shelf is wider than the vase on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the vase on shelf is not wider than the vase on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the vase on shelf and the lampshade?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the vase on shelf from the lampshade is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the vase on shelf less distant than that of the vase on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

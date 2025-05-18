@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the window and the yellow pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.34 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the window."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the window is 55.4 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the coffee table in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the coffee table is 1.08 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the plant is."
+  },
+  {
+    "from": "gpt",
+    "value": "the plant is 43.5 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the coffee table and the vase with flowers vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee table is 1.0 centimeters away from the vase with flowers vertically."
+  }
+]

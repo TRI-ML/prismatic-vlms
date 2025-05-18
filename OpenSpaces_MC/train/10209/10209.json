@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the ladder to the stack of boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 17.0 centimeters exists between the ladder and the stack of boxes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red delivery truck is bigger than the blue warehouse building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the red delivery truck has a larger size compared to the blue warehouse building."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the stack of boxes and the red delivery truck vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 0.47 inches exists between the stack of boxes and the red delivery truck."
+  },
+  {
+    "from": "human",
+    "value": "How close is the red delivery truck from the blue warehouse building?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 69.3 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the stack of pallets and the warehouse interior horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 17.67 centimeters exists between the stack of pallets and the warehouse interior."
+  }
+]

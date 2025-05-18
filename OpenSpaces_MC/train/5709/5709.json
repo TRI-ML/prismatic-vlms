@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the kitchen cabinets in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the kitchen floor in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the kitchen table or the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen cabinets is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the kitchen cabinets or the kitchen floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen floor is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the kitchen floor and the kitchen countertop."
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen floor is 1.5 meters away from the kitchen countertop."
+  }
+]

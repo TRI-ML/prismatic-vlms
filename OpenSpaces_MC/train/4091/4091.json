@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the picture frame on wall from the bed with white sheets, red blanket, and brown headboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.77 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the window with white curtains in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the window with white curtains is 2.49 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the window with white curtains."
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the white chair with metal legs come in front of the small square table with metal legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white chair with metal legs is in front of the small square table with metal legs."
+  },
+  {
+    "from": "human",
+    "value": "Is the picture frame on wall positioned in front of the bed with white sheets, red blanket, and brown headboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bed with white sheets, red blanket, and brown headboard is behind the picture frame on wall."
+  }
+]

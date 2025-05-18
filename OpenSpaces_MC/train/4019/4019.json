@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the table to the plant in window."
+  },
+  {
+    "from": "gpt",
+    "value": "2.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the table and the books on bookcase."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.0 meters exists between the table and the books on bookcase."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is wider than the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the window is wider than the chair."
+  },
+  {
+    "from": "human",
+    "value": "Is the table wider than the plant in window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the table exceeds that of the plant in window."
+  },
+  {
+    "from": "human",
+    "value": "Does the chair appear on the right side of the plant in window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the chair is not on the right side of the plant in window."
+  }
+]

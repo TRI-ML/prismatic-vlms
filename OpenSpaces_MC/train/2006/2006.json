@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the brown leather couch behind the brown leather ottoman (duplicate)?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the light fixture and the window."
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture and the window are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the light fixture and the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture is 21.08 inches away from the window vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white pillow and the black pillow."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white pillow from the black pillow is 16.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the light fixture less distant than that of the white pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the white pillow."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white boxes is 2.02 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall is 9.4 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white boxes is thinner than the blue metal structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white boxes is not thinner than the blue metal structure."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red doors from the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red doors is 6.7 feet from the white wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the white wall have a greater width compared to the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white wall's width does not surpass the white boxes's."
+  }
+]

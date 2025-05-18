@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bush with red flowers to the left of the pink umbrella held by another girl from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bush with red flowers is to the left of the pink umbrella held by another girl."
+  },
+  {
+    "from": "human",
+    "value": "Is the pink umbrella held by another girl to the left of the girl in green shirt and yellow shorts from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the pink umbrella held by another girl is either to the right of or directly aligned with the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the pink umbrella held by another girl to the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "the pink umbrella held by another girl is 1.8 meters from the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "human",
+    "value": "Does the shed roof have a greater width compared to the girl in green shirt and yellow shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the shed roof might be narrower or the same width as the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the blue umbrella held by a girl to the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue umbrella held by a girl and the girl in green shirt and yellow shorts are 2.58 meters apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the cd case shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the cd case shelf is 38.7 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cd case shelf is positioned to the right of the box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cd case shelf is not to the right of the box."
+  },
+  {
+    "from": "human",
+    "value": "Is the cd case shelf to the left of the box from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the cd case shelf to the left of the box."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the couch is positioned to the right of the bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the couch to the right of the bookshelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bookshelf and the cd case shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the bookshelf and the cd case shelf are 1.0 meters apart from each other."
+  }
+]

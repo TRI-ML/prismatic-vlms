@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the cabbage and the table?Could you provide the horizontal distance between the cabbage and the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabbage is 24.26 inches from the table horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the wicker chair and the pie slice on plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wicker chair and the pie slice on plate are 64.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the pie slice on plate or the cabbage?"
+  },
+  {
+    "from": "gpt",
+    "value": "pie slice on plate is below."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the pie slice on plate in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "17.12 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the wicker chair from the pie slice on plate horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 41.05 centimeters exists between the wicker chair and the pie slice on plate."
+  }
+]

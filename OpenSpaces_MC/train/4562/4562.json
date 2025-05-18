@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the white tufted couch to the blue and white bowls."
+  },
+  {
+    "from": "gpt",
+    "value": "the white tufted couch and the blue and white bowls are 73.68 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wicker chair and the blue and white bowls?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wicker chair and the blue and white bowls are 81.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the wicker chair to the blue and white bowls."
+  },
+  {
+    "from": "gpt",
+    "value": "the wicker chair and the blue and white bowls are 81.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the wicker chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 31.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the white tufted couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white tufted couch is 2.0 meters in width."
+  }
+]

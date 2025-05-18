@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person riding horse is positioned to the left of the wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person riding horse is not on the left side of the wooden fence."
+  },
+  {
+    "from": "human",
+    "value": "Does the person riding horse appear on the left side of the wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person riding horse is not on the left side of the wooden fence."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the trees and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 93.53 feet exists between the trees and the trees."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person riding horse from the wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding horse is 33.2 feet from the wooden fence."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the trees and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.4 centimeters apart."
+  }
+]

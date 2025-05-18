@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the light poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light poles is 27.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stores is bigger than the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stores is not bigger than the people."
+  },
+  {
+    "from": "human",
+    "value": "Is the stores bigger than the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stores is not bigger than the people."
+  },
+  {
+    "from": "human",
+    "value": "Does the people have a larger size compared to the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people has a larger size compared to the people."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stores is bigger than the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the stores is not larger than the people."
+  }
+]

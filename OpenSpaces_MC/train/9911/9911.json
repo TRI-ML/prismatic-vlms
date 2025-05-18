@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the zebra in the foreground or the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, zebra in the foreground appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the zebra on the left side or the zebra in the foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, zebra on the left side appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the stone wall and the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stone wall is 20.1 meters away from the person in the background."
+  },
+  {
+    "from": "human",
+    "value": "Between the stone wall and the person in the background, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in the background is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person in the background and the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in the background is 28.61 inches from the person in the background."
+  }
+]

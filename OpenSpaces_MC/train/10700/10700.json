@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the sidewalk appear on the left side of the telephone pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the sidewalk is to the left of the telephone pole."
+  },
+  {
+    "from": "human",
+    "value": "Is the sidewalk to the left of the telephone pole from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the sidewalk is to the left of the telephone pole."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the sidewalk to the telephone pole."
+  },
+  {
+    "from": "gpt",
+    "value": "the sidewalk and the telephone pole are 8.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the sidewalk in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sidewalk is 20.0 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the sidewalk is 50.77 centimeters."
+  }
+]

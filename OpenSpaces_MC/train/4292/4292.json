@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the cardboard box to the cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.77 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the cardboard box or the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "cardboard box is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cardboard box is positioned to the left of the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cardboard box is not on the left side of the cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box appear on the left side of the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cardboard box is not to the left of the cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cardboard box from the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cardboard box from the cardboard box is 5.0 meters."
+  }
+]

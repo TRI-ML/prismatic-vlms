@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the hills and the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the hills from the grass is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the grass and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 21.36 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the hills and the grass vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the hills is 90.0 centimeters away from the grass vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the sheep and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 5.0 feet from the trees."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sheep and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 5.0 feet away from the trees."
+  }
+]

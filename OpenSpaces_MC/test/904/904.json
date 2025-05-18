@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the white chair and the table with banner, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white chair."
+  },
+  {
+    "from": "human",
+    "value": "Between the doorway and the white rug, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "doorway is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white chair from the table with banner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair and the table with banner are 9.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white chair is wider than the television?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white chair has a greater width compared to the television."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white chair is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the white chair is 1.7 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the shed roof from the blue umbrella held by a girl?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the girl in green shirt and yellow shorts is bigger than the girl in green shirt and yellow shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the girl in green shirt and yellow shorts is larger in size than the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "human",
+    "value": "Does the bush with red flowers have a larger size compared to the blue umbrella held by a girl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the bush with red flowers might be smaller or the same size as the blue umbrella held by a girl."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the shed roof and the blue umbrella held by a girl horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bush with red flowers and the girl in green shirt and yellow shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  }
+]

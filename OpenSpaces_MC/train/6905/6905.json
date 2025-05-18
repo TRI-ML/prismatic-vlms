@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the woman carrying bags from the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman carrying bags is 24.62 feet away from the van."
+  },
+  {
+    "from": "human",
+    "value": "Is the one way sign above the storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the one way sign is located above the storefront."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the striped pole to the one way sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the striped pole is 18.0 feet away from the one way sign horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman carrying bags positioned behind the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the van is in front of the woman carrying bags."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the striped pole to the one way sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the striped pole is 2.0 meters from the one way sign."
+  }
+]

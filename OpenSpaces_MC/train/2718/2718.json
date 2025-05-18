@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the don't block the box sign from the new store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the don't block the box sign and the new store sign are 26.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the new store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the new store sign is 2.1 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the new store sign from the walgreens sign horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 13.3 meters exists between the new store sign and the walgreens sign."
+  },
+  {
+    "from": "human",
+    "value": "Does the traffic light come behind the don't block the box sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Does the rent store sign lie behind the no turn on red sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the rent store sign is behind the no turn on red sign."
+  }
+]

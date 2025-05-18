@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the kitchen cabinets shorter than the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the kitchen cabinets is not as tall as the lighting."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove positioned behind the kitchen drawers?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stove is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the menu on table and the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the menu on table from the stove is 5.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the tv on wall from the refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.5 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the menu on table come behind the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the menu on table is further from the viewer."
+  }
+]

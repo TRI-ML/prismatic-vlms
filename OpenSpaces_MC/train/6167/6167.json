@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the woman in pink shirt from the ellis street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in pink shirt and the ellis street sign are 59.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman in red shirt is positioned to the right of the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the woman in red shirt is positioned on the right side of the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in white shirt to the right of the traffic light from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the woman in white shirt to the right of the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the woman in yellow shirt or the woman in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, woman in green shirt appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman in yellow shirt is positioned to the right of the woman in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the woman in yellow shirt is not to the right of the woman in green shirt."
+  }
+]

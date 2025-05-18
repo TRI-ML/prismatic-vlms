@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the additional pillows and the candlesticks horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the additional pillows from the candlesticks is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the vase on shelf and the tv on wooden shelf vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the vase on shelf from the tv on wooden shelf is 32.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the additional pillows appear on the right side of the candlesticks?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the additional pillows is not to the right of the candlesticks."
+  },
+  {
+    "from": "human",
+    "value": "Does the vase on shelf appear on the right side of the tv on wooden shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the vase on shelf is not to the right of the tv on wooden shelf."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the additional pillows is smaller than the candlesticks?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the additional pillows might be larger or the same size as the candlesticks."
+  }
+]

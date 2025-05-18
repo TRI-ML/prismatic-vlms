@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white ottoman or the large mirror on brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "white ottoman is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the white ottoman and the large mirror on brick wall, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white ottoman."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the long wooden dining table or the black standing fan?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is black standing fan."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair positioned in front of the large mirror on brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black chair is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the white circular ottoman or the long wooden dining table?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white circular ottoman appears more on the right side."
+  }
+]

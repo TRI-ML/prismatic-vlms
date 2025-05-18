@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the stuffed monkey toy and the gray tiled wall, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "stuffed monkey toy is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the ice in toilet bowl or the gray tiled wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray tiled wall is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the stuffed monkey toy or the gray tiled wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "stuffed monkey toy is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Between the hand and the gray tiled wall, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray tiled wall is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the hand or the gray tiled wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "hand is above."
+  }
+]

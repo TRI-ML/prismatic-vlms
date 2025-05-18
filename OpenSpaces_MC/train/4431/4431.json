@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the box on top level and the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 27.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the boxes on hand truck or the box on bottom level?"
+  },
+  {
+    "from": "gpt",
+    "value": "box on bottom level is above."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the boxes on hand truck or the box on bottom level?"
+  },
+  {
+    "from": "gpt",
+    "value": "box on bottom level is higher up."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the box on top level?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 27.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the box on bottom level?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the box on bottom level is 16.5 meters."
+  }
+]

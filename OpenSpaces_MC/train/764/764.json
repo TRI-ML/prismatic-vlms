@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the brown chair from the brown couch with black arms vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the brown and white rug and the white cup, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, brown and white rug appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the white cup and the brown object?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 29.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown lamp and the brown and white rug, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown lamp is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the brown chair or the brown couch with black arms?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, brown couch with black arms appears more on the right side."
+  }
+]

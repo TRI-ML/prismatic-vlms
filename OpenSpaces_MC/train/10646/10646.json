@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the window and the picture frame horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.04 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the bath tub and the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "73.06 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the window and the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the window and the picture frame horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the window from the picture frame is 2.04 meters."
+  }
+]

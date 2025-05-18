@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the tv on wall appear on the right side of the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tv on wall is to the right of the tv on wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the tv on wall appear on the right side of the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tv on wall is not on the right side of the tv on wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the tv on wall appear on the right side of the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tv on wall is not to the right of the tv on wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 57.15 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "57.2 centimeters"
+  }
+]

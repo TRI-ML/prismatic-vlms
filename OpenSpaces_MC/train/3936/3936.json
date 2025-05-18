@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the black chair wider than the brown table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black chair is wider than the brown table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cabinet is wider than the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cabinet is wider than the black chair."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair to the left of the brown table from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the black chair is not on the left side of the brown table."
+  },
+  {
+    "from": "human",
+    "value": "Does the black chair appear on the left side of the brown table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black chair is not to the left of the brown table."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cabinet from the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet and the black chair are 3.43 meters apart from each other."
+  }
+]

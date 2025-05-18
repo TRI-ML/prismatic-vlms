@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the blue vertical poles and the blue vertical poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue vertical poles from the blue vertical poles is 8.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the blue vertical poles and the blue vertical poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 46.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the black metal structure or the stack of brown boxes on blue pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "black metal structure is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue vertical poles and the blue vertical poles, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue vertical poles is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black metal structure and the blue vertical poles horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  }
+]

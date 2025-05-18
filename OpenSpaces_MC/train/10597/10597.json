@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant is 1.4 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the door."
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 37.8 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the wall to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 2.1 meters exists between the wall and the plant."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the door and the plant vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 6.87 inches from the plant vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant positioned behind the staircase?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plant is behind the staircase."
+  }
+]

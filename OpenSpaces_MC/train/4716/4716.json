@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the black car parts to the left of the blue port-a-potty from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the black car parts is positioned on the left side of the blue port-a-potty."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the white jeep and the gray umbrella."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 26.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the orange cone appear on the left side of the white concrete block?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the orange cone is to the left of the white concrete block."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the orange cone from the white concrete block?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange cone is 5.39 meters from the white concrete block."
+  },
+  {
+    "from": "human",
+    "value": "Does the white jeep lie in front of the gray umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

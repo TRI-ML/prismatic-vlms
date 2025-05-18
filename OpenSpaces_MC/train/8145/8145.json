@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the lion face sculpture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lion face sculpture is 12.32 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How big is the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "22.13 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the white sculpture and the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white sculpture is 4.4 feet away from the picture on wall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the lion face sculpture to the white sculpture."
+  },
+  {
+    "from": "gpt",
+    "value": "the lion face sculpture and the white sculpture are 18.0 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the white sculpture and the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 78.19 centimeters exists between the white sculpture and the picture on wall."
+  }
+]

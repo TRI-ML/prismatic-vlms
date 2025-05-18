@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the person standing against fence come behind the scoreboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the scoreboard letters behind the scoreboard letters?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the scoreboard letters is bigger than the scoreboard letters?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the scoreboard letters is bigger than the scoreboard letters."
+  },
+  {
+    "from": "human",
+    "value": "Is the scoreboard letters further to camera compared to the scoreboard letters?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the scoreboard letters is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the scoreboard letters have a larger size compared to the scoreboard letters?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the scoreboard letters is larger in size than the scoreboard letters."
+  }
+]

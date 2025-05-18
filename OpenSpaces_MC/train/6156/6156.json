@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the waffle with chicken is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 85.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the beer bottle opener?"
+  },
+  {
+    "from": "gpt",
+    "value": "the beer bottle opener is 16.4 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the beer bottle opener."
+  },
+  {
+    "from": "gpt",
+    "value": "the beer bottle opener is 16.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the waffle with chicken."
+  },
+  {
+    "from": "gpt",
+    "value": "85.12 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the beer bottle in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the beer bottle is 13.6 centimeters tall."
+  }
+]

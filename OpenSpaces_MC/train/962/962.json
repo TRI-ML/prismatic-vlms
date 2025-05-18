@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket is 20.9 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.16 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the clock on wall and the basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 5.32 meters from the basket."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the cabinet or the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "cabinet is above."
+  },
+  {
+    "from": "human",
+    "value": "Between the cabinet and the clock on wall, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is cabinet."
+  }
+]

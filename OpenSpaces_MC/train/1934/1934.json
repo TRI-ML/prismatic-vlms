@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the kitchen cabinets and the kitchen chairs."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the kitchen cabinets from the kitchen chairs is 4.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the kitchen drawers?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the kitchen cabinets is thinner than the kitchen chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the kitchen cabinets has a lesser width compared to the kitchen chairs."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the kitchen drawers is positioned to the left of the light fixture?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the kitchen drawers is not on the left side of the light fixture."
+  },
+  {
+    "from": "human",
+    "value": "Is the light fixture thinner than the kitchen counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the light fixture might be wider or the same width as the kitchen counter."
+  }
+]

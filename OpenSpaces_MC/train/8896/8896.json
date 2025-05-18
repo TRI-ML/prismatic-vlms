@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the hotel wider than the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the hotel is not wider than the palm trees."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the man in shorts and the hotel?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the man in shorts from the hotel is 18.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the hotel positioned behind the woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in shorts wider than the hotel?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in shorts is not wider than the hotel."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the man in shorts occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in shorts is 6.51 meters in height."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the cds on shelf and the printer, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cds on shelf appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cds on shelf is positioned to the left of the cds on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cds on shelf is to the left of the cds on shelf."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the books and the laptop?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books and the laptop are 8.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the books is positioned to the left of the laptop?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the books to the left of the laptop."
+  },
+  {
+    "from": "human",
+    "value": "Between the cds on shelf and the cds on shelf, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cds on shelf appears more on the right side."
+  }
+]

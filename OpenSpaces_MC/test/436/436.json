@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the stacked boxes is smaller than the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the stacked boxes might be larger or the same size as the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stacked boxes from the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 0.01 inches away from the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the stacked boxes closer to camera compared to the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the stacked boxes closer to camera compared to the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the stacked boxes lie in front of the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

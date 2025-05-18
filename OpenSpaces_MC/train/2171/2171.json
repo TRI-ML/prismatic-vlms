@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the chair behind the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the chair is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the chair from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair and the plant are 139.1 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant further to camera compared to the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the chair is in front of the plant."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the chair more distant than that of the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Does the table lie behind the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

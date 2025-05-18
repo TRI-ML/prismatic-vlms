@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the brown table or the white cup?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white cup."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cupcake is bigger than the black cake?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cupcake is not bigger than the black cake."
+  },
+  {
+    "from": "human",
+    "value": "Is the black birds bigger than the brown table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the black birds is larger in size than the brown table."
+  },
+  {
+    "from": "human",
+    "value": "Is the cupcake bigger than the black cake?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cupcake is not bigger than the black cake."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the black cake?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black cake is 51.0 centimeters in height."
+  }
+]

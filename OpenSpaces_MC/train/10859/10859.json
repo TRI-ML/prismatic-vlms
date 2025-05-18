@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the striped bench lie behind the striped bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the striped bench positioned behind the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the striped bench is behind the wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the striped bench cushions from the striped bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "the striped bench cushions is 3.9 feet from the striped bench."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the striped bench from the striped bench vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the wooden chairs and the striped cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden chairs is 24.25 inches from the striped cushions vertically."
+  }
+]

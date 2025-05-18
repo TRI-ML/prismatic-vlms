@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the silver object or the plastic-wrapped spool?"
+  },
+  {
+    "from": "gpt",
+    "value": "plastic-wrapped spool is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the silver object or the plastic-wrapped spool?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is plastic-wrapped spool."
+  },
+  {
+    "from": "human",
+    "value": "Is the fluorescent lights closer to the viewer compared to the plastic-wrapped spool?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the fluorescent lights is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver object closer to the viewer compared to the plastic-wrapped spool?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the yellow line or the gray concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow line is more to the right."
+  }
+]

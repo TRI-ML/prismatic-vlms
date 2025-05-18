@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the lan airline logo and the no smoking sign, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "lan airline logo is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the hotel advertisement from the lan airline logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.37 meters exists between the hotel advertisement and the lan airline logo."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cargo plane from the hotel advertisement?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cargo plane and the hotel advertisement are 8.5 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the lan airline logo and the low bench vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lan airline logo is 17.17 inches away from the low bench vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the lan airline logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.39 centimeters."
+  }
+]

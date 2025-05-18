@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the light fixture on ceiling or the light fixture on ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "light fixture on ceiling is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the light fixture on ceiling wider than the light fixture on ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the light fixture on ceiling is wider than the light fixture on ceiling."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the light fixture on ceiling from the light fixture on ceiling horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture on ceiling and the light fixture on ceiling are 16.4 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the light fixture on ceiling wider than the light fixture on ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the light fixture on ceiling exceeds that of the light fixture on ceiling."
+  },
+  {
+    "from": "human",
+    "value": "How big is the light fixture on ceiling in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the light fixture on ceiling is 5.89 feet."
+  }
+]

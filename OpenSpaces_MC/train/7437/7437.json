@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.33 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the window in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 73.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How far is the light from the man vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the light from the man is 5.36 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the light to the man."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the light from the man is 26.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the building closer to camera compared to the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

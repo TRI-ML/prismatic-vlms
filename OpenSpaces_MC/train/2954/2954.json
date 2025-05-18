@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the light fixture from the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture and the toilet are 4.4 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the toilet paper from the light fixture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet paper and the light fixture are 1.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the toilet paper closer to the viewer compared to the hand soap?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the toilet paper positioned in front of the hand soap?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the toilet paper is positioned below the hand soap?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the toilet paper is either above or at the same elevation as the hand soap."
+  }
+]

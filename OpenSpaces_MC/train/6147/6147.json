@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the metal table with floral design?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.77 inches."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the white wall on the right side and the gray wooden floor."
+  },
+  {
+    "from": "gpt",
+    "value": "11.8 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the white wall on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall on the right side is 25.0 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the metal table with floral design and the white ball in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 16.0 centimeters exists between the metal table with floral design and the white ball in the background."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the gray cabinet in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 84.0 centimeters."
+  }
+]

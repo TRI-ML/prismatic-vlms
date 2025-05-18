@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the books to the left of the tv stand from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the books is not on the left side of the tv stand."
+  },
+  {
+    "from": "human",
+    "value": "Is the tv stand to the left of the books from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tv stand is to the left of the books."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the tv stand and the books."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the books and the tv stand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books and the tv stand are 5.79 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the books is thinner than the tv on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the books might be wider or the same width as the tv on wall."
+  }
+]

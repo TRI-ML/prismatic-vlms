@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the train car lie behind the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people is in front of the train car."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the tree and the train car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 26.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the people to the tree."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the people from the tree is 34.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the people wider than the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the people is wider than the people."
+  },
+  {
+    "from": "human",
+    "value": "Is the people further to camera compared to the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people is closer to the viewer."
+  }
+]

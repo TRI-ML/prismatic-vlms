@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue cart appear on the left side of the blue cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue cart is to the left of the blue cart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the blue cart and the worker in yellow vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue cart is 72.0 feet from the worker in yellow vest."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue cart have a greater width compared to the blue cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the blue cart has a greater width compared to the blue cart."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue cart wider than the worker in yellow vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue cart is wider than the worker in yellow vest."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the blue cart to the worker in yellow vest."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the blue cart from the worker in yellow vest is 23.29 meters."
+  }
+]

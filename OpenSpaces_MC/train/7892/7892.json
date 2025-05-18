@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the elephant on the left side or the two brown sticks on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, two brown sticks on the ground appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person sitting on the ground and the white building in the background horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the ground and the white building in the background are 1.7 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the elephant on the right side or the white building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, elephant on the right side appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the elephant on the left side or the white building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is elephant on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the person sitting on the ground or the white building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person sitting on the ground."
+  }
+]

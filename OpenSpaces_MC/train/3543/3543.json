@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the red forklift lie behind the blue vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the blue vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the blue vest is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the silver broom handle to the blue vest."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the silver broom handle from the blue vest is 1.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue vest or the blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue vest appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the blue shirt in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 19.0 centimeters."
+  }
+]

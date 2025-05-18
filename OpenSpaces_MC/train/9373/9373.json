@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is above, the red kite or the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "red kite is higher up."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the field of grass and the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the field of grass is 15.47 inches away from the blue sky."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue sky and the clouds, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue sky is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Between the red kite and the clouds, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is red kite."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the blue sky or the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue sky is above."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the red bowl on counter or the red bowl on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red bowl on counter appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the red bowl on counter appear on the right side of the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the red bowl on counter is not to the right of the stool."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the red bowl on counter and the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.7 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the red bowl on counter from the stool horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red bowl on counter and the stool are 3.25 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the stool or the red bowl on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, stool appears more on the right side."
+  }
+]

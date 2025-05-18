@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the brown couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 50.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the brown couch from the yellow pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown couch from the yellow pillow is 19.7 inches."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the brown couch and the striped pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown couch from the striped pillows is 13.81 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the carpet from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.67 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the carpet to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the carpet and the plant are 2.67 meters apart from each other."
+  }
+]

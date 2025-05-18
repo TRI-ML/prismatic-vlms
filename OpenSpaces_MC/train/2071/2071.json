@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman in black shirt is smaller than the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the woman in black shirt has a smaller size compared to the woman in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in black shirt in front of the man in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in black shirt closer to the viewer compared to the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the woman in black shirt is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in black shirt in front of the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the woman in black shirt is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the woman in black shirt and the woman in black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.4 meters."
+  }
+]

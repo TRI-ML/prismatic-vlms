@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the pots and the red box?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the green fruit or vegetable or the man in a boat behind the woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is green fruit or vegetable."
+  },
+  {
+    "from": "human",
+    "value": "How far is the woman wearing a large hat from the stack of plates?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman wearing a large hat is 6.6 feet away from the stack of plates."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the green fruit or vegetable?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green fruit or vegetable is 1.79 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the green fruit or vegetable from the man in a boat behind the woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green fruit or vegetable and the man in a boat behind the woman are 3.7 meters apart from each other."
+  }
+]

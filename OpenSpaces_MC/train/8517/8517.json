@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the gray wall is positioned to the right of the gray metal beam?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the gray wall is either to the left of or directly aligned with the gray metal beam."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the gray wall from the gray metal beam?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall is 3.7 meters away from the gray metal beam horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the gray wall."
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white plates and the silverware."
+  },
+  {
+    "from": "gpt",
+    "value": "the white plates is 70.0 centimeters from the silverware."
+  },
+  {
+    "from": "human",
+    "value": "Does the silverware appear on the right side of the gray door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the silverware is to the right of the gray door."
+  }
+]

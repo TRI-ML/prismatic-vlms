@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the car bigger than the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the car has a larger size compared to the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is positioned to the right of the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car is not to the right of the large building."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the car to the car."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 15.09 meters exists between the car and the car."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bicycle and the person riding bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle and the person riding bicycle are 64.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.92 meters"
+  }
+]

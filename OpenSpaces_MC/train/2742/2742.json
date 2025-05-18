@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the black boxes with orange labels to the left of the white boxes on bottom shelf from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black boxes with orange labels is to the left of the white boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the red boxes with black labels to the white boxes on bottom shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red boxes with black labels from the white boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 88.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white boxes on bottom shelf is positioned to the left of the black boxes with orange labels?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white boxes on bottom shelf to the left of the black boxes with orange labels."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the black boxes with orange labels in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black boxes with orange labels is 5.0 feet in width."
+  }
+]

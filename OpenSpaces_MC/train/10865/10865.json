@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the small table on the right side is shorter than the small table on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the small table on the right side is not shorter than the small table on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the small table on the right side is shorter than the small table on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the small table on the right side has a lesser height compared to the small table on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the small table on the right side is."
+  },
+  {
+    "from": "gpt",
+    "value": "the small table on the right side is 3.4 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the small table on the right side and the small table on the right side."
+  },
+  {
+    "from": "gpt",
+    "value": "the small table on the right side is 19.0 inches away from the small table on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the small table on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small table on the right side is 82.22 centimeters in height."
+  }
+]

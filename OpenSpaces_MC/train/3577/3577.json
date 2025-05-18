@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the garage doors and the white ground."
+  },
+  {
+    "from": "gpt",
+    "value": "the garage doors and the white ground are 1.5 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the parcel being held to the clear blue sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the parcel being held is 1.0 meters from the clear blue sky."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white building is bigger than the mail carrier in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the white building is larger in size than the mail carrier in blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the white building occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the white building have a larger size compared to the parcel being held?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white building is bigger than the parcel being held."
+  }
+]

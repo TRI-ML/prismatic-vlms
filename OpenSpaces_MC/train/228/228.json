@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the forklift controls is positioned to the left of the warehouse atmosphere?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the forklift controls is to the left of the warehouse atmosphere."
+  },
+  {
+    "from": "human",
+    "value": "Does the forklift brand name appear on the left side of the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the forklift brand name is either to the right of or directly aligned with the yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "How close is the warehouse walls from the warehouse environment?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse walls is 30.83 inches away from the warehouse environment."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the forklift controls and the warehouse atmosphere horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 16.6 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the warehouse atmosphere to the forklift brand name."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the warehouse atmosphere from the forklift brand name is 14.75 meters."
+  }
+]

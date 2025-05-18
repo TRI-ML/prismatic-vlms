@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the jars of colorful substances and the text on banner, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "text on banner is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far is the jars of colorful substances from the banner with text?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the jars of colorful substances from the banner with text is 5.97 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far is the jars of colorful substances from the text on banner vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the jars of colorful substances is 2.97 meters away from the text on banner vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the jars of colorful substances and the banner with text?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.97 inches exists between the jars of colorful substances and the banner with text."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the jars of colorful substances or the woman wearing red t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman wearing red t-shirt is lower down."
+  }
+]

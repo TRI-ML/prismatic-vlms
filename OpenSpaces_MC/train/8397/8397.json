@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the moving car in bottom left is positioned to the right of the yellow traffic lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the moving car in bottom left is to the right of the yellow traffic lights."
+  },
+  {
+    "from": "human",
+    "value": "How big is the yellow traffic lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow traffic lights is 22.5 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the yellow traffic lights to the person in black hat and jacket."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow traffic lights and the person in black hat and jacket are 10.8 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the moving car in bottom left to the yellow traffic lights."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 26.1 feet exists between the moving car in bottom left and the yellow traffic lights."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the ffe transportation service text from the person in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the ffe transportation service text from the person in blue shirt is 3.22 meters."
+  }
+]

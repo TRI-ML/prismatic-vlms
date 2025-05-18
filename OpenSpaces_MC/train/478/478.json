@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the garage door come in front of the plant in ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plant in ground is behind the garage door."
+  },
+  {
+    "from": "human",
+    "value": "Is the garage door positioned in front of the plant in ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the garage door is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant in ground lie in front of the plant in ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant in ground closer to the viewer compared to the garage door?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the plant in ground and the garage door?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 20.0 inches exists between the plant in ground and the garage door."
+  }
+]

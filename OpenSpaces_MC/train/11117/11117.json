@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the gray road lie behind the sign reading 'it's life'?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the sign reading 'it's life'."
+  },
+  {
+    "from": "human",
+    "value": "Is the large door further to the viewer compared to the sign reading 'it's life'?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the large door is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the gray road occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the gray road is 5.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray stone columns further to the viewer compared to the large door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the large door more distant than that of the sign reading 'it's life'?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

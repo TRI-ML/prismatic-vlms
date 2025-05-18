@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the yellow forklift to the load on forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "16.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the warehouse is."
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse is 14.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse have a lesser width compared to the dump truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the warehouse's width is less than the dump truck bed's."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the dump truck with red cab and the dump truck front horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 37.72 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the dump truck front is thinner than the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the dump truck front might be wider or the same width as the person."
+  }
+]

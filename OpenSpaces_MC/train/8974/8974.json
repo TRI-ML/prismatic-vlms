@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the worker on ground or the yellow line on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, worker on ground appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow line on ground appear on the left side of the yellow line on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the yellow line on ground to the left of the yellow line on ground."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the ladder and the yellow line on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ladder is 4.0 meters away from the yellow line on ground."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow line on ground to the left of the yellow line on ground from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow line on ground is to the left of the yellow line on ground."
+  },
+  {
+    "from": "human",
+    "value": "Is the ladder to the left of the worker on ground from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the ladder is not to the left of the worker on ground."
+  }
+]

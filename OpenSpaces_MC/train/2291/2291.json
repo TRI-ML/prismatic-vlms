@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the worker's hand and the worker's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's hand is 0.1 centimeters away from the worker's face."
+  },
+  {
+    "from": "human",
+    "value": "Between the worker's pants and the worker's hand, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, worker's hand appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the worker's pants and the worker's hand, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is worker's hand."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the worker's pants to the worker's hand."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the worker's pants from the worker's hand is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the worker's face to the worker in safety vest."
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's face is 0.61 inches away from the worker in safety vest horizontally."
+  }
+]

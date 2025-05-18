@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the strawberries appear on the right side of the silver spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the strawberries is not on the right side of the silver spoon."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white plate or the blueberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "blueberries is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the silver spoon is positioned to the right of the cereal bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the silver spoon is positioned on the right side of the cereal bowl."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the strawberries from the silver spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "the strawberries and the silver spoon are 22.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the cereal bowl and the bread or pastry?Could you provide the horizontal distance between the cereal bowl and the bread or pastry?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cereal bowl and the bread or pastry are 26.2 centimeters apart horizontally."
+  }
+]

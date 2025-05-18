@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the stove with pots on it and the person cooking at the stove?Could you provide the horizontal distance between the stove with pots on it and the person cooking at the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in a black shirt thinner than the stove with pots on it?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person in a black shirt might be wider or the same width as the stove with pots on it."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person in a black shirt to the baked goods on a tray."
+  },
+  {
+    "from": "gpt",
+    "value": "the person in a black shirt and the baked goods on a tray are 3.57 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the person cooking at the stove to the person in a black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the person cooking at the stove and the person in a black shirt are 11.0 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the person in a black shirt to the baked goods on a tray."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.0 meters."
+  }
+]

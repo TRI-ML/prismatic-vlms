@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the cake on table is wider than the cake on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cake on table's width does not surpass the cake on table's."
+  },
+  {
+    "from": "human",
+    "value": "Does the cake on table have a greater width compared to the cake on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cake on table is not wider than the cake on table."
+  },
+  {
+    "from": "human",
+    "value": "Is the cake on table bigger than the cake on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cake on table is not bigger than the cake on table."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cake on table from the cake on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 20.11 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the cake on table have a greater width compared to the cake on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cake on table is wider than the cake on table."
+  }
+]

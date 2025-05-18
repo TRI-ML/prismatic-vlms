@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the yellow object on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 18.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the red object on shelf and the metal magazine rack."
+  },
+  {
+    "from": "gpt",
+    "value": "the red object on shelf is 8.0 feet away from the metal magazine rack horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the yellow object on shelf from the metal magazine rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the red object on shelf and the metal magazine rack."
+  },
+  {
+    "from": "gpt",
+    "value": "the red object on shelf is 8.03 feet away from the metal magazine rack."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the red object on shelf to the metal magazine rack."
+  },
+  {
+    "from": "gpt",
+    "value": "the red object on shelf and the metal magazine rack are 8.03 feet apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the stacked boxes occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.7 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the man in blue sweater come behind the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in blue sweater is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white garage walls and the man in blue sweater."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 34.39 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the man in blue sweater come behind the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the stacked boxes positioned behind the gray garage floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

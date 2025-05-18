@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the shoes and the man in the foreground."
+  },
+  {
+    "from": "gpt",
+    "value": "the shoes and the man in the foreground are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the concrete surface and the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the concrete surface and the person in the background are 47.36 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the building have a greater width compared to the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the building is wider than the skateboard."
+  },
+  {
+    "from": "human",
+    "value": "Is the concrete surface wider than the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the concrete surface has a greater width compared to the person in the background."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the concrete surface and the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the concrete surface is 47.36 feet from the person in the background."
+  }
+]

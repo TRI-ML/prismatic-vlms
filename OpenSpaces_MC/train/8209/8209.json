@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person running and the grassy area?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person running and the grassy area are 15.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person running and the grassy area?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person running is 15.9 meters away from the grassy area."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the kite and the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the lamp post and the kite."
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the walkway is 7.0 feet."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the french fries in a bowl appear on the right side of the light wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the french fries in a bowl to the right of the light wooden table."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the french fries in a bowl and the woman's hand reaching into the bowl horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 37.4 centimeters exists between the french fries in a bowl and the woman's hand reaching into the bowl."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the light wooden table and the french fries in a bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 10.55 inches exists between the light wooden table and the french fries in a bowl."
+  },
+  {
+    "from": "human",
+    "value": "How far is the french fries in a bowl from the woman's hand reaching into the bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the french fries in a bowl from the woman's hand reaching into the bowl is 21.96 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the bowl containing french fries from the woman's hand reaching into the bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bowl containing french fries and the woman's hand reaching into the bowl are 0.1 centimeters apart from each other."
+  }
+]

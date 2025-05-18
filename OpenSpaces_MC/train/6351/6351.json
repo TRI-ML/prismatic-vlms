@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the wooden structure and the oranges on display."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden structure and the oranges on display are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the basket with fruit and the wooden structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket with fruit and the wooden structure are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the basket with fruit or the wooden structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "basket with fruit is above."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the wheelbarrow or fruit stand is."
+  },
+  {
+    "from": "gpt",
+    "value": "1.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the basket with fruit to the price sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the basket with fruit and the price sign are 9.0 feet apart horizontally from each other."
+  }
+]

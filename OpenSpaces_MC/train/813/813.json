@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the white calculator and the black calculator, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black calculator appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white calculator and the black calculator vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white calculator to the black calculator."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 84.19 centimeters exists between the white calculator and the black calculator."
+  },
+  {
+    "from": "human",
+    "value": "Does the white calculator appear over the black calculator?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white calculator is positioned over the black calculator."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the black calculator from the black calculator?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 7.1 feet exists between the black calculator and the black calculator."
+  }
+]

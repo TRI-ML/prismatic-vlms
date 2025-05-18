@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the audience members appear under the man in tan jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the audience members is located below the man in tan jacket."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the audience members?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the advertiser name and the court surface vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 21.34 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the advertiser name to the court surface."
+  },
+  {
+    "from": "gpt",
+    "value": "the advertiser name is 7.1 feet from the court surface."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the audience members is positioned below the man in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the audience members is positioned under the man in black shirt."
+  }
+]

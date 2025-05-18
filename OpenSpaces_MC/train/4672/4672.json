@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the magazine to the wii fit box."
+  },
+  {
+    "from": "gpt",
+    "value": "the magazine is 9.0 feet away from the wii fit box."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the fireplace and the dvd player?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wii fit box and the magazine?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wii fit box and the magazine are 2.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wii fit box and the magazine?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.7 meters exists between the wii fit box and the magazine."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the fireplace or the dvd player?"
+  },
+  {
+    "from": "gpt",
+    "value": "dvd player is more to the left."
+  }
+]

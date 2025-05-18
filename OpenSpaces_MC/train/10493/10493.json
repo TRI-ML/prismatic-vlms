@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the white wall in background."
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall in background is 4.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white wall in background and the orange plastic cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall in background and the orange plastic cart are 4.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the gray floor appear on the left side of the gray door in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the gray floor is positioned on the left side of the gray door in background."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white wall in background and the orange plastic cart horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 30.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the black forklift seat closer to camera compared to the black forklift frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

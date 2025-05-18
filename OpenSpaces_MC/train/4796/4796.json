@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the green and red tennis court and the spectators in colorful clothing, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is spectators in colorful clothing."
+  },
+  {
+    "from": "human",
+    "value": "Between the woman in white shirt and black skirt and the spectators in colorful clothing, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, spectators in colorful clothing appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the woman in white shirt and black skirt and the yellow tennis ball horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.65 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the red and white tennis racket and the spectators in colorful clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 9.3 meters exists between the red and white tennis racket and the spectators in colorful clothing."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the red and white tennis racket or the spectators in colorful clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, spectators in colorful clothing appears more on the right side."
+  }
+]

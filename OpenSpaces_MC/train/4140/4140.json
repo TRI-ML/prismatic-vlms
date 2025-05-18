@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the boat and the bench, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "bench is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Between the person and the person, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is person."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the boat or the bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is bench."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the boat is smaller than the bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the boat is not smaller than the bench."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the tree from the bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree and the bench are 12.7 meters apart."
+  }
+]

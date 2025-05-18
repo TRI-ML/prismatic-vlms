@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the empty glass bowl and the tomatoes in a glass bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the empty glass bowl is 60.3 centimeters from the tomatoes in a glass bowl."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the empty glass bowl from the orange substance in a glass bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the empty glass bowl and the orange substance in a glass bowl are 20.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the empty glass bowl or the tomatoes in a glass bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "empty glass bowl is below."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the red substance in a glass bowl or the white substance in a glass bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "red substance in a glass bowl is below."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red substance in a glass bowl from the white substance in a glass bowl vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the red substance in a glass bowl from the white substance in a glass bowl is 1.47 centimeters."
+  }
+]

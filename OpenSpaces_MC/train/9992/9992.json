@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the warehouse door and the warehouse building."
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse door and the warehouse building are 3.68 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse door have a lesser width compared to the warehouse door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the warehouse door has a lesser width compared to the warehouse door."
+  },
+  {
+    "from": "human",
+    "value": "Is the white garage door smaller than the person in yellow hard hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white garage door is not smaller than the person in yellow hard hat."
+  },
+  {
+    "from": "human",
+    "value": "How far is the warehouse door from the warehouse building?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.68 meters exists between the warehouse door and the warehouse building."
+  },
+  {
+    "from": "human",
+    "value": "Is the white garage door thinner than the person in yellow hard hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white garage door is not thinner than the person in yellow hard hat."
+  }
+]

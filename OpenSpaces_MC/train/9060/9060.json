@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the circular object and the black object, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is circular object."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the circular object to the black object."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 5.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the picture on wall or the brown object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is picture on wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the circular object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the circular object is 19.2 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the hanging object or the paper or magazine?"
+  },
+  {
+    "from": "gpt",
+    "value": "hanging object is more to the left."
+  }
+]

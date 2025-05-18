@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white building is 3.3 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Does the large truck appear on the right side of the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the large truck to the right of the white building."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white building from the yellow door vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white building is 6.3 feet away from the yellow door vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the white building to the right of the yellow door from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white building is either to the left of or directly aligned with the yellow door."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the white building occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the white building is 15.8 meters."
+  }
+]

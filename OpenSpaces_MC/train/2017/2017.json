@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the table with tablecloth and the garden cart."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the table with tablecloth from the garden cart is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the wheel of a garden cart wider than the refrigerator with freezer on top?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wheel of a garden cart is not wider than the refrigerator with freezer on top."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the stove with four burners to the wheel of a garden cart."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stove with four burners from the wheel of a garden cart is 1.39 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the wheel of a garden cart wider than the garden cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wheel of a garden cart is not wider than the garden cart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the wheel of a garden cart from the garden cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 feet"
+  }
+]

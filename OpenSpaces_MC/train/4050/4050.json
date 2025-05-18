@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the orange couch from the modern chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange couch and the modern chair are 3.3 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the kitchen cabinets and the kitchen counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white rug to the books on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the white rug and the books on coffee table are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white rug to the books on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the white rug is 2.0 meters away from the books on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white rug is positioned to the right of the books on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white rug to the right of the books on coffee table."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's wristbands and the player's arm vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's wristbands is 2.1 meters from the player's arm vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the player's wristbands smaller than the player's clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the player's wristbands is not smaller than the player's clothing."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the player's wristbands and the player's arm."
+  },
+  {
+    "from": "gpt",
+    "value": "the player's wristbands is 2.15 meters away from the player's arm."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the player's wristbands and the player's clothing."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the player's wristbands from the player's clothing is 1.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the player's clothing from the player's wristbands horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the player's clothing from the player's wristbands is 8.6 feet."
+  }
+]

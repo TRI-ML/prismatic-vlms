@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the worker in orange vest and black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the worker in orange vest and black pants from the worker in orange vest and black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the worker in orange vest and black pants further to camera compared to the worker in orange vest and black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the worker in orange vest and black pants."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the worker in orange vest and black pants and the worker in orange vest and black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker in orange vest and black pants is 1.0 inches away from the worker in orange vest and black pants."
+  },
+  {
+    "from": "human",
+    "value": "Is the worker in orange vest and black pants to the right of the worker in orange vest and black pants from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the worker in orange vest and black pants is not to the right of the worker in orange vest and black pants."
+  }
+]

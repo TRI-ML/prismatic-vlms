@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the red truck bed appear on the right side of the driver's hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the red truck bed to the right of the driver's hair."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the driver's glasses or the blue cab of truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is driver's glasses."
+  },
+  {
+    "from": "human",
+    "value": "Between the red truck bed and the driver's hair, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "red truck bed is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue cab of truck and the driver's glasses?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue cab of truck is 0.05 inches away from the driver's glasses."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the red truck bed or the driver's hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red truck bed appears more on the right side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the traffic cone."
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic cone is 6.3 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the parking sign is thinner than the one-way sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the parking sign's width is less than the one-way sign's."
+  },
+  {
+    "from": "human",
+    "value": "Between the one-way sign and the window, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is one-way sign."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the parking sign to the one-way sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the parking sign and the one-way sign are 1.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the traffic cone from the parking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 34.6 feet exists between the traffic cone and the parking sign."
+  }
+]

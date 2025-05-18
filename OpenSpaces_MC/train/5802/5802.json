@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the nike logo or the man's head?"
+  },
+  {
+    "from": "gpt",
+    "value": "nike logo is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the nike logo and the man's head, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is nike logo."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the seats?"
+  },
+  {
+    "from": "gpt",
+    "value": "the seats is 1.48 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the nike logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the nike logo is 4.0 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the seats or the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "seats is more to the left."
+  }
+]

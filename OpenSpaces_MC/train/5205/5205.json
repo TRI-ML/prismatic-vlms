@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the side of the dolly and the handle of the dolly horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 21.39 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the underneath of the dolly more distant than that of the text on the dolly?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the underneath of the dolly is behind the text on the dolly."
+  },
+  {
+    "from": "human",
+    "value": "Is the underneath of the dolly positioned at the back of the text on the dolly?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the text on the dolly and the text on the dolly."
+  },
+  {
+    "from": "gpt",
+    "value": "the text on the dolly is 5.0 centimeters away from the text on the dolly."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the front of the dolly and the text on the dolly?"
+  },
+  {
+    "from": "gpt",
+    "value": "59.24 centimeters"
+  }
+]

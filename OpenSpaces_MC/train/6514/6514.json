@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white trailer lie behind the telephone pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the telephone pole is in front of the white trailer."
+  },
+  {
+    "from": "human",
+    "value": "Does the low-rise building appear on the right side of the low-rise building?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the low-rise building is either to the left of or directly aligned with the low-rise building."
+  },
+  {
+    "from": "human",
+    "value": "Does the telephone pole appear on the right side of the white sedan?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the telephone pole is not on the right side of the white sedan."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the white trailer."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the white trailer is 14.85 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red car from the low-rise building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red car and the low-rise building are 42.8 meters apart."
+  }
+]

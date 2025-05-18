@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the brown boxes on dolly and the snow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown boxes on dolly is 1.1 meters away from the snow."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the parking lot to the snow."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the sky or the person in high-visibility jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in high-visibility jacket is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in high-visibility jacket have a greater width compared to the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person in high-visibility jacket's width does not surpass the sky's."
+  },
+  {
+    "from": "human",
+    "value": "Between the sky and the person in high-visibility jacket, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person in high-visibility jacket."
+  }
+]

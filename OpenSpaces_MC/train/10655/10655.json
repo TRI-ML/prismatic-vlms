@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the person with brown hair and the white plastic bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with brown hair is 5.0 meters away from the white plastic bag horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the large black cannonball?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large black cannonball is 75.74 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the books on bookcase to the white plastic bag."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on bookcase is 39.04 feet from the white plastic bag."
+  },
+  {
+    "from": "human",
+    "value": "How close is the wooden chair from the black purse?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden chair is 4.21 feet from the black purse."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the large black cannonball and the black purse?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 3.8 feet exists between the large black cannonball and the black purse."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the kitchen cabinets and the tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the kitchen cabinets from the tv is 13.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen cabinets is 5.1 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the blue chair and the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue chair and the kitchen cabinets are 1.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the vase with flowers or the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen cabinets is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the kitchen cabinets and the tv, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is kitchen cabinets."
+  }
+]

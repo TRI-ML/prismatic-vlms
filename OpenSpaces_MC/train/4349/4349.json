@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the chairs from the glass door?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 13.39 feet exists between the chairs and the glass door."
+  },
+  {
+    "from": "human",
+    "value": "Is the table positioned before the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book is 37.4 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Does the table come in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the glass door closer to camera compared to the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plant is behind the glass door."
+  }
+]

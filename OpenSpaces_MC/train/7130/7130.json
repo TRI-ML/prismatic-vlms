@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the small wooden stool and the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small wooden stool is 6.78 feet from the picture frame on wall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the large ornate mirror and the small wooden stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large ornate mirror and the small wooden stool are 15.4 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How big is the large beige couch in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "39.18 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the small wooden stool and the picture frame on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the large ornate mirror and the small wooden stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.4 feet apart."
+  }
+]

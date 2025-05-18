@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the person in pink shirt to the person in blue shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the person in pink shirt is 73.3 centimeters from the person in blue shirt vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the bunch of bananas smaller than the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bunch of bananas is not smaller than the person in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in brown pants is smaller than the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person in brown pants has a smaller size compared to the person in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in brown pants smaller than the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person in brown pants occupies less space than the person in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the person in pink shirt in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in pink shirt is 86.01 centimeters wide."
+  }
+]

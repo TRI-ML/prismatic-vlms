@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the bananas in crates in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.3 feet"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bananas in crates?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas in crates is 2.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the bananas in crates or the woman wearing a hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman wearing a hat is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the bananas in crates or the bananas in crates?"
+  },
+  {
+    "from": "gpt",
+    "value": "bananas in crates is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the bananas in crates or the woman wearing a hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman wearing a hat is more to the left."
+  }
+]

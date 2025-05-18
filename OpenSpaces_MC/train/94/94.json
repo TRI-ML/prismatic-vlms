@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the yellow shelf or the yellow shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is yellow shelf."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the yellow shelf from the green panel on forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow shelf is thinner than the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow shelf is not thinner than the yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the green panel on forklift to the yellow shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the green panel on forklift is 11.4 meters from the yellow shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow shelf thinner than the green panel on forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow shelf's width is not less than the green panel on forklift's."
+  }
+]

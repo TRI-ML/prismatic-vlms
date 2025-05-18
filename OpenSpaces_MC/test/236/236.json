@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the yellow pillow or the blue blanket?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, yellow pillow appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the picture frame on wall or the blue blanket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is blue blanket."
+  },
+  {
+    "from": "human",
+    "value": "Between the picture frame on wall and the brown pillow, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is brown pillow."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the headboard and the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the headboard from the picture frame on wall is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the picture frame on wall have a larger size compared to the brown pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the picture frame on wall might be smaller or the same size as the brown pillow."
+  }
+]

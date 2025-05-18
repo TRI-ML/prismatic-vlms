@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the street sign from the gay pride flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the street sign is wider than the gay pride flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the street sign might be narrower or the same width as the gay pride flag."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the street sign is positioned to the left of the gay pride flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the street sign to the left of the gay pride flag."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the traffic light and the stop sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 12.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the traffic light and the stop sign."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.14 feet apart."
+  }
+]

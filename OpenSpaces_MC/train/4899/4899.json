@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the wall or the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "trash can is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the doorknob have a smaller size compared to the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the doorknob is smaller than the sink."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the shower is smaller than the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the shower has a smaller size compared to the wall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wall and the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wall and the trash can are 1.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the doorknob and the sink horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the doorknob and the sink are 5.29 feet apart horizontally from each other."
+  }
+]

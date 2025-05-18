@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the bird on wooden railing from the plant in terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bird on wooden railing and the plant in terracotta pot are 80.05 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant in terracotta pot taller than the plant in terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plant in terracotta pot is taller than the plant in terracotta pot."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the bird on wooden railing and the plant in terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bird on wooden railing and the plant in terracotta pot are 80.05 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the plant in terracotta pot to the plant in terracotta pot."
+  },
+  {
+    "from": "gpt",
+    "value": "the plant in terracotta pot and the plant in terracotta pot are 6.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the bird on wooden railing from the terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bird on wooden railing is 3.7 feet away from the terracotta pot."
+  }
+]

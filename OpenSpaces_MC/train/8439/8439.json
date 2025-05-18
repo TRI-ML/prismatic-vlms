@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the text 'lens photography' have a lesser width compared to the baseball bat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the text 'lens photography' has a lesser width compared to the baseball bat."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the text 'lens photography' and the baseball bat vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the text 'lens photography' and the baseball bat are 4.8 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the text 'lens photography' and the baseball bat?"
+  },
+  {
+    "from": "gpt",
+    "value": "the text 'lens photography' and the baseball bat are 4.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the fence and the baseball player in purple uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fence and the baseball player in purple uniform are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball player in purple uniform thinner than the text 'lens photography'?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the baseball player in purple uniform is not thinner than the text 'lens photography'."
+  }
+]

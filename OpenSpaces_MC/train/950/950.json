@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the silver car taller than the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the silver car is taller than the skateboard."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the manhole cover and the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the manhole cover is 6.67 meters away from the skateboard."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the silver car and the woman on skateboard."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver car and the woman on skateboard are 40.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the silver car from the woman on skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "122.8 feet"
+  },
+  {
+    "from": "human",
+    "value": "How much space does the silver car occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver car is 5.0 meters wide."
+  }
+]

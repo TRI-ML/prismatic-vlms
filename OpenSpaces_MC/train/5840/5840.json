@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the microphone or lamp further to the viewer compared to the brown table?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown chair in the foreground lie behind the brown table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the brown table."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair at the table positioned at the back of the brown chair in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the heater or radiator on the left side in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the heater or radiator on the left side is 4.9 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the microphone or lamp from the brown table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 inches"
+  }
+]

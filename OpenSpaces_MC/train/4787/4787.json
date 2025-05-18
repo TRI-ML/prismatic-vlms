@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white building positioned behind the brown object?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the brown object."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown object is 23.8 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow vase with purple flowers from the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the yellow vase with purple flowers from the white building is 1.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the white building is."
+  },
+  {
+    "from": "gpt",
+    "value": "the white building is 21.4 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the brown object and the green foliage?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  }
+]

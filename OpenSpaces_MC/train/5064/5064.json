@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the gray car closer to the viewer compared to the white picket fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the fire hydrant or the gray car, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is gray car."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the green street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green street sign is 1.74 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the green street sign or the white object on the sidewalk, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is green street sign."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white picket fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white picket fence is 12.0 meters tall."
+  }
+]

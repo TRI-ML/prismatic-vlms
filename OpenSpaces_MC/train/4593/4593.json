@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the wooden chair have a larger size compared to the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wooden chair is bigger than the wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wooden chair is bigger than the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wooden chair is bigger than the wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Does the paintings have a larger size compared to the blue pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the paintings has a larger size compared to the blue pillows."
+  },
+  {
+    "from": "human",
+    "value": "Is the white pillows bigger than the blue pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the white pillows might be smaller or the same size as the blue pillows."
+  },
+  {
+    "from": "human",
+    "value": "Is the wooden chair further to camera compared to the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wooden chair is behind the lamp."
+  }
+]

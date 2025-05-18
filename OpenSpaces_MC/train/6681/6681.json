@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the disc being thrown is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the disc being thrown is 6.77 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the disc being thrown is positioned to the right of the dirt field?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the disc being thrown is to the right of the dirt field."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the disc being thrown to the hedges."
+  },
+  {
+    "from": "gpt",
+    "value": "the disc being thrown and the hedges are 14.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the disc being thrown and the dirt field."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the disc being thrown from the dirt field is 50.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the disc being thrown come behind the hedges?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the hedges."
+  }
+]

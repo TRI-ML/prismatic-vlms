@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the blue umbrella to the man in black jacket."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue umbrella and the man in black jacket are 25.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the purple umbrella and the man in gray suit, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, purple umbrella appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How close is the purple umbrella from the man in gray suit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the purple umbrella is 24.86 centimeters away from the man in gray suit."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the purple umbrella."
+  },
+  {
+    "from": "gpt",
+    "value": "the purple umbrella is 98.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue umbrella and the man in gray suit?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 61.63 centimeters apart."
+  }
+]

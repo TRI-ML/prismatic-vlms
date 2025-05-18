@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the computer keyboard from the additional computer?"
+  },
+  {
+    "from": "gpt",
+    "value": "the computer keyboard and the additional computer are 45.51 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the bottle of water and the additional computer, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is bottle of water."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the computer keyboard and the additional computer."
+  },
+  {
+    "from": "gpt",
+    "value": "the computer keyboard and the additional computer are 45.51 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the paper cup to the package of crackers."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the additional computer to the right of the bottle of water from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the additional computer is not on the right side of the bottle of water."
+  }
+]

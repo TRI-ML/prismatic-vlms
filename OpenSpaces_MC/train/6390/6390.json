@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the player and the green wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the green wall is bigger than the observer?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the green wall is not larger than the observer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the green wall is bigger than the observer?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the green wall is not bigger than the observer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the player to the green wall."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 17.0 inches exists between the player and the green wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the scoreboard and the racket?Could you provide the horizontal distance between the scoreboard and the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  }
+]

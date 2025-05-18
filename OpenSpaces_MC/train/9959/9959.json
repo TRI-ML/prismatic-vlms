@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the adult's legs or the food on plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is adult's legs."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the table."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the table is 7.6 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the adult's legs or the child's shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, adult's legs appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the adult's legs and the child's shirt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, adult's legs appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the child's shirt and the adult's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  }
+]

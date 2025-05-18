@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the strawberries from the peanuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the peanuts and the peanuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the peanuts is 30.0 centimeters from the peanuts."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the peanuts or the peanuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is peanuts."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the white cheese crumbles or the peanuts?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is peanuts."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the strawberries occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the strawberries is 14.0 centimeters."
+  }
+]

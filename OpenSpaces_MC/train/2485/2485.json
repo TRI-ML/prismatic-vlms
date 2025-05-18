@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the silver pickup truck and the man in white shirt and shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.08 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman in white shirt and shorts is bigger than the man in white shirt and shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the woman in white shirt and shorts might be smaller or the same size as the man in white shirt and shorts."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the silver pickup truck."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the silver pickup truck is 5.59 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in white shirt and shorts bigger than the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the man in white shirt and shorts might be smaller or the same size as the person in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "How close is the woman in white shirt and shorts from the man in white shirt and shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white shirt and shorts is 2.0 meters from the man in white shirt and shorts."
+  }
+]

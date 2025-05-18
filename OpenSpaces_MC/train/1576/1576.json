@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the racket to the player's wristband."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 5.01 feet exists between the racket and the player's wristband."
+  },
+  {
+    "from": "human",
+    "value": "Between the player's shorts and the court lines, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "player's shorts is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Does the player's shorts have a lesser height compared to the player's shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the player's shorts has a lesser height compared to the player's shoes."
+  },
+  {
+    "from": "human",
+    "value": "Is the racket shorter than the player's wristband?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the racket is not as tall as the player's wristband."
+  },
+  {
+    "from": "human",
+    "value": "How close is the player's shoes from the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  }
+]

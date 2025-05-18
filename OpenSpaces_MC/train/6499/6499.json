@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the chair or the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is window."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 45.73 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the wall or the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "wall is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the meter?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the meter is 11.6 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person is 68.0 centimeters."
+  }
+]

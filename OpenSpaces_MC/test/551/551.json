@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the gray bench or the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "red car is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the people sitting on bench thinner than the people walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the people sitting on bench's width is not less than the people walking's."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the people sitting on bench or the black street lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is black street lamp."
+  },
+  {
+    "from": "human",
+    "value": "Does the people sitting on bench have a lesser width compared to the people walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people sitting on bench is not thinner than the people walking."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people walking is thinner than the people walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the people walking's width is less than the people walking's."
+  }
+]

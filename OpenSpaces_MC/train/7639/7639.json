@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the truck from the pallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the truck and the pallet are 8.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the pallet or the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "hand truck is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the pallet or the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is hand truck."
+  },
+  {
+    "from": "human",
+    "value": "Does the box appear on the right side of the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the box is not to the right of the truck."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the box and the truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the box and the truck are 22.0 feet apart from each other."
+  }
+]

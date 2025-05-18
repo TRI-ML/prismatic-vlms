@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the microwave in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the microwave is 23.0 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bottles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.77 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the bottles from the bottles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How big is the bottles in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 35.49 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bottles and the bottles."
+  },
+  {
+    "from": "gpt",
+    "value": "the bottles and the bottles are 3.9 feet apart from each other."
+  }
+]

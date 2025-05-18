@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the person in black jacket and the person in gray jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.57 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the person in black jacket have a lesser width compared to the person in black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person in black jacket's width is not less than the person in black jacket's."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person in black jacket from the person in black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 6.0 meters exists between the person in black jacket and the person in black jacket."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the person in black jacket or the person in gray jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in black jacket is higher up."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person in black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black jacket is 2.2 meters wide."
+  }
+]

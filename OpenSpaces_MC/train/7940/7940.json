@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the boy in orange shirt is positioned to the right of the man in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the boy in orange shirt is to the right of the man in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the window to the right of the window from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the window to the right of the window."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the boy in orange shirt and the man in black shirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the boy in orange shirt from the man in black shirt is 31.5 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is smaller than the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the window is not smaller in size than the stove."
+  },
+  {
+    "from": "human",
+    "value": "Does the spigots have a smaller size compared to the pots on stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the spigots has a smaller size compared to the pots on stove."
+  }
+]

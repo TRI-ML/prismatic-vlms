@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white pillow or the pot with plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pot with plant appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the white pillow and the pot with plant, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pot with plant appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the white pillow positioned at the back of the pot with plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the white shelf behind the gray couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the white shelf positioned behind the pot with plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white shelf is closer to the viewer."
+  }
+]

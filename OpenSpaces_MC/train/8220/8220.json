@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the green chair from the window vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 5.28 feet exists between the green chair and the window."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the green chair or the bucket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is green chair."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the couch and the window."
+  },
+  {
+    "from": "gpt",
+    "value": "the couch and the window are 12.7 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the green chair and the window horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green chair is 22.0 feet away from the window horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the couch occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the couch is 6.0 feet."
+  }
+]

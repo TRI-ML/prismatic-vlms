@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the trees and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 4.0 feet from the trees."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the trees is 37.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the trees occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 94.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the trees to the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the trees are 4.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cow is 54.0 centimeters tall."
+  }
+]

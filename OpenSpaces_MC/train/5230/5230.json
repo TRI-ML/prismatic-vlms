@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the ventilation system and the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ventilation system and the stove are 2.7 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the shelves inside refrigerator to the stove."
+  },
+  {
+    "from": "gpt",
+    "value": "the shelves inside refrigerator and the stove are 8.7 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the shelves inside refrigerator or the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, shelves inside refrigerator appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the dirty refrigerator door from the stove vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dirty refrigerator door is 3.0 centimeters from the stove vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the stove and the shelves inside refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove and the shelves inside refrigerator are 1.77 meters apart from each other."
+  }
+]

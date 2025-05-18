@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the park bench from the bicycle symbol?"
+  },
+  {
+    "from": "gpt",
+    "value": "the park bench is 0.2 centimeters from the bicycle symbol."
+  },
+  {
+    "from": "human",
+    "value": "Between the walk signal and the car, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is car."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the crosswalk to the building."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the crosswalk from the building is 2.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the crosswalk and the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the crosswalk is 2.0 inches from the building."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the walk signal from the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.0 meters apart."
+  }
+]

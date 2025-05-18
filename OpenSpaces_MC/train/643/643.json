@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the van with person on top or the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is van with person on top."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the building and the sign with text."
+  },
+  {
+    "from": "gpt",
+    "value": "38.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the sign with text and the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with text and the palm trees are 30.17 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the palm trees and the sign with text?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the van with person on top and the palm trees, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "palm trees is more to the left."
+  }
+]

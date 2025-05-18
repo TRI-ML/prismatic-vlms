@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown pot with white plate is thinner than the silver pot in upper left corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the brown pot with white plate's width is not less than the silver pot in upper left corner's."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the fish in red sauce with green topping and the brown pot with white plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the fish in red sauce with green topping and the silver pot in upper left corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fish in red sauce with green topping is 68.02 centimeters away from the silver pot in upper left corner."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the silver pot in upper left corner and the brown pot with white plate."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver pot in upper left corner is 40.0 centimeters from the brown pot with white plate."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the silver pot in upper left corner is thinner than the brown pot with white plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the silver pot in upper left corner is thinner than the brown pot with white plate."
+  }
+]

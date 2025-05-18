@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the sky and the building vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the sky from the building is 105.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the another satellite dish and the windows."
+  },
+  {
+    "from": "gpt",
+    "value": "the another satellite dish is 5.1 meters from the windows."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the another satellite dish or the windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, another satellite dish appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the another satellite dish or the windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is another satellite dish."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the sky or the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is building."
+  }
+]

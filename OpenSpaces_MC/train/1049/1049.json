@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black lamp and the black remote control."
+  },
+  {
+    "from": "gpt",
+    "value": "the black lamp and the black remote control are 6.6 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the black lamp and the black remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 6.6 feet exists between the black lamp and the black remote control."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the black lamp and the black remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 6.6 feet exists between the black lamp and the black remote control."
+  },
+  {
+    "from": "human",
+    "value": "Does the white video game controller appear over the photo on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white video game controller is not above the photo on wall."
+  },
+  {
+    "from": "human",
+    "value": "Between the white video game controller and the photo on wall, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "photo on wall is shorter."
+  }
+]

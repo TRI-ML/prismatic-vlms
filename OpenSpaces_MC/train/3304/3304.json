@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the trees positioned in front of the bridge structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the bridge structure."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cars on road is positioned to the right of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cars on road is not to the right of the road."
+  },
+  {
+    "from": "human",
+    "value": "Does the cars on road come in front of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the road and the buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the road and the buildings are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the trees and the traffic on road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 0.01 inches from the traffic on road."
+  }
+]

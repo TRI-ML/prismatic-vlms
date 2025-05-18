@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person walking in distance closer to camera compared to the additional stacked cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the black and yellow striped safety tape and the blue crates on left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black and yellow striped safety tape and the blue crates on left side are 5.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the more stacked cardboard boxes wider than the green floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the more stacked cardboard boxes might be narrower or the same width as the green floor."
+  },
+  {
+    "from": "human",
+    "value": "Does the more stacked cardboard boxes lie in front of the green floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the more stacked cardboard boxes is in front of the green floor."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the more stacked cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the more stacked cardboard boxes is 2.0 meters."
+  }
+]

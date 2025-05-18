@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the palm tree positioned in front of the palm tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the palm tree is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the palm tree lie in front of the palm tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How far is the palm tree from the palm tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the palm tree and the palm tree are 11.41 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the palm tree to the palm tree."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm tree and the palm tree are 2.44 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the palm tree come in front of the palm tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the palm tree is closer to the viewer."
+  }
+]

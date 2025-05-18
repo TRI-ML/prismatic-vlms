@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the books on table or the leopard print pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, books on table appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How close is the leopard print pillow from the bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the leopard print pillow and the bookshelf are 6.95 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the books on table or the leopard print pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "books on table is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the bookshelf or the wall with cherry blossom painting?"
+  },
+  {
+    "from": "gpt",
+    "value": "bookshelf is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on table positioned at the back of the leopard print pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the leopard print pillow."
+  }
+]

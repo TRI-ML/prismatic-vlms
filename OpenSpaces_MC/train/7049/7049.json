@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the sidewalk or the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, palm trees appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the sidewalk less distant than that of the phone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the yield to bikes sign or the phone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is phone poles."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sidewalk and the phone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.3 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the sidewalk positioned in front of the phone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

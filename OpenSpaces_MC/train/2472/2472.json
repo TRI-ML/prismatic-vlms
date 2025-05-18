@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white pitcher with dark liquid behind the silver cup with dark liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white pitcher with dark liquid is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the plate with pastry and sliced strawberry is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 17.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the green leaves and the white pitcher with dark liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green leaves and the white pitcher with dark liquid are 24.4 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the pink napkin in front of the silver cup with dark liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the bowl of strawberries lie in front of the silver cup with dark liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the orange drink in glass or the orange drink in glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is orange drink in glass."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the orange drink in glass or the orange drink in glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "orange drink in glass is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far is the orange drink in glass from the orange drink in glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange drink in glass is 31.02 inches from the orange drink in glass."
+  },
+  {
+    "from": "human",
+    "value": "Does the orange drink in glass lie in front of the orange drink in glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the orange drink in glass less distant than that of the orange drink in glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the orange drink in glass."
+  }
+]

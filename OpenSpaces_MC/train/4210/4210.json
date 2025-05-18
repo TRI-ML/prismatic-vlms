@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the yellow barrier and the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow barrier and the boxes on shelves are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How close is the yellow barrier from the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the yellow barrier from the boxes on shelves vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 11.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the railing and the white sign horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the railing and the white sign are 10.66 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the railing behind the white sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the railing is behind the white sign."
+  }
+]

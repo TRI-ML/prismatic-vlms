@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the lemon slice behind the noodles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the noodles."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the lemon slice and the lemon slice."
+  },
+  {
+    "from": "gpt",
+    "value": "the lemon slice and the lemon slice are 27.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the noodles above the lemon slice?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the noodles is either below or at the same elevation as the lemon slice."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the lemon slice and the noodles."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 28.99 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the lemon slice from the noodles?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lemon slice and the noodles are 11.31 inches apart from each other."
+  }
+]

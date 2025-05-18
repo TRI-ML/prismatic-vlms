@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person wearing high-visibility vest taller than the machine with red body?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person wearing high-visibility vest may be shorter or the same height as the machine with red body."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the machine with red body or the person wearing high-visibility vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "machine with red body is below."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the machine part to the person wearing high-visibility vest."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 45.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the machine with red body and the machine part?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the machine with red body from the machine part is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the machine part or the person wearing high-visibility vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is machine part."
+  }
+]

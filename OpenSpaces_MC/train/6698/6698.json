@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the boxes on the left side from the boxes on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.12 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on the left side closer to camera compared to the boxes on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on the left side closer to the viewer compared to the boxes on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the boxes on the left side from the boxes on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.12 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on the left side to the left of the boxes on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the boxes on the left side is not on the left side of the boxes on the left side."
+  }
+]

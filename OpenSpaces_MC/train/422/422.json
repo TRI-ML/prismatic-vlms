@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the trash can closer to camera compared to the towel?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the trash can closer to the viewer compared to the towel?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the trash can is in front of the towel."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sink from the mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the mirror are 21.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the trash can lie in front of the towel?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the sink to the mirror."
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 21.0 inches from the mirror."
+  }
+]

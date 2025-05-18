@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "4.05 feet"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the boxes on shelves and the boxes on shelves horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on shelves is 27.23 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the boxes on shelves to the boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the yellow rectangle or the circular object with five holes?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow rectangle is higher up."
+  }
+]

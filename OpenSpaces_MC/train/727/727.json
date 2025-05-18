@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the leaves on ground and the fence vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "16.2 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the trees and the subtitle text vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the subtitle text are 55.0 centimeters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the silhouette of a person or the author name?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is silhouette of a person."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the subtitle text is positioned above the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the subtitle text is not positioned above the fence."
+  },
+  {
+    "from": "human",
+    "value": "Is the leaves on ground above the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the leaves on ground is not above the fence."
+  }
+]

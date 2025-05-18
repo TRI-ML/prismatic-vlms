@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the signpost in the center from the signpost in the center?"
+  },
+  {
+    "from": "gpt",
+    "value": "the signpost in the center and the signpost in the center are 7.72 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the signpost in the center to the signpost in the center."
+  },
+  {
+    "from": "gpt",
+    "value": "9.35 inches"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the signpost in the center and the signpost in the center?"
+  },
+  {
+    "from": "gpt",
+    "value": "the signpost in the center and the signpost in the center are 5.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the signpost in the center in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.13 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the signpost in the center from the signpost in the center?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.63 meters"
+  }
+]

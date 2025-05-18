@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the brown cardboard box from the brown cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown cardboard box is 12.0 feet from the brown cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown cardboard box bigger than the brown cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown cardboard box is not bigger than the brown cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the brown cardboard box and the brown cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown cardboard box is 12.0 feet from the brown cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the brown cardboard box from the brown cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 49.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black containers and the brown cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.0 meters exists between the black containers and the brown cardboard box."
+  }
+]

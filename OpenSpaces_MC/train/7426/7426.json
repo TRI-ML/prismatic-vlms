@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the brown wooden dresser from the black dog with all black legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden dresser is 36.0 inches away from the black dog with all black legs."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown wooden dresser is positioned to the right of the red pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the brown wooden dresser is either to the left of or directly aligned with the red pillow."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the brown wooden dresser to the red pillow."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden dresser is 80.0 centimeters from the red pillow."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown wooden dresser come in front of the black dog with all black legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden dresser in front of the black dog with all black legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown wooden dresser is further to the viewer."
+  }
+]

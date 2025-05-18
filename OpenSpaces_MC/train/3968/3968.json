@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the man holding a package and the warehouse interior, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, warehouse interior appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the additional packages and the metro file box?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the man holding a package or the warehouse interior?"
+  },
+  {
+    "from": "gpt",
+    "value": "warehouse interior is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the additional packages to the metro file box."
+  },
+  {
+    "from": "gpt",
+    "value": "the additional packages and the metro file box are 10.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the man holding a package or the warehouse interior?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, warehouse interior appears more on the right side."
+  }
+]

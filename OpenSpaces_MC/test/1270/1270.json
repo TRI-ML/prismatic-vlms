@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown boxes on bottom shelf is positioned to the right of the black and orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brown boxes on bottom shelf is positioned on the right side of the black and orange forklift."
+  },
+  {
+    "from": "human",
+    "value": "Does the red boxes on bottom shelf appear on the right side of the brown boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red boxes on bottom shelf is not on the right side of the brown boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the red boxes on bottom shelf bigger than the brown boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the red boxes on bottom shelf is not bigger than the brown boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "How close is the green and black boxes on bottom shelf from the blue boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green and black boxes on bottom shelf is 3.0 meters away from the blue boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow shirt on forklift operator bigger than the red boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the yellow shirt on forklift operator might be smaller or the same size as the red boxes on bottom shelf."
+  }
+]

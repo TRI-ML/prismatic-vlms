@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the lamp from the nightstand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp is 29.0 inches away from the nightstand."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the lamp and the nightstand horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp and the nightstand are 10.9 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the window and the lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 19.6 feet from the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the lamp or the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, lamp appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the window is 41.5 centimeters."
+  }
+]

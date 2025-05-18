@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the yellow object on the right side or the brown object on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow object on the right side is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray object on the right side positioned behind the gray object on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray object on the right side is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray object on the right side further to camera compared to the gray object on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray object on the right side is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red object on the right side from the gray object on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "73.54 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the red object on the right side and the gray object on the right side, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray object on the right side is more to the left."
+  }
+]

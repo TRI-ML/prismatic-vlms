@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person on skateboard in background is positioned to the right of the person on skateboard in foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person on skateboard in background to the right of the person on skateboard in foreground."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person on skateboard in background is bigger than the person on skateboard in foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person on skateboard in background is larger in size than the person on skateboard in foreground."
+  },
+  {
+    "from": "human",
+    "value": "Does the person on skateboard in background appear on the right side of the person on skateboard in foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person on skateboard in background is either to the left of or directly aligned with the person on skateboard in foreground."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person on skateboard in foreground from the person on skateboard in foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person on skateboard in foreground from the person on skateboard in foreground is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the person on skateboard in foreground from the person on skateboard in foreground vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person on skateboard in foreground is 2.0 meters from the person on skateboard in foreground vertically."
+  }
+]

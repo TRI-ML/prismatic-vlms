@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the player's shirt is positioned above the tennis court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the player's shirt is above the tennis court surface."
+  },
+  {
+    "from": "human",
+    "value": "Does the player's head appear over the player's body?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the player's head is above the player's body."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the player's tennis racket from the player's body vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.5 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the player's shirt and the player's tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the player's head to the player's body."
+  },
+  {
+    "from": "gpt",
+    "value": "the player's head and the player's body are 40.0 centimeters apart."
+  }
+]

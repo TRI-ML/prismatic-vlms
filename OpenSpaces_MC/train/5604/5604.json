@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the stack of blue boxes occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the stack of blue boxes is 22.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stack of yellow boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of yellow boxes is 17.2 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stack of blue boxes from the stack of yellow boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of blue boxes is 59.0 meters from the stack of yellow boxes."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the stack of blue boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of blue boxes is 73.59 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the stack of blue boxes from the stack of blue boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.2 meters"
+  }
+]

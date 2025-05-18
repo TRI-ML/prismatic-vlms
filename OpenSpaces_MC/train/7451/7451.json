@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the banner and the banner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the banner is 4.4 feet away from the banner."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the woman with backpack more distant than that of the banner?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the man appear on the left side of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the man to the left of the person."
+  },
+  {
+    "from": "human",
+    "value": "Is the banner further to camera compared to the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the banner is behind the person."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the woman with backpack from the child?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.0 inches apart."
+  }
+]

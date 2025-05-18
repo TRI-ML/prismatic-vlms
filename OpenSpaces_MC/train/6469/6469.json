@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the playpen and the television?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.52 feet"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the woman looking down or the christmas tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman looking down is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the woman looking down or the christmas tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is woman looking down."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the person lying down to the baby."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person lying down from the baby is 1.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the playpen and the television."
+  },
+  {
+    "from": "gpt",
+    "value": "the playpen is 9.52 feet away from the television."
+  }
+]

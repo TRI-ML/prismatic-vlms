@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the woman in green dress and the woman in green dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in green dress is 4.0 meters from the woman in green dress vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the woman in green dress and the woman in green dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in green dress and the woman in green dress are 18.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the woman in green dress and the woman in green dress."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the woman in green dress occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "97.73 feet"
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the woman in green dress is."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in green dress is 29.79 meters in height."
+  }
+]

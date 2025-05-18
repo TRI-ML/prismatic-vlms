@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the stack of black boxes on red rack more distant than that of the green forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the green forklift."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the stack of black boxes on red rack and the yellow box on blue rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of black boxes on red rack is 7.19 meters away from the yellow box on blue rack."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stack of black boxes on red rack from the yellow box on blue rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of black boxes on red rack is 7.19 meters away from the yellow box on blue rack."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the stack of brown boxes on red rack and the stack of black boxes on red rack vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on red rack is 49.1 centimeters away from the stack of black boxes on red rack vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the stack of brown boxes on red rack or the stack of black boxes on red rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is stack of brown boxes on red rack."
+  }
+]

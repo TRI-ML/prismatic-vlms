@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the logo with checkmark from the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the logo with checkmark from the sky is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the logo with checkmark from the text 'big machines'?"
+  },
+  {
+    "from": "gpt",
+    "value": "the logo with checkmark and the text 'big machines' are 10.0 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the text 'tractors'?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the text 'tractors' is 13.7 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the logo with checkmark appear on the right side of the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the logo with checkmark to the right of the sky."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the logo with checkmark is smaller than the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the logo with checkmark is smaller than the sky."
+  }
+]

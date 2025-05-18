@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the red kettle on stove and the blue bowls on counter."
+  },
+  {
+    "from": "gpt",
+    "value": "the red kettle on stove and the blue bowls on counter are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the tissue box on wall and the white sink vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tissue box on wall is 21.0 inches away from the white sink vertically."
+  },
+  {
+    "from": "human",
+    "value": "Between the red kettle on stove and the blue bowls on counter, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is blue bowls on counter."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the gray bucket with broom and the silver pot on stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray bucket with broom from the silver pot on stove is 1.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the red kettle on stove or the blue bowls on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue bowls on counter is lower down."
+  }
+]

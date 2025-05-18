@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the trash can have a larger size compared to the woman riding a bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the trash can is larger in size than the woman riding a bicycle."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the second woman riding a bicycle from the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "the second woman riding a bicycle and the trash can are 7.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the trees in the background from the white house with red roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the trees in the background from the white house with red roof is 9.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees in the background have a lesser width compared to the white house with red roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the trees in the background has a lesser width compared to the white house with red roof."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the trash can from the trees in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the trash can from the trees in the background is 11.31 meters."
+  }
+]

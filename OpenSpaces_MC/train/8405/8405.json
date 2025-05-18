@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the house and the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 38.43 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the house bigger than the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the house is not bigger than the house."
+  },
+  {
+    "from": "human",
+    "value": "Is the house bigger than the light post?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the house is not bigger than the light post."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the house in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the house is 29.25 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Does the house have a larger size compared to the light post?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the house is not larger than the light post."
+  }
+]

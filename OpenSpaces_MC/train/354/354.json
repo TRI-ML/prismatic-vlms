@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the couch and the pictures on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the couch and the pictures on wall are 5.81 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the couch to the couch."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.67 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the couch in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the couch to the pictures on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the couch and the pictures on wall are 5.81 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the tv have a smaller size compared to the pictures on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tv is not smaller than the pictures on wall."
+  }
+]

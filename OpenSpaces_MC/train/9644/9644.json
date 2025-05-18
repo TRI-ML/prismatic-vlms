@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the disc being thrown in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the shoes on players closer to camera compared to the grass field?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees in background in front of the player in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees in background is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the shoes on players from the grass field horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 23.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the disc being thrown closer to the viewer compared to the player in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the player in black shirt is behind the disc being thrown."
+  }
+]

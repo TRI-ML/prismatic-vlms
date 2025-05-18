@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow containers on green rack is positioned above the yellow containers on green rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the yellow containers on green rack is either below or at the same elevation as the yellow containers on green rack."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow containers on green rack above the yellow containers on green rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow containers on green rack is not positioned above the yellow containers on green rack."
+  },
+  {
+    "from": "human",
+    "value": "How close is the yellow containers on green rack from the yellow containers on green rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow containers on green rack is 0.19 centimeters from the yellow containers on green rack."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow containers on green rack lie in front of the yellow containers on green rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow containers on green rack positioned in front of the yellow containers on green rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow containers on green rack is in front of the yellow containers on green rack."
+  }
+]

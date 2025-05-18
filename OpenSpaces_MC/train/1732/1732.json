@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the chair is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 51.22 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the chair from the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair and the chair are 0.03 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the chair or the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "chair is above."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the chair occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the chair and the picture frame vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 22.1 inches."
+  }
+]

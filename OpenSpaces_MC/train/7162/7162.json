@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the skateboard ramp appear over the person in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the skateboard ramp is above the person in background."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person's shadow and the person's shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the skateboard ramp from the person in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 8.45 meters exists between the skateboard ramp and the person in background."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person's leg to the person's shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the person's leg is 1.13 meters away from the person's shirt."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the skateboard ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  }
+]

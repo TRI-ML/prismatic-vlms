@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the person in white shirt and blue hat and the baseball on ground."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the baseball on ground is thinner than the baseball player in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the baseball on ground's width is less than the baseball player in blue uniform's."
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball glove thinner than the person in white shirt and blue hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the baseball glove has a lesser width compared to the person in white shirt and blue hat."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person in white shirt and blue hat and the baseball on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person in white shirt and blue hat from the baseball on ground is 6.52 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the baseball glove and the person in white shirt and blue hat vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball glove is 10.3 feet from the person in white shirt and blue hat vertically."
+  }
+]

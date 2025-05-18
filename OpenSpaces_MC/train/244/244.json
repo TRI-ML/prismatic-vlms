@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white cabinet appear on the left side of the blue candle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white cabinet is positioned on the left side of the blue candle."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the white shelf is."
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the hair dryer and the tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hair dryer and the tv are 33.76 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "54.31 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the plant to the white trash can."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the plant from the white trash can is 4.0 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the hand truck appear over the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the hand truck is above the hand truck."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the hand truck from the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the hand truck from the hand truck is 15.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the hand truck and the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck is 10.0 inches from the hand truck."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the hand truck and the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck is 10.9 inches away from the hand truck."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the hand truck and the hand truck vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 22.2 feet apart."
+  }
+]

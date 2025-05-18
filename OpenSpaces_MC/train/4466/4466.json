@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue bucket appear on the right side of the brown wooden wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the blue bucket is positioned on the right side of the brown wooden wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the long wooden poles to the right of the small wooden boat from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the long wooden poles is to the right of the small wooden boat."
+  },
+  {
+    "from": "human",
+    "value": "Is the long wooden poles to the left of the small wooden boat from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the long wooden poles is not to the left of the small wooden boat."
+  },
+  {
+    "from": "human",
+    "value": "Does the long wooden poles appear on the right side of the small wooden boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the long wooden poles is to the right of the small wooden boat."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the wooden planks occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden planks is 6.0 meters wide."
+  }
+]

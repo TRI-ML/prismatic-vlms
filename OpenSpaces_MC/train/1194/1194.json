@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the small table from the table with wooden top horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the small table from the table with wooden top is 13.28 feet."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the small table and the table with wooden top?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the window at the back and the window on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window at the back and the window on the right side are 4.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the window at the back."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 11.56 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the table with wooden top to the left of the window with curtains from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the table with wooden top is to the left of the window with curtains."
+  }
+]

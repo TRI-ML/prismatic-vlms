@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the cargo container from the cargo container?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cargo container and the cargo container are 10.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the yellow forklift and the cargo container, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow forklift is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the cargo container lie behind the cargo container?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the cargo container."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cargo container and the cargo container horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cargo container and the cargo container are 5.0 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cargo container and the cargo container vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.0 feet."
+  }
+]

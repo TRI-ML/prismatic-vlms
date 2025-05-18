@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the orange juice in glass appear over the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the orange juice in glass is positioned over the flowers."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the woman with red hair to the man with short hair."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.2 meters exists between the woman with red hair and the man with short hair."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the orange juice in glass to the flowers."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in black shirt is positioned above the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person in black shirt is not positioned above the flowers."
+  },
+  {
+    "from": "human",
+    "value": "How big is the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.97 feet."
+  }
+]

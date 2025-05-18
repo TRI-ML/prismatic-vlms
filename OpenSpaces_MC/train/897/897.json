@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the garage door is positioned above the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the garage door is located above the blue sky."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue sky come behind the dirt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the garage door behind the garage building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the garage door is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue sky is positioned above the dirt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue sky is not above the dirt road."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the vehicle in background more distant than that of the dirt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the dirt road."
+  }
+]

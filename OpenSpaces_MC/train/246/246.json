@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the donut with red glaze from the donut with red glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the donut with red glaze from the donut with red glaze is 29.68 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the donut with red glaze from the donut with red glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "the donut with red glaze is 27.5 inches away from the donut with red glaze."
+  },
+  {
+    "from": "human",
+    "value": "Does the office chairs appear on the right side of the donut with red glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the office chairs is not to the right of the donut with red glaze."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the donut with red glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "the donut with red glaze is 3.5 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the office chairs and the donut with red glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "the office chairs is 79.1 centimeters away from the donut with red glaze."
+  }
+]

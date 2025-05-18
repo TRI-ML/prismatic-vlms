@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the man standing next to the truck and the another building in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "the man standing next to the truck and the another building in the background are 148.4 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the sky lie behind the clouds in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the sky and the clouds in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 6.0 meters from the clouds in the sky."
+  },
+  {
+    "from": "human",
+    "value": "Is the man standing next to the truck behind the another building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man standing next to the truck is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the another building in the background lie behind the clouds in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the gray boxes and the gray boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray boxes and the gray boxes are 2.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white boxes or the gray boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, gray boxes appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the gray boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.33 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far is the warehouse shelves from the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse shelves and the boxes are 9.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the warehouse shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the warehouse shelves is 1.4 meters."
+  }
+]

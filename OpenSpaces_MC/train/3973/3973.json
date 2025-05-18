@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the dark brown dresser and the window with blinds horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "5.5 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the dark brown dresser come behind the window with blinds?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the window with blinds."
+  },
+  {
+    "from": "human",
+    "value": "Is the dark brown dresser to the right of the window with blinds from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dark brown dresser is not to the right of the window with blinds."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the wooden door to the window with blinds."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the wooden door from the window with blinds is 78.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the carpet further to the viewer compared to the mirror on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the mirror on dresser is in front of the carpet."
+  }
+]

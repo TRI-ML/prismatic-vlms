@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the text and the chimney, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "chimney is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the house with face?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 45.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the house with face have a smaller size compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the house with face is not smaller in size than the window."
+  },
+  {
+    "from": "human",
+    "value": "Between the grass and the door, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, grass appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Does the text have a smaller size compared to the chimney?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the text might be larger or the same size as the chimney."
+  }
+]

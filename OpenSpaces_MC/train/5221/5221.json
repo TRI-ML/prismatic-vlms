@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow bus is positioned to the right of the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow bus is not on the right side of the street light."
+  },
+  {
+    "from": "human",
+    "value": "Does the street sign appear on the right side of the white suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the street sign to the right of the white suv."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow bus to the left of the white car from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow bus is not to the left of the white car."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the street light from the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the yellow bus and the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow bus is 53.0 feet away from the street light."
+  }
+]

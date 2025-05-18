@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the cameras covered with gray tarps is."
+  },
+  {
+    "from": "gpt",
+    "value": "the cameras covered with gray tarps is 38.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the green tennis court surface thinner than the white tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the green tennis court surface's width is not less than the white tennis racket's."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue banner with aeg logo is wider than the blue tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the blue banner with aeg logo might be narrower or the same width as the blue tennis court."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the white tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the cameras covered with gray tarps have a greater width compared to the people in the stands?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the cameras covered with gray tarps might be narrower or the same width as the people in the stands."
+  }
+]

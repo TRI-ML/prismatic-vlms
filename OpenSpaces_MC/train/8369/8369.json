@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the building come behind the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the building is behind the trees."
+  },
+  {
+    "from": "human",
+    "value": "Is the skateboarders further to the viewer compared to the skateboarders?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the skateboarders is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the skateboarders more distant than that of the skateboarders?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the skateboarders is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the stairs come behind the wooden ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the wooden ramp."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the skateboarders is thinner than the skateboarders?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the skateboarders's width is less than the skateboarders's."
+  }
+]

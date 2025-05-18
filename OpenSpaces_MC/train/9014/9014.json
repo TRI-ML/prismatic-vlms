@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the lamp with white shade appear on the left side of the window with white frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the lamp with white shade is not on the left side of the window with white frame."
+  },
+  {
+    "from": "human",
+    "value": "Between the window with white frame and the television, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "window with white frame is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the lamp with white shade and the window with white frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.91 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the window with white frame and the lamp with white shade vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window with white frame and the lamp with white shade are 20.0 inches apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the window with white frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the window with white frame is 34.6 inches in height."
+  }
+]

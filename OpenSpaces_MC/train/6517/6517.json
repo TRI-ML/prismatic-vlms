@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the worker in safety gear?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.01 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the boots is smaller than the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the boots might be larger or the same size as the yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the warehouse shelves from the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the warehouse shelves and the boxes on shelves, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is warehouse shelves."
+  },
+  {
+    "from": "human",
+    "value": "Does the boots have a smaller size compared to the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the boots is not smaller in size than the yellow forklift."
+  }
+]

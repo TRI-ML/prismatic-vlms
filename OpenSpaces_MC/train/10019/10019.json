@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the woman with long hair to the food truck."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 3.0 meters exists between the woman with long hair and the food truck."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the people or the food truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "people is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the people wider than the food truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people has a greater width compared to the food truck."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the people or the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, people appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the man with backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man with backpack is 98.94 centimeters tall."
+  }
+]

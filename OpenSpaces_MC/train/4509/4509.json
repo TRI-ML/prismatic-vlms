@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the advertising sign and the baseball player in orange uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the advertising sign is 4.0 feet away from the baseball player in orange uniform."
+  },
+  {
+    "from": "human",
+    "value": "Is the advertising sign positioned before the advertising sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the advertising sign is thinner than the baseball player in orange uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the advertising sign's width is less than the baseball player in orange uniform's."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the advertising sign to the baseball player in orange uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the advertising sign thinner than the advertising sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the advertising sign is thinner than the advertising sign."
+  }
+]

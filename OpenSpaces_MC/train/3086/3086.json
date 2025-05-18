@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the red chair with floral pattern or the book on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "book on coffee table is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Between the magazine on coffee table and the coffee table with glass top, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "magazine on coffee table is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the red chair with floral pattern and the book on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the red chair with floral pattern from the book on coffee table is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant in green pot bigger than the magazine on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the plant in green pot is larger in size than the magazine on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the vase with flowers and the coffee table with glass top."
+  },
+  {
+    "from": "gpt",
+    "value": "the vase with flowers and the coffee table with glass top are 7.58 feet apart from each other."
+  }
+]

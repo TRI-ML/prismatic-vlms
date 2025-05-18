@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the wet black asphalt road."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the wet black asphalt road is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wet black asphalt road and the red octagonal stop sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.1 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the snow-covered ground from the gray metal pole supporting signs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snow-covered ground is 0.2 inches from the gray metal pole supporting signs."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the snow-covered ground and the gray metal pole supporting signs?Could you provide the horizontal distance between the snow-covered ground and the gray metal pole supporting signs?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 13.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the snow-covered ground is smaller than the gray metal pole supporting signs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the snow-covered ground occupies less space than the gray metal pole supporting signs."
+  }
+]

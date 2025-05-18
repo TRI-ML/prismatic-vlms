@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white bull appear on the right side of the house with gray walls?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white bull is to the right of the house with gray walls."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black bull is wider than the black bull?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the black bull's width does not surpass the black bull's."
+  },
+  {
+    "from": "human",
+    "value": "Does the black bull have a greater width compared to the black bull?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the black bull might be narrower or the same width as the black bull."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black bull to the blue gate on a house."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black bull from the blue gate on a house is 22.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white bull from the house with gray walls horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white bull and the house with gray walls are 6.5 feet apart horizontally from each other."
+  }
+]

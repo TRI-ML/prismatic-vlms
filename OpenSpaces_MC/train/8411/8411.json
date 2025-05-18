@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray object is 7.0 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the gray object and the warehouse setting."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray object is 67.44 feet away from the warehouse setting."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the man in gray jumpsuit from the yellow line on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in gray jumpsuit is 9.16 meters away from the yellow line on floor."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the man in gray jumpsuit to the yellow line on floor."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the gray object is smaller than the warehouse setting?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the gray object is not smaller in size than the warehouse setting."
+  }
+]

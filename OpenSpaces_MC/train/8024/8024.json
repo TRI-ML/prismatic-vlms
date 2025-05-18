@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the red and white striped barrier to the red and white striped barrier."
+  },
+  {
+    "from": "gpt",
+    "value": "1.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the red and white striped barrier is."
+  },
+  {
+    "from": "gpt",
+    "value": "the red and white striped barrier is 4.8 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red and white striped barrier from the red and white striped barrier?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red and white striped barrier is 2.0 meters away from the red and white striped barrier."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red and white striped barrier from the red and white striped barrier vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 22.48 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the red and blue storage containers and the red and white striped barrier?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  }
+]

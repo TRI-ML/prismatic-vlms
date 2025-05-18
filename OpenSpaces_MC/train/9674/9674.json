@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the pink plastic item with heart design from the small purple item vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the small purple item and the pink plastic item horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the small purple item from the pink plastic item is 9.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the red plastic item from the small purple item?"
+  },
+  {
+    "from": "gpt",
+    "value": "60.82 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the pink plastic item with heart design or the red plastic item?"
+  },
+  {
+    "from": "gpt",
+    "value": "red plastic item is taller."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pink plastic item with heart design from the red plastic item?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pink plastic item with heart design from the red plastic item is 6.0 inches."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the white refrigerator occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white refrigerator is shorter than the electrical outlet?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white refrigerator may be taller or the same height as the electrical outlet."
+  },
+  {
+    "from": "human",
+    "value": "Does the white refrigerator appear on the right side of the white door frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white refrigerator to the right of the white door frame."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the white refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white cardboard box is shorter than the electrical outlet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white cardboard box is not shorter than the electrical outlet."
+  }
+]

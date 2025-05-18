@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue and white pillows and the mirror above couch horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue and white pillows is 3.93 feet from the mirror above couch horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue and white pillows or the mirror above couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is blue and white pillows."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the mirror above couch and the light stand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mirror above couch and the light stand are 1.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue and white pillows and the mirror above couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue and white pillows from the mirror above couch is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the mirror above couch from the light stand vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  }
+]

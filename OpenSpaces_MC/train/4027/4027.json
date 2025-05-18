@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the chairs closer to the viewer compared to the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the chairs is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the table and the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the table is 15.4 feet away from the plant."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the plant and the carpet."
+  },
+  {
+    "from": "gpt",
+    "value": "the plant and the carpet are 15.03 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the end table positioned behind the wall art?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the table positioned at the back of the end table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

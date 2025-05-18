@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant is 72.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the plant to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the plant from the plant is 13.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the chair."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the chair from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair is 1.52 meters away from the plant."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the chair and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair is 4.0 feet from the plant horizontally."
+  }
+]

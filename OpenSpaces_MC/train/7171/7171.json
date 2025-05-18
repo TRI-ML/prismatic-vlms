@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the basket on stove bigger than the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the basket on stove is bigger than the floor."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sink is bigger than the basket on stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the sink is not larger than the basket on stove."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the basket on stove to the floor."
+  },
+  {
+    "from": "gpt",
+    "value": "the basket on stove is 5.2 feet from the floor."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the basket on stove and the floor."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the basket on stove from the floor is 5.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the basket on stove positioned at the back of the toaster?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the basket on stove is closer to the viewer."
+  }
+]

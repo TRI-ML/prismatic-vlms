@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the stove and the dish towel."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stove from the dish towel is 4.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the measuring cups and the measuring cups."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 30.0 inches exists between the measuring cups and the measuring cups."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the measuring cups and the measuring cups."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 36.99 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stove from the measuring cups horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the stove from the measuring cups is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the measuring cups have a greater width compared to the measuring cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the measuring cups is not wider than the measuring cups."
+  }
+]

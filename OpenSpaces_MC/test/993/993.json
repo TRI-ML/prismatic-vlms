@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the orange safety barrier and the blue shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange safety barrier and the blue shelving unit are 15.45 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the blue shelving unit and the blue shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "23.8 feet"
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the blue shelving unit."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue shelving unit is 1.1 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the blue shelving unit and the blue shelving unit."
+  },
+  {
+    "from": "gpt",
+    "value": "4.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the blue shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue shelving unit is 2.0 meters in width."
+  }
+]

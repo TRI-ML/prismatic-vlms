@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the lamp with white shade and the picture frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp with white shade is 49.0 centimeters away from the picture frame."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the throw pillows is positioned to the left of the throw pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the throw pillows is not to the left of the throw pillows."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the throw pillows occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the throw pillows is 20.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the throw pillows or the bed with wooden headboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is bed with wooden headboard."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the lamp with white shade from the throw pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.71 meters"
+  }
+]

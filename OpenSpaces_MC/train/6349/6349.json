@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the red mug with brown liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 36.5 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the red mug with brown liquid."
+  },
+  {
+    "from": "gpt",
+    "value": "the red mug with brown liquid is 36.5 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red mug with brown liquid and the square plate with triangular pastry and white icing?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red mug with brown liquid and the square plate with triangular pastry and white icing are 20.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the red mug with brown liquid and the brown wooden table."
+  },
+  {
+    "from": "gpt",
+    "value": "the red mug with brown liquid is 23.0 centimeters away from the brown wooden table."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the black and white striped object?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 54.82 centimeters."
+  }
+]

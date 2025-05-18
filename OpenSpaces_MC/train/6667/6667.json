@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the blanket and the table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the pictures."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the pictures is 26.49 inches."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the pictures or the bird on window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is pictures."
+  },
+  {
+    "from": "human",
+    "value": "Does the milk carton lie in front of the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the milk carton positioned before the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the parked car or the parked car?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, parked car appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the sidewalk or the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sidewalk appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sidewalk is positioned below the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the sidewalk is below the street sign."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the sidewalk to the parked car."
+  },
+  {
+    "from": "gpt",
+    "value": "the sidewalk is 5.3 meters from the parked car."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the parked car or the people walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, people walking appears more on the right side."
+  }
+]

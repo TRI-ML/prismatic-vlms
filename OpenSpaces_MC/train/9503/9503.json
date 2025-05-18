@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the soccer ball wider than the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the soccer ball has a greater width compared to the trees."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the soccer ball to the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the soccer ball from the trees is 9.39 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the soccer ball come in front of the elephant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the soccer ball is in front of the elephant."
+  },
+  {
+    "from": "human",
+    "value": "Does the shed walls lie in front of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the shed walls is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the soccer ball and the elephant."
+  },
+  {
+    "from": "gpt",
+    "value": "3.4 meters"
+  }
+]

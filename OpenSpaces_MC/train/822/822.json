@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the yellow street sign from the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow street sign and the street light are 3.37 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the yellow street sign and the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow street sign and the street light are 30.0 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the yellow street sign and the street light."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the yellow street sign occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow street sign is 27.25 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow street sign lie behind the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

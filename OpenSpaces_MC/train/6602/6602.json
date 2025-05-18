@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the small airplane with red exhaust from the concrete pad under the airplane horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small airplane with red exhaust is 30.0 feet away from the concrete pad under the airplane horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the small airplane with red exhaust?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the trees in the background or the sun in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees in the background is below."
+  },
+  {
+    "from": "human",
+    "value": "Is the person's hand in pocket further to camera compared to the small airplane with red exhaust?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far is the small airplane with red exhaust from the person wearing yellow shirt and jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.8 meters exists between the small airplane with red exhaust and the person wearing yellow shirt and jeans."
+  }
+]

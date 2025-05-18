@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the man in white and blue striped shirt from the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the man in white and blue striped shirt less distant than that of the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in white and blue striped shirt is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the man in white and blue striped shirt to the man in white shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the man in white and blue striped shirt from the man in white shirt is 8.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the man in white and blue striped shirt and the man in blue jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white and blue striped shirt is 55.94 centimeters away from the man in blue jacket."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in white and blue striped shirt positioned before the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

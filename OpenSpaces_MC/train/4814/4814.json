@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person with backpack further to the viewer compared to the person with backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person with backpack is in front of the person with backpack."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the person with backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with backpack is 32.66 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the person with backpack further to camera compared to the person with backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the person with backpack further to the viewer compared to the bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bus is in front of the person with backpack."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person with backpack and the bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with backpack is 4.0 meters away from the bus."
+  }
+]

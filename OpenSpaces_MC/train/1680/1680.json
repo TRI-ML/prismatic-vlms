@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the yellow light come in front of the blue door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the blue door."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the gray wall from the yellow light horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 7.36 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the gray wall in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the gray wall is 2.72 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow light closer to camera compared to the blue door?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow light wider than the gray window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the yellow light has a greater width compared to the gray window."
+  }
+]

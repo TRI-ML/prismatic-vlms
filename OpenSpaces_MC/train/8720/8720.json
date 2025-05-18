@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the man in white clothing is positioned to the right of the white shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the man in white clothing to the right of the white shoes."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the man in white clothing and the white shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white clothing is 1.3 meters from the white shoes."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in white clothing to the right of the copyright text from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the man in white clothing is positioned on the right side of the copyright text."
+  },
+  {
+    "from": "human",
+    "value": "Is the white lines on court to the right of the copyright text from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white lines on court is to the right of the copyright text."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the grass court."
+  },
+  {
+    "from": "gpt",
+    "value": "55.95 centimeters"
+  }
+]

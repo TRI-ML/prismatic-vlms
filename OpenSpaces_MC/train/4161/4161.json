@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the hills in the background and the airport buildings horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 20.21 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the airport vehicles is thinner than the airport buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the airport vehicles is not thinner than the airport buildings."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the airport buildings to the large bus."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the airport buildings from the large bus is 10.37 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the airport buildings thinner than the large bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the airport buildings is thinner than the large bus."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the airport vehicles is smaller than the airport buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the airport vehicles might be larger or the same size as the airport buildings."
+  }
+]

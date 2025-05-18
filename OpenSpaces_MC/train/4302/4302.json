@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the magazine on table and the books on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the magazine on table and the books on table are 16.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray pillow on couch and the couch."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray pillow on couch and the couch are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the table from the magazine on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the table from the magazine on table is 56.38 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the table to the left of the gray pillow on couch from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the table is either to the right of or directly aligned with the gray pillow on couch."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray pillow on couch to the left of the couch from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray pillow on couch is not to the left of the couch."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the large clock from the breakfast menu?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large clock is 89.4 centimeters away from the breakfast menu."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the large clock or the breakfast menu?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, breakfast menu appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cash only sign is shorter than the corona extra neon sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cash only sign's height does not fall short of the corona extra neon sign's."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the large clock or the delicious ice cold drinks?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, delicious ice cold drinks appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the philippe sign in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the philippe sign is 1.09 meters in height."
+  }
+]

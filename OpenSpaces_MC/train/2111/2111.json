@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the building from the pool?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Between the umbrella and the umbrella, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "umbrella is higher up."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 7.11 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the building in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the building or the pool?"
+  },
+  {
+    "from": "gpt",
+    "value": "building is above."
+  }
+]

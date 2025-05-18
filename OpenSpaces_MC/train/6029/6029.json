@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the bottle and the coca-cola crate horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bottle is 22.3 feet from the coca-cola crate horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the coca-cola crate and the box?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the bottle and the coca-cola crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bottle is 8.39 meters from the coca-cola crate."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the pot to the bottle."
+  },
+  {
+    "from": "gpt",
+    "value": "the pot is 2.0 meters from the bottle horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the bottle and the coca-cola crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.39 meters exists between the bottle and the coca-cola crate."
+  }
+]

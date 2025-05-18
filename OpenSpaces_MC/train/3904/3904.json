@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the brown pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown pot is 70.9 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the brown couch more distant than that of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the window."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the brown couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown couch is 4.1 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown couch behind the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the window."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown couch positioned at the back of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

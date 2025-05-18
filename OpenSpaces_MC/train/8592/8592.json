@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the neon bar sign to the bottles on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the neon bar sign is 2.9 meters from the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the glasses on shelf less distant than that of the bottles on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the glasses on shelf is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the glasses on shelf and the bottles on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.56 meters exists between the glasses on shelf and the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the neon bar sign and the bottles on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.9 meters exists between the neon bar sign and the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How close is the pictures on wall from the glasses on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.8 feet apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the mcdonald's sign and the bus with number 125 horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mcdonald's sign and the bus with number 125 are 82.9 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the mcdonald's sign appear on the left side of the bus with number 125?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the mcdonald's sign is either to the right of or directly aligned with the bus with number 125."
+  },
+  {
+    "from": "human",
+    "value": "Does the car with headlights on have a greater width compared to the bus with number 125?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the car with headlights on might be narrower or the same width as the bus with number 125."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the car with headlights on from the taxi with number a-109?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car with headlights on and the taxi with number a-109 are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the mcdonald's sign to the taxi with number a-109."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.6 meters exists between the mcdonald's sign and the taxi with number a-109."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the stack of boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the hand truck and the boxes on pallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck and the boxes on pallet are 23.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the hand truck and the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the hand truck from the stack of boxes is 27.88 feet."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the hand truck and the stack of boxes horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "7.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the boxes on pallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on pallet is 31.0 inches tall."
+  }
+]

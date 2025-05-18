@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the store fence or the store door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is store fence."
+  },
+  {
+    "from": "human",
+    "value": "Does the skateboarder come behind the store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the store sign is in front of the skateboarder."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the silver truck or the partially visible car?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, silver truck appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver truck behind the partially visible car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the partially visible car."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the silver truck or the partially visible car?"
+  },
+  {
+    "from": "gpt",
+    "value": "silver truck is more to the left."
+  }
+]

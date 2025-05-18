@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the official in blue uniform in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the official in blue uniform is 48.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the official in blue uniform is."
+  },
+  {
+    "from": "gpt",
+    "value": "the official in blue uniform is 48.1 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the black wall with advertisements is."
+  },
+  {
+    "from": "gpt",
+    "value": "the black wall with advertisements is 9.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the player in black uniform from the bollettieri's academy text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player in black uniform is 42.92 feet away from the bollettieri's academy text."
+  },
+  {
+    "from": "human",
+    "value": "How close is the player in black uniform from the bollettieri's academy text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player in black uniform is 42.92 feet from the bollettieri's academy text."
+  }
+]

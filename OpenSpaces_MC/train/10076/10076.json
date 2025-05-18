@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the burnt-out candle in a can lie behind the clear plastic bottle with orange liquid?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the burnt-out candle in a can is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the white stool with blue lid?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white stool with blue lid is 78.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the striped camping chair to the cell phone."
+  },
+  {
+    "from": "gpt",
+    "value": "the striped camping chair and the cell phone are 1.22 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white stool with blue lid and the person's hand horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white stool with blue lid is 4.0 meters from the person's hand horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the striped camping chair further to camera compared to the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the striped camping chair is behind the cell phone."
+  }
+]

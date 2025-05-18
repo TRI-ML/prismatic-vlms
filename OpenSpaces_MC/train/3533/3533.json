@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the cars have a greater width compared to the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cars is wider than the van."
+  },
+  {
+    "from": "human",
+    "value": "Is the cars to the right of the van from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the cars to the right of the van."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the traffic lights and the gas station sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic lights is 5.2 feet away from the gas station sign vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the gas station is wider than the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gas station is wider than the business sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the traffic lights is wider than the gas station sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the traffic lights is not wider than the gas station sign."
+  }
+]

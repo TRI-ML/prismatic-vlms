@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the traffic light from the traffic light horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic light and the traffic light are 27.1 inches apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the traffic light is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 21.51 inches."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the traffic light or the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, traffic light appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the traffic light or the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is traffic light."
+  },
+  {
+    "from": "human",
+    "value": "Is the traffic light positioned before the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the traffic light is in front of the traffic light."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the machine with buttons and the girl in red shirt horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the machine with buttons is 10.02 feet away from the girl in red shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in black hoodie further to camera compared to the girl in pink shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in black hoodie is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person in green shirt from the machine with buttons?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in green shirt is 2.0 meters from the machine with buttons."
+  },
+  {
+    "from": "human",
+    "value": "Is the machine with buttons further to the viewer compared to the girl in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person in green shirt and the machine with buttons horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in green shirt is 3.0 meters from the machine with buttons horizontally."
+  }
+]

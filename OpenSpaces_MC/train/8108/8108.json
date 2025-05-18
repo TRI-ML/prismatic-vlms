@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the wicker basket more distant than that of the bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the wicker basket further to camera compared to the wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wicker basket is behind the wicker basket."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the books less distant than that of the wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the books come behind the wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the bookshelf and the wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bookshelf and the wicker basket are 37.0 inches apart from each other."
+  }
+]

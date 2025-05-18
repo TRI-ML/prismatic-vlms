@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the walk/don't walk sign is smaller than the storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the walk/don't walk sign is smaller than the storefront."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the walk/don't walk sign from the storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.65 meters exists between the walk/don't walk sign and the storefront."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the man in brown coat more distant than that of the man in brown coat?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in brown coat behind the woman in white coat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the storefront is smaller than the man in brown coat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the storefront has a smaller size compared to the man in brown coat."
+  }
+]

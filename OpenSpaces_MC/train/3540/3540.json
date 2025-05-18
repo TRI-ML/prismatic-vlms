@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the object on mantle behind the object on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the object on mantle is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the object on mantle or the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is picture on wall."
+  },
+  {
+    "from": "human",
+    "value": "How far is the object on mantle from the object on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the object on mantle and the object on mantle are 24.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the object on mantle and the object on mantle."
+  },
+  {
+    "from": "gpt",
+    "value": "the object on mantle is 10.59 inches from the object on mantle."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the object on mantle or the object on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "object on mantle is more to the right."
+  }
+]

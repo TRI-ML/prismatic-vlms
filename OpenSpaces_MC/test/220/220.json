@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the gray sign to the blue car."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray sign from the blue car is 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the gray sign have a greater width compared to the white sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the gray sign's width does not surpass the white sign's."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the gray sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the gray sign is 9.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the gray sign."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the gray sign is 9.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red bus from the large white bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "14.0 meters"
+  }
+]

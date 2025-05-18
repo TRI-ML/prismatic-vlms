@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 56.57 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person running and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 56.55 feet exists between the person running and the trees."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees bigger than the walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the trees is not larger than the walkway."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the trees and the walkway."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the walkway are 13.27 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the statue from the kite horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the statue from the kite is 31.61 feet."
+  }
+]

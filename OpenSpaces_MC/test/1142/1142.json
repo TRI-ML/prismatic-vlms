@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the clock on mantle from the door with window panes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on mantle and the door with window panes are 11.1 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the mirror on dresser and the clock on mantle, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "clock on mantle is taller."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the mirror on dresser and the clock on mantle horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 14.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the clock on mantle and the door with window panes."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on mantle and the door with window panes are 11.1 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the clock on mantle and the mirror on dresser."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on mantle and the mirror on dresser are 4.23 meters apart from each other."
+  }
+]

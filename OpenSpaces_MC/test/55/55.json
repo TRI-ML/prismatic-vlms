@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the window with white frame from the wooden bench with black legs horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 9.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the window with white frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window with white frame is 3.7 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the window with white frame from the door with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 30.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the woven basket with black handle from the wooden bench with black legs horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.03 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the window with white frame to the door with black handle."
+  },
+  {
+    "from": "gpt",
+    "value": "the window with white frame and the door with black handle are 30.0 inches apart."
+  }
+]

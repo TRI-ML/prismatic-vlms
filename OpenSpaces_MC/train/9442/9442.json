@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the green object closer to camera compared to the garage doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the garage doors is behind the green object."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the green object and the garage doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green object is 6.7 meters from the garage doors."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the green object and the train engine."
+  },
+  {
+    "from": "gpt",
+    "value": "the green object and the train engine are 27.1 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the green object occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green object is 14.58 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the train engine and the green object?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the train engine from the green object is 4.55 meters."
+  }
+]

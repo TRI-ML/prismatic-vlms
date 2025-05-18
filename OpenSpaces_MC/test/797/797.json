@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the lamp positioned at the back of the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the books is in front of the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Does the window come behind the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the rug from the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "the rug is 1.1 meters from the books."
+  },
+  {
+    "from": "human",
+    "value": "How far is the rug from the couch vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the window is 1.5 meters."
+  }
+]

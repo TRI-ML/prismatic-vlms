@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the lamp from the railroad fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp and the railroad fence are 9.96 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the city skyline appear on the right side of the painting?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the city skyline to the right of the painting."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the book on coffee table from the leather couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book on coffee table and the leather couch are 7.5 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the leather couch from the book on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the leather couch from the book on coffee table is 6.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the railroad and the book on coffee table?Could you provide the horizontal distance between the railroad and the book on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.08 meters apart."
+  }
+]

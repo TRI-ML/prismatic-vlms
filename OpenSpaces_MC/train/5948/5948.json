@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the films & tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the films & tv is 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the 3 printers."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 31.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the 3 printers is positioned to the left of the web & dvd?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the 3 printers is not to the left of the web & dvd."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the films & tv or the camera?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is films & tv."
+  },
+  {
+    "from": "human",
+    "value": "Between the 3 printers and the sound system, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, 3 printers appears more on the left side."
+  }
+]

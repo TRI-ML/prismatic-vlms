@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the power cord to the left of the microwave oven from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the power cord to the left of the microwave oven."
+  },
+  {
+    "from": "human",
+    "value": "Does the microwave oven have a smaller size compared to the control knobs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the microwave oven is not smaller than the control knobs."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the power cord and the unidentified object."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the power cord from the unidentified object is 23.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Does the control knobs have a smaller size compared to the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the control knobs occupies less space than the microwave oven."
+  },
+  {
+    "from": "human",
+    "value": "Is the power cord smaller than the unidentified object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the power cord is not smaller in size than the unidentified object."
+  }
+]

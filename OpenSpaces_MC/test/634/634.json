@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the mountain and the sky horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cow and the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cow from the sky is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the cow appear over the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cow is positioned over the sky."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the mountain and the cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the cow bigger than the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cow is not bigger than the sky."
+  }
+]

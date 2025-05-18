@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the books on coffee table and the coffee table?Could you provide the horizontal distance between the books on coffee table and the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on coffee table is 10.0 centimeters away from the coffee table horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the gray sectional couch from the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 6.0 feet exists between the gray sectional couch and the coffee table."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sectional couch pillows from the brown coffee table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 13.0 inches exists between the sectional couch pillows and the brown coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Is the sectional couch pillows positioned in front of the brown coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How far is the books on coffee table from the coffee table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on coffee table is 8.0 inches away from the coffee table vertically."
+  }
+]

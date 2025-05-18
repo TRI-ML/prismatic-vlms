@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the shrubbery to the right of the people from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the shrubbery to the right of the people."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the shrubbery?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the shrubbery is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people is positioned to the left of the shrubbery?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the people to the left of the shrubbery."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the ocean from the jeep?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ocean is 9.0 feet away from the jeep."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 20.0 inches in width."
+  }
+]

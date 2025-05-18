@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the container of ricotta cheese or the container of hot sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "container of ricotta cheese is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the container of ricotta cheese or the container of hot sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is container of ricotta cheese."
+  },
+  {
+    "from": "human",
+    "value": "Is the container of ricotta cheese positioned before the container of hot sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the container of hot sauce is behind the container of ricotta cheese."
+  },
+  {
+    "from": "human",
+    "value": "How close is the container of ricotta cheese from the container of hot sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the container of ricotta cheese from the container of hot sauce is 4.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the chopped meat to the measuring cup."
+  },
+  {
+    "from": "gpt",
+    "value": "the chopped meat and the measuring cup are 10.4 inches apart horizontally."
+  }
+]

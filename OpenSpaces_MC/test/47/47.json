@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the shop text and the shop text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shop text and the shop text are 37.17 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the shop sign and the shop text vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shop sign and the shop text are 1.9 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the shop text bigger than the shop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the shop text is bigger than the shop sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the shop text bigger than the shop text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the shop text is not larger than the shop text."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the shop text is bigger than the shop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the shop text is larger in size than the shop sign."
+  }
+]

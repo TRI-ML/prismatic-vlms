@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the books have a lesser width compared to the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the books has a lesser width compared to the couch."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the lamp from the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp and the coffee table are 1.2 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the coffee table is thinner than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the coffee table's width is less than the window's."
+  },
+  {
+    "from": "human",
+    "value": "Does the books have a lesser width compared to the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the books is thinner than the couch."
+  },
+  {
+    "from": "human",
+    "value": "How far is the plant from the coffee table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.0 meters apart."
+  }
+]

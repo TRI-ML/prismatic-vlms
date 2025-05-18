@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the legs from the net?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 95.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the net and the shorts vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the net is 48.7 centimeters away from the shorts vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the ball to the shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the ball is 90.9 centimeters from the shirt."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the legs."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.67 meters."
+  }
+]

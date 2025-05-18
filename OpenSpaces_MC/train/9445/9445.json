@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the orange box with white knob positioned before the silver wrench with black handles?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the black metal sheet with four holes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 69.5 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the black metal sheet with four holes above the silver wrench with black handles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black metal sheet with four holes is above the silver wrench with black handles."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the orange box with white knob?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange box with white knob is 21.33 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the black metal sheet with four holes in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the black metal sheet with four holes is 69.5 centimeters."
+  }
+]

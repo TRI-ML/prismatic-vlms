@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the picture of a man or the picture of a man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is picture of a man."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the picture of a man is positioned to the left of the picture of a man?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the picture of a man is either to the right of or directly aligned with the picture of a man."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the picture of a man or the picture of a man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is picture of a man."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the picture of a man and the picture of a man?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture of a man is 9.0 centimeters from the picture of a man."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the picture of a man and the picture of a man horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "8.9 inches"
+  }
+]

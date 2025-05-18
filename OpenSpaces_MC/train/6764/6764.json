@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the yellow metal posts at bottom of shelving and the yellow posts at bottom of shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow metal posts at bottom of shelving is 36.6 inches from the yellow posts at bottom of shelving."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the blue metal shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 21.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Does the man in yellow vest appear on the left side of the yellow posts at bottom of shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in yellow vest is to the left of the yellow posts at bottom of shelving."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the man in yellow vest and the large cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in yellow vest and the large cardboard box are 3.2 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the man in yellow vest is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the man in yellow vest is 1.71 meters."
+  }
+]

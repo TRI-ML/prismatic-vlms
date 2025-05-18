@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white bags on shelf and the white bags on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white bags on shelf and the white bags on shelf are 8.46 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the white bags on shelf to the green bags on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white bags on shelf from the green bags on shelf is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white bags on shelf more distant than that of the green bags on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the white bags on shelf to the white bags on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the white bags on shelf is 36.93 centimeters from the white bags on shelf vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue pallet on shelf behind the green bags on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

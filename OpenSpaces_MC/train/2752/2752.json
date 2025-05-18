@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the white wall from the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall and the black chair are 3.3 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair positioned at the back of the black wall or door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How big is the white wall in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white wall further to the viewer compared to the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair further to the viewer compared to the gray couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

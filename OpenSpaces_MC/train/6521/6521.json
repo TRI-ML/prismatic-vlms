@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the plane engine is smaller than the plane window?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plane engine is not smaller than the plane window."
+  },
+  {
+    "from": "human",
+    "value": "Is the plane fuselage smaller than the man in white shirt and tie?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plane fuselage is smaller than the man in white shirt and tie."
+  },
+  {
+    "from": "human",
+    "value": "Does the plane fuselage lie behind the man in white shirt and tie?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in white shirt and tie is in front of the plane fuselage."
+  },
+  {
+    "from": "human",
+    "value": "Is the plane fuselage section further to camera compared to the plane winglet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the plane winglet."
+  },
+  {
+    "from": "human",
+    "value": "Is the plane window further to camera compared to the plane fuselage?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

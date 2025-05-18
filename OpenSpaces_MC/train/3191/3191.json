@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the bicycle wheel come behind the ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the ramp is in front of the bicycle wheel."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bicycle wheel from the ramp horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle wheel is 4.75 meters from the ramp horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the bicycle wheel come behind the ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 6.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sky and the fence."
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 3.4 feet from the fence."
+  }
+]

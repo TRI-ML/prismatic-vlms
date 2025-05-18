@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the green barrels on forklift wider than the red metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the green barrels on forklift might be narrower or the same width as the red metal beams."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the yellow container on forklift and the white ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow container on forklift is 74.0 feet away from the white ceiling horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the yellow container on forklift or the white ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow container on forklift."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the white ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white ceiling is 22.61 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white ceiling and the gray floor horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the white ceiling and the gray floor are 3.3 centimeters apart horizontally."
+  }
+]

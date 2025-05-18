@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the tv screen and the table with items?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tv screen is 12.0 feet from the table with items."
+  },
+  {
+    "from": "human",
+    "value": "How big is the airport terminal in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the airport terminal further to camera compared to the white mattress?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the tv screen further to camera compared to the remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tv screen is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white mattress is positioned to the right of the small table lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white mattress is positioned on the right side of the small table lamp."
+  }
+]

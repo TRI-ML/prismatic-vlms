@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the warehouse shelves and the warehouse organization?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the warehouse shelves from the warehouse organization is 17.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse interior appear on the right side of the stack of metal sheets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse interior is not to the right of the stack of metal sheets."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the warehouse shelves or the warehouse organization?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, warehouse organization appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse shelves appear on the right side of the warehouse organization?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the warehouse shelves is not on the right side of the warehouse organization."
+  },
+  {
+    "from": "human",
+    "value": "How far is the warehouse equipment from the warehouse storage?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the warehouse equipment from the warehouse storage is 6.7 meters."
+  }
+]

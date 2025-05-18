@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the tree in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 21.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the tree in the background and the cow in the distance."
+  },
+  {
+    "from": "gpt",
+    "value": "the tree in the background and the cow in the distance are 44.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the tree in the background to the cow on the right side of the image."
+  },
+  {
+    "from": "gpt",
+    "value": "the tree in the background is 9.5 meters away from the cow on the right side of the image."
+  },
+  {
+    "from": "human",
+    "value": "Is the tree in the background smaller than the cow in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tree in the background is not smaller than the cow in the distance."
+  },
+  {
+    "from": "human",
+    "value": "How close is the tree in the background from the cow in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "44.4 meters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the person in black jacket and the red table?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in purple jacket smaller than the yellow apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the woman in purple jacket might be larger or the same size as the yellow apples."
+  },
+  {
+    "from": "human",
+    "value": "Is the red apples bigger than the green table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red apples is not larger than the green table."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in black jacket smaller than the red table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person in black jacket is not smaller in size than the red table."
+  },
+  {
+    "from": "human",
+    "value": "How big is the woman in purple jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in purple jacket is 7.6 feet wide."
+  }
+]

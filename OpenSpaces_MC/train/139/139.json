@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the silhouette of two people in a canoe and the author name, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "silhouette of two people in a canoe is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the copyright information to the body of water."
+  },
+  {
+    "from": "gpt",
+    "value": "the copyright information and the body of water are 6.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the silhouette of a tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.78 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the copyright information and the body of water?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 8.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the copyright information to the body of water."
+  },
+  {
+    "from": "gpt",
+    "value": "the copyright information is 26.2 feet away from the body of water vertically."
+  }
+]

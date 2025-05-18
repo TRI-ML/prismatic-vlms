@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the blue containers on metal rack."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue containers on metal rack is 6.74 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue containers on metal rack from the blue containers on metal rack vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue containers on metal rack from the blue containers on metal rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue containers on metal rack from the blue containers on metal rack is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue containers on metal rack and the blue containers on metal rack horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue containers on metal rack is 3.6 meters from the blue containers on metal rack horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the blue containers on metal rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue containers on metal rack is 4.0 feet in width."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the bicycle on the right side of the stairs to the person walking up stairs."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 82.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the bicycle on the right side of the stairs to the person walking up stairs."
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle on the right side of the stairs and the person walking up stairs are 82.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How big is the gray wall on the right side of the stairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall on the right side of the stairs is 8.8 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the gray wall on the right side of the stairs and the bicycle on the right side of the stairs?Could you provide the horizontal distance between the gray wall on the right side of the stairs and the bicycle on the right side of the stairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall on the right side of the stairs is 33.0 inches from the bicycle on the right side of the stairs horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray wall on the right side of the stairs and the person walking up stairs horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall on the right side of the stairs and the person walking up stairs are 6.0 feet apart horizontally from each other."
+  }
+]

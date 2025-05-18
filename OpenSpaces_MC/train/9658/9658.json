@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the blue barrels on pallets from the blue barrels on pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 0.39 centimeters exists between the blue barrels on pallets and the blue barrels on pallets."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue barrels on pallets bigger than the blue barrels on pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue barrels on pallets is bigger than the blue barrels on pallets."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the operator in yellow shirt and the blue barrels on pallets horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 22.86 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the blue barrels on pallets to the blue barrels on pallets."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue barrels on pallets is 2.8 meters from the blue barrels on pallets horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue barrels on pallets and the blue barrels on pallets horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue barrels on pallets and the blue barrels on pallets are 1.0 meters apart horizontally from each other."
+  }
+]

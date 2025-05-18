@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the man in black jacket or the girl with long black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is girl with long black hair."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the girl with long black hair is positioned to the right of the boy with short black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the girl with long black hair is positioned on the right side of the boy with short black hair."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the girl with long black hair from the boy with short black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the girl with long black hair and the boy with short black hair are 2.58 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the girl with long black hair appear on the right side of the boy with short black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the girl with long black hair to the right of the boy with short black hair."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the girl with long brown hair and the man in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the girl with long brown hair and the man in green shirt are 11.5 feet apart from each other."
+  }
+]

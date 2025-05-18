@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the red truck and the boxes on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red truck is 6.3 centimeters away from the boxes on shelf vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray road and the brown boxes on shelf vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray road is 25.58 centimeters from the brown boxes on shelf vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the gray road occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the gray road is 1.15 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the blue house?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the blue house is 14.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray road and the checklist, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is gray road."
+  }
+]

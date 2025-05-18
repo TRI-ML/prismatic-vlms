@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the metal shed further to the viewer compared to the child in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the green tower more distant than that of the metal shed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the green tower is behind the metal shed."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the metal shed or the blue metal shed?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue metal shed is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the metal shed more distant than that of the child in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the child in green shirt."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman in purple dress from the metal shed?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in purple dress is 6.0 meters away from the metal shed."
+  }
+]

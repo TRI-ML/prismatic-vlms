@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the dirt behind the rocks?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the rocks."
+  },
+  {
+    "from": "human",
+    "value": "Is the boulders behind the small stones?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the boulders is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the dirt lie in front of the rocks?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the rocks is behind the dirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the boulders come behind the small stones?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the boulders positioned before the small stones?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the black backpack and the black backpack vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black backpack is 27.28 centimeters from the black backpack vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the black backpack from the black backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black backpack and the black backpack are 97.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black backpack to the black backpack."
+  },
+  {
+    "from": "gpt",
+    "value": "the black backpack is 6.09 meters from the black backpack."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black backpack to the black backpack."
+  },
+  {
+    "from": "gpt",
+    "value": "the black backpack is 8.92 meters away from the black backpack."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white pole and the white frisbee vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 18.0 feet exists between the white pole and the white frisbee."
+  }
+]

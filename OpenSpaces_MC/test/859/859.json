@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the green bush from the brick walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green bush is 2.0 meters away from the brick walkway."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the green bush to the soil."
+  },
+  {
+    "from": "gpt",
+    "value": "the green bush is 1.31 meters from the soil."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red siding from the brick walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the red siding from the brick walkway is 86.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white post and the soil."
+  },
+  {
+    "from": "gpt",
+    "value": "6.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the green bush and the brick walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green bush from the brick walkway is 2.0 meters."
+  }
+]

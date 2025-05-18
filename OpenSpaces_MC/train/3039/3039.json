@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the bird on wooden railing have a greater width compared to the plant in terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bird on wooden railing is wider than the plant in terracotta pot."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bird on wooden railing?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bird on wooden railing is 47.01 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How big is the plant in terracotta pot in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the plant in terracotta pot is 12.99 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the bird on wooden railing wider than the plant in terracotta pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the bird on wooden railing has a greater width compared to the plant in terracotta pot."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bird on wooden railing from the plant in terracotta pot horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bird on wooden railing is 72.0 centimeters away from the plant in terracotta pot horizontally."
+  }
+]

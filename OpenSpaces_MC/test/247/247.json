@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the stove burner and the stove drawer, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is stove drawer."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the person's leg?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person's leg is 35.8 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Between the stove burner and the person's leg, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is person's leg."
+  },
+  {
+    "from": "human",
+    "value": "Between the person's arm and the stove drawer, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is stove drawer."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the stove burner?"
+  },
+  {
+    "from": "gpt",
+    "value": "54.0 centimeters"
+  }
+]

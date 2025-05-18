@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the doorknob from the drawer?"
+  },
+  {
+    "from": "gpt",
+    "value": "the doorknob is 2.0 meters from the drawer."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the doorknob or the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is wall."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the doorknob or the drawer?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, doorknob appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the doorknob appear under the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the doorknob is below the wall."
+  },
+  {
+    "from": "human",
+    "value": "Between the wall and the cabinet, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is wall."
+  }
+]

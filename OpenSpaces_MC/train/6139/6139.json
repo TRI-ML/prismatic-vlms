@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the speed limit sign come behind the telephone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the speed limit sign positioned behind the telephone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the school zone sign or the speed limit sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, school zone sign appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the school days indicator come behind the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the trees."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the trees and the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 1.0 meters away from the sky."
+  }
+]

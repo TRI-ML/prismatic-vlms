@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the man using laptop is bigger than the man using laptop?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the man using laptop might be smaller or the same size as the man using laptop."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the remote control is bigger than the man using laptop?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the remote control has a larger size compared to the man using laptop."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the man using laptop is."
+  },
+  {
+    "from": "gpt",
+    "value": "the man using laptop is 33.0 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the man using laptop or the game controller?"
+  },
+  {
+    "from": "gpt",
+    "value": "game controller is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the remote control and the man using laptop horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the remote control and the man using laptop are 8.0 feet apart horizontally from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the brown bowl or the brown bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown bowl is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden table further to camera compared to the brown bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the brown bowl and the brown bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown bowl is 0.4 inches from the brown bowl."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown wooden table and the brown bowl, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is brown wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the brown bowl is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 29.0 inches."
+  }
+]

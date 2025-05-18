@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the tree in the middle and the tree on the left?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree in the middle is 11.0 meters away from the tree on the left."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the tree in the middle occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 46.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the tree in the middle closer to the viewer compared to the zebra on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the zebra on the left side is."
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra on the left side is 5.6 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How far is the tree on the left from the zebra on the right side horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the tree on the left from the zebra on the right side is 64.83 feet."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the girl with braids and the man in green shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "13.22 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in white shirt to the right of the man in green shirt from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the woman in white shirt is either to the left of or directly aligned with the man in green shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the girl with braids to the right of the man in green shirt from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the girl with braids is not to the right of the man in green shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the girl with braids is positioned to the right of the boy with short black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the girl with braids is positioned on the right side of the boy with short black hair."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman in white shirt and the man in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white shirt is 13.6 meters from the man in green shirt."
+  }
+]

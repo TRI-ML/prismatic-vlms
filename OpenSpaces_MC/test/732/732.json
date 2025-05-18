@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the chest high boxes is positioned above the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the chest high boxes is located above the table."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the table and the white boards vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.0 meters exists between the table and the white boards."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the table."
+  },
+  {
+    "from": "gpt",
+    "value": "the table is 58.8 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the table is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the table is 23.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Does the table appear over the white boards?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the table is not positioned above the white boards."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue seats have a greater width compared to the crowd in stands?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the blue seats exceeds that of the crowd in stands."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the blue seats or the crowd in stands?"
+  },
+  {
+    "from": "gpt",
+    "value": "crowd in stands is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the babolat racket is wider than the mercedes logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the babolat racket is wider than the mercedes logo."
+  },
+  {
+    "from": "human",
+    "value": "Is the babolat racket wider than the mercedes logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the babolat racket exceeds that of the mercedes logo."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the babolat racket to the mercedes logo."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the babolat racket from the mercedes logo is 4.17 meters."
+  }
+]

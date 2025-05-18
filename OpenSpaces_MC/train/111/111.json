@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the person walking and the horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking and the horse are 5.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the white horse have a larger size compared to the horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white horse is bigger than the horse."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person walking and the horse vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking and the horse are 4.0 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Does the white horse have a greater width compared to the horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white horse has a greater width compared to the horse."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person walking from the white horse horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking is 2.6 meters from the white horse horizontally."
+  }
+]

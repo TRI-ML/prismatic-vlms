@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the person in blue jacket."
+  },
+  {
+    "from": "gpt",
+    "value": "14.92 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person in blue jacket or the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person in black shirt appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person in black shirt or the person in white hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person in white hat."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white shirt positioned behind the person in yellow jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

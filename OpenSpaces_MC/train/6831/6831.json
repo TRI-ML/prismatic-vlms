@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the sink bigger than the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the sink is not larger than the plant."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sink from the plant horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the plant are 3.5 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sink and the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the plant are 9.58 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the sink positioned behind the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Does the toilet come behind the picture on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the toilet is further from the viewer."
+  }
+]

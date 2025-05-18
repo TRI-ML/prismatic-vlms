@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the scanner device come behind the police officer?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the wooden wall behind the brochures?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the wooden wall."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the wooden wall is 1.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the scanner device or the police officer?"
+  },
+  {
+    "from": "gpt",
+    "value": "scanner device is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Between the wooden wall and the brochures, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is brochures."
+  }
+]

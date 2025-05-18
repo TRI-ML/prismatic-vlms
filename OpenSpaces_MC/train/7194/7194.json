@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the puffer jacket to the date."
+  },
+  {
+    "from": "gpt",
+    "value": "the puffer jacket is 16.0 inches away from the date."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bucket on ground and the hay vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the bucket on ground and the hay are 1.66 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Does the bucket on ground lie in front of the hay?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bucket on ground from the horses?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bucket on ground and the horses are 1.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the fence positioned before the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

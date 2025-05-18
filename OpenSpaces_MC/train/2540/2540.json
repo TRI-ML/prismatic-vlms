@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the traffic light and the traffic light."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.4 centimeters exists between the traffic light and the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the traffic light and the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 0.1 inches exists between the traffic light and the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the traffic light from the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic light and the traffic light are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the traffic light."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 13.15 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the young boy."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.7 meters."
+  }
+]

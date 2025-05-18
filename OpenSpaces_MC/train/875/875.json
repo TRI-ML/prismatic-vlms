@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the person from the red suv horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 109.6 feet from the red suv horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the truck with open back."
+  },
+  {
+    "from": "gpt",
+    "value": "the truck with open back is 57.0 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the person smaller than the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is not smaller than the person."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the truck with open back and the blue suv."
+  },
+  {
+    "from": "gpt",
+    "value": "the truck with open back is 1.0 meters from the blue suv vertically."
+  },
+  {
+    "from": "human",
+    "value": "Does the person have a smaller size compared to the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is not smaller than the person."
+  }
+]

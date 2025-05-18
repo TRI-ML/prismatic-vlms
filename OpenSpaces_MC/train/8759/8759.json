@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the three white-framed windows appear on the left side of the gray sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the three white-framed windows is not to the left of the gray sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the green park bench and the green bushes with yellow flowers."
+  },
+  {
+    "from": "gpt",
+    "value": "53.5 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Does the gray sidewalk appear on the left side of the three white-framed windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray sidewalk is not to the left of the three white-framed windows."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the three white-framed windows is smaller than the gray sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the three white-framed windows might be larger or the same size as the gray sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "How far is the pink building from the concrete barrier horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  }
+]

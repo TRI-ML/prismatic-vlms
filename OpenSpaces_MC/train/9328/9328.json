@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the machine with silver front and yellow sticker from the oven with glass door?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the control panel with knobs?"
+  },
+  {
+    "from": "gpt",
+    "value": "45.62 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Does the control panel with knobs have a greater width compared to the control panel with knobs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the control panel with knobs's width does not surpass the control panel with knobs's."
+  },
+  {
+    "from": "human",
+    "value": "Is the oven with glass door wider than the control panel with knobs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the oven with glass door has a greater width compared to the control panel with knobs."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the oven with glass door and the control panel with knobs horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 10.79 inches exists between the oven with glass door and the control panel with knobs."
+  }
+]

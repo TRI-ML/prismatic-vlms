@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown boxes is bigger than the wheeled cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the brown boxes is not larger than the wheeled cart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the orange boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange boxes is 19.0 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How big is the man in green uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.79 meters."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the man in green uniform in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the man in green uniform is 1.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the brown boxes is."
+  },
+  {
+    "from": "gpt",
+    "value": "19.38 inches"
+  }
+]

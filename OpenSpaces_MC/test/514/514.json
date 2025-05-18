@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the floor more distant than that of the beds?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the floor is behind the beds."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the floor occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the floor is 23.14 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the beds is wider than the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the beds is not wider than the table."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the woman reading a book positioned at the back of the beds?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

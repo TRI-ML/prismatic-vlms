@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the people on dock."
+  },
+  {
+    "from": "gpt",
+    "value": "the people on dock is 8.43 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bushes and the people on dock vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the bushes from the people on dock is 70.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the dock railing from the docked boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dock railing and the docked boat are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the people on dock to the dock railing."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.98 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the american flag to the docked boat."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 16.36 feet exists between the american flag and the docked boat."
+  }
+]

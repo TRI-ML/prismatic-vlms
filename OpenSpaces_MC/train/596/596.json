@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the brown wooden chair to the white couch."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 56.0 centimeters exists between the brown wooden chair and the white couch."
+  },
+  {
+    "from": "human",
+    "value": "Does the white rug appear on the right side of the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white rug is either to the left of or directly aligned with the green plant."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white rug is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.11 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white couch closer to the viewer compared to the green lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the white couch to the right of the white door from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white couch to the right of the white door."
+  }
+]

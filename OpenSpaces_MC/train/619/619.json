@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person wearing a black jacket or the person wearing a black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "person wearing a black jacket is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the box of pastries from the person wearing a black jacket horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the box of pastries is 30.79 feet from the person wearing a black jacket horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the person wearing a black jacket bigger than the person wearing a black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person wearing a black jacket has a larger size compared to the person wearing a black jacket."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person wearing a black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing a black jacket is 166.2 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the person wearing a black jacket bigger than the person wearing a yellow jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person wearing a black jacket has a larger size compared to the person wearing a yellow jacket."
+  }
+]

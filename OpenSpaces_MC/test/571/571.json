@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the car to the left of the car from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the car to the left of the car."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the car and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the van to the car."
+  },
+  {
+    "from": "gpt",
+    "value": "the van and the car are 29.9 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the car appear on the left side of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the car is not on the left side of the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the van is positioned to the left of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the van to the left of the car."
+  }
+]

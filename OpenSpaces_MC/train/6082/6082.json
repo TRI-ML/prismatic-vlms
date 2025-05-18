@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the door is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 24.6 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the basket on the floor and the man's body."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 17.43 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's head and the door, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, door appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the toilet to the man's body."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet and the man's body are 99.0 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the basket on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket on the floor is 23.53 inches in height."
+  }
+]

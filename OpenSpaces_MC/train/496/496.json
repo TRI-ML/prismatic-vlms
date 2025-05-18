@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the baseball fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball fence is 2.25 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the baseball player in white uniform with blue sleeves occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the baseball player in white uniform with blue sleeves is 1.05 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the baseball player in white uniform is positioned to the right of the baseball bat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the baseball player in white uniform is positioned on the right side of the baseball bat."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the baseball player in white uniform with blue sleeves or the baseball fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is baseball player in white uniform with blue sleeves."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the baseball bat or the baseball fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "baseball bat is more to the right."
+  }
+]

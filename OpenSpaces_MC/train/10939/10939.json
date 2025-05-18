@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white pickup truck closer to camera compared to the silver car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white pickup truck is in front of the silver car."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white pickup truck from the silver car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white pickup truck from the silver car is 16.66 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the black suv from the silver car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black suv and the silver car are 17.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white car from the black suv horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white car and the black suv are 37.2 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white car is smaller than the black suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white car is not smaller in size than the black suv."
+  }
+]

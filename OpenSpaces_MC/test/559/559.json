@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person sitting on bench further to the viewer compared to the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person sitting on bench is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the person sitting on bench closer to the viewer compared to the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the person sitting on bench."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person sitting on bench and the person sitting on bench horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on bench and the person sitting on bench are 2.6 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person sitting on bench more distant than that of the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person sitting on bench is behind the person sitting on bench."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person sitting on bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.0 inches"
+  }
+]

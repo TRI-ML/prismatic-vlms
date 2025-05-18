@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the kitchen drawers and the white leather couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 21.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the kitchen chair bigger than the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the kitchen chair has a larger size compared to the kitchen cabinets."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red flower pot and the white shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red flower pot and the white shelf are 26.5 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the red flower pot and the white shelf?Could you provide the horizontal distance between the red flower pot and the white shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the red flower pot from the white shelf is 30.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the kitchen drawers?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the kitchen drawers is 53.6 centimeters."
+  }
+]

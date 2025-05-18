@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white object to the left of the white object from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white object is to the left of the white object."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white object from the person in black clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white object from the person in black clothing is 3.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white object to the left of the person in black clothing from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white object to the left of the person in black clothing."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white object from the person in black clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.36 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the white object and the person in black clothing?Could you provide the horizontal distance between the white object and the person in black clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white object and the person in black clothing are 10.77 feet apart horizontally from each other."
+  }
+]

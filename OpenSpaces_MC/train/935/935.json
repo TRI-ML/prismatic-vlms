@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the brick road occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the ford truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the ford truck is 44.48 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brick road is positioned to the right of the drain cover?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brick road is positioned on the right side of the drain cover."
+  },
+  {
+    "from": "human",
+    "value": "How big is the brick road in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brick road is 11.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How big is the brick stones in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 12.0 feet."
+  }
+]

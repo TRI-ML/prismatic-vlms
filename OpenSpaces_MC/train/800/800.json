@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the metal gate positioned in front of the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the person using phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.6 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the storefront sign less distant than that of the storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the storefront sign is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the metal gate come in front of the blue sedan?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue sedan is behind the metal gate."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the storefront sign is."
+  },
+  {
+    "from": "gpt",
+    "value": "the storefront sign is 10.7 inches in width."
+  }
+]

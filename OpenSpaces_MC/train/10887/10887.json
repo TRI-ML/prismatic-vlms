@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the internet cafe to the restaurant."
+  },
+  {
+    "from": "gpt",
+    "value": "the internet cafe and the restaurant are 6.0 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the internet cafe less distant than that of the motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the motorcycle is behind the internet cafe."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the oodles home less distant than that of the watson homes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the watson homes."
+  },
+  {
+    "from": "human",
+    "value": "Does the oodles home lie in front of the watson homes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the black truck and the bakeware."
+  },
+  {
+    "from": "gpt",
+    "value": "19.0 feet"
+  }
+]

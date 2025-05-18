@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the bucket of water is positioned to the right of the large stone oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bucket of water is to the right of the large stone oven."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the shelves with trays and the woman in blue shirt and apron."
+  },
+  {
+    "from": "gpt",
+    "value": "the shelves with trays is 9.0 feet away from the woman in blue shirt and apron."
+  },
+  {
+    "from": "human",
+    "value": "Does the shelves with trays come behind the woman in blue shirt and apron?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the woman in blue shirt and apron."
+  },
+  {
+    "from": "human",
+    "value": "Is the bucket of water behind the large stone oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bucket of water from the large stone oven horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bucket of water is 2.0 meters away from the large stone oven horizontally."
+  }
+]

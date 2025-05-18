@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the nike tank top?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.48 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the green court surface and the yellow tennis ball?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green court surface and the yellow tennis ball are 22.78 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the green court surface to the left of the yellow tennis ball from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the green court surface is either to the right of or directly aligned with the yellow tennis ball."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the tennis player from the nike skirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tennis player is 20.5 inches away from the nike skirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the chain link fence appear on the left side of the green court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the chain link fence is to the left of the green court surface."
+  }
+]

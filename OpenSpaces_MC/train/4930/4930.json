@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the tree on the left side of the road lie in front of the tree on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the tree on the left side of the road closer to camera compared to the tree on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tree on the left side of the road is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the tree on the left side of the road and the tree on the left side of the road."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the tree on the left side of the road from the tree on the left side of the road is 10.75 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the tree on the left side of the road and the tree on the left side of the road."
+  },
+  {
+    "from": "gpt",
+    "value": "the tree on the left side of the road and the tree on the left side of the road are 3.7 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the tree on the left side of the road less distant than that of the tree on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the tree on the left side of the road."
+  }
+]

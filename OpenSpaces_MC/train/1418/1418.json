@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the bookshelf with books and the glass of water?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.27 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the bookshelf with books to the glass of water."
+  },
+  {
+    "from": "gpt",
+    "value": "the bookshelf with books and the glass of water are 2.27 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the wooden floor from the silver bowl of chips?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wooden floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the silver bowl of chips?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver bowl of chips is 38.17 centimeters in width."
+  }
+]

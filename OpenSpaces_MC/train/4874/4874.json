@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the toilet and the toilet horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet is 8.57 centimeters away from the toilet horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the toilet is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the toilet is 38.77 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the toilet have a lesser width compared to the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the toilet's width is less than the toilet's."
+  },
+  {
+    "from": "human",
+    "value": "How close is the toilet from the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet is 2.0 meters from the toilet."
+  },
+  {
+    "from": "human",
+    "value": "Is the toilet thinner than the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the toilet has a lesser width compared to the toilet."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the noodles and the green onions horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the noodles from the green onions is 28.19 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the green sauce from the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green sauce and the white object are 3.67 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the noodles occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the noodles is 20.8 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the noodles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 20.78 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the red bowl bigger than the rice bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the red bowl is not bigger than the rice bowl."
+  }
+]

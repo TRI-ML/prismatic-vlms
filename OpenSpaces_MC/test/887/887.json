@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the white van from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 18.0 feet exists between the white van and the person."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the white van or the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white van appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person and the person vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 2.0 meters away from the person vertically."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the white van."
+  },
+  {
+    "from": "gpt",
+    "value": "the white van is 3.38 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the person and the brown building?Could you provide the horizontal distance between the person and the brown building?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.91 meters apart."
+  }
+]

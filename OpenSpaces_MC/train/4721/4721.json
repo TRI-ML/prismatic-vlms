@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the cabinet is smaller than the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cabinet has a smaller size compared to the door."
+  },
+  {
+    "from": "human",
+    "value": "Is the cabinet positioned in front of the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the cabinet and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.08 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the cabinet and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "34.2 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the sink from the object on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the object on floor are 2.16 meters apart."
+  }
+]

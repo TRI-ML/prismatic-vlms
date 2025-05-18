@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the coffee table from the picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee table and the picture are 16.9 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wall is bigger than the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wall is not bigger than the coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the coffee table is positioned to the left of the picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the coffee table to the left of the picture."
+  },
+  {
+    "from": "human",
+    "value": "Is the coffee table to the left of the picture from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the coffee table is to the left of the picture."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the coffee table in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the palm trees to the palm trees."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm trees is 57.41 feet away from the palm trees."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the palm trees is."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm trees is 3.78 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Between the palm trees and the palm trees, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is palm trees."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the palm trees in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the palm trees is 6.26 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the palm trees is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the palm trees is 11.1 meters."
+  }
+]

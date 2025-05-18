@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the silver cabinet or the first aid box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is first aid box."
+  },
+  {
+    "from": "human",
+    "value": "Between the silver cabinet and the oven, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is silver cabinet."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red and white object and the yellow object?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.2 inches"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the silver cabinet or the first aid box?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, first aid box appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the silver cabinet or the first aid box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is first aid box."
+  }
+]

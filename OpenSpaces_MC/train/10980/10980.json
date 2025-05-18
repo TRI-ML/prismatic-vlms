@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow beam bigger than the cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow beam is bigger than the cardboard boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the cardboard boxes bigger than the cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cardboard boxes is not bigger than the cardboard boxes."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 33.57 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cardboard boxes is 17.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow beam is bigger than the red and white sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow beam is bigger than the red and white sign."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the birds on the ground and the birds on the ground."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 18.0 inches exists between the birds on the ground and the birds on the ground."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the birds on the ground and the birds on the ground vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground and the birds on the ground are 29.0 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far is the birds on the ground from the birds on the ground horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 18.8 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the birds on the ground and the birds on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground and the birds on the ground are 48.9 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the birds on the ground from the birds on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground and the birds on the ground are 8.0 feet apart."
+  }
+]

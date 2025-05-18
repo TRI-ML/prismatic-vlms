@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the stone oven with face is bigger than the mouth on the oven face?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stone oven with face is not bigger than the mouth on the oven face."
+  },
+  {
+    "from": "human",
+    "value": "Is the stone oven with face bigger than the mustache on the oven face?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stone oven with face is not bigger than the mustache on the oven face."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the stone oven with face."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.09 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the eyes on the oven face is positioned to the left of the opening of the oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the eyes on the oven face is not on the left side of the opening of the oven."
+  },
+  {
+    "from": "human",
+    "value": "Is the eyes on the oven face bigger than the opening of the oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the eyes on the oven face is larger in size than the opening of the oven."
+  }
+]

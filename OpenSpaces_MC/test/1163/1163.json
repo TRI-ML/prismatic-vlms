@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the sign with brown text and the sign with purple text, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "sign with purple text is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the sign with purple text or the sign with green text?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sign with green text appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the sign with red text or the sign with orange text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sign with orange text."
+  },
+  {
+    "from": "human",
+    "value": "Between the sign with black text and the sign with purple text, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sign with purple text."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the sign with purple text in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the sign with purple text is 1.0 meters."
+  }
+]

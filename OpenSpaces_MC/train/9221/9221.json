@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the ski lift chairs and the ski lift chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ski lift chairs is 4.0 meters from the ski lift chairs."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the ski lift chairs to the ski lift chairs."
+  },
+  {
+    "from": "gpt",
+    "value": "the ski lift chairs is 3.72 feet away from the ski lift chairs vertically."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the ski lift chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ski lift chairs is 5.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the ski lift chairs and the ski lift chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ski lift chairs is 8.0 meters away from the ski lift chairs."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the ski lift chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the ski lift chairs is 93.37 centimeters."
+  }
+]

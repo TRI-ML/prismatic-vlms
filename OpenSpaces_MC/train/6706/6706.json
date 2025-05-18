@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the brown boxes on the left side positioned in front of the man's khaki pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown boxes on the left side is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How big is the brown boxes on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown boxes on the left side is 47.5 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the brown boxes on the left side and the man's khaki pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown boxes on the left side is 34.2 centimeters away from the man's khaki pants."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown boxes on the left side and the man's brown shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.98 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brown boxes on the left side from the man's khaki pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "34.2 centimeters"
+  }
+]

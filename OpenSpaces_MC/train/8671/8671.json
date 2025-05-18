@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the white double-decker bus or the gray parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "white double-decker bus is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the white double-decker bus or the gray sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "white double-decker bus is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the white double-decker bus or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white double-decker bus appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white double-decker bus and the gray parking lot horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the white double-decker bus and the gray parking lot are 6.76 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white double-decker bus from the gray sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white double-decker bus and the gray sky are 13.2 meters apart from each other."
+  }
+]

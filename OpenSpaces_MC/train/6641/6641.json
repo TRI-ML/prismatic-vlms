@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the coffee mug from the vase with plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the coffee mug and the vase with plant horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee mug and the vase with plant are 26.98 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the vase with plant above the coffee mug?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the vase with plant is above the coffee mug."
+  },
+  {
+    "from": "human",
+    "value": "How close is the coffee cup on saucer from the vase on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the coffee cup on saucer from the vase on shelf is 21.9 inches."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the vase with plant in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 43.68 centimeters."
+  }
+]

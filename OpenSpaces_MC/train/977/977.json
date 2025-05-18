@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the books on shelf and the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the window with closed blinds and the green bag."
+  },
+  {
+    "from": "gpt",
+    "value": "the window with closed blinds and the green bag are 9.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the books on shelf and the desk lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on shelf is 6.85 meters away from the desk lamp."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the window with closed blinds and the green bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red cup and the desk lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red cup is 4.2 meters away from the desk lamp."
+  }
+]

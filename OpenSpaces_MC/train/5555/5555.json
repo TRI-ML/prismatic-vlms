@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the store is shorter than the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the store has a lesser height compared to the man."
+  },
+  {
+    "from": "human",
+    "value": "Is the people to the left of the sign from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the people is not on the left side of the sign."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the store to the man."
+  },
+  {
+    "from": "gpt",
+    "value": "the store is 5.0 meters away from the man."
+  },
+  {
+    "from": "human",
+    "value": "Is the store to the left of the man from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the store to the left of the man."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the store and the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "the store and the man are 5.0 meters apart from each other."
+  }
+]

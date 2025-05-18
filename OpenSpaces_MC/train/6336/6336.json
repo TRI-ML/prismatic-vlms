@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the books on shelves and the circular sign with coffee cup logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the books on shelves from the circular sign with coffee cup logo is 4.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the books on shelves to the circular sign with coffee cup logo."
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the text on circular sign and the circular sign with coffee cup logo."
+  },
+  {
+    "from": "gpt",
+    "value": "the text on circular sign is 3.2 centimeters from the circular sign with coffee cup logo vertically."
+  },
+  {
+    "from": "human",
+    "value": "How close is the coffee cup logo from the postcards on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.54 feet"
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the text on circular sign is."
+  },
+  {
+    "from": "gpt",
+    "value": "the text on circular sign is 2.2 meters in width."
+  }
+]

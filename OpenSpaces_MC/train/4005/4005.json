@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red forklift is 16.26 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the green crate on pallet and the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the stack of boxes taller than the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the stack of boxes may be shorter or the same height as the stack of boxes."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red forklift from the stack of boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the red forklift from the stack of boxes is 5.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the green crate on pallet to the stack of boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.4 meters."
+  }
+]

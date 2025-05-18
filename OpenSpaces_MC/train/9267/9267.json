@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the window occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.76 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the chef's shirt from the meat patty?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 55.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the chef's apron lie behind the plate with food?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the chef's shirt and the meat patty?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 55.0 centimeters exists between the chef's shirt and the meat patty."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the window in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.76 meters."
+  }
+]

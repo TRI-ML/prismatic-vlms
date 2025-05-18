@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the cherries appear on the left side of the cherries?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the cherries is either to the right of or directly aligned with the cherries."
+  },
+  {
+    "from": "human",
+    "value": "Is the cherries bigger than the cherries?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cherries is not larger than the cherries."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the cherries?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cherries is 18.0 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Does the cherries appear on the left side of the cherries?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cherries is not on the left side of the cherries."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the cherries and the cherries?"
+  },
+  {
+    "from": "gpt",
+    "value": "19.0 centimeters"
+  }
+]

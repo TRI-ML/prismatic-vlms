@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the fork to the brown soil."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 27.3 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the red berries?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the red berries is 68.1 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red berries and the white sauce horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red berries and the white sauce are 0.2 inches apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the red berries and the red berries?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the red berries and the white sauce horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 0.2 inches apart."
+  }
+]

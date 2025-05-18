@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the kitchen table and the wall-mounted object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen table and the wall-mounted object are 5.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wall-mounted object and the refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wall-mounted object is 6.55 feet away from the refrigerator."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the kitchen cabinets and the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen cabinets is 2.0 meters from the kitchen cabinets."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the kitchen cabinets and the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the kitchen cabinets and the kitchen cabinets."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the wall-mounted object is."
+  },
+  {
+    "from": "gpt",
+    "value": "the wall-mounted object is 28.0 centimeters tall."
+  }
+]

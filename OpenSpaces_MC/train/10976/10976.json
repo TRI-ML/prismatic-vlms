@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the black dome light?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the black dome light is 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the black dome light appear on the right side of the white cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the black dome light to the right of the white cabinet."
+  },
+  {
+    "from": "human",
+    "value": "Does the black leather couch appear on the right side of the black dome light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black leather couch is not to the right of the black dome light."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the brown curtain and the white cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown curtain from the white cabinet is 15.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the green plant appear on the right side of the black dome light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the green plant is to the right of the black dome light."
+  }
+]

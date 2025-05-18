@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white circular ottoman lie behind the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white circular ottoman from the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 77.0 centimeters exists between the white circular ottoman and the black chair."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sliding glass door from the green plant on dining table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sliding glass door is 6.1 meters from the green plant on dining table."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white ottoman and the white ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white ottoman is 27.8 inches away from the white ottoman."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white circular ottoman from the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white circular ottoman and the black chair are 77.0 centimeters apart."
+  }
+]

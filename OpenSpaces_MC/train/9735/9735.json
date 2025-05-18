@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white chair have a larger size compared to the soundbar?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white chair has a larger size compared to the soundbar."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the black table from the plant horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black table is 18.2 feet away from the plant horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the door to the soundbar."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the door from the soundbar is 16.59 feet."
+  },
+  {
+    "from": "human",
+    "value": "How big is the tv showing merida in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tv showing merida is 1.6 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black table and the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the black table and the plant are 17.0 feet apart from each other."
+  }
+]

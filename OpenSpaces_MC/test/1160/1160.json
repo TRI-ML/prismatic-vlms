@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the red coffee mug?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the red coffee mug is 9.44 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the glass of red wine?"
+  },
+  {
+    "from": "gpt",
+    "value": "the glass of red wine is 8.36 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the plate wider than the glass of red wine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plate is wider than the glass of red wine."
+  },
+  {
+    "from": "human",
+    "value": "How big is the red coffee mug in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the red coffee mug is 9.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the plate of food from the red coffee mug?"
+  },
+  {
+    "from": "gpt",
+    "value": "19.0 centimeters"
+  }
+]

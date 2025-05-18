@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the street light to the car in driveway."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.63 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the car in driveway and the house across street."
+  },
+  {
+    "from": "gpt",
+    "value": "5.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the porch with columns and the house across street?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the porch with columns is thinner than the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the porch with columns is not thinner than the street light."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the porch with columns and the street light."
+  },
+  {
+    "from": "gpt",
+    "value": "the porch with columns and the street light are 1.47 meters apart vertically from each other."
+  }
+]

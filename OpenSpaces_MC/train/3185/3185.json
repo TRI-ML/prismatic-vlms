@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the street and the brick column?Could you provide the horizontal distance between the street and the brick column?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 9.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person with raised hand and the bag on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with raised hand and the bag on the ground are 2.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the street bigger than the brick column?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the street is bigger than the brick column."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the street and the brick column?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street is 10.71 meters away from the brick column."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the person with raised hand and the bag on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.8 meters"
+  }
+]

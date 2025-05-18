@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the large tree with yellow and orange leaves or the white building with green door?"
+  },
+  {
+    "from": "gpt",
+    "value": "white building with green door is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the fallen leaves on the road from the grass on the side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fallen leaves on the road and the grass on the side of the road are 20.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the fallen leaves on the road and the grass on the side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 20.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the fallen leaves on the road and the grass on the side of the road, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, fallen leaves on the road appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the large tree with yellow and orange leaves from the white building with green door?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the large tree with yellow and orange leaves from the white building with green door is 10.0 meters."
+  }
+]

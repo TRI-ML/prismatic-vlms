@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the cup or the bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is cup."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the cup or the bottle, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is bottle."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the cup or the cup?"
+  },
+  {
+    "from": "gpt",
+    "value": "cup is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Between the bottle and the cup, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is cup."
+  },
+  {
+    "from": "human",
+    "value": "Between the bottle and the cup, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is bottle."
+  }
+]

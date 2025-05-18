@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the man standing in kitchen to the right of the light switches from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man standing in kitchen is to the right of the light switches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the light switches to the sink."
+  },
+  {
+    "from": "gpt",
+    "value": "the light switches is 4.0 feet from the sink."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the gray brick wall from the light brown cabinets vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray brick wall is 3.1 meters from the light brown cabinets vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the green wall and the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green wall is 3.94 meters away from the microwave oven."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the man standing in kitchen is positioned to the right of the light switches?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the man standing in kitchen to the right of the light switches."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the people further to camera compared to the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the black car to the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the black umbrella have a larger size compared to the black car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black umbrella is bigger than the black car."
+  },
+  {
+    "from": "human",
+    "value": "Is the black car behind the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sign is bigger than the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the sign might be smaller or the same size as the building."
+  }
+]

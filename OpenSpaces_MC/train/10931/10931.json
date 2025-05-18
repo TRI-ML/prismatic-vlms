@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the floor is 92.85 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the books on nightstand from the floor horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on nightstand is 10.8 feet away from the floor horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the ironing board."
+  },
+  {
+    "from": "gpt",
+    "value": "the ironing board is 1.28 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the ironing board?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the ironing board is 4.21 feet."
+  }
+]

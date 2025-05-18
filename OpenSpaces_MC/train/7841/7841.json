@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the vase to the tripod."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the vase to the vase."
+  },
+  {
+    "from": "gpt",
+    "value": "the vase and the vase are 5.1 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the vase or the vase?"
+  },
+  {
+    "from": "gpt",
+    "value": "vase is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the tripod have a smaller size compared to the vase?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tripod is not smaller than the vase."
+  },
+  {
+    "from": "human",
+    "value": "Between the vase and the tripod, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "vase is more to the right."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the fork and the stuffed bell pepper vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the fork and the stuffed bell pepper are 30.0 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the fork positioned behind the stuffed bell pepper?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stuffed bell pepper is in front of the fork."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the stuffed bell pepper more distant than that of the shredded carrots?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stuffed bell pepper is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the fork to the stuffed bell pepper."
+  },
+  {
+    "from": "gpt",
+    "value": "the fork is 46.94 centimeters from the stuffed bell pepper."
+  },
+  {
+    "from": "human",
+    "value": "Is the stuffed bell pepper behind the shredded carrots?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

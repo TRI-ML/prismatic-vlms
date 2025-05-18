@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the old-fashioned television set or the wooden hutch?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is wooden hutch."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the green box with asian characters from the remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 4.5 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the old-fashioned television set and the wooden hutch, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "wooden hutch is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the green box with asian characters?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green box with asian characters is 1.4 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the green box with asian characters from the man sitting on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.27 feet apart."
+  }
+]

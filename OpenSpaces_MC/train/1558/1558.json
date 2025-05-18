@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the skateboard from the dirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboard and the dirt are 16.5 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the road come behind the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the skateboard is positioned above the dirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the skateboard is not positioned above the dirt."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the ramp and the dirt."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the ramp from the dirt is 18.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the ramp positioned behind the dirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

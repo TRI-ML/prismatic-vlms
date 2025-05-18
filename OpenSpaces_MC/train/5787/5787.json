@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the worker in safety gear and the shipping container pattern, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is worker in safety gear."
+  },
+  {
+    "from": "human",
+    "value": "Between the red shipping containers and the gray ground, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray ground is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the worker in safety gear?"
+  },
+  {
+    "from": "gpt",
+    "value": "47.89 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the worker in safety gear or the shipping container pattern?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is worker in safety gear."
+  },
+  {
+    "from": "human",
+    "value": "Is the worker in safety gear bigger than the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the worker in safety gear might be smaller or the same size as the books."
+  }
+]

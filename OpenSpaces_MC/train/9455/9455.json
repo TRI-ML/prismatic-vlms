@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the brown wooden chair from the brown wooden coffee table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.57 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown wooden chair appear on the right side of the brown wooden chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the brown wooden chair to the right of the brown wooden chair."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the picture frame to the brown wooden table."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the picture frame from the brown wooden table is 8.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the picture frame or the brown wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "picture frame is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the brown wooden chair and the brown wooden chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden chair is 2.45 meters away from the brown wooden chair vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the green lunchbox lie in front of the picture of a family?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue lunchbox from the white paper with writing horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue lunchbox and the white paper with writing are 1.0 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the green lunchbox come in front of the picture of a family?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the blue lunchbox and the white object on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue lunchbox from the white object on wall is 1.02 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue lunchbox from the white object on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.02 meters apart."
+  }
+]

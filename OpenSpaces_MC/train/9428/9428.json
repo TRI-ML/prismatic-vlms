@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the person in white hat and the person in black shirt, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in black shirt smaller than the person in white shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in black shirt is not smaller than the person in white shirt and black shorts."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person sitting on the ground and the person in white hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 11.86 feet exists between the person sitting on the ground and the person in white hat."
+  },
+  {
+    "from": "human",
+    "value": "Between the person in white hat and the person in black shirt, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person in black shirt appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person in black shirt and the person in white shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 35.0 feet exists between the person in black shirt and the person in white shirt and black shorts."
+  }
+]

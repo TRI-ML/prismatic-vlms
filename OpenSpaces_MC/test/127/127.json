@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the basket in bottom left corner in front of the white pillow on sofa?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the basket in bottom left corner to the white pillow on sofa."
+  },
+  {
+    "from": "gpt",
+    "value": "the basket in bottom left corner is 2.0 meters from the white pillow on sofa."
+  },
+  {
+    "from": "human",
+    "value": "Is the large abstract painting bigger than the basket in bottom left corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the large abstract painting is bigger than the basket in bottom left corner."
+  },
+  {
+    "from": "human",
+    "value": "How far is the large abstract painting from the basket in bottom left corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large abstract painting and the basket in bottom left corner are 4.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the white pillow on sofa come in front of the large abstract painting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the blue ramp and the large building."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue ramp is 2.5 meters away from the large building."
+  },
+  {
+    "from": "human",
+    "value": "How far is the people standing on a bridge from the blue ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people standing on a bridge is 16.58 feet from the blue ramp."
+  },
+  {
+    "from": "human",
+    "value": "Between the people standing on a bridge and the people standing on a bridge, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "people standing on a bridge is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue ramp and the people standing on a bridge, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is people standing on a bridge."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the people standing on a bridge from the blue ramp vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.2 meters"
+  }
+]

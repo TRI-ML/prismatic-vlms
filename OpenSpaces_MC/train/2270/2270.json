@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the yellow couch lie in front of the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow couch is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Between the black sink and the black hanging light fixture, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black sink appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the gray chairs and the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray chairs and the table are 0.04 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black sink and the black hanging light fixture."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white cabinets and the table vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the white cabinets is 3.5 meters away from the table vertically."
+  }
+]

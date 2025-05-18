@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the unidentified object in basket more distant than that of the brown wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the brown wicker basket."
+  },
+  {
+    "from": "human",
+    "value": "How close is the unidentified object in basket from the brown wicker basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the unidentified object in basket from the brown wicker basket is 2.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the light brown wooden bowl is bigger than the silver cheese knife with black markings?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the light brown wooden bowl is bigger than the silver cheese knife with black markings."
+  },
+  {
+    "from": "human",
+    "value": "Does the light brown wooden bowl lie behind the silver cheese knife with black markings?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown wicker basket is bigger than the unidentified object in basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the brown wicker basket is not larger than the unidentified object in basket."
+  }
+]

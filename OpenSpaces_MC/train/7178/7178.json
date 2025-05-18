@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the wooden wall or the wooden ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "wooden ceiling is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far is the window from the wooden floor horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the window from the wooden floor is 9.53 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pipe and the wooden wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the wooden wall to the wooden ceiling."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 4.69 feet exists between the wooden wall and the wooden ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the wooden floor and the window vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.4 feet."
+  }
+]

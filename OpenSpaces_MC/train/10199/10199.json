@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the person in black shirt and shorts or the young boy in red shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is young boy in red shirt and black shorts."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the green bench or the black bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is green bench."
+  },
+  {
+    "from": "human",
+    "value": "Between the green water bottle and the green bench, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "green water bottle is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person in black shirt and shorts and the young boy in red shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black shirt and shorts is 13.0 meters from the young boy in red shirt and black shorts."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person in black shirt and shorts or the young boy in red shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "young boy in red shirt and black shorts is more to the right."
+  }
+]

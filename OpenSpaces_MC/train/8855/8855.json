@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the red object further to the viewer compared to the orange barrel?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the green barrels and the orange barrel?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.45 feet exists between the green barrels and the orange barrel."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the orange barrel and the red object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange barrel is 2.0 meters away from the red object."
+  },
+  {
+    "from": "human",
+    "value": "How big is the orange barrel in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "95.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the orange barrel in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 94.99 centimeters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the person from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 9.52 feet away from the person."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the child and the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 47.3 feet exists between the child and the person."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person and the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.52 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the person is."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 11.84 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the person have a lesser height compared to the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person has a lesser height compared to the person."
+  }
+]

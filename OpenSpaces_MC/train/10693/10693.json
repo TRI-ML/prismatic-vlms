@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the window above the sink and the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the window above the sink from the wooden shelf with aprons is 35.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wooden shelf with aprons and the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden shelf with aprons is 17.4 inches from the wooden shelf with aprons."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the wooden shelf with aprons to the wooden shelf with aprons."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden shelf with aprons and the wooden shelf with aprons are 16.0 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "How big is the wooden shelf with aprons in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden shelf with aprons is 26.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the wooden shelf with aprons and the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 6.3 inches."
+  }
+]

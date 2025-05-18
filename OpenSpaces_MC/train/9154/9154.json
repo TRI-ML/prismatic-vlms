@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the wooden bench to the left of the hills from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wooden bench is to the left of the hills."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the sky occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 27.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the wooden bench from the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden bench is 71.0 centimeters from the trees."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the wooden bench."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden bench is 10.0 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the grass field and the hills horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the grass field from the hills is 16.0 feet."
+  }
+]

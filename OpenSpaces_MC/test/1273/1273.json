@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the girl climbing tree from the girl on seesaw?"
+  },
+  {
+    "from": "gpt",
+    "value": "the girl climbing tree is 82.0 centimeters from the girl on seesaw."
+  },
+  {
+    "from": "human",
+    "value": "Is the girl playing baseball further to the viewer compared to the girl climbing tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the girl climbing tree or the girl playing baseball?"
+  },
+  {
+    "from": "gpt",
+    "value": "girl playing baseball is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the girl playing baseball or the girl climbing tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is girl playing baseball."
+  },
+  {
+    "from": "human",
+    "value": "Does the dog come behind the girl playing with baby?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

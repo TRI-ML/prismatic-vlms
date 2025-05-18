@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the cup to the tool."
+  },
+  {
+    "from": "gpt",
+    "value": "the cup is 28.0 centimeters from the tool."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the cup and the bottle."
+  },
+  {
+    "from": "gpt",
+    "value": "the cup is 30.0 centimeters from the bottle."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cup is positioned to the left of the cup?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cup is not on the left side of the cup."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the tool to the cup."
+  },
+  {
+    "from": "gpt",
+    "value": "the tool is 19.43 inches from the cup horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the tool and the cup, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cup appears more on the right side."
+  }
+]

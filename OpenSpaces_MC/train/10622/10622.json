@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the pens in blue pencil holder from the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pens in blue pencil holder is 1.1 meters away from the pens in blue pencil holder."
+  },
+  {
+    "from": "human",
+    "value": "Is the white jug on desk wider than the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white jug on desk is wider than the pens in blue pencil holder."
+  },
+  {
+    "from": "human",
+    "value": "Is the white jug on desk closer to the viewer compared to the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the pens in blue pencil holder is wider than the pens in blue pencil holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the pens in blue pencil holder is wider than the pens in blue pencil holder."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white jug on desk from the pens in blue pencil holder horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white jug on desk is 4.0 feet away from the pens in blue pencil holder horizontally."
+  }
+]

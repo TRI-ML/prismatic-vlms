@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the car on the right side of the road and the van on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car on the right side of the road is 11.32 feet from the van on the left side of the road."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the van on the right side of the road or the car on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "car on the right side of the road is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the car on the right side of the road and the van on the right side of the road, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, car on the right side of the road appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the van on the right side of the road and the car on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the van on the right side of the road and the car on the right side of the road are 3.6 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the car on the right side of the road to the van on the right side of the road."
+  },
+  {
+    "from": "gpt",
+    "value": "2.8 meters"
+  }
+]

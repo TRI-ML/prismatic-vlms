@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the shelves from the warehouse aisles horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shelves is 3.12 meters away from the warehouse aisles horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pallet jack from the warehouse lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pallet jack and the warehouse lights are 23.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the shelves to the right of the warehouse aisles from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the shelves is to the right of the warehouse aisles."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the warehouse racks and the shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse floor to the right of the warehouse from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the warehouse floor to the right of the warehouse."
+  }
+]

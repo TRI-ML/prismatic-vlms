@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the muffin with egg yolk appear under the egg with bacon?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the muffin with egg yolk is positioned under the egg with bacon."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the muffin with egg yolk?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the muffin with egg yolk is 11.81 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far is the broccoli from the muffin with egg white?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.0 inches exists between the broccoli and the muffin with egg white."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the muffin with egg yolk from the steak?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 55.0 centimeters exists between the muffin with egg yolk and the steak."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the broccoli occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the broccoli is 7.0 centimeters in width."
+  }
+]

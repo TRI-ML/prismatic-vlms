@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the court surface to the left of the basketball hoop from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the court surface is not to the left of the basketball hoop."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the player in yellow or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is higher up."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the trees in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.11 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the ball in air appear on the left side of the player in action?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the ball in air is to the left of the player in action."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the ball in air or the player in action?"
+  },
+  {
+    "from": "gpt",
+    "value": "ball in air is higher up."
+  }
+]

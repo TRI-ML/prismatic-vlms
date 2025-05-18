@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the street sign for mozart pl nw 2600 and the christmas lights, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is street sign for mozart pl nw 2600."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the street sign for mozart pl nw 2600?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street sign for mozart pl nw 2600 is 23.48 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the banner for all night art walk and the street sign for mozart pl nw 2600 vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the banner for all night art walk and the street sign for mozart pl nw 2600 are 22.7 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the street light from the one way sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street light and the one way sign are 14.3 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the street light occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "14.29 meters"
+  }
+]

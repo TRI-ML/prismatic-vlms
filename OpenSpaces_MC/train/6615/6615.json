@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the tomatoes."
+  },
+  {
+    "from": "gpt",
+    "value": "the tomatoes is 39.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the garlic from the wooden cutting board horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "89.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the spaghetti and the cheese, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "spaghetti is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the garlic and the wooden cutting board."
+  },
+  {
+    "from": "gpt",
+    "value": "the garlic is 4.0 feet away from the wooden cutting board."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the herbs and the bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 99.0 centimeters apart."
+  }
+]

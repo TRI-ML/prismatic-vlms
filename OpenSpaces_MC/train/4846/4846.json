@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the boat on the river and the large clock tower horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boat on the river and the large clock tower are 33.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the boat on the river and the large clock tower?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the boat on the river from the large clock tower is 23.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the boat on the river from the large clock tower?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boat on the river and the large clock tower are 23.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the clock tower with white top is smaller than the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the clock tower with white top is not smaller in size than the large building."
+  },
+  {
+    "from": "human",
+    "value": "Does the clock tower with white top have a smaller size compared to the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the clock tower with white top might be larger or the same size as the trees."
+  }
+]

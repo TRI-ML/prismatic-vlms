@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate width of the orange truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 46.79 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white object with holes from the orange truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white object with holes is 45.0 centimeters away from the orange truck."
+  },
+  {
+    "from": "human",
+    "value": "How close is the orange truck from the orange dolly with blue wheels?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange truck is 97.51 centimeters away from the orange dolly with blue wheels."
+  },
+  {
+    "from": "human",
+    "value": "How close is the orange truck from the locked pallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange truck and the locked pallet are 6.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the orange dolly with blue wheels from the shelf with books?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the orange dolly with blue wheels from the shelf with books is 5.1 feet."
+  }
+]

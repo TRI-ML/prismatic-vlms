@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the green trees to the black car."
+  },
+  {
+    "from": "gpt",
+    "value": "the green trees and the black car are 28.0 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the green trees and the black car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green trees and the black car are 36.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the green trees or the brown wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is green trees."
+  },
+  {
+    "from": "human",
+    "value": "Between the green trees and the black car, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "black car is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the red motorcycle and the black car, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "red motorcycle is more to the right."
+  }
+]

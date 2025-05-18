@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the bird, possibly a stork to the giraffe lying down."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bird, possibly a stork from the giraffe lying down is 11.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the large tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "40.1 feet"
+  },
+  {
+    "from": "human",
+    "value": "Between the large tree and the tree trunk, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "tree trunk is shorter."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the large tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large tree is 12.23 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the bird, possibly a stork to the giraffe lying down."
+  },
+  {
+    "from": "gpt",
+    "value": "the bird, possibly a stork is 29.5 centimeters away from the giraffe lying down vertically."
+  }
+]

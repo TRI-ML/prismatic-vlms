@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the panda bear figurine or the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "book is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the panda bear figurine from the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the speaker or the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, lamp appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the panda bear figurine in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 71.1 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the panda bear figurine from the window with blinds?"
+  },
+  {
+    "from": "gpt",
+    "value": "19.35 feet"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the player on the right side of the court to the sap logo."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the player on the right side of the court from the sap logo is 2.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the sap logo to the sap logo."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 11.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the stairs to the sap logo."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the player on the right side of the court lie in front of the sap logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the player on the right side of the court is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sap logo from the sap logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sap logo is 23.0 feet away from the sap logo."
+  }
+]

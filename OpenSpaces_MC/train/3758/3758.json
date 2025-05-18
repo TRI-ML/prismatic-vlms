@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the person in black jacket from the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black jacket and the umbrella are 8.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the umbrella is 2.81 inches."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the person with pink jacket and black skirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person with pink jacket and black skirt is 16.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the umbrella or the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is umbrella."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the person with pink jacket and black skirt or the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "umbrella is more to the left."
+  }
+]

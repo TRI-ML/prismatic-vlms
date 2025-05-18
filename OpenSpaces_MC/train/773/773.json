@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the picture frame on wall and the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frame on wall and the picture frame on wall are 1.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the picture frame on wall and the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frame on wall and the picture frame on wall are 1.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the picture frame on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the picture frame on wall is 29.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the picture frame on wall is smaller than the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the picture frame on wall has a smaller size compared to the picture frame on wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the picture frame on wall to the left of the picture frame on wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the picture frame on wall is to the left of the picture frame on wall."
+  }
+]

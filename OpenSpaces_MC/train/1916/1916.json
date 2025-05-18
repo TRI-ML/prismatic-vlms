@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the grass positioned in front of the white sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the black sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black sheep is 69.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the dirt positioned before the weeds?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dirt is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black sheep to the weeds."
+  },
+  {
+    "from": "gpt",
+    "value": "the black sheep and the weeds are 5.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the black sheep or the weeds?"
+  },
+  {
+    "from": "gpt",
+    "value": "weeds is shorter."
+  }
+]

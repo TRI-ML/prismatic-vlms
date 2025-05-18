@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue rack have a larger size compared to the wooden plank?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the blue rack has a larger size compared to the wooden plank."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the gray ceiling is positioned to the left of the wooden plank?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the gray ceiling is either to the right of or directly aligned with the wooden plank."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the gray ceiling is bigger than the wooden plank?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray ceiling is bigger than the wooden plank."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue rack from the orange rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue rack is 8.83 inches from the orange rack."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the gray floor and the gray seat of forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray floor and the gray seat of forklift are 6.72 meters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the woman in white dress to the wheelchair leaning against wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white dress is 7.75 feet away from the wheelchair leaning against wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the woman in white dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How close is the woman in white dress from the bicycle leaning against wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white dress is 2.0 meters away from the bicycle leaning against wall."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the woman in white dress and the bicycle leaning against wall."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.32 inches exists between the woman in white dress and the bicycle leaning against wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman in white dress to the right of the bicycle leaning against wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the woman in white dress is to the right of the bicycle leaning against wall."
+  }
+]

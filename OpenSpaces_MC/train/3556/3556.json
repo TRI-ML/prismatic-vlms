@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the mirror on wall is positioned to the left of the computer monitor on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the mirror on wall is not to the left of the computer monitor on dresser."
+  },
+  {
+    "from": "human",
+    "value": "How far is the mirror on wall from the computer monitor on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 38.0 inches exists between the mirror on wall and the computer monitor on dresser."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the magazines on table and the desk."
+  },
+  {
+    "from": "gpt",
+    "value": "8.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the desk from the lamp on desk?"
+  },
+  {
+    "from": "gpt",
+    "value": "the desk and the lamp on desk are 9.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the mirror on wall or the computer monitor on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is computer monitor on dresser."
+  }
+]

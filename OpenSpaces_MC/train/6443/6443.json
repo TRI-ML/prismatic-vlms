@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the other airplanes in background and the people walking around?"
+  },
+  {
+    "from": "gpt",
+    "value": "the other airplanes in background and the people walking around are 14.86 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the windows in museum is wider than the ceiling of museum?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the windows in museum might be narrower or the same width as the ceiling of museum."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the windows in museum is wider than the ceiling of museum?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the windows in museum's width does not surpass the ceiling of museum's."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the airplane wings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the airplane wings is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the other airplanes in background and the people walking around?"
+  },
+  {
+    "from": "gpt",
+    "value": "the other airplanes in background and the people walking around are 14.86 feet apart from each other."
+  }
+]

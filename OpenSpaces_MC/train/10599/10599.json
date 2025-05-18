@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the warehouse rack and the warehouse floor, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is warehouse floor."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the pallets on rack or the stack of pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is stack of pallets."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the stack of pallets or the forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, forklift appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the pallets on rack and the warehouse rack, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is warehouse rack."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stack of pallets is smaller than the forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the stack of pallets might be larger or the same size as the forklift."
+  }
+]

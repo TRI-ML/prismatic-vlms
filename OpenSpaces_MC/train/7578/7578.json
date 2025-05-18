@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the pineapples and the grapes."
+  },
+  {
+    "from": "gpt",
+    "value": "the pineapples is 13.0 inches away from the grapes."
+  },
+  {
+    "from": "human",
+    "value": "Is the grapes in front of the apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the grapes is in front of the apples."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the man sitting on chair and the oranges?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the table with fruit less distant than that of the pineapples?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pineapples from the grapes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pineapples is 13.0 inches from the grapes."
+  }
+]

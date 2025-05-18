@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white building lie in front of the pink flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the pink flowers."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the white building from the pink flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white building is 9.0 feet away from the pink flowers horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the pink flowers and the flowering plant, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, flowering plant appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Is the purple flowers closer to the viewer compared to the gray door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pink flowers and the flowering plant horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pink flowers and the flowering plant are 8.0 feet apart horizontally."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the ball in racket from the logo text: olympus open series?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ball in racket and the logo text: olympus open series are 11.5 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the woman's pants and the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's pants is 79.53 centimeters away from the racket."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the paper in woman's hand to the ball in racket."
+  },
+  {
+    "from": "gpt",
+    "value": "the paper in woman's hand and the ball in racket are 32.0 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the paper in woman's hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the paper in woman's hand is 21.2 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Between the woman's pants and the racket, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "racket is more to the right."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the cars in the right lane and the cars waiting at the intersection?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.36 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the cars in the right lane or the cars waiting at the intersection?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is cars in the right lane."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the cars in the right lane occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cars in the right lane is 2.66 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Between the cars in the right lane and the cars waiting at the intersection, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is cars in the right lane."
+  },
+  {
+    "from": "human",
+    "value": "Between the cars in the right lane and the cars waiting at the intersection, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is cars waiting at the intersection."
+  }
+]

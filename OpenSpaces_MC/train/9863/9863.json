@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the kitchen wall from the kitchen wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen wall is 2.3 meters from the kitchen wall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the kitchen wall and the kitchen wall vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen wall is 41.0 centimeters from the kitchen wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the black chair occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the black chair is 32.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the black chair positioned at the back of the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black chair is behind the white table."
+  },
+  {
+    "from": "human",
+    "value": "How far is the laundry machine from the kitchen wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the laundry machine is 4.69 feet from the kitchen wall."
+  }
+]

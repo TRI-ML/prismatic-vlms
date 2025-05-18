@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the goat with black head from the goat with black head?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the goat with black head from the goat with black head is 25.4 inches."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the goat with black head and the goat with black head?"
+  },
+  {
+    "from": "gpt",
+    "value": "the goat with black head and the goat with black head are 7.2 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the goat with black head to the goat with black head."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.09 meters."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the goat with black head and the goat with black head?"
+  },
+  {
+    "from": "gpt",
+    "value": "the goat with black head is 32.8 feet from the goat with black head horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the goat with black head is smaller than the goat with black head?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the goat with black head might be larger or the same size as the goat with black head."
+  }
+]

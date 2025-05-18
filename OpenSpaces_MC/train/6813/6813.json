@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the guardrail and the person lying on ground, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "guardrail is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the person lying on ground smaller than the guardrail?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person lying on ground occupies less space than the guardrail."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the park bench and the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the park bench is 3.7 centimeters from the light pole."
+  },
+  {
+    "from": "human",
+    "value": "Does the guardrail have a smaller size compared to the person lying on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the guardrail is not smaller in size than the person lying on ground."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person lying on ground to the guardrail."
+  },
+  {
+    "from": "gpt",
+    "value": "the person lying on ground and the guardrail are 37.0 inches apart from each other."
+  }
+]

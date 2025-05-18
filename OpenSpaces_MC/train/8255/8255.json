@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the picture on wall appear on the right side of the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the picture on wall is either to the left of or directly aligned with the cabinet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the picture on wall to the cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the picture on wall from the cabinet is 4.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the cabinet appear on the right side of the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the cabinet to the right of the cabinet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.3 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the cabinet and the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 centimeters"
+  }
+]

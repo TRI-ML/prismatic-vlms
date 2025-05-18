@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the white napkin to the white napkin."
+  },
+  {
+    "from": "gpt",
+    "value": "the white napkin and the white napkin are 6.9 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the silver fork from the white napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver fork is 5.0 inches away from the white napkin."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white napkin or the white napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "white napkin is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the silver fork and the white napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 0.4 inches exists between the silver fork and the white napkin."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white napkin and the white napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white napkin and the white napkin are 1.8 inches apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the small cylindrical object to the bed with metal frame."
+  },
+  {
+    "from": "gpt",
+    "value": "23.4 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the two pillows to the right of the blanket covering person from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the two pillows to the right of the blanket covering person."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blanket covering person from the wall with wooden trim?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blanket covering person is 4.88 feet from the wall with wooden trim."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the two pillows and the blanket covering person vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "39.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Does the two pillows appear on the right side of the wall with wooden trim?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the two pillows is to the right of the wall with wooden trim."
+  }
+]

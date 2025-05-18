@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the channel 3 logo and the suv vehicle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the channel 3 logo and the suv vehicle are 43.96 feet apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the channel 3 logo and the small airplane, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is channel 3 logo."
+  },
+  {
+    "from": "human",
+    "value": "How far is the channel 3 logo from the small airplane horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the channel 3 logo is 11.1 meters from the small airplane horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the channel 3 logo from the suv vehicle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the channel 3 logo is 18.3 meters away from the suv vehicle."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the small airplane from the channel 3 logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small airplane and the channel 3 logo are 52.72 feet apart."
+  }
+]

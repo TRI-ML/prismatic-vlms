@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the sky occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 58.46 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sky and the hospital sign horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 78.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the yellow traffic light in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the yellow traffic light is 5.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the bird on streetlight to the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the bird on streetlight have a lesser width compared to the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the bird on streetlight has a lesser width compared to the sky."
+  }
+]

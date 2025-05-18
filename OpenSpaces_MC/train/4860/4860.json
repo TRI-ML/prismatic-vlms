@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the orange forklift and the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange forklift and the white boxes are 3.91 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far is the orange forklift from the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange forklift and the white boxes are 3.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the red boxes smaller than the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the red boxes occupies less space than the white boxes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the orange forklift is smaller than the driver?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the orange forklift is not smaller in size than the driver."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red boxes from the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  }
+]

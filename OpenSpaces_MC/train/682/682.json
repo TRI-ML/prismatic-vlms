@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the white work truck from the white car bumper?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.55 meters exists between the white work truck and the white car bumper."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the white work truck and the white car bumper?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.4 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white van from the pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white van from the pole is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white work truck and the white car bumper?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white work truck from the white car bumper is 5.55 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the pole above the white work truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pole is not above the white work truck."
+  }
+]

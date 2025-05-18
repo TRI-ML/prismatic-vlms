@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the cardboard box and the worker in blue jumpsuit, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the cardboard box to the cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.1 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the cardboard box is 5.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the cardboard box or the worker in blue jumpsuit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cardboard box and the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cardboard box is 3.3 feet away from the cardboard box."
+  }
+]

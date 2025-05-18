@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the baby hippopotamus from the large hippopotamus?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baby hippopotamus is 3.0 meters away from the large hippopotamus."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the large hippopotamus and the baby hippopotamus?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the baby hippopotamus or the large hippopotamus?"
+  },
+  {
+    "from": "gpt",
+    "value": "baby hippopotamus is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the baby hippopotamus and the baby hippopotamus?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baby hippopotamus is 34.4 centimeters away from the baby hippopotamus."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the baby hippopotamus?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  }
+]

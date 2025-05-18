@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the parents holding children or the parents?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is parents."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the soccer balls?"
+  },
+  {
+    "from": "gpt",
+    "value": "the soccer balls is 17.0 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the sky and the parents holding children?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky and the parents holding children are 1.8 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Between the parents in red jackets and the soccer camp logo, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is soccer camp logo."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sky and the parents holding children."
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 3.0 meters from the parents holding children."
+  }
+]

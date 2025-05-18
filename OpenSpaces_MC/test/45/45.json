@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the red wooden shelf and the white and black comforter?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red wooden shelf is 4.0 meters away from the white and black comforter."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white picture frame from the red wooden shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white picture frame from the red wooden shelf is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white picture frame is thinner than the red wooden shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white picture frame is thinner than the red wooden shelf."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white pillow to the white picture frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the white pillow is 1.0 meters from the white picture frame."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white picture frame to the red wooden shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the white picture frame is 1.0 meters away from the red wooden shelf."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the green vegetables to the green leafy vegetables."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the green vegetables from the green leafy vegetables is 1.33 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow bananas is bigger than the silver scale?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow bananas is not larger than the silver scale."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the yellow bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow bananas is 49.85 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white potatoes from the green vegetables horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the black containers and the white potatoes horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black containers and the white potatoes are 5.0 feet apart horizontally from each other."
+  }
+]

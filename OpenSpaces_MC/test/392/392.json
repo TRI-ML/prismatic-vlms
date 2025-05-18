@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the fire hydrant is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.7 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the fire hydrant and the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the fire hydrant and the sky are 1.05 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the trees is."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 1.9 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the trees from the cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the cars are 11.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the fire hydrant and the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the fire hydrant from the sky is 1.05 meters."
+  }
+]

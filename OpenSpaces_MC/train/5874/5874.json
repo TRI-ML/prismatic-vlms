@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the pumpkin on the second shelf appear on the left side of the eggs on the top shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pumpkin on the second shelf is not to the left of the eggs on the top shelf."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the jar on the second shelf and the jar on the second shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the jar on the second shelf is 6.96 centimeters away from the jar on the second shelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the yogurt container on the top shelf and the eggs on the top shelf horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the yogurt container on the top shelf and the eggs on the top shelf are 9.7 inches apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pumpkin on the second shelf from the eggs on the top shelf horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pumpkin on the second shelf is 38.3 inches from the eggs on the top shelf horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the yogurt container on the top shelf and the eggs on the top shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.6 centimeters exists between the yogurt container on the top shelf and the eggs on the top shelf."
+  }
+]

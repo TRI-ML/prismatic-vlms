@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the pictures from the pictures horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person playing keyboard and the clock horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "5.99 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pictures and the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pictures and the pictures are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the pictures or the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is pictures."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the pictures."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.0 centimeters."
+  }
+]

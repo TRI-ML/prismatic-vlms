@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the authors' names or the copyright information?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is copyright information."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the copyright information or the background image?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is copyright information."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the copyright information?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the copyright information is 10.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the cooked mushrooms and the title text?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.7 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the authors' names and the copyright information, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is copyright information."
+  }
+]

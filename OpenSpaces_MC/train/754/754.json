@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the man holding a tennis racket occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man holding a tennis racket is 5.73 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the plant from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant is 8.77 meters away from the plant."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blue banner with white circle from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue banner with white circle is 7.0 meters from the plant."
+  },
+  {
+    "from": "human",
+    "value": "Is the man holding a tennis racket closer to the viewer compared to the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant come in front of the man holding a tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

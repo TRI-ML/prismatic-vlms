@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the metal beams and the gray walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "29.91 inches"
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the vericall size of the metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "the metal beams is 62.26 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the metal beams is 5.02 feet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the metal beams to the gray walkway."
+  },
+  {
+    "from": "gpt",
+    "value": "the metal beams and the gray walkway are 21.62 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the metal beams in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the metal beams is 25.0 inches."
+  }
+]

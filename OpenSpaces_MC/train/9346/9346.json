@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white wall to the white wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall and the white wall are 0.8 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the white rug and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 5.2 meters exists between the white rug and the white wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white rug and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white rug is 25.32 feet away from the white wall."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white rug to the black door."
+  },
+  {
+    "from": "gpt",
+    "value": "the white rug is 7.7 meters away from the black door."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the white rug and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.32 feet apart."
+  }
+]

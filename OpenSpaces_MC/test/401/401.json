@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the black shelves and the brown wooden countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the black shelves and the brown wooden countertop."
+  },
+  {
+    "from": "human",
+    "value": "Is the black shelves to the left of the white shaggy blanket on couch from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black shelves is not to the left of the white shaggy blanket on couch."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown wooden countertop appear on the left side of the white shaggy blanket on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown wooden countertop is not to the left of the white shaggy blanket on couch."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown wooden countertop and the white shaggy blanket on couch vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 36.36 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden countertop further to camera compared to the black shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the black shelves."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the tree on sidewalk to the car on street."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 31.5 feet exists between the tree on sidewalk and the car on street."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the stop sign or the trash can on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is stop sign."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the people in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the people in the distance is 94.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the people in the distance or the car on street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is car on street."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person walking on sidewalk or the red awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is red awning."
+  }
+]

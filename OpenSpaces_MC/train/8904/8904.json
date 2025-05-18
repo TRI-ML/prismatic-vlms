@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the giraffe neck to the small animal."
+  },
+  {
+    "from": "gpt",
+    "value": "the giraffe neck and the small animal are 6.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How close is the fence from the rocks?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the rocks and the rocks."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the giraffe neck and the small animal horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "16.8 feet"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the rocks?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the rocks is 23.0 centimeters."
+  }
+]

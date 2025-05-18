@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the man in white shirt lie behind the man with camera?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in white shirt is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the basket of books positioned behind the girl wearing a blue dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the small table occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the small table is 17.59 inches."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the small table and the two girls sitting at a table."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the small table from the two girls sitting at a table is 5.97 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the basket of books more distant than that of the girl wearing a blue dress?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

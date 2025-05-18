@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the author name to the fence."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 22.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the subtitle text and the title text."
+  },
+  {
+    "from": "gpt",
+    "value": "the subtitle text and the title text are 15.0 inches apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the subtitle text or the title text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is title text."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the silhouette of a person and the sky vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 27.11 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the sky from the title text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky and the title text are 0.51 centimeters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the pallets and the large tire horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets is 20.7 feet from the large tire horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the tire or wheel and the machine or equipment (repeated)?"
+  },
+  {
+    "from": "gpt",
+    "value": "0.1 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the boxes to the machine or equipment."
+  },
+  {
+    "from": "gpt",
+    "value": "5.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the machine or equipment (repeated) is thinner than the tire or wheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the machine or equipment (repeated) is not thinner than the tire or wheel."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the boxes or the machine or equipment?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, machine or equipment appears more on the left side."
+  }
+]

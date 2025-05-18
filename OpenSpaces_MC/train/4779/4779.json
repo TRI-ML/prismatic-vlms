@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the coffee mug is shorter than the candlestick?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the coffee mug is shorter than the candlestick."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the yellow picture frame from the large table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow picture frame is 4.2 meters from the large table."
+  },
+  {
+    "from": "human",
+    "value": "How close is the coffee mug from the large table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee mug is 3.2 meters away from the large table."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the candlestick and the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "the candlestick and the books are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the books and the small table?Could you provide the horizontal distance between the books and the small table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books and the small table are 3.0 meters apart horizontally."
+  }
+]

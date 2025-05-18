@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the traffic light smaller than the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the traffic light is smaller than the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the traffic light and the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic light and the traffic light are 0.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the traffic light wider than the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the traffic light is not wider than the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the traffic light is smaller than the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the traffic light might be larger or the same size as the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the traffic light pole and the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic light pole and the traffic light are 6.0 meters apart vertically."
+  }
+]

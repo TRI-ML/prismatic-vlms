@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the tree less distant than that of the shadows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the ford escape suv to the brick building."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 19.0 inches exists between the ford escape suv and the brick building."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the sidewalk or the shadows, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "shadows is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the brick building or the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is tree."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the brick building is 15.0 centimeters."
+  }
+]

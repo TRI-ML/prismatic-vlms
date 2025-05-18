@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the gray sign or the red bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red bus appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue sign with red x and the gray car horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue sign with red x is 5.18 meters away from the gray car horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the gray sign is positioned to the left of the blue sign with red x?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the gray sign is either to the right of or directly aligned with the blue sign with red x."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the blue sign with red x and the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue sign with red x and the gray car are 10.45 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue sign with red x and the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue sign with red x is 10.45 feet away from the gray car."
+  }
+]

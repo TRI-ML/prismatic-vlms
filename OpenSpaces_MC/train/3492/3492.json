@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the brown building on the left side or the brown building on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is brown building on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the brown building on the left side or the brown building on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, brown building on the left side appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown building on the left side and the brown building on the left side, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown building on the left side is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the brown building on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown building on the left side is 41.56 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the brown building on the left side to the brown building on the left side."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 28.9 centimeters."
+  }
+]

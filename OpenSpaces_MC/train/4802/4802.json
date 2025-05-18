@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the staircase and the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "the staircase and the umbrella are 65.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the green grass and the tennis player?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 44.2 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black wall to the brown dirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the black wall and the brown dirt are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the green grass and the tennis player, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green grass appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the black wall from the brown dirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black wall and the brown dirt are 15.59 feet apart horizontally."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the large painting with black, orange, and white colors and the white chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the large painting with black, orange, and white colors is 2.0 meters away from the white chair horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the large painting with white, orange, and yellow colors and the large painting with black, orange, and white colors."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the large painting with white, orange, and yellow colors from the large painting with black, orange, and white colors is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the large painting with black, orange, and white colors from the large painting with white, orange, and yellow colors vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large painting with black, orange, and white colors is 46.0 centimeters from the large painting with white, orange, and yellow colors vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the brown couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown couch is 29.9 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the large painting with black, orange, and white colors is positioned to the left of the large painting with white, orange, and yellow colors?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the large painting with black, orange, and white colors is not to the left of the large painting with white, orange, and yellow colors."
+  }
+]

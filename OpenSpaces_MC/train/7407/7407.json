@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the black cabinet to the office chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the black cabinet and the office chair are 6.64 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the black cabinet from the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black cabinet from the wooden table is 3.98 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the black cabinet and the office chair, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "office chair is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the desk to the right of the light blue couch from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the desk to the right of the light blue couch."
+  },
+  {
+    "from": "human",
+    "value": "Is the black cabinet to the right of the wooden table from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the black cabinet to the right of the wooden table."
+  }
+]

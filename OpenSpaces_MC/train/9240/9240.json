@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the window bigger than the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window is not bigger than the person walking."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the window and the brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the brick wall are 5.6 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the window more distant than that of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the person walking behind the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is bigger than the skateboarder in mid-air?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the window is bigger than the skateboarder in mid-air."
+  }
+]

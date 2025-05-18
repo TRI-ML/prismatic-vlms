@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the cords or the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "books is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the papers and the computer?"
+  },
+  {
+    "from": "gpt",
+    "value": "30.5 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the papers and the cords?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the papers from the cords is 3.61 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the papers and the computer, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "papers is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the papers from the cords?"
+  },
+  {
+    "from": "gpt",
+    "value": "the papers is 3.61 meters from the cords."
+  }
+]

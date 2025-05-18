@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white van or the no right turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is no right turn sign."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the traffic light or the brown building?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown building is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the white truck or the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white truck."
+  },
+  {
+    "from": "human",
+    "value": "Between the white van and the no left turn sign, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white van is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the white van occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the white van is 3.0 meters."
+  }
+]

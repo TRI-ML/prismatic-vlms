@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the black object on wall from the large silver refrigerator horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver machine with buttons above the person visible through glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the silver machine with buttons is above the person visible through glass."
+  },
+  {
+    "from": "human",
+    "value": "Does the black object on wall appear on the left side of the large silver refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black object on wall is to the left of the large silver refrigerator."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white object on wall from the large silver refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white object on wall and the large silver refrigerator are 11.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the woman in blue shirt and black apron from the white object on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.41 meters"
+  }
+]

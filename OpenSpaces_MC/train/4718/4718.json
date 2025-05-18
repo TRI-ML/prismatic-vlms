@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the yellow box and the black figures on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "30.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the blue cart from the stack of boxes horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the blue cart from the stack of boxes is 7.23 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue cart behind the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the red box to the yellow box."
+  },
+  {
+    "from": "gpt",
+    "value": "the red box is 25.81 meters away from the yellow box."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow box further to camera compared to the black figures on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow box is further from the viewer."
+  }
+]

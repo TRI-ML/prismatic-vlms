@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the person walking have a larger size compared to the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the person walking might be smaller or the same size as the person walking."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the person sitting on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "37.24 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the person walking from the person stretching?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking and the person stretching are 6.1 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the person sitting on ground appear on the left side of the person pushing stroller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person sitting on ground is to the left of the person pushing stroller."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person stretching in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person stretching is 4.0 meters."
+  }
+]

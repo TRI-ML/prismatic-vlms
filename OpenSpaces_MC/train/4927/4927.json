@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the police car or the row of houses?"
+  },
+  {
+    "from": "gpt",
+    "value": "police car is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the sign on building to the large yellow building."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 14.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the sign on building or the large yellow building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sign on building."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the police car or the row of houses?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, police car appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the police car and the sign on street pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the police car and the sign on street pole are 18.2 feet apart from each other."
+  }
+]

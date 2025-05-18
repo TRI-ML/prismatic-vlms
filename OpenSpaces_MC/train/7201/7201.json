@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the white bed sheet and the wooden wall vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white bed sheet is 35.32 centimeters from the wooden wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the wooden ceiling to the books on bed."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden ceiling and the books on bed are 35.12 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white lamp and the window vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "30.84 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the white lamp and the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 78.32 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the wooden ceiling to the wooden wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden ceiling and the wooden wall are 22.18 inches apart vertically from each other."
+  }
+]

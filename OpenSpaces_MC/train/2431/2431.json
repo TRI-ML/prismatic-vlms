@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the wooden table smaller than the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wooden table is not smaller than the stove."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the kitchen island is smaller than the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the kitchen island has a smaller size compared to the stove."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stove is bigger than the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the stove is not larger than the wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Does the kitchen island have a larger size compared to the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the kitchen island is not bigger than the stove."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wooden table and the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden table and the stove are 7.39 feet apart from each other."
+  }
+]

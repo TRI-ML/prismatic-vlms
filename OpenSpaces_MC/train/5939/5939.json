@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the person at bat from the person in the outfield?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person at bat from the person in the outfield is 6.22 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the person at bat smaller than the person in the outfield?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person at bat has a smaller size compared to the person in the outfield."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person holding a baseball glove to the person in the outfield."
+  },
+  {
+    "from": "gpt",
+    "value": "the person holding a baseball glove and the person in the outfield are 7.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the person holding a baseball glove to the person in the outfield."
+  },
+  {
+    "from": "gpt",
+    "value": "the person holding a baseball glove is 31.4 feet from the person in the outfield horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the person holding a baseball glove have a lesser width compared to the person at bat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person holding a baseball glove's width is less than the person at bat's."
+  }
+]

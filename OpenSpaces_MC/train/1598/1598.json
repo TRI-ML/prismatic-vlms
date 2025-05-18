@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the bottle on yellow table in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the red curtains have a lesser width compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the red curtains might be wider or the same width as the window."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the unidentified object and the red curtains?Could you provide the horizontal distance between the unidentified object and the red curtains?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the unidentified object from the red curtains is 15.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the large picture thinner than the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the large picture might be wider or the same width as the picture frame."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bottle on yellow table and the picture frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the bottle on yellow table and the picture frame are 4.0 meters apart from each other."
+  }
+]

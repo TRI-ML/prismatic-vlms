@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the traffic light is positioned to the left of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the traffic light is positioned on the left side of the person."
+  },
+  {
+    "from": "human",
+    "value": "Is the person with red helmet closer to camera compared to the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person with red helmet is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the traffic light."
+  },
+  {
+    "from": "gpt",
+    "value": "3.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the traffic light to the left of the person from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the traffic light is to the left of the person."
+  },
+  {
+    "from": "human",
+    "value": "How far is the traffic light from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic light is 3.33 meters away from the person."
+  }
+]

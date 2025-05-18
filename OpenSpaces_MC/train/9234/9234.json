@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the white leather couch from the black and white picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white leather couch and the black and white picture are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the white and black picture to the black and white coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "64.86 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the white and black picture and the black and white coffee table, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white and black picture appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white leather couch to the gray chair."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.27 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the green plant smaller than the black and white picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the green plant has a smaller size compared to the black and white picture."
+  }
+]

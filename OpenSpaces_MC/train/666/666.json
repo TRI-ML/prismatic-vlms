@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the text in the middle of the image appear on the left side of the text at the bottom of the image?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the text in the middle of the image to the left of the text at the bottom of the image."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the text at the top of the image to the text in the middle of the image."
+  },
+  {
+    "from": "gpt",
+    "value": "8.4 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the text in the middle of the image and the text at the bottom of the image?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the text in the middle of the image."
+  },
+  {
+    "from": "gpt",
+    "value": "the text in the middle of the image is 12.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the text in the middle of the image is positioned to the left of the bush in front of the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the text in the middle of the image is to the left of the bush in front of the house."
+  }
+]

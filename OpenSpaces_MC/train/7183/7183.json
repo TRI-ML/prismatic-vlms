@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person in brown dress and the wooden box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in brown dress is 6.0 meters from the wooden box."
+  },
+  {
+    "from": "human",
+    "value": "Does the clothing items lie in front of the wooden box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person in blue shirt and the clothing items vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in blue shirt is 2.0 meters from the clothing items vertically."
+  },
+  {
+    "from": "human",
+    "value": "Does the basket of fruit lie in front of the wooden box?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the wooden box and the person sitting on ground vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden box and the person sitting on ground are 1.5 meters apart vertically from each other."
+  }
+]

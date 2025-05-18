@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the carrots on a white cutting board to the knife block."
+  },
+  {
+    "from": "gpt",
+    "value": "the carrots on a white cutting board and the knife block are 1.07 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the knife block from the carrots on a white cutting board?"
+  },
+  {
+    "from": "gpt",
+    "value": "the knife block is 1.0 meters away from the carrots on a white cutting board."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the red and green vegetable in a silver bowl or the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is red and green vegetable in a silver bowl."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the corn on the cob in a white bowl and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the corn on the cob in a white bowl and the white wall are 75.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the carrots on a white cutting board and the knife block, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "carrots on a white cutting board is more to the right."
+  }
+]

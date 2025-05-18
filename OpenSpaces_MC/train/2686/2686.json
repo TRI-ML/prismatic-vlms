@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the pancakes or the napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is pancakes."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the plate with pancakes or the napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "plate with pancakes is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the napkin or the strawberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is strawberries."
+  },
+  {
+    "from": "human",
+    "value": "Between the pancakes and the strawberries, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "strawberries is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the plate with pancakes and the napkin."
+  },
+  {
+    "from": "gpt",
+    "value": "22.0 inches"
+  }
+]

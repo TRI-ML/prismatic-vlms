@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person holding a tennis racket or the person holding a tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person holding a tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the person holding a tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person holding a tennis racket from the person holding a tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person holding a tennis racket and the person holding a tennis racket horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "4.9 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the person holding a tennis racket to the person holding a tennis racket."
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 feet"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the pancakes in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pancakes is 34.5 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the pancakes or the strawberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "strawberries is higher up."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the pancakes and the strawberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pancakes from the strawberries is 17.54 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the pancakes positioned at the back of the strawberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the strawberries."
+  },
+  {
+    "from": "human",
+    "value": "Does the butter lie behind the napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the butter is further from the viewer."
+  }
+]

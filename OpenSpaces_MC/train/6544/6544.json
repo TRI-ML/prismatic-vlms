@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the black table and the black table."
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the black table and the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black table is 26.98 centimeters away from the black table."
+  },
+  {
+    "from": "human",
+    "value": "How big is the stool with white seat and black base?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stool with white seat and black base is 93.9 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black table is smaller than the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the black table occupies less space than the black table."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown chair behind the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  }
+]

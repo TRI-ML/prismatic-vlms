@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the baseball player in white uniform with green accents to the baseball player in green uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 71.14 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the baseball bat appear on the right side of the baseball player in white uniform with green accents?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the baseball bat is not to the right of the baseball player in white uniform with green accents."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the baseball bat from the baseball player in white uniform with green accents?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.56 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the baseball player in white uniform with green accents lie in front of the baseball player in white uniform with green accents?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the baseball player in white uniform with green accents."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the baseball bat and the baseball player in white uniform with green accents?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the baseball bat from the baseball player in white uniform with green accents is 15.56 feet."
+  }
+]

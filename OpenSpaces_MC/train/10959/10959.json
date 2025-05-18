@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the tree and the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tree from the green plant is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the tree or the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "tree is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the drawer on pink desk is shorter than the red sign on blue fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the drawer on pink desk's height does not fall short of the red sign on blue fence's."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the tree and the green plant horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 15.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the tree and the green plant, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, tree appears more on the right side."
+  }
+]

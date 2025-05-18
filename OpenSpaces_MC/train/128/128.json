@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the green bottle with yellow cap and the silver and black microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green bottle with yellow cap is 7.0 inches from the silver and black microwave oven."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the silver and black microwave oven and the wooden planks?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver and black microwave oven and the wooden planks are 22.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow fruit from the silver and black microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow fruit and the silver and black microwave oven are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the yellow fruit or the silver and black microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow fruit is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the green bottle with yellow cap or the silver and black microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green bottle with yellow cap appears more on the right side."
+  }
+]

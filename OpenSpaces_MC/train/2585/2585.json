@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the sink and the air freshener?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 28.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the toilet."
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the sink and the air freshener?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the air freshener are 66.2 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the toilet paper and the sink horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet paper and the sink are 84.27 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the toilet and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet is 75.0 centimeters from the sink."
+  }
+]

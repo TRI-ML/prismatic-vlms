@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the rackets on the ground to the white plastic chairs."
+  },
+  {
+    "from": "gpt",
+    "value": "the rackets on the ground and the white plastic chairs are 8.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person wearing a gray shirt from the white plastic chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing a gray shirt is 4.0 meters away from the white plastic chairs."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white plastic chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the white plastic chairs is 2.03 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow sign with red text have a lesser width compared to the person wearing a white hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the yellow sign with red text's width is less than the person wearing a white hat's."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the yellow sign with red text from the person wearing a white hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the yellow sign with red text from the person wearing a white hat is 2.0 meters."
+  }
+]

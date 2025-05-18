@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the light pole to the light pole."
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole and the light pole are 6.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the light pole and the skateboarder wearing white t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.0 meters exists between the light pole and the skateboarder wearing white t-shirt."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the light pole and the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole and the light pole are 6.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the light pole from the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole and the light pole are 32.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the light pole and the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.4 meters apart."
+  }
+]

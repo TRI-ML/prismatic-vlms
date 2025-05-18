@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the blue boxes and the gray metal crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue boxes and the gray metal crate are 32.13 centimeters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray boxes wider than the gray metal crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the gray boxes has a greater width compared to the gray metal crate."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the brown boxes and the gray boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray boxes and the gray metal crate vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the gray boxes from the gray metal crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 10.99 feet."
+  }
+]

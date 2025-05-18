@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the books on top of cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on top of cardboard box is 24.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the white cardboard box to the left of the white door frame from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white cardboard box is either to the right of or directly aligned with the white door frame."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white door frame and the white cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.2 meters exists between the white door frame and the white cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Does the white refrigerator appear on the left side of the white door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white refrigerator is not to the left of the white door."
+  },
+  {
+    "from": "human",
+    "value": "Does the white door frame appear on the left side of the white cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white door frame is to the left of the white cardboard box."
+  }
+]

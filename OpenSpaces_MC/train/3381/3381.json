@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the text below the main text and the green background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the text below the main text from the green background is 18.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How close is the text below the main text from the green background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the text below the main text and the green background are 18.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's socks and the man's shoes, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "man's shoes is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the man's socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white border and the green background horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the white border and the green background are 15.0 centimeters apart horizontally from each other."
+  }
+]

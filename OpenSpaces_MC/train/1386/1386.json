@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the goal post and the scoreboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the goal post and the scoreboard are 7.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the goal post from the scoreboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the goal post and the scoreboard are 7.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the goal post from the boundary line?"
+  },
+  {
+    "from": "gpt",
+    "value": "the goal post is 8.0 meters from the boundary line."
+  },
+  {
+    "from": "human",
+    "value": "Is the football field above the goal post?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the football field is positioned over the goal post."
+  },
+  {
+    "from": "human",
+    "value": "How close is the football field from the goal post?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the football field from the goal post is 6.88 meters."
+  }
+]

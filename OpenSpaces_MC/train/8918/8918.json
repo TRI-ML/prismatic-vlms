@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the traffic on road smaller than the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the traffic on road might be larger or the same size as the road."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sky and the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 84.6 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the buildings is positioned to the left of the red traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the buildings is either to the right of or directly aligned with the red traffic light."
+  },
+  {
+    "from": "human",
+    "value": "Does the traffic on road appear on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the traffic on road is either to the right of or directly aligned with the road."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the traffic on road?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the traffic on road is 5.3 feet."
+  }
+]

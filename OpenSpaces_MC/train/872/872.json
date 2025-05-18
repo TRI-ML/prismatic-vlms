@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the brick wall is wider than the van with open back doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brick wall has a greater width compared to the van with open back doors."
+  },
+  {
+    "from": "human",
+    "value": "Between the brick wall and the van with open back doors, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, van with open back doors appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the brick wall and the van with open back doors."
+  },
+  {
+    "from": "gpt",
+    "value": "the brick wall and the van with open back doors are 8.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown cardboard box and the blue plastic boxes, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue plastic boxes is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown cardboard box and the van with open back doors, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown cardboard box is more to the right."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the bus is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the bus from the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bus is 8.0 feet from the traffic light."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the cobblestone road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cobblestone road is 2.1 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the cobblestone road and the pedestrian crossing sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cobblestone road and the pedestrian crossing sign are 2.52 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the bus is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the bus is 9.0 feet."
+  }
+]

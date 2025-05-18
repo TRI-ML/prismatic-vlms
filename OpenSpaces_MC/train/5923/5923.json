@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the person walking on the right side and the blue sky, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue sky appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the concrete ramp with curved edges and the person's legs visible on the left side, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person's legs visible on the left side appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the trees in the background from the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees in the background and the blue sky are 122.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the skateboarder in white t-shirt and jeans to the person walking on the right side."
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboarder in white t-shirt and jeans and the person walking on the right side are 89.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the person walking on the right side."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person walking on the right side is 48.15 meters."
+  }
+]

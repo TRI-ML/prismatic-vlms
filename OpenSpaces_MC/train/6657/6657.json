@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the player on right side of court to the spectators in stands."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the player on right side of court from the spectators in stands horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.9 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the player on left side of court to the spectators in stands."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the player on left side of court from the spectators in stands is 116.6 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the advertising board smaller than the spectators in stands?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the advertising board is not smaller in size than the spectators in stands."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the player on left side of court and the player on right side of court."
+  },
+  {
+    "from": "gpt",
+    "value": "the player on left side of court and the player on right side of court are 4.0 meters apart vertically."
+  }
+]

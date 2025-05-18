@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the bananas and the young boy?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.4 inches"
+  },
+  {
+    "from": "human",
+    "value": "Does the bananas lie behind the shop wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the shop wall is in front of the bananas."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the man or the shop wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "shop wall is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bananas and the shop wall horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 32.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the man occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man is 22.2 centimeters in height."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the stool and the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.7 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the stool appear on the left side of the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the stool is either to the right of or directly aligned with the stool."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the doormat and the stool."
+  },
+  {
+    "from": "gpt",
+    "value": "the doormat and the stool are 3.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the books to the light bulb."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the doormat or the stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "doormat is more to the right."
+  }
+]

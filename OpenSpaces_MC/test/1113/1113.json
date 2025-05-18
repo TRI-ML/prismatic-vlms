@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the people standing on the beach to the boats in the water."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the people standing on the beach from the boats in the water is 11.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the dragon head on the boat and the boats in the water."
+  },
+  {
+    "from": "gpt",
+    "value": "the dragon head on the boat is 11.6 meters from the boats in the water."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the boats on the beach and the boats in the water vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people standing on the beach is taller than the boats in the water?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the people standing on the beach's height is not larger of the boats in the water's."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the boats on the beach and the boats in the water horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the boats on the beach from the boats in the water is 22.28 meters."
+  }
+]

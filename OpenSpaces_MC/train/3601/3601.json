@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the computer monitor or the bulletin board?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is computer monitor."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the computer monitor or the bulletin board?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, computer monitor appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the computer monitor."
+  },
+  {
+    "from": "gpt",
+    "value": "the computer monitor is 44.0 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Between the unmade bed and the bulletin board, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, unmade bed appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the unmade bed or the unidentified object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is unidentified object."
+  }
+]

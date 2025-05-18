@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the oil bottle on counter in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 18.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the oil bottle on counter and the stovetop?"
+  },
+  {
+    "from": "gpt",
+    "value": "the oil bottle on counter is 73.0 centimeters away from the stovetop."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the milk carton and the blue cloth?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 75.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the milk carton?"
+  },
+  {
+    "from": "gpt",
+    "value": "30.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bottle with pink cap?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bottle with pink cap is 6.0 inches in width."
+  }
+]

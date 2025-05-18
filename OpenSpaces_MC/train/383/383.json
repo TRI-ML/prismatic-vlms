@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the pepper shaker or the cookbook?"
+  },
+  {
+    "from": "gpt",
+    "value": "cookbook is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Between the pepper shaker and the cookbook, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is cookbook."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the knife block and the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "the knife block and the knife block are 1.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the knife block or the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "knife block is below."
+  },
+  {
+    "from": "human",
+    "value": "How close is the knife block from the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.8 meters apart."
+  }
+]

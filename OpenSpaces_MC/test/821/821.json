@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person standing near truck or the scrap metal?"
+  },
+  {
+    "from": "gpt",
+    "value": "scrap metal is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the shelving unit and the metal wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the scrap metal and the person standing near truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the scrap metal is 3.8 meters away from the person standing near truck."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the shelving unit is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.25 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the truck with open back wider than the scrap metal?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the truck with open back is wider than the scrap metal."
+  }
+]

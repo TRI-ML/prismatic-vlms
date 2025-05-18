@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the grass area appear on the left side of the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the grass area is to the left of the large building."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the grass area?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the grass area appear on the left side of the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the grass area to the left of the large building."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the grass area is positioned to the left of the green and white bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the grass area is positioned on the left side of the green and white bus."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the partially visible building and the grass area."
+  },
+  {
+    "from": "gpt",
+    "value": "the partially visible building and the grass area are 203.8 feet apart from each other."
+  }
+]

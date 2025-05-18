@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the plant in pot from the large abstract painting?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the plant in pot and the large abstract painting."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the vericall size of the book on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book on table is 7.58 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the plant in pot to the book on table."
+  },
+  {
+    "from": "gpt",
+    "value": "5.6 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the book on table from the small table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book on table is 3.85 meters from the small table."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the plant in pot and the book on table."
+  },
+  {
+    "from": "gpt",
+    "value": "44.62 centimeters"
+  }
+]

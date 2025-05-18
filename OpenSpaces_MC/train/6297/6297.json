@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the palm trees above the streetlight?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the palm trees is not above the streetlight."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the palm trees and the streetlight?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 29.86 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the palm trees is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 18.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "18.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the palm trees from the palm trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the palm trees from the palm trees is 2.01 meters."
+  }
+]

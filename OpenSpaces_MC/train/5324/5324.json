@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the large painting of beach scene positioned before the books on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the large painting of beach scene and the books on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the large painting of beach scene from the books on coffee table is 14.1 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the plant on small table positioned in front of the small table with lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the small table with lamp."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the large painting of beach scene and the books on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "14.1 feet"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the small table with lamp and the large painting of beach scene?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small table with lamp is 3.0 meters from the large painting of beach scene."
+  }
+]

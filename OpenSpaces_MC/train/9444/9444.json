@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the white chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair is 13.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Does the white chair appear on the left side of the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white chair is either to the right of or directly aligned with the white chair."
+  },
+  {
+    "from": "human",
+    "value": "How close is the black table from the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black table and the white chair are 5.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the black table and the white chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the black table and the white chair are 8.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the white chair and the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair is 5.9 meters from the white chair horizontally."
+  }
+]

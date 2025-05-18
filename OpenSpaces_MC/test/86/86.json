@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the open space positioned before the concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the concrete floor is behind the open space."
+  },
+  {
+    "from": "human",
+    "value": "Is the open space further to the viewer compared to the concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the concrete floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the open space in front of the concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the concrete floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue metal structures further to the viewer compared to the yellow shelving units?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the yellow shelving units."
+  },
+  {
+    "from": "human",
+    "value": "Is the open space positioned before the concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the open space is further to the viewer."
+  }
+]

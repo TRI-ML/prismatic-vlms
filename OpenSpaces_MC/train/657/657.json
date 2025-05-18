@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white object on shelf to the black coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the white object on shelf and the black coffee table are 3.51 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wooden object on table is positioned to the left of the black coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the wooden object on table is not on the left side of the black coffee table."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the yellow couch and the white shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 16.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow couch from the white shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow couch is 16.46 feet from the white shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the black object on shelf bigger than the white shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the black object on shelf is larger in size than the white shelf."
+  }
+]

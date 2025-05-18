@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the business sign to the steiner street sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the business sign is 11.69 meters away from the steiner street sign."
+  },
+  {
+    "from": "human",
+    "value": "How far is the steiner street sign from the parking sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the business sign is 130.97 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the parking sign in front of the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the steiner street sign to the left of the parking sign from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the steiner street sign is positioned on the left side of the parking sign."
+  }
+]

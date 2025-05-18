@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the laptop positioned in front of the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the laptop closer to camera compared to the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the laptop is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the box positioned before the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the box is in front of the books."
+  },
+  {
+    "from": "human",
+    "value": "Is the books positioned in front of the chair on patio?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sofa from the toy?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sofa is 2.5 meters from the toy."
+  }
+]

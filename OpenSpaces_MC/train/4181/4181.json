@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the picture frame is 24.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the chair is bigger than the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the chair has a larger size compared to the picture frame."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the picture frame and the chair horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the chair and the picture frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the chair and the picture frame are 3.41 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the chair to the book."
+  },
+  {
+    "from": "gpt",
+    "value": "11.28 feet"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the black and white striped ramp to the yellow and black striped ramp."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 0.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the forklift or the yellow and black striped ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, yellow and black striped ramp appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the black and white striped ramp from the yellow and black striped ramp vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black and white striped ramp and the yellow and black striped ramp are 0.0 inches apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the forklift to the yellow and black striped ramp."
+  },
+  {
+    "from": "gpt",
+    "value": "the forklift is 4.0 meters away from the yellow and black striped ramp."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the red metal ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.5 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the kitchenette wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchenette wall is 4.73 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Between the coffee maker and the kitchenette hood, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, kitchenette hood appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the black office chair and the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black office chair and the coffee table are 18.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the black office chair in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the black office chair is 8.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on coffee table positioned before the fishbowl on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the fishbowl on coffee table."
+  }
+]

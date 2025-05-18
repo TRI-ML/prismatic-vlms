@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate width of the lettuce?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lettuce is 5.5 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the radish?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 19.5 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the strawberry from the radish?"
+  },
+  {
+    "from": "gpt",
+    "value": "the strawberry is 28.6 inches from the radish horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the radish occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.68 inches."
+  },
+  {
+    "from": "human",
+    "value": "How big is the radish?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.68 inches."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue pot with handles or the brown objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is brown objects."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the white object is."
+  },
+  {
+    "from": "gpt",
+    "value": "the white object is 12.29 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white object from the brown objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white object from the brown objects is 5.86 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white object and the brown objects vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.3 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white object and the grater or cheese grater horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white object is 85.2 centimeters away from the grater or cheese grater horizontally."
+  }
+]

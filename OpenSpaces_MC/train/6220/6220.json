@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the light fixture in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture is 1.9 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the window and the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.64 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the sofa bigger than the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the sofa might be smaller or the same size as the table."
+  },
+  {
+    "from": "human",
+    "value": "Is the window bigger than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the window has a larger size compared to the window."
+  }
+]

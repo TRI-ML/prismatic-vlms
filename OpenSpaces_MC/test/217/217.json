@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue rug in living room and the chair in kitchen area horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue rug in living room is 1.0 meters away from the chair in kitchen area horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black table in living room and the white chair in living room."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.39 feet exists between the black table in living room and the white chair in living room."
+  },
+  {
+    "from": "human",
+    "value": "How big is the blue rug in living room?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue rug in living room is 2.95 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Does the white chair in living room appear on the right side of the blue rug in living room?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white chair in living room is to the right of the blue rug in living room."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black table in living room is wider than the white chair in living room?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black table in living room is not wider than the white chair in living room."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the car in the distance thinner than the wooden pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the car in the distance's width is not less than the wooden pole's."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person riding a bicycle and the open sign on a pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding a bicycle is 7.29 feet away from the open sign on a pole."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person riding a bicycle and the open sign on a pole."
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding a bicycle and the open sign on a pole are 7.29 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the open sign on a pole from the wooden pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the open sign on a pole and the wooden pole are 27.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car in the distance is thinner than the open sign on a pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car in the distance is not thinner than the open sign on a pole."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the clock on wall have a larger size compared to the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the clock on wall is not larger than the clock on wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the clock on wall and the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 1.0 meters from the clock on wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the clock on wall bigger than the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the clock on wall is larger in size than the clock on wall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the clock on wall and the clock on wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall and the clock on wall are 41.0 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the clock on wall is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the clock on wall is 1.0 meters."
+  }
+]

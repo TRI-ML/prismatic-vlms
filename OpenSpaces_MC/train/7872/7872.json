@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the car with black top and the car with brown top?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the car with black top from the car with brown top is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car with black top is shorter than the car with red top?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car with black top is not shorter than the car with red top."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the car with red top and the car with brown top horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the car with red top is 2.0 meters away from the car with brown top horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the car with silver top and the car with blue top."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the car with red top and the car with brown top vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the car with red top and the car with brown top are 21.0 inches apart vertically."
+  }
+]

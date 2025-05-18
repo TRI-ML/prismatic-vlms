@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the book from the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 34.17 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the book and the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book is 2.17 meters from the picture frame."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the book and the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.17 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the book to the book."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 34.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the book and the book?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the book from the book is 29.0 centimeters."
+  }
+]

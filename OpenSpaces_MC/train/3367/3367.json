@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the upper level ceiling positioned in front of the lower level wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the door on upper level or the door on lower level?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is door on upper level."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the door on lower level to the lower level wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the door on lower level is 0.02 centimeters away from the lower level wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the upper level ceiling or the lower level wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is upper level ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the door on upper level or the door on lower level?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, door on upper level appears more on the left side."
+  }
+]

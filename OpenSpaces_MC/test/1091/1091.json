@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the brush head and the toilet."
+  },
+  {
+    "from": "gpt",
+    "value": "the brush head is 37.3 inches away from the toilet horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the brush head and the toilet?Could you provide the horizontal distance between the brush head and the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brush head is 94.7 centimeters from the toilet horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the brush head and the toilet, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is toilet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the cup from the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cup is 1.0 meters away from the toilet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the brush head or the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, toilet appears more on the right side."
+  }
+]

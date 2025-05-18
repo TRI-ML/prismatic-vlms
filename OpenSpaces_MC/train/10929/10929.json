@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the black dog on table and the sign on building?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.86 meters exists between the black dog on table and the sign on building."
+  },
+  {
+    "from": "human",
+    "value": "Is the bookstore entrance thinner than the shakespeare and company sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bookstore entrance is thinner than the shakespeare and company sign."
+  },
+  {
+    "from": "human",
+    "value": "Between the man looking at books and the sign on building, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sign on building appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Does the black dog on table have a lesser width compared to the sign on building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black dog on table is not thinner than the sign on building."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the black dog on table or the sign on building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is black dog on table."
+  }
+]

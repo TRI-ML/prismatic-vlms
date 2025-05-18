@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the shed and the grass horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shed and the grass are 52.68 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the clouds in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clouds is 3.8 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the clouds from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the clouds from the tree is 0.1 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the clouds is positioned to the right of the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the clouds is not to the right of the grass."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 12.1 feet."
+  }
+]

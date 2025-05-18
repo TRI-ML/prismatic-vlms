@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the hills in background and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "the hills in background is 1.0 centimeters away from the trees."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees come behind the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the hills in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the hills in background is 19.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the trees to the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 49.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the hills in background positioned before the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the hills in background is in front of the trees."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the person wearing dark clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the blue office chair further to the viewer compared to the closed tablet?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person wearing dark clothing from the white printer?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing dark clothing and the white printer are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the window with blinds lie behind the blue office chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person wearing dark clothing and the white printer horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 4.0 feet exists between the person wearing dark clothing and the white printer."
+  }
+]

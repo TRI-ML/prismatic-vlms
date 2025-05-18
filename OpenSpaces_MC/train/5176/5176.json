@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the white and gray checkered pillow on the bed from the light switch?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.72 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the gray headboard of the bed in front of the brown door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray headboard of the bed is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white and gray checkered pillow on the bed and the gray pillow on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white and gray checkered pillow on the bed and the gray pillow on the floor are 9.3 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray pillow on the floor closer to camera compared to the gray pillow on the bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Does the white and gray checkered pillow on the bed appear on the right side of the gray pillow on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white and gray checkered pillow on the bed to the right of the gray pillow on the floor."
+  }
+]

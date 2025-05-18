@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the cat on the right to the cat on the right."
+  },
+  {
+    "from": "gpt",
+    "value": "the cat on the right is 1.2 meters away from the cat on the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cat on the left is positioned below the cat on the right?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cat on the left is not below the cat on the right."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the book from the remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.1 meters exists between the book and the remote control."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the cat on the left from the cat on the right?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cat on the left and the cat on the right are 56.79 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the book closer to camera compared to the person on the right?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the book is closer to the viewer."
+  }
+]

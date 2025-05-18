@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the banana to the silver spoon."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 20.6 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the banana and the silver fork, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is silver fork."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the banana."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 20.13 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the tile floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tile floor is 5.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the silver fork or the white tray?"
+  },
+  {
+    "from": "gpt",
+    "value": "silver fork is lower down."
+  }
+]

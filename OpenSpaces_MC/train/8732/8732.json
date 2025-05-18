@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the ball in air and the player's socks."
+  },
+  {
+    "from": "gpt",
+    "value": "the ball in air is 5.0 meters away from the player's socks horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the player's headband and the court lines."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's headband and the court lines horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the ball in air occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ball in air is 10.0 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "How close is the ball in air from the player's socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ball in air and the player's socks are 13.0 feet apart."
+  }
+]

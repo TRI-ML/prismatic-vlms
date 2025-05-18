@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the woman's bracelet and the woman's shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the woman's necklace and the net with black mesh and white edge?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's necklace and the net with black mesh and white edge are 37.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the woman's hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the woman's shorts or the black and white image?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is black and white image."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the woman's shorts to the black and white image."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 32.67 meters apart."
+  }
+]

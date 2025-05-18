@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the purple plastic boxes and the yellow and black plastic boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "the purple plastic boxes and the yellow and black plastic boxes are 20.5 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the large cardboard box and the orange plastic boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large cardboard box is 5.17 meters away from the orange plastic boxes horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the yellow and black plastic boxes and the orange plastic boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the yellow and black plastic boxes from the orange plastic boxes is 60.1 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the large cardboard box and the orange plastic boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "16.3 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the blue metal shelving unit thinner than the purple plastic boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the blue metal shelving unit might be wider or the same width as the purple plastic boxes."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the door from the microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 4.0 meters from the microwave."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the cabinets occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.57 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the door wider than the microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the door has a greater width compared to the microwave."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove is 2.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the microwave and the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.8 meters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray sign and the gray car horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the gray sign and the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray sign is 11.0 feet from the gray car."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the palm tree or the gray sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "palm tree is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue car positioned in front of the blue sign with red x?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the palm tree."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm tree is 15.0 feet in height."
+  }
+]

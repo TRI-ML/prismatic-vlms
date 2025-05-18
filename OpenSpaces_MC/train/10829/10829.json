@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the worker in yellow vest lie behind the worker's black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the worker's black pants to the orange forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's black pants and the orange forklift are 12.14 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the worker in yellow vest and the orange forklift vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker in yellow vest is 1.0 meters away from the orange forklift vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the worker in yellow vest or the worker's black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "worker's black pants is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the worker's white hard hat occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's white hard hat is 38.9 inches wide."
+  }
+]

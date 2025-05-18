@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the stack of cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of cardboard boxes is 8.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the stack of cardboard boxes from the white stripes on forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of cardboard boxes is 15.9 meters away from the white stripes on forklift."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stack of cardboard boxes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of cardboard boxes is 2.6 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the stack of cardboard boxes and the stack of cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stack of cardboard boxes from the stack of cardboard boxes is 9.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white front of forklift is thinner than the white stripes on forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white front of forklift has a lesser width compared to the white stripes on forklift."
+  }
+]

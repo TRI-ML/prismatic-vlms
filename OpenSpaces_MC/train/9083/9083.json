@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the trees and the clouds, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the trees from the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 11.1 centimeters away from the clouds."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the trees or the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is below."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the red shirt to the skateboarder."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.8 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the concrete skate park and the trees, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is below."
+  }
+]

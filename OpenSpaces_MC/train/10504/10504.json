@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the tree on the left side of the road and the tree on the left side of the road horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the tree on the left side of the road and the tree on the left side of the road are 11.0 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the tree on the left side of the road further to the viewer compared to the tree on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the tree on the left side of the road to the tree on the left side of the road."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the tree on the left side of the road more distant than that of the tree on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the tree on the left side of the road."
+  },
+  {
+    "from": "human",
+    "value": "Between the tree on the left side of the road and the tree on the left side of the road, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is tree on the left side of the road."
+  }
+]

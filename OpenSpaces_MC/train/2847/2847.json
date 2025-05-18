@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate width of the plant in white pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 10.5 inches."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the cactus plant or the red lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is cactus plant."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red lamp from the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red lamp is 8.1 feet from the picture frame."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the plant in black pot in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 59.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray pillow and the infinity symbol, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray pillow is more to the left."
+  }
+]

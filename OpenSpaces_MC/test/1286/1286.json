@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.9 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the grass or the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "grass is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the grass from the grass horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 2.2 meters exists between the grass and the grass."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the grass and the large rock?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.32 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the grass and the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the grass are 38.56 centimeters apart."
+  }
+]

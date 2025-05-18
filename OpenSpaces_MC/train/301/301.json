@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hair is 170.0 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the jeans or the beach?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is jeans."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.56 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the people and the skateboarder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people and the skateboarder are 17.6 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the skateboard from the t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboard and the t-shirt are 62.0 feet apart horizontally from each other."
+  }
+]

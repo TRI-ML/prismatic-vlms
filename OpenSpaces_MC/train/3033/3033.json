@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the woman holding a tray of cupcakes is."
+  },
+  {
+    "from": "gpt",
+    "value": "67.6 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the west midlands police logo less distant than that of the tray of cupcakes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman holding a tray of cupcakes from the tray of cupcakes horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 52.0 centimeters exists between the woman holding a tray of cupcakes and the tray of cupcakes."
+  },
+  {
+    "from": "human",
+    "value": "Does the west midlands police logo lie in front of the woman holding a tray of cupcakes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the west midlands police logo to the tray of cupcakes."
+  },
+  {
+    "from": "gpt",
+    "value": "the west midlands police logo is 1.0 meters from the tray of cupcakes."
+  }
+]

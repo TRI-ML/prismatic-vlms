@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person in red shirt thinner than the white umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person in red shirt has a lesser width compared to the white umbrella."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the large wooden planter and the large brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large wooden planter and the large brick building are 1.71 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the large brick building thinner than the person in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the large brick building's width is not less than the person in red shirt's."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white umbrella to the black table."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 5.07 meters exists between the white umbrella and the black table."
+  },
+  {
+    "from": "human",
+    "value": "Is the large wooden planter thinner than the large brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the large wooden planter is thinner than the large brick building."
+  }
+]

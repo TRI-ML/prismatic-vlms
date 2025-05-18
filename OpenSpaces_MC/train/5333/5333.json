@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the nightstand with lamp or the two framed pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "two framed pictures is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far is the nightstand with lamp from the two framed pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.8 meters exists between the nightstand with lamp and the two framed pictures."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the unidentified object and the nightstand with lamp vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the unidentified object is 9.17 feet away from the nightstand with lamp vertically."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the bed with white sheets and brown headboard and the unidentified object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bed with white sheets and brown headboard and the unidentified object are 3.62 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the unidentified object to the nightstand with lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.8 meters apart."
+  }
+]

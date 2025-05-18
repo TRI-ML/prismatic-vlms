@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the fence surrounding the tennis court is positioned to the left of the palm trees on the right side of the image?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the fence surrounding the tennis court is not on the left side of the palm trees on the right side of the image."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the palm trees on the right side of the image and the fence surrounding the tennis court horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm trees on the right side of the image is 17.0 centimeters from the fence surrounding the tennis court horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the fence surrounding the tennis court from the palm trees on the right side of the image?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the fence surrounding the tennis court from the palm trees on the right side of the image is 12.6 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the palm trees on the left side of the image is positioned below the net dividing the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the palm trees on the left side of the image is below the net dividing the tennis court."
+  },
+  {
+    "from": "human",
+    "value": "Does the large white building in the background appear on the left side of the tennis court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the large white building in the background is not on the left side of the tennis court surface."
+  }
+]

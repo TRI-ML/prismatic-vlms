@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the building to the building."
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 2.63 meters away from the building."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the building to the building."
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 23.8 inches away from the building vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the building is positioned below the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the building is not below the building."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the building to the building."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 12.6 inches exists between the building and the building."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the building and the building vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the building from the building is 2.0 meters."
+  }
+]

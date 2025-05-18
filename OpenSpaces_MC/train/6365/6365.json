@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the toilet is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the toilet is 99.6 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the toilet and the sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet is 10.48 feet from the sign."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the toilet tank or the toilet tank, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "toilet tank is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How close is the toilet from the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.72 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the toilet tank."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the toilet tank is 1.55 meters."
+  }
+]

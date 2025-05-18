@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the kitchen cabinets from the table with white tablecloth?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen cabinets and the table with white tablecloth are 21.0 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the kitchen cabinets have a lesser width compared to the table with white tablecloth?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the kitchen cabinets has a lesser width compared to the table with white tablecloth."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the kitchen cabinets is thinner than the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the kitchen cabinets is not thinner than the door."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the kitchen cabinets and the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen cabinets and the kitchen cabinets are 5.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the kitchen cabinets and the gray rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen cabinets and the gray rug are 10.0 meters apart from each other."
+  }
+]

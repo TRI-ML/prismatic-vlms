@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the books on shelf from the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the books on shelf from the yellow forklift is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the bookshelf and the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the red container and the yellow flatbed truck?Could you provide the horizontal distance between the red container and the yellow flatbed truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 62.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the red container and the yellow flatbed truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "34.73 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the bookshelf and the yellow forklift?Could you provide the horizontal distance between the bookshelf and the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the bookshelf from the yellow forklift is 1.62 meters."
+  }
+]

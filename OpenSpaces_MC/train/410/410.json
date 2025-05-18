@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the man's face is taller than the shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the man's face may be shorter or the same height as the shirt."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the jacket taller than the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the jacket is taller than the wall."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the man's face and the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 3.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the man's face and the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  }
+]

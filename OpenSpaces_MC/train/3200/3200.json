@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the sign with red slash through it and the sign with white slash through it, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is sign with red slash through it."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the sign with red slash through it and the sign with white slash through it?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the sign with red slash through it from the sign with white slash through it is 14.22 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the sign with red slash through it further to the viewer compared to the sign with white slash through it?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the sign with white slash through it."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the sign with red slash through it from the sign with white slash through it?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with red slash through it and the sign with white slash through it are 8.05 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the sign with red slash through it more distant than that of the sign with white slash through it?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the sign with white slash through it."
+  }
+]

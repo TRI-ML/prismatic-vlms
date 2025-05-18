@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the pen with black cap and the spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pen with black cap from the spoon is 21.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the knife with black handle."
+  },
+  {
+    "from": "gpt",
+    "value": "the knife with black handle is 4.53 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "How close is the pen with black cap from the spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 21.2 centimeters exists between the pen with black cap and the spoon."
+  },
+  {
+    "from": "human",
+    "value": "Is the knife with black handle smaller than the knife with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the knife with black handle has a smaller size compared to the knife with black handle."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the spoon is smaller than the spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the spoon is not smaller than the spoon."
+  }
+]

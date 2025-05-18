@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the ball shorter than the green grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the ball is shorter than the green grass."
+  },
+  {
+    "from": "human",
+    "value": "Does the suit appear on the left side of the crowd?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the suit is to the left of the crowd."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the racket and the white lines on grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the racket is 10.7 meters from the white lines on grass."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the racket and the white lines on grass."
+  },
+  {
+    "from": "gpt",
+    "value": "the racket is 10.7 meters away from the white lines on grass."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the suit and the crowd?"
+  },
+  {
+    "from": "gpt",
+    "value": "the suit and the crowd are 4.11 meters apart from each other."
+  }
+]

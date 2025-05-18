@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the canoe more distant than that of the man wearing hat and long-sleeved shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the canoe?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sky and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the sky from the trees is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sky and the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.18 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the dark horse behind the man wearing hat and long-sleeved shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the man wearing hat and long-sleeved shirt."
+  }
+]

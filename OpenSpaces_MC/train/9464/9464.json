@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the pink and white bow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pink and white bow is 2.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the black and white camera?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the pink and white bow and the white teddy bear?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pink and white bow and the white teddy bear are 25.63 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the pink and white bow and the white teddy bear horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the pink and white bow is 99.0 centimeters from the white teddy bear horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the open book and the black and white camera?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.5 centimeters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the small shed in the distance or the trees in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is small shed in the distance."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the large house on the right and the grass in the field."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the large house on the right from the grass in the field is 0.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the car in front of the house from the smaller house on the left?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.0 meters exists between the car in front of the house and the smaller house on the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the large house on the right behind the grass in the field?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue sky or the car in front of the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is car in front of the house."
+  }
+]

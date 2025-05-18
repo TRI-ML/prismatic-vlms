@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the car on street and the fourth car on street?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car on street and the fourth car on street are 7.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How big is the woman walking on sidewalk in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman walking on sidewalk is 90.87 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the fourth car on street and the seventh car on street."
+  },
+  {
+    "from": "gpt",
+    "value": "the fourth car on street is 20.0 feet away from the seventh car on street."
+  },
+  {
+    "from": "human",
+    "value": "Between the woman walking on sidewalk and the parking sign, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "parking sign is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Does the third car on street appear over the parking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the third car on street is above the parking sign."
+  }
+]

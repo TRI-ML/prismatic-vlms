@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the computer monitor lie behind the tumbler?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the computer monitor and the telephone?"
+  },
+  {
+    "from": "gpt",
+    "value": "the computer monitor and the telephone are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the telephone and the computer monitor, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is telephone."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the computer monitor or the tumbler?"
+  },
+  {
+    "from": "gpt",
+    "value": "computer monitor is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the computer monitor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the computer monitor is 4.7 feet in height."
+  }
+]

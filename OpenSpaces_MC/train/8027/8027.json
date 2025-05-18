@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the chain link fence have a greater width compared to the red hat on man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the chain link fence has a greater width compared to the red hat on man."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the red hat on man and the woman in lime green shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.74 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the red hat on man and the woman in lime green shirt?Could you provide the horizontal distance between the red hat on man and the woman in lime green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red hat on man is 4.0 meters away from the woman in lime green shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the chain link fence from the yellow tennis ball in air horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chain link fence is 7.68 feet away from the yellow tennis ball in air horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the chain link fence."
+  },
+  {
+    "from": "gpt",
+    "value": "the chain link fence is 3.0 meters wide."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the window from the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the table are 4.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the plant and the window horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 5.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the table and the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is smaller than the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the window is not smaller in size than the table."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the couch from the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the couch from the wall is 6.05 meters."
+  }
+]

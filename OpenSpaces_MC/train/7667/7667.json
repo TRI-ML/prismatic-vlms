@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the bed headboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bed headboard is 7.4 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the bed headboard and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bed headboard and the air conditioning unit are 2.16 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the bed headboard from the lamp horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bed headboard and the lamp are 2.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the telephone."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 38.03 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the air conditioning unit shorter than the telephone?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the air conditioning unit is not shorter than the telephone."
+  }
+]

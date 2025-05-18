@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the plant with green leaves and white flowers and the green tree, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "green tree is below."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant with green leaves and white flowers have a lesser width compared to the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the plant with green leaves and white flowers has a lesser width compared to the person walking."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the plant with green leaves and white flowers and the person walking vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the plant with green leaves and white flowers and the person walking are 12.06 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the green tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant with green leaves and white flowers and the person walking, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is person walking."
+  }
+]

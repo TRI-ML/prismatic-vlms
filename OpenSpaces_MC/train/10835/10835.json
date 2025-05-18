@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the large semi-truck trailer wider than the open trailer door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the large semi-truck trailer exceeds that of the open trailer door."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "34.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the sky have a greater width compared to the driver in forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the sky might be narrower or the same width as the driver in forklift."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the sky to the driver in forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 21.9 meters exists between the sky and the driver in forklift."
+  },
+  {
+    "from": "human",
+    "value": "Does the driver in forklift appear on the left side of the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the driver in forklift is positioned on the left side of the fence."
+  }
+]

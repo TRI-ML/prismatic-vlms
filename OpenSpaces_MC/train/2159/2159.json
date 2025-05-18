@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the worker's pants behind the worker's high-visibility vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How big is the machine with wires?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the machine with wires is 3.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the machine with wires positioned at the back of the worker's high-visibility vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the worker's shoes lie behind the machine with wires?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the worker's shoes is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the machine with wires from the machine with wires?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 42.0 centimeters exists between the machine with wires and the machine with wires."
+  }
+]

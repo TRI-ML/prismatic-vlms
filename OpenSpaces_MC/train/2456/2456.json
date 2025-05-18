@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the pallets of goods more distant than that of the pallets of goods?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the pallets of goods and the pallets of goods?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets of goods is 23.0 inches away from the pallets of goods."
+  },
+  {
+    "from": "human",
+    "value": "Does the pallets of goods come behind the pallets of goods?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the pallets of goods to the pallets of goods."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.58 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the pallets of goods from the pallets of goods vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.2 meters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the orange forklift and the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the orange forklift from the stacked pallets is 2.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the pallets to the black tires."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the pallets from the black tires is 11.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the pallets or the black tires?"
+  },
+  {
+    "from": "gpt",
+    "value": "pallets is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the pallets and the black tires, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is pallets."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the orange forklift or the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "stacked pallets is more to the right."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the blue chair behind the large painting on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue chair from the large painting on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue chair and the large painting on wall are 23.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white couch from the pink pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the white couch further to the viewer compared to the large painting on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the blue pillow and the large painting on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.3 meters apart."
+  }
+]

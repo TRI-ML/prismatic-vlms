@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the books on shelf from the books on shelf vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 25.9 inches exists between the books on shelf and the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the books on shelf from the laptop horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 3.8 meters exists between the books on shelf and the laptop."
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box on shelf appear over the picture of a man on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cardboard box on shelf is positioned over the picture of a man on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the books on shelf and the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 58.0 centimeters exists between the books on shelf and the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the books on shelf to the books on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on shelf and the books on shelf are 58.0 centimeters apart."
+  }
+]

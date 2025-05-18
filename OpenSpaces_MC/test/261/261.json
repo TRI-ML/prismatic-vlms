@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the intersection is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 49.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the street sign and the building horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the street sign from the building is 40.34 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the intersection and the lane markings?Could you provide the horizontal distance between the intersection and the lane markings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection is 72.0 centimeters from the lane markings horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the intersection from the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection and the trees are 25.65 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the intersection and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection is 25.65 meters from the trees."
+  }
+]

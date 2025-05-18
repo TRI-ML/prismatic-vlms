@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the text on green banner wider than the green banner with text?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the text on green banner might be narrower or the same width as the green banner with text."
+  },
+  {
+    "from": "human",
+    "value": "Is the text on green banner to the right of the player in blue shirt from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the text on green banner to the right of the player in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the racket held by player is positioned to the right of the player in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the racket held by player is not to the right of the player in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the text on green banner is positioned to the right of the woman in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the text on green banner is positioned on the right side of the woman in green shirt."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the racket held by player and the player in blue shirt horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.73 meters apart."
+  }
+]

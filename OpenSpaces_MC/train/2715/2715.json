@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the large yellow forklift is bigger than the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the large yellow forklift has a larger size compared to the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "Between the worker in safety gear and the stacked boxes, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "worker in safety gear is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the large yellow forklift is bigger than the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the large yellow forklift is bigger than the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the large yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large yellow forklift is 24.28 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Does the stacked boxes have a larger size compared to the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stacked boxes is bigger than the stacked boxes."
+  }
+]

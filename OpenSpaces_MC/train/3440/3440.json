@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the window and the table horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the table and the tripod lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table is 6.23 meters away from the tripod lamp."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the striped pillow to the tripod lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the striped pillow from the tripod lamp is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the table to the tripod lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 19.25 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the table."
+  },
+  {
+    "from": "gpt",
+    "value": "the table is 34.93 inches wide."
+  }
+]

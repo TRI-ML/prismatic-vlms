@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the parking lot and the white building."
+  },
+  {
+    "from": "gpt",
+    "value": "the parking lot and the white building are 0.1 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the gravel more distant than that of the large pillar?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gravel is behind the large pillar."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 30.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the parking lot and the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the parking lot behind the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

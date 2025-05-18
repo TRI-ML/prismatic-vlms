@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the car to the car."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.0 meters exists between the car and the car."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the mcdonald's sign and the traffic light vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the mcdonald's sign is 6.7 inches from the traffic light vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far is the mcdonald's sign from the traffic light vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.7 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is positioned below the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the car is positioned under the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the car and the mcdonald's sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 76.0 meters apart."
+  }
+]

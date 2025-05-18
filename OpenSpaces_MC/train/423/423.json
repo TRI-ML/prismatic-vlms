@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the blue trash can and the person in white shirt and black pants, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue trash can appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white base from the person wearing blue shirt, gray pants, and black helmet horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 6.19 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the blue trash can or the person in white shirt and black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person in white shirt and black pants."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the person in black shirt and black pants or the white base?"
+  },
+  {
+    "from": "gpt",
+    "value": "white base is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue trash can and the person in white shirt and black pants horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue trash can and the person in white shirt and black pants are 30.22 feet apart horizontally."
+  }
+]

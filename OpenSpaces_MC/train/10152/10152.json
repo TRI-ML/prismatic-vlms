@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the black headphones and the newspaper, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "black headphones is below."
+  },
+  {
+    "from": "human",
+    "value": "Between the white refrigerator and the black suitcase, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "black suitcase is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How big is the light brown wooden chair in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the light brown wooden chair and the water bottle."
+  },
+  {
+    "from": "gpt",
+    "value": "the light brown wooden chair is 1.6 meters from the water bottle vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white refrigerator and the computer."
+  },
+  {
+    "from": "gpt",
+    "value": "the white refrigerator is 3.32 meters from the computer."
+  }
+]

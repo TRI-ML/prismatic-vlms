@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the grass field come behind the grass field?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the brown horse with black legs more distant than that of the grass field?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown horse with black legs is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the brown horse with black legs and the grass field horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown horse with black legs and the grass field are 25.76 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the grass field further to camera compared to the grass field?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the grass field is behind the grass field."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the grass field and the brown horse with black legs."
+  },
+  {
+    "from": "gpt",
+    "value": "67.0 centimeters"
+  }
+]

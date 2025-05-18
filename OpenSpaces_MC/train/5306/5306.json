@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the person in blue shirt and the person in black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 20.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white tank top from the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 13.14 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the person in black shirt or the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is person in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in black shirt is thinner than the black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person in black shirt might be wider or the same width as the black shorts."
+  },
+  {
+    "from": "human",
+    "value": "Is the white tank top thinner than the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white tank top has a lesser width compared to the person in black shirt."
+  }
+]

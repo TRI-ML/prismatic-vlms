@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the stack of red bricks lie behind the stack of red bricks?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the stack of red bricks."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the stack of red bricks or the stack of red bricks?"
+  },
+  {
+    "from": "gpt",
+    "value": "stack of red bricks is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the stack of red bricks to the yellow forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of red bricks and the yellow forklift are 11.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the stack of red bricks and the stack of red bricks?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of red bricks and the stack of red bricks are 4.45 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the stack of red bricks occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of red bricks is 4.0 feet tall."
+  }
+]

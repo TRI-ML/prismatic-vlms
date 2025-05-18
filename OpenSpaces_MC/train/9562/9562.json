@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the coffee table or the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is lamp."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the coffee table to the lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee table is 3.7 meters away from the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the coffee table or the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, window appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the stool positioned at the back of the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stool is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the table and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table and the air conditioning unit are 17.97 feet apart from each other."
+  }
+]

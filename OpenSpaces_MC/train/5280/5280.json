@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the red objects on shelf appear on the left side of the person sitting on ledge?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the red objects on shelf is either to the right of or directly aligned with the person sitting on ledge."
+  },
+  {
+    "from": "human",
+    "value": "Is the person standing on ledge to the left of the toyota forklift from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person standing on ledge to the left of the toyota forklift."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the red objects on shelf and the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red objects on shelf and the yellow forklift are 9.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the person standing on ledge."
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing on ledge is 1.1 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person standing on ledge is positioned to the left of the green objects on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person standing on ledge to the left of the green objects on shelf."
+  }
+]

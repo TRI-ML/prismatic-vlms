@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the road with white markings and the mountain with green vegetation, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "road with white markings is below."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the road with white markings and the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the road with white markings from the stone wall is 4.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the stone wall and the road with white markings, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "stone wall is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How big is the mountain with green vegetation in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mountain with green vegetation is 9.99 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the stone wall or the mountain with green vegetation?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is stone wall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the blue teapot or the white teapot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is blue teapot."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the red container."
+  },
+  {
+    "from": "gpt",
+    "value": "14.6 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the blue teapot to the right of the white teapot from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the blue teapot to the right of the white teapot."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the red container and the white teapot?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the red container from the white teapot is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the white towel or the wc sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "white towel is more to the right."
+  }
+]

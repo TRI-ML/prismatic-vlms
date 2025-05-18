@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the additional shredded cheese and the more green onions."
+  },
+  {
+    "from": "gpt",
+    "value": "the additional shredded cheese is 2.44 inches away from the more green onions horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the additional shredded cheese and the shredded cheese, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is additional shredded cheese."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the additional shredded cheese or the more green onions?"
+  },
+  {
+    "from": "gpt",
+    "value": "additional shredded cheese is below."
+  },
+  {
+    "from": "human",
+    "value": "Between the more green onions and the shredded cheese, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is shredded cheese."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the additional shredded cheese from the more green onions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the additional shredded cheese and the more green onions are 13.5 centimeters apart from each other."
+  }
+]

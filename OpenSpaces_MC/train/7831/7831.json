@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the boxes with canadian flags to the brick wall."
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the person in brown shirt and the white truck, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white truck."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes with canadian flags positioned at the back of the brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How far is the boxes with canadian flags from the brick wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes with canadian flags and the brick wall are 8.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the brick wall further to camera compared to the person in gray shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brick wall is further from the viewer."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the white wall from the red floor horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall is 35.17 feet away from the red floor horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the white wall to the right of the white ceiling from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white wall is to the right of the white ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Is the white wall bigger than the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white wall is bigger than the white boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the white wall to the right of the stack of white boxes from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white wall is to the right of the stack of white boxes."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white wall and the stack of white boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 42.2 feet exists between the white wall and the stack of white boxes."
+  }
+]

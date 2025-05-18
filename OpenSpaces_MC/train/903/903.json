@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the shoes and the car."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the shoes from the car is 24.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the skateboard have a larger size compared to the green street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the skateboard is not bigger than the green street sign."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the shirt and the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shirt and the red car are 4.85 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the red car have a larger size compared to the black car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the red car might be smaller or the same size as the black car."
+  },
+  {
+    "from": "human",
+    "value": "Does the palm trees appear on the right side of the shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the palm trees is either to the left of or directly aligned with the shirt."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the text in logo thinner than the text in logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the text in logo is thinner than the text in logo."
+  },
+  {
+    "from": "human",
+    "value": "Is the text in logo thinner than the person riding horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the text in logo's width is less than the person riding horse's."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the text in logo to the logo in top right corner."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the text in logo from the logo in top right corner is 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the text in logo to the person riding horse."
+  },
+  {
+    "from": "gpt",
+    "value": "the text in logo and the person riding horse are 23.0 inches apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person riding horse and the text in logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding horse and the text in logo are 1.0 centimeters apart from each other."
+  }
+]

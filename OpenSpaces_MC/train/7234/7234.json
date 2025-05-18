@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the white wall and the brown wooden chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall and the brown wooden chair are 3.71 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the green ottoman and the green plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the green ottoman is 1.0 meters from the green plant."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white vase from the white pillow horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the white vase."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 8.5 inches."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white wall from the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall is 6.4 feet from the green plant."
+  }
+]

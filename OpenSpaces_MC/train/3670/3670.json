@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the people in black suits."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the people in black suits is 14.31 feet."
+  },
+  {
+    "from": "human",
+    "value": "How big is the people in black suits in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in black suits is 4.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How big is the people in white lab coats in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in white lab coats is 7.0 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the sheep or the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sheep."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the people in black suits from the people in white lab coats?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in black suits is 10.0 meters from the people in white lab coats."
+  }
+]

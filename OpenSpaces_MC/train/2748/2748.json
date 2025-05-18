@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the silverware appear over the raspberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the silverware is positioned over the raspberries."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the celery in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.6 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the celery positioned in front of the carrots?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the carrots."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the carrots and the raspberries?"
+  },
+  {
+    "from": "gpt",
+    "value": "the carrots and the raspberries are 21.32 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the yogurt above the celery?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yogurt is not above the celery."
+  }
+]

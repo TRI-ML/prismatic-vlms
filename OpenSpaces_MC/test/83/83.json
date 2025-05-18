@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the trees and the white fence?Could you provide the horizontal distance between the trees and the white fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 53.29 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the vericall size of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 9.46 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the man holding tennis racket or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white fence is."
+  },
+  {
+    "from": "gpt",
+    "value": "the white fence is 9.4 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Between the trees and the white fence, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white fence appears more on the right side."
+  }
+]

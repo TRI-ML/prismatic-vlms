@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the boxes is 6.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the boxes and the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes and the yellow forklift are 14.6 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse positioned behind the warehouse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse is in front of the warehouse."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the boxes or the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse positioned behind the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the yellow forklift."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the sauce or the chicken?"
+  },
+  {
+    "from": "gpt",
+    "value": "sauce is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the wooden table or the quinoa?"
+  },
+  {
+    "from": "gpt",
+    "value": "wooden table is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the blue plate from the quinoa?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue plate is 9.0 inches from the quinoa."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue plate and the quinoa, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue plate is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue plate from the quinoa?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue plate is 9.0 inches away from the quinoa."
+  }
+]

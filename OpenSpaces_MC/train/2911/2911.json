@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the car on the road occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.37 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the car from the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the bush and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.74 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the car is 2.67 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the car and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car and the car are 3.9 meters apart from each other."
+  }
+]

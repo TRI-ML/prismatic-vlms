@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the cap?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the court and the net?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 36.59 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the court or the net?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is court."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the shoe is positioned to the left of the net?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the shoe is either to the right of or directly aligned with the net."
+  },
+  {
+    "from": "human",
+    "value": "Is the shoe to the left of the net from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the shoe is not on the left side of the net."
+  }
+]

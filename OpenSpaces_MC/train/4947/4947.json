@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the cheese and the green sauce."
+  },
+  {
+    "from": "gpt",
+    "value": "the cheese and the green sauce are 48.2 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the cheese less distant than that of the green sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cheese is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the cheese is."
+  },
+  {
+    "from": "gpt",
+    "value": "the cheese is 5.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the cheese in front of the green sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cheese and the green sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cheese is 48.2 centimeters away from the green sauce."
+  }
+]

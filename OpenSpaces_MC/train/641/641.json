@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the series editor to the right of the title text from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the series editor is either to the left of or directly aligned with the title text."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the book cover is taller than the author name?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the book cover is taller than the author name."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the modern library gardening logo is positioned to the right of the introduction author?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the modern library gardening logo is to the right of the introduction author."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the book cover from the author name?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book cover and the author name are 95.1 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the book cover appear on the right side of the author name?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the book cover is to the right of the author name."
+  }
+]

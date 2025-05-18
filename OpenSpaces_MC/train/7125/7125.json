@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the kitchen cabinet and the stove with dials vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 57.3 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the kitchen cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "10.7 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the kitchen wall or the kitchen countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen countertop is taller."
+  },
+  {
+    "from": "human",
+    "value": "Between the kitchen countertop and the woman holding a plate of food, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen countertop is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stove with dials?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove with dials is 3.47 meters in height."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the pillow from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pillow from the person is 9.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the bedding and the text on book cover, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "bedding is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the person or the text on book spine?"
+  },
+  {
+    "from": "gpt",
+    "value": "text on book spine is below."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the pillow is bigger than the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pillow is not bigger than the person."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the pillow or the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is pillow."
+  }
+]

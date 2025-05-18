@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the seat?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the seat is 32.6 inches."
+  },
+  {
+    "from": "human",
+    "value": "Between the seat and the floor, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, seat appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the jacket and the seat horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the jacket is 4.0 meters away from the seat horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the building and the sky, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, building appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the building and the sky vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  }
+]

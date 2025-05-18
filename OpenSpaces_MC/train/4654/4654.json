@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the porch with columns?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 8.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car in driveway is positioned to the right of the porch with columns?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car in driveway is to the right of the porch with columns."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the car in driveway or the porch with columns?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is porch with columns."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the street light and the porch with columns?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street light is 7.0 meters from the porch with columns."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street light is 63.49 centimeters tall."
+  }
+]

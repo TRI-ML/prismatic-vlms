@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person is positioned to the right of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person is either to the left of or directly aligned with the person."
+  },
+  {
+    "from": "human",
+    "value": "Is the person to the right of the person from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is not to the right of the person."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the person occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person is 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the person and the table."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 15.7 meters from the table horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the person appear on the right side of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person is to the right of the person."
+  }
+]

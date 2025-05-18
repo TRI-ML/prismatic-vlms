@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the business sign to the business sign."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.42 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the business sign from the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the business sign is 10.25 meters away from the business sign."
+  },
+  {
+    "from": "human",
+    "value": "How far is the steiner street sign from the speed limit sign horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "17.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the business sign to the business sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the business sign is 3.0 meters away from the business sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the business sign is wider than the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the business sign exceeds that of the business sign."
+  }
+]

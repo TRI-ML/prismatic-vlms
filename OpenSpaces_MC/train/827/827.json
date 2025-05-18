@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the door from the wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door and the wall are 51.4 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wall is positioned below the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wall is below the floor."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the window in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the window is 48.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the sink to the bathtub."
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 4.0 feet from the bathtub horizontally."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the houses in the background or the hill in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is houses in the background."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the houses in the background to the red kite in the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 63.87 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the person sitting on the grass in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the houses in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the houses in the background is 4.88 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person flying the kite and the red kite in the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the person flying the kite and the red kite in the sky are 7.8 feet apart."
+  }
+]

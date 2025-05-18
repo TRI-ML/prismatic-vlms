@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you tell me the vericall size of the soap?"
+  },
+  {
+    "from": "gpt",
+    "value": "the soap is 12.0 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the toilet or the roll of toilet paper, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is toilet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the unidentified object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the unidentified object is 29.2 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the soap and the soap dish horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the soap and the soap dish are 46.05 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the toilet from the roll of toilet paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.05 meters apart."
+  }
+]

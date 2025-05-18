@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the traffic lights and the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic lights and the sky are 3.25 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the van on the left side of the street or the building on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "building on the right side of the street is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the tree on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.91 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the tree on the right side of the street have a greater width compared to the traffic lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tree on the right side of the street is wider than the traffic lights."
+  },
+  {
+    "from": "human",
+    "value": "Between the sign on the left side of the street and the traffic lights, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, traffic lights appears more on the right side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the lamp post lie in front of the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the gay pride flag from the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gay pride flag from the lamp is 19.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the gay pride flag positioned in front of the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the lamp from the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp and the street sign are 96.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the street sign to the left of the stop sign from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the street sign to the left of the stop sign."
+  }
+]

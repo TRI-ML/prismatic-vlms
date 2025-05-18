@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the white building on left side of street or the white building on left side of street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white building on left side of street."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the white building on left side of street in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.17 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the white building on left side of street or the white building on left side of street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white building on left side of street."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white building on left side of street and the white building on left side of street?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white building on left side of street from the white building on left side of street is 10.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the white building on left side of street or the white building on left side of street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is white building on left side of street."
+  }
+]

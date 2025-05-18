@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's head and the player's body?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's head is 48.0 centimeters from the player's body."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the player's body occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's body is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the watermark and the racket handle vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.52 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the player's head or the player's body?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, player's head appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the audience members from the ball vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the audience members and the ball are 4.67 feet apart vertically from each other."
+  }
+]

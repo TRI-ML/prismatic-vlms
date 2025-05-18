@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the yellow forklift in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "77.2 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the two stacked brown boxes and the steering wheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two stacked brown boxes is 8.0 centimeters from the steering wheel."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the white tape on boxes to the steering wheel."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 15.2 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the yellow forklift body from the two stacked brown boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "25.11 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How close is the two stacked brown boxes from the steering wheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the two stacked brown boxes from the steering wheel is 8.0 centimeters."
+  }
+]

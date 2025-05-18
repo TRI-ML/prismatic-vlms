@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the hand positioned at the back of the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the hand or the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is hand."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.77 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the hand further to camera compared to the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the skateboard from the hand horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboard is 12.0 meters from the hand horizontally."
+  }
+]

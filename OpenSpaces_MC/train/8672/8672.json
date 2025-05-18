@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the animal lying on ground and the person wearing white tank top and blue shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "the animal lying on ground is 16.0 meters from the person wearing white tank top and blue shorts."
+  },
+  {
+    "from": "human",
+    "value": "Is the dirt patch in the field to the left of the grass in the field from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the dirt patch in the field is positioned on the left side of the grass in the field."
+  },
+  {
+    "from": "human",
+    "value": "Is the animal lying on ground to the left of the person wearing yellow hat and blue tank top from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the animal lying on ground is positioned on the left side of the person wearing yellow hat and blue tank top."
+  },
+  {
+    "from": "human",
+    "value": "Is the animal lying on ground to the left of the person wearing white tank top and blue shorts from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the animal lying on ground is positioned on the left side of the person wearing white tank top and blue shorts."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the animal lying on ground or the person wearing yellow hat and blue tank top?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person wearing yellow hat and blue tank top."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair is 67.4 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Does the bowls have a smaller size compared to the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the bowls has a smaller size compared to the table."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bowls?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the table thinner than the bowl of fruit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the table is thinner than the bowl of fruit."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the chair from the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the chair from the table is 23.35 feet."
+  }
+]

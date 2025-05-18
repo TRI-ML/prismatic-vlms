@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the silver sedan and the tree vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 6.95 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the silver sedan or the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, tree appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the white box truck and the silver sedan, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is silver sedan."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the white box truck or the silver sedan?"
+  },
+  {
+    "from": "gpt",
+    "value": "silver sedan is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the tree or the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, tree appears more on the right side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the blanket from the plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blanket and the plate are 14.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the microwave dials and the microwave buttons?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the microwave dials from the microwave buttons is 4.58 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the microwave dials and the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the microwave dials is 74.1 centimeters away from the wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the microwave dials have a greater width compared to the microwave buttons?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the microwave dials is wider than the microwave buttons."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the microwave dials and the wall vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 68.46 centimeters exists between the microwave dials and the wall."
+  }
+]

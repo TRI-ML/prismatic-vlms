@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person standing on sidewalk is wider than the people walking on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person standing on sidewalk's width does not surpass the people walking on sidewalk's."
+  },
+  {
+    "from": "human",
+    "value": "Does the people walking on sidewalk have a greater width compared to the people walking on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people walking on sidewalk has a greater width compared to the people walking on sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people walking on sidewalk is wider than the people walking on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people walking on sidewalk has a greater width compared to the people walking on sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the people walking on sidewalk and the umbrella held by person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people walking on sidewalk is 17.7 meters away from the umbrella held by person."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the people walking on sidewalk and the umbrella held by person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people walking on sidewalk is 17.7 meters from the umbrella held by person."
+  }
+]

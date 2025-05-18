@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the forklift tires to the boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "the forklift tires is 58.0 centimeters away from the boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black body of forklift is positioned above the large flat-screen tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black body of forklift is above the large flat-screen tv."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black body of forklift is thinner than the forklift seat?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the black body of forklift might be wider or the same width as the forklift seat."
+  },
+  {
+    "from": "human",
+    "value": "Is the forklift tires above the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the forklift tires is located above the boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black body of forklift is positioned above the forklift seat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black body of forklift is above the forklift seat."
+  }
+]

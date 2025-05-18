@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the street light or the newspaper box?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, newspaper box appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the street light shorter than the newspaper box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the street light is not shorter than the newspaper box."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the red and yellow object or the yellow bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red and yellow object appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the red and yellow object shorter than the yellow bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the red and yellow object is shorter than the yellow bicycle."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red and yellow object from the trash on ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red and yellow object and the trash on ground are 3.0 meters apart."
+  }
+]

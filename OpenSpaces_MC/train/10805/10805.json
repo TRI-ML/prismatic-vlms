@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the ventilation system in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 9.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove positioned behind the ventilation system?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the dirty refrigerator door is positioned above the ventilation system?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the dirty refrigerator door is above the ventilation system."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the stove from the ventilation system?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove is 2.06 meters from the ventilation system."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the stove occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the stove is 20.6 inches."
+  }
+]

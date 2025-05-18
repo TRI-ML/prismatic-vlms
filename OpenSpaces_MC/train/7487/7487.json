@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the black object from the cheese?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black object and the cheese are 37.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the black object is."
+  },
+  {
+    "from": "gpt",
+    "value": "the black object is 19.8 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the black object?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the black object is 19.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the black object?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 20.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the silver countertop to the herbs."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver countertop and the herbs are 2.58 centimeters apart from each other."
+  }
+]

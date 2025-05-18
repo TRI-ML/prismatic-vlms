@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the trees is."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 98.09 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the light fixtures to the light poles."
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixtures and the light poles are 0.31 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the trees and the light fixtures?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the light fixtures are 0.27 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the light fixtures and the light poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the light fixtures from the light poles is 0.31 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the light fixtures?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixtures is 29.9 meters tall."
+  }
+]

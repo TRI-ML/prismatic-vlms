@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the skateboard and the knee pads horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboard and the knee pads are 36.75 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the helmet is 1.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the skateboarder and the knee pads horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 9.88 feet exists between the skateboarder and the knee pads."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the grass and the knee pads?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the knee pads are 10.94 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the helmet is 4.3 feet."
+  }
+]

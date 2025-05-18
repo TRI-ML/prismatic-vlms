@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the player's shorts in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the tennis court is 9.27 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's head and the tennis court vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 3.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the player's shorts to the player's head."
+  },
+  {
+    "from": "gpt",
+    "value": "the player's shorts is 20.0 inches away from the player's head."
+  },
+  {
+    "from": "human",
+    "value": "Is the player's wristband closer to the viewer compared to the player's arm?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

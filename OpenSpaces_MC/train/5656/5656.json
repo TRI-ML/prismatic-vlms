@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bookshelf and the window."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.0 meters exists between the bookshelf and the window."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the couch and the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the window and the window horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the couch appear on the right side of the grand piano?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the couch to the right of the grand piano."
+  },
+  {
+    "from": "human",
+    "value": "Is the grand piano to the right of the reclining chair from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the grand piano is either to the left of or directly aligned with the reclining chair."
+  }
+]

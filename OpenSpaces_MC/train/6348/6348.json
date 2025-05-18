@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman in white shirt and the red sign with black truck vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the woman in white shirt from the red sign with black truck is 2.97 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the person with umbrella and the white sign with chinese characters, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white sign with chinese characters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person with umbrella to the white sign with chinese characters."
+  },
+  {
+    "from": "gpt",
+    "value": "the person with umbrella and the white sign with chinese characters are 2.04 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the red sign with no left turn and the woman in white shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 17.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the person with umbrella wider than the white sign with chinese characters?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person with umbrella might be narrower or the same width as the white sign with chinese characters."
+  }
+]

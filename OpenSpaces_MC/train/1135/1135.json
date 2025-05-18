@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the white napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white napkin is 2.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the silver fork from the red garnish?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver fork is 5.3 feet away from the red garnish horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the white napkin appear on the left side of the red garnish?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white napkin is not to the left of the red garnish."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white napkin and the red garnish vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the silver fork to the left of the red garnish from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the silver fork is either to the right of or directly aligned with the red garnish."
+  }
+]

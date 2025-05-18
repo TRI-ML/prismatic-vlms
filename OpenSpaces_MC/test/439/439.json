@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the wall or the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, wall appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the toaster from the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toaster is 2.6 meters away from the trash can."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the paper on counter and the trash can vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the paper on counter is 2.63 meters from the trash can vertically."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stove from the paper on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.9 feet exists between the stove and the paper on counter."
+  },
+  {
+    "from": "human",
+    "value": "Does the stove appear over the paper on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stove is above the paper on counter."
+  }
+]

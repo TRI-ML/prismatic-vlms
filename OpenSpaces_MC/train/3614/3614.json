@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the green spatula or the glass jar with brown lid?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is glass jar with brown lid."
+  },
+  {
+    "from": "human",
+    "value": "Is the red frying pan above the white bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the red frying pan is located above the white bowl."
+  },
+  {
+    "from": "human",
+    "value": "Between the green spatula and the glass jar with brown lid, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "glass jar with brown lid is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the green spatula and the glass jar with brown lid?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.2 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the red frying pan and the green spatula, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "green spatula is shorter."
+  }
+]

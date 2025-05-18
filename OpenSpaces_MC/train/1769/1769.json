@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the table and the torn curtain, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is torn curtain."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the dresser or the bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is dresser."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the table and the light switch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table is 35.3 inches away from the light switch."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the dresser is wider than the bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the dresser's width does not surpass the bed's."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the table or the torn curtain?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, torn curtain appears more on the left side."
+  }
+]

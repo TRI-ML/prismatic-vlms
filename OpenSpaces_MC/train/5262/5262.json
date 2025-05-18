@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the blue station wagon in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.53 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the blue truck with white trailer from the brown rectangular sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue truck with white trailer and the brown rectangular sign are 7.57 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the brick wall and the brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "16.1 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the brown rectangular sign lie in front of the brown rectangular sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown rectangular sign is behind the brown rectangular sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brick wall from the brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brick wall is 16.1 feet away from the brick wall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the magazine and the magazine."
+  },
+  {
+    "from": "gpt",
+    "value": "1.52 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the magazine and the remote control?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 11.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white door from the magazine?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white door is 18.7 feet away from the magazine."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the white wall in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "67.9 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white door and the magazine?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white door from the magazine is 18.7 feet."
+  }
+]

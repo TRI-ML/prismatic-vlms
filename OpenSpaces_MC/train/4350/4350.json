@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the boy's shirt further to the viewer compared to the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the couch."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the boy's pants from the black cat?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boy's pants and the black cat are 57.31 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the boy's pants further to camera compared to the black cat?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the black cat."
+  },
+  {
+    "from": "human",
+    "value": "Does the boy's pants lie behind the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the couch."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the couch and the black cat."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the couch from the black cat is 14.47 inches."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white tiles come in front of the white door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white door is behind the white tiles."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white wall less distant than that of the white soap bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the white soap bottle."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white soap bottle is smaller than the brown-framed mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white soap bottle has a smaller size compared to the brown-framed mirror."
+  },
+  {
+    "from": "human",
+    "value": "Does the white door come in front of the white sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white door is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the white tiles closer to the viewer compared to the white door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the white door."
+  }
+]

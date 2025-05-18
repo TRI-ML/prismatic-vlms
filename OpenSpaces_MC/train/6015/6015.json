@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the hand from the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the hand from the hand is 6.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the hand or the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is hand."
+  },
+  {
+    "from": "human",
+    "value": "Between the t-shirt and the hand, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, t-shirt appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the t-shirt to the hand."
+  },
+  {
+    "from": "gpt",
+    "value": "the t-shirt is 78.12 centimeters away from the hand vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the hand thinner than the hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the hand is not thinner than the hand."
+  }
+]

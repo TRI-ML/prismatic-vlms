@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the gray floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray floor is 57.62 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the gray floor and the stack of boxes on pallet."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray floor is 84.3 centimeters from the stack of boxes on pallet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the stack of boxes on pallet and the tracks on metal frame."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stack of boxes on pallet from the tracks on metal frame is 73.96 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the metal frame with blue beams and the tracks on metal frame horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the gray floor occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray floor is 22.68 inches tall."
+  }
+]

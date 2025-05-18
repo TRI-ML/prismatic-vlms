@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person sitting on the ground from the person sitting on the left?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the ground is 6.1 feet from the person sitting on the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person sitting on the ground from the person sitting on the left?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the ground and the person sitting on the left are 6.1 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person sitting on the ground and the motorcycle in the middle horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the ground is 72.0 feet from the motorcycle in the middle horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person sitting on the ground and the motorcycle in the middle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the ground is 5.0 meters away from the motorcycle in the middle."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person sitting on the left is positioned above the person sitting on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person sitting on the left is not above the person sitting on the ground."
+  }
+]

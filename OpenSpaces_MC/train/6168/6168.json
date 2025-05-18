@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the skateboarder or the wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "skateboarder is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the night sky and the skateboard, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is skateboard."
+  },
+  {
+    "from": "human",
+    "value": "Between the scratches on ramp and the scratches on ramp, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is scratches on ramp."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the skateboard in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the scratches on ramp or the scratches on ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, scratches on ramp appears more on the left side."
+  }
+]

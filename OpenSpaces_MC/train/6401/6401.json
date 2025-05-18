@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the man in white outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white outfit is 1.93 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the man in white outfit in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white outfit is 1.93 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the flowers above the yellow flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the flowers is not positioned above the yellow flowers."
+  },
+  {
+    "from": "human",
+    "value": "How big is the man's hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man's hair is 3.6 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the flowers is 2.0 meters."
+  }
+]

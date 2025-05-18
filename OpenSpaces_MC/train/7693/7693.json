@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the picture frame on floor from the palm tree statue horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "56.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the speaker on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the speaker on mantle is 37.3 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Between the picture frame on floor and the palm tree statue, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "picture frame on floor is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the speaker on mantle and the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the speaker on mantle is 13.9 feet away from the black table."
+  },
+  {
+    "from": "human",
+    "value": "Is the white chair wider than the brown wooden dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white chair is not wider than the brown wooden dresser."
+  }
+]

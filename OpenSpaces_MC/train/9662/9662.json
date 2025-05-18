@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white labels on boxes come in front of the white cylindrical objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white cylindrical objects is behind the white labels on boxes."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white labels on boxes and the white cylindrical objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 15.05 feet exists between the white labels on boxes and the white cylindrical objects."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white cylindrical objects from the white labels on boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white cylindrical objects is 1.7 meters from the white labels on boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the white cylindrical objects positioned before the white labels on boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white cylindrical objects is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the white labels on boxes come in front of the white cylindrical objects?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white labels on boxes is further to the viewer."
+  }
+]

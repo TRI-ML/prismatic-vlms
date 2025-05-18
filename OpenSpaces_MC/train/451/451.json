@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the coca-cola crate or the coca-cola crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "coca-cola crate is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the coca-cola crate appear under the coca-cola crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the coca-cola crate is below the coca-cola crate."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the table or the coca-cola crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is coca-cola crate."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the table in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 91.16 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the table from the coca-cola crate vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 32.33 feet."
+  }
+]

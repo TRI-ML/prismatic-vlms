@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the school bus doors in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the school bus doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.55 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the school bus doors to the school bus license plate."
+  },
+  {
+    "from": "gpt",
+    "value": "the school bus doors is 6.2 meters away from the school bus license plate."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the school bus or the school bus sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "school bus is above."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the school bus or the school bus side mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "school bus is higher up."
+  }
+]

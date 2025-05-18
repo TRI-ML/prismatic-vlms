@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the red machine and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red machine and the white wall are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow pipes is positioned to the left of the boxes on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the yellow pipes is either to the right of or directly aligned with the boxes on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the yellow machine and the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow machine is 1.59 meters from the white boxes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white wall is positioned to the left of the white machine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white wall is not on the left side of the white machine."
+  },
+  {
+    "from": "human",
+    "value": "Does the white wall appear on the left side of the white machine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white wall is not on the left side of the white machine."
+  }
+]

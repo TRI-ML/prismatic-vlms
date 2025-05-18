@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is above, the pie or the oil bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "pie is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the pie from the oil bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pie is 4.0 feet away from the oil bottle."
+  },
+  {
+    "from": "human",
+    "value": "Does the stove have a smaller size compared to the silver bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the stove has a smaller size compared to the silver bowl."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the silver bowl and the stove."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver bowl is 62.56 centimeters away from the stove."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the stove and the toaster oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove is 2.0 meters from the toaster oven horizontally."
+  }
+]

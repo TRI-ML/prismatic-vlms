@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the kitchen backsplash and the silver microwave?Could you provide the horizontal distance between the kitchen backsplash and the silver microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen backsplash is 1.2 meters away from the silver microwave horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the spice rack from the dish rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the spice rack from the dish rack is 0.05 inches."
+  },
+  {
+    "from": "human",
+    "value": "How big is the dish rack in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dish rack is 33.0 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the kitchen backsplash occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen backsplash is 1.5 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the spice rack and the dish rack."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 0.05 inches exists between the spice rack and the dish rack."
+  }
+]

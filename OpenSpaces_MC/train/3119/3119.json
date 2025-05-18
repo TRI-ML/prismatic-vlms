@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the court lines and the player's socks?Could you provide the horizontal distance between the court lines and the player's socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 12.3 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the court lines and the player's clothing horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the court lines is 4.0 meters away from the player's clothing horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the court lines below the player's socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the court lines is positioned under the player's socks."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the court lines and the player's socks?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the court lines from the player's socks is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the player's clothing from the tennis racket horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's clothing and the tennis racket are 9.82 meters apart horizontally from each other."
+  }
+]

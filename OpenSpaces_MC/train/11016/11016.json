@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the person in black dress from the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black dress and the person in black shirt are 1.92 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the ball in the air and the person in black dress vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the ball in the air from the person in black dress is 10.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the boy in red and white shirt and the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boy in red and white shirt is 95.5 centimeters away from the tennis court."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in black dress appear over the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person in black dress is above the person in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the ball in the air lie in front of the white line on the court?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

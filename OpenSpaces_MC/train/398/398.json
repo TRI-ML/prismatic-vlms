@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the tennis court to the right of the tennis racket from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the tennis court to the right of the tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "Does the tennis racket appear on the right side of the tennis court lines?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tennis racket is not to the right of the tennis court lines."
+  },
+  {
+    "from": "human",
+    "value": "Is the man holding a tennis racket closer to the viewer compared to the tennis shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tennis shoes is behind the man holding a tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the tennis racket and the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tennis racket is 15.4 meters away from the tennis court."
+  },
+  {
+    "from": "human",
+    "value": "How close is the tennis racket from the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.4 meters"
+  }
+]

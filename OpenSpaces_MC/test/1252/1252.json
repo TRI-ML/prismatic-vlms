@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red awning from the two-story building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red awning and the two-story building are 6.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the red awning lie in front of the two-story building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the two-story building is behind the red awning."
+  },
+  {
+    "from": "human",
+    "value": "Is the red awning further to the viewer compared to the two-story building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the two-story building less distant than that of the white van?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the two-story building positioned behind the white van?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the car with open hood and the additional house?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 30.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the additional house have a smaller size compared to the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the additional house is not smaller than the sky."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the telephone pole and the woman standing next to u-haul truck."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 48.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the car with open hood have a smaller size compared to the additional house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car with open hood is smaller than the additional house."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the house is smaller than the telephone pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the house occupies less space than the telephone pole."
+  }
+]

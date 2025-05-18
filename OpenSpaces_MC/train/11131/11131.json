@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person wearing red jacket positioned at the back of the person wearing black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person wearing black jacket is in front of the person wearing red jacket."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person wearing black jacket in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the person wearing red jacket appear on the left side of the person wearing black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the person wearing red jacket is either to the right of or directly aligned with the person wearing black jacket."
+  },
+  {
+    "from": "human",
+    "value": "Does the person wearing red jacket appear on the left side of the person wearing black jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person wearing red jacket is not to the left of the person wearing black jacket."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person wearing black jacket and the person wearing red jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.2 inches"
+  }
+]

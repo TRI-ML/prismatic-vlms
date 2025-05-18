@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the large white box on hand truck in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 28.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How big is the worker in yellow shirt and red overalls?"
+  },
+  {
+    "from": "gpt",
+    "value": "99.5 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow metal shelving unit is wider than the yellow metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the yellow metal shelving unit exceeds that of the yellow metal shelving unit."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the large white box on hand truck and the yellow metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the large white box on hand truck from the yellow metal shelving unit is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the large white box on hand truck wider than the yellow metal shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the large white box on hand truck exceeds that of the yellow metal shelving unit."
+  }
+]

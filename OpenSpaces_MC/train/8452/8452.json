@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the brown bushes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown bushes is 17.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the baby sheep and the white sheep vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baby sheep is 15.68 centimeters from the white sheep vertically."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the man in gray shirt and hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the man in gray shirt and hat is 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the baby sheep and the white sheep horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 63.8 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the man in gray shirt and hat and the baby sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  }
+]

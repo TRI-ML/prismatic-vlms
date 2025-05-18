@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the gray wooden floor from the man wearing a blue beanie and black vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray wooden floor from the man wearing a blue beanie and black vest is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the gray wooden floor and the man wearing a blue beanie and black vest vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wooden floor is 99.7 centimeters away from the man wearing a blue beanie and black vest vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the silver beer kegs and the man wearing a blue beanie and black vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver beer kegs and the man wearing a blue beanie and black vest are 0.01 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray wooden floor and the stack of beer kegs, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is gray wooden floor."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the gray wooden floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wooden floor is 42.0 centimeters in width."
+  }
+]

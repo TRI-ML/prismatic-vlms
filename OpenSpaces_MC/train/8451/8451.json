@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the safety vest more distant than that of the machine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the safety vest and the safety vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "the safety vest and the safety vest are 6.04 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the machine and the wheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "the machine and the wheel are 25.59 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the safety vest from the safety vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "the safety vest is 76.81 centimeters from the safety vest."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the safety vest and the safety vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "the safety vest and the safety vest are 6.04 feet apart."
+  }
+]

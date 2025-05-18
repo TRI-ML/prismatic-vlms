@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person in black shirt or the person in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person in red shirt appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person in black shirt or the person in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in red shirt is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the person in black shirt and the person in pink shirt, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in black shirt is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the person in blue shirt and the person in white shirt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person in white shirt from the person in pink shirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in white shirt and the person in pink shirt are 17.96 meters apart horizontally."
+  }
+]

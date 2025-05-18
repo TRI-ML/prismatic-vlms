@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the machine's lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the machine's lights is 3.2 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the machine's base or the machine's gear shift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is machine's base."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the machine's base to the machine's gear shift."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the machine's base from the machine's gear shift is 1.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the machine's steering wheel or the machine's horn?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is machine's steering wheel."
+  },
+  {
+    "from": "human",
+    "value": "Between the machine's base and the machine's gear shift, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is machine's base."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the white car and the silver car."
+  },
+  {
+    "from": "gpt",
+    "value": "the white car is 19.0 meters away from the silver car horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the white car come in front of the model homes sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the model homes sign and the open sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the model homes sign is 6.3 meters from the open sign."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the white car."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the white car is 15.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the white car and the model homes sign, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is model homes sign."
+  }
+]

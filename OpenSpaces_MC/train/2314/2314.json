@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the publisher name is."
+  },
+  {
+    "from": "gpt",
+    "value": "the publisher name is 3.97 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the author name and the book cover?"
+  },
+  {
+    "from": "gpt",
+    "value": "the author name and the book cover are 5.1 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the book cover from the subtitle text?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 7.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the author name to the book cover."
+  },
+  {
+    "from": "gpt",
+    "value": "the author name is 3.0 inches from the book cover horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the publisher name and the title text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the publisher name is 4.5 centimeters away from the title text."
+  }
+]

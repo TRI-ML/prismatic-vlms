@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the sidewalk have a smaller size compared to the street cleaning sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the sidewalk has a smaller size compared to the street cleaning sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the sidewalk thinner than the tow zone sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the sidewalk is not thinner than the tow zone sign."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the chimney and the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 60.24 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the sidewalk and the tow zone sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sidewalk is 7.42 meters from the tow zone sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the large building from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large building and the tree are 5.4 meters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the gray pillow or the orange chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray pillow is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the gray pillow or the orange chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is gray pillow."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the gray pillow occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the brown curtain or the white lampshade?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white lampshade."
+  },
+  {
+    "from": "human",
+    "value": "Between the white lampshade and the orange chair, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white lampshade appears more on the right side."
+  }
+]

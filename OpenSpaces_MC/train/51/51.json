@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the white computer monitor to the white desk lamp."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.65 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the white books on bookshelf further to the viewer compared to the white mouse?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white books on bookshelf from the white bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white books on bookshelf from the white bookshelf is 91.14 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the white chair occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair is 16.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the white bookshelf positioned behind the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the white chair."
+  }
+]

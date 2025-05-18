@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow tennis ball shorter than the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow tennis ball is shorter than the grass."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow tennis ball shorter than the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the yellow tennis ball is not as tall as the grass."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the nike socks or the white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "nike socks is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the yellow tennis ball and the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow tennis ball is 3.2 meters away from the grass."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the tennis player or the shadow?"
+  },
+  {
+    "from": "gpt",
+    "value": "shadow is lower down."
+  }
+]

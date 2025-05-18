@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the umbrella and the table with white chairs, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, umbrella appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Is the people walking to the left of the table with white chairs from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people walking is not to the left of the table with white chairs."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the table with white chairs and the tent with people inside?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table with white chairs and the tent with people inside are 9.2 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the table with white chairs appear on the left side of the tent with people inside?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the table with white chairs is not on the left side of the tent with people inside."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the table with white chairs and the tent with people inside?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table with white chairs is 4.6 meters from the tent with people inside horizontally."
+  }
+]

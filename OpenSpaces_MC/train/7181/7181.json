@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the white chair with black pillow and the wooden ladle."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 15.1 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white chair with black pillow from the wooden ladle vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair with black pillow and the wooden ladle are 6.0 inches apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the wooden ladle have a larger size compared to the wooden spatulas?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wooden ladle is not bigger than the wooden spatulas."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the square light fixture and the wooden ladle."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the square light fixture from the wooden ladle is 1.81 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the wooden ladle from the wooden spatulas vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden ladle is 1.59 inches from the wooden spatulas vertically."
+  }
+]

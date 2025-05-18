@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the bicycle and the bicycle vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 14.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the bicycle and the exit sign."
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the bicycle and the exit sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the fire extinguisher and the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the fire extinguisher from the bicycle is 23.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bicycle from the exit sign horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle is 5.5 meters away from the exit sign horizontally."
+  }
+]

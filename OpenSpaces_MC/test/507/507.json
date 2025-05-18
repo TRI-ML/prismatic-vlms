@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the factory buildings and the train bridge support vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 26.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the train bridge support to the factory building."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.14 meters exists between the train bridge support and the factory building."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the train bridge is positioned to the right of the train bridge support?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the train bridge is either to the left of or directly aligned with the train bridge support."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the train bridge and the train bridge support horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the train bridge and the train bridge support are 1.32 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white tank car is positioned to the right of the train bridge support?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white tank car is either to the left of or directly aligned with the train bridge support."
+  }
+]

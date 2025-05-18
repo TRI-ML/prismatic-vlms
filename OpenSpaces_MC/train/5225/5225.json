@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 3.41 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the clock on wall in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.41 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the ceiling fan have a lesser width compared to the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the ceiling fan might be wider or the same width as the clock on wall."
+  },
+  {
+    "from": "human",
+    "value": "How close is the clock on wall from the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.9 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the clock on wall and the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 6.91 feet from the clock on wall."
+  }
+]

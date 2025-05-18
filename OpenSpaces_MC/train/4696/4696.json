@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the man in black shirt and the cart with luggage?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in black shirt and the cart with luggage are 3.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the woman sitting on suitcase?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the woman sitting on suitcase is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the man in white shirt and the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "36.7 inches"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the man in black shirt from the cart with luggage?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in black shirt and the cart with luggage are 9.6 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the cart with luggage appear on the right side of the man in pink shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cart with luggage is to the right of the man in pink shirt."
+  }
+]

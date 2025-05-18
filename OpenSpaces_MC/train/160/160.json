@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white goat lie behind the gray stone structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the white goat to the gray stone structure."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 2.61 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white goat is positioned to the right of the gray stone structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white goat is positioned on the right side of the gray stone structure."
+  },
+  {
+    "from": "human",
+    "value": "How big is the gray stone structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the gray stone structure is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white goat from the gray stone structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white goat is 6.0 feet from the gray stone structure."
+  }
+]

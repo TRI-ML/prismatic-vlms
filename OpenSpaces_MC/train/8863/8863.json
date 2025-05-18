@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the headlights from the truck bed horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the headlights is 11.3 feet away from the truck bed horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the front bumper or the grille?"
+  },
+  {
+    "from": "gpt",
+    "value": "front bumper is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the headlights from the truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 36.7 inches exists between the headlights and the truck bed."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the tire on truck bed is smaller than the truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tire on truck bed is not smaller in size than the truck bed."
+  },
+  {
+    "from": "human",
+    "value": "Does the tire on truck bed have a smaller size compared to the truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tire on truck bed is not smaller in size than the truck bed."
+  }
+]

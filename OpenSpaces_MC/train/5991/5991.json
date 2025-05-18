@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the warehouse walls and the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the warehouse from the warehouse atmosphere?"
+  },
+  {
+    "from": "gpt",
+    "value": "0.61 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the hand truck and the warehouse ceiling, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is hand truck."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the hand truck and the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck is 1.89 meters away from the warehouse ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the warehouse walls or the warehouse ceiling, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is warehouse ceiling."
+  }
+]

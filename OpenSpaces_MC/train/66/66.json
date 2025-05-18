@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the toilet paper holder and the door handle vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Does the door appear over the toilet paper holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the door is positioned over the toilet paper holder."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the toilet paper holder or the door handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "toilet paper holder is below."
+  },
+  {
+    "from": "human",
+    "value": "Does the toilet paper holder appear over the toilet paper holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the toilet paper holder is located above the toilet paper holder."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the toilet paper holder from the toilet paper holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet paper holder and the toilet paper holder are 7.9 centimeters apart."
+  }
+]

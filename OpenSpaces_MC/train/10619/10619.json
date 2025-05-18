@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the window with black bars and the light green house siding?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the toilet with plant pot or the gray sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is toilet with plant pot."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the toilet with plant pot from the brown door vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet with plant pot is 82.15 centimeters from the brown door vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the toilet with plant pot is positioned to the right of the gray sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the toilet with plant pot to the right of the gray sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the window with black bars and the light green house siding?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window with black bars is 2.2 meters from the light green house siding."
+  }
+]

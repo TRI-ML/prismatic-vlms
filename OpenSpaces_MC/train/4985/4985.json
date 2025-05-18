@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the white truck with yellow stripes from the trees horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white truck with yellow stripes is 3.44 meters away from the trees horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees further to the viewer compared to the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the sky."
+  },
+  {
+    "from": "human",
+    "value": "Does the birds come behind the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white truck with yellow stripes more distant than that of the birds?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white truck with yellow stripes more distant than that of the birds?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

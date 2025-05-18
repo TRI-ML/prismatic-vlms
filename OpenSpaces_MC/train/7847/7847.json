@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the black sheep and the white sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the brown sheep and the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown sheep from the sheep is 35.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the sheep behind the soldier's helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the soldier's helmet from the soldier vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 4.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the black sheep from the white sheep vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black sheep and the white sheep are 12.0 inches apart vertically."
+  }
+]

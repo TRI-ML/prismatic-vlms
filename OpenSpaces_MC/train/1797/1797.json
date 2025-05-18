@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the camera below the camera?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the camera is positioned under the camera."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the player's shoes to the player's body."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the player's shoes from the player's body is 11.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the camera and the player's shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the camera from the player's shoes is 20.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the player's shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's shoes is 38.61 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the camera to the player's shoes."
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 meters"
+  }
+]

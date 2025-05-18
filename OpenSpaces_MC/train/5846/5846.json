@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the mirror less distant than that of the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Between the star and the train, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "train is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Is the train closer to the viewer compared to the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the train is in front of the toilet."
+  },
+  {
+    "from": "human",
+    "value": "Between the star and the train, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is train."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the mirror is 22.0 centimeters."
+  }
+]

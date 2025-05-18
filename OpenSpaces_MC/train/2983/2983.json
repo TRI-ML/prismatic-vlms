@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the stack of boxes bigger than the forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the stack of boxes is larger in size than the forklift."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person riding forklift or the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "warehouse floor is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person riding forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Between the person riding forklift and the warehouse floor, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, warehouse floor appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the person riding forklift have a larger size compared to the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person riding forklift is not bigger than the stack of boxes."
+  }
+]

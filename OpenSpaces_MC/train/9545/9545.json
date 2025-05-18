@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the table with tablecloth lie in front of the cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the lamp is."
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp is 7.85 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How far is the tv on table from the yellow pillow vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tv on table and the yellow pillow are 21.0 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the window and the yellow pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 11.4 feet away from the yellow pillow."
+  },
+  {
+    "from": "human",
+    "value": "Is the table with tablecloth bigger than the cups?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the table with tablecloth is not larger than the cups."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the stack of boxes from the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of boxes and the stack of boxes are 5.6 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of boxes lie in front of the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the worker in yellow uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker in yellow uniform is 22.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How big is the hand truck in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck is 37.21 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the hand truck is."
+  },
+  {
+    "from": "gpt",
+    "value": "the hand truck is 94.51 centimeters tall."
+  }
+]

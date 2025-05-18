@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the door and the bed with white sheets horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 57.0 centimeters from the bed with white sheets horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the red chair in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red carpet from the backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red carpet and the backpack are 3.07 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the door have a lesser height compared to the bed with white sheets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the door's height does not fall short of the bed with white sheets's."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the door and the bed with white sheets?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 36.37 centimeters apart."
+  }
+]

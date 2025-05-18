@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the two chairs and the two chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the two chairs from the two chairs is 2.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the two chairs and the television on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two chairs is 12.1 feet away from the television on side table."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the lamp on side table."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the lamp on side table is 30.4 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the two chairs and the television on side table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 96.75 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the lamp on side table appear on the right side of the two chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the lamp on side table is not to the right of the two chairs."
+  }
+]

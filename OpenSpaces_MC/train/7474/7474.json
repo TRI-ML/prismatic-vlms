@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the stadium seating below the player in action?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the stadium seating is either above or at the same elevation as the player in action."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the british flag occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the british flag is 40.79 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the staircase below the us open text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the staircase is located below the us open text."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the british flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "the british flag is 12.43 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the stadium seating or the player in action?"
+  },
+  {
+    "from": "gpt",
+    "value": "player in action is taller."
+  }
+]

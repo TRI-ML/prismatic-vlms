@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the kitchen cabinets come in front of the kitchen floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the kitchen drawers from the woman's earring?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the kitchen drawers from the woman's earring is 7.41 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman's face is positioned below the kitchen tiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the woman's face is below the kitchen tiles."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the kitchen counter to the woman's earring."
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen counter is 5.13 centimeters from the woman's earring."
+  },
+  {
+    "from": "human",
+    "value": "Does the woman's face appear under the kitchen tiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the woman's face is positioned under the kitchen tiles."
+  }
+]

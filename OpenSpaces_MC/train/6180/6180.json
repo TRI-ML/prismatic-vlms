@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the yellow metal bar and the two rear lights, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is two rear lights."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the yellow metal bar from the two rear lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow metal bar is 2.5 meters away from the two rear lights."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the yellow forklift and the yellow metal bar."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift is 1.47 meters away from the yellow metal bar."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the yellow forklift or the yellow metal bar?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow forklift is taller."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the yellow forklift and the yellow metal bar?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift and the yellow metal bar are 1.47 meters apart from each other."
+  }
+]

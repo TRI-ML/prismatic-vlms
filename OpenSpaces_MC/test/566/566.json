@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is higher up, the black pillow or the bed with white sheets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is black pillow."
+  },
+  {
+    "from": "human",
+    "value": "Is the black pillow in front of the bed with white sheets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the black pillow or the folded towels?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is black pillow."
+  },
+  {
+    "from": "human",
+    "value": "Between the gray pillow and the window, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "window is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Between the folded towels and the black pillow, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is black pillow."
+  }
+]

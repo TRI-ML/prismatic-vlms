@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the person in white t-shirt and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in white t-shirt and the trees are 1.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white t-shirt closer to the viewer compared to the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the trees."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white t-shirt in front of the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in white t-shirt is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person holding skateboard less distant than that of the concrete ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the person holding skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  }
+]

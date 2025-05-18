@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the car appear on the left side of the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car is to the left of the van."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 30.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person is 9.15 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person and the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person and the van are 25.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the person and the van?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 5.0 inches away from the van vertically."
+  }
+]

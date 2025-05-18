@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the swan on the right side of the pond and the person with umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 3.0 meters exists between the swan on the right side of the pond and the person with umbrella."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the person with umbrella or the person with umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person with umbrella appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the person sitting on the bench and the person with umbrella."
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the bench is 9.0 inches from the person with umbrella vertically."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person sitting on the bench to the person with umbrella."
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the bench is 18.71 feet away from the person with umbrella."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the person sitting on the bench to the person with umbrella."
+  },
+  {
+    "from": "gpt",
+    "value": "the person sitting on the bench is 18.71 feet from the person with umbrella."
+  }
+]

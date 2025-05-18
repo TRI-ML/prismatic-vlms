@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the bottles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the bottles from the sink vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 3.3 inches exists between the bottles and the sink."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the cutting board."
+  },
+  {
+    "from": "gpt",
+    "value": "47.6 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the bottles from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "37.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the man's face and the woman's face horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man's face and the woman's face are 1.0 meters apart horizontally."
+  }
+]

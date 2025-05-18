@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the curbing to the right of the parking lot from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the curbing is not to the right of the parking lot."
+  },
+  {
+    "from": "human",
+    "value": "Is the department sign taller than the curbing?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the department sign is taller than the curbing."
+  },
+  {
+    "from": "human",
+    "value": "Does the curbing appear on the right side of the parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the curbing is either to the left of or directly aligned with the parking lot."
+  },
+  {
+    "from": "human",
+    "value": "Does the parking lot have a greater height compared to the garage doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the parking lot may be shorter or the same height as the garage doors."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the parking lot and the garage doors."
+  },
+  {
+    "from": "gpt",
+    "value": "the parking lot and the garage doors are 73.34 centimeters apart."
+  }
+]

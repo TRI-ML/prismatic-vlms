@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the silver spoon in the mug to the green tree."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver spoon in the mug and the green tree are 18.76 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the black pickup truck is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the black pickup truck is 4.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the silver spoon in the mug occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 42.94 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue backpack from the plant with green leaves and white flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue backpack and the plant with green leaves and white flowers are 47.84 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the black pickup truck and the green tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 45.84 feet apart."
+  }
+]

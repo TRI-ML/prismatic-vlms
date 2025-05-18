@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the door from the couch vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.16 meters exists between the door and the couch."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the door to the couch."
+  },
+  {
+    "from": "gpt",
+    "value": "the door and the couch are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the door appear on the right side of the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the door is not to the right of the couch."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the dresser in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 24.4 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the dresser is positioned to the right of the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dresser is not to the right of the couch."
+  }
+]

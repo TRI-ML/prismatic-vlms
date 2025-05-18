@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the window and the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the light are 6.25 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown coffee table have a greater width compared to the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brown coffee table has a greater width compared to the light."
+  },
+  {
+    "from": "human",
+    "value": "Does the light have a greater width compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the light's width does not surpass the window's."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the picture frame is 11.33 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the light wider than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the light is not wider than the window."
+  }
+]

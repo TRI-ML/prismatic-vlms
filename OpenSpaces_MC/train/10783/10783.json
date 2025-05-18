@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the person walking on the sidewalk more distant than that of the car on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the car on the right side of the road."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the park bench on the right side and the person walking on the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "the park bench on the right side is 8.0 meters away from the person walking on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person walking on the sidewalk and the white car in the middle."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person walking on the sidewalk from the white car in the middle is 4.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the park bench on the right side further to camera compared to the person walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the park bench on the right side and the park bench on the right side."
+  },
+  {
+    "from": "gpt",
+    "value": "10.6 meters"
+  }
+]

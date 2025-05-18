@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the unidentified object to the left of the unidentified object from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the unidentified object to the left of the unidentified object."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the toilet seat occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet seat is 68.06 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the unidentified object to the left of the unidentified object from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the unidentified object is to the left of the unidentified object."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the toilet bowl and the wall plate horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet bowl and the wall plate are 33.0 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the unidentified object to the unidentified object."
+  },
+  {
+    "from": "gpt",
+    "value": "the unidentified object is 2.0 meters away from the unidentified object."
+  }
+]

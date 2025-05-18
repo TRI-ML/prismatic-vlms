@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the man's tie and the stack of cardboard boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man's tie and the stack of cardboard boxes are 5.36 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the stack of cardboard boxes from the cell phone vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 16.94 centimeters exists between the stack of cardboard boxes and the cell phone."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of cardboard boxes appear on the right side of the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the stack of cardboard boxes is positioned on the right side of the cell phone."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the stack of cardboard boxes from the cell phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of cardboard boxes and the cell phone are 2.25 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the man's tie to the right of the stack of cardboard boxes from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man's tie is to the right of the stack of cardboard boxes."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the umbrella on beach or the beach sand?"
+  },
+  {
+    "from": "gpt",
+    "value": "beach sand is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sky with clouds and the fence on beach?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky with clouds is 6.0 feet from the fence on beach."
+  },
+  {
+    "from": "human",
+    "value": "Between the sky with clouds and the fence on beach, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "fence on beach is below."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the house in background or the sky with clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "house in background is below."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the umbrella on beach from the beach sand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the umbrella on beach and the beach sand are 97.23 centimeters apart from each other."
+  }
+]

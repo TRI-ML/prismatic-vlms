@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the tower with multiple sections appear on the left side of the window on house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the tower with multiple sections is positioned on the left side of the window on house."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the clock on tower is positioned to the right of the window on house?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the clock on tower is not to the right of the window on house."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the tower with multiple sections and the house with red roof."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tower with multiple sections from the house with red roof is 21.07 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the tower with multiple sections appear on the right side of the window on house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tower with multiple sections is not on the right side of the window on house."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the tower with multiple sections from the window on house?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tower with multiple sections and the window on house are 25.0 meters apart from each other."
+  }
+]

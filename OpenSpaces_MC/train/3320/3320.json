@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the gray concrete floor and the warehouse shelves horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the gray walls have a greater width compared to the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray walls is wider than the red forklift."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the gray walls and the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray walls and the red forklift are 32.82 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray concrete floor and the gray walls."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray concrete floor is 9.85 centimeters away from the gray walls."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray concrete floor and the warehouse shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray concrete floor is 20.86 centimeters away from the warehouse shelves."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the classic car on the street to the large building in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 15.81 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the large building on the right side of the street is positioned to the right of the people standing on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the large building on the right side of the street to the right of the people standing on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the people standing on the sidewalk is."
+  },
+  {
+    "from": "gpt",
+    "value": "the people standing on the sidewalk is 5.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the people standing on the sidewalk from the people standing on the sidewalk horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 25.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the people standing on the sidewalk from the large building on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people standing on the sidewalk and the large building on the right side of the street are 7.59 meters apart from each other."
+  }
+]

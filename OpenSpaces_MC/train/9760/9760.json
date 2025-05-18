@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the long wooden table and the picture frame on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the long wooden table from the picture frame on shelf is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white thermostat to the black office chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the white thermostat is 3.0 meters from the black office chair."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black office chair is positioned to the right of the black office chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black office chair is to the right of the black office chair."
+  },
+  {
+    "from": "human",
+    "value": "Does the black office chair appear on the right side of the black office chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the black office chair is positioned on the right side of the black office chair."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white thermostat and the black office chair vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the white thermostat is 1.7 meters away from the black office chair vertically."
+  }
+]

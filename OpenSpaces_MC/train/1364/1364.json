@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the person in red shirt on the basketball court to the black bench."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.68 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the black bench occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black bench is 5.21 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the car in the distance to the black fence."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.85 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in red shirt on the basketball court come in front of the black bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in red shirt on the basketball court positioned before the black bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the black bench."
+  }
+]

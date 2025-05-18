@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the yellow object?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the yellow object is 68.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the worker in safety vest and the yellow object."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the worker in safety vest from the yellow object is 9.36 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the yellow object in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "68.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the worker in safety vest is positioned to the right of the yellow object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the worker in safety vest is to the right of the yellow object."
+  },
+  {
+    "from": "human",
+    "value": "Is the worker in safety vest to the right of the pallet with boxes from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the worker in safety vest to the right of the pallet with boxes."
+  }
+]

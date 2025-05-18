@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the snow-covered cars positioned behind the bus lane sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the bus lane sign."
+  },
+  {
+    "from": "human",
+    "value": "How close is the snow-covered cars from the bus lane sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snow-covered cars is 28.69 inches away from the bus lane sign."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bus lane sign and the snow-covered cars."
+  },
+  {
+    "from": "gpt",
+    "value": "15.7 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the snow-covered cars positioned behind the snow-covered building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the snow-covered cars is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the bus lane sign further to camera compared to the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

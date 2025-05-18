@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the spectators in bleachers and the green tennis court."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the spectators in bleachers from the green tennis court is 32.8 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the light poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 43.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the light poles have a greater width compared to the spectators in bleachers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the light poles exceeds that of the spectators in bleachers."
+  },
+  {
+    "from": "human",
+    "value": "Between the light poles and the spectators sitting on grass, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is light poles."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the green tennis court or the green grass field?"
+  },
+  {
+    "from": "gpt",
+    "value": "green tennis court is more to the left."
+  }
+]

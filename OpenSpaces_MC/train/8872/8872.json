@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is above, the white van with black windows or the black tent with white roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "black tent with white roof is above."
+  },
+  {
+    "from": "human",
+    "value": "Between the white van with black windows and the black tent with white roof, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white van with black windows."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white van with black windows or the black tent with white roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "white van with black windows is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the window and the person standing in doorway, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "person standing in doorway is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the window or the person standing in doorway?"
+  },
+  {
+    "from": "gpt",
+    "value": "person standing in doorway is more to the right."
+  }
+]

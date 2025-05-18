@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white onions and the glass jar with white lid."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 33.0 inches exists between the white onions and the glass jar with white lid."
+  },
+  {
+    "from": "human",
+    "value": "Does the red onions appear over the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the red onions is above the person."
+  },
+  {
+    "from": "human",
+    "value": "Between the white onions and the glass jar with white lid, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white onions is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the red onions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red onions is 14.1 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the red onions from the person vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red onions and the person are 54.34 centimeters apart vertically."
+  }
+]

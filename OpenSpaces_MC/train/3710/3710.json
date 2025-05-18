@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the wooden spoon to the wooden spoon."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon is 3.0 centimeters away from the wooden spoon vertically."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the wooden spoon is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the wooden spoon is 28.39 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the wooden spoon and the wooden spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon and the wooden spoon are 1.03 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the wooden spoon from the wooden spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "27.2 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wooden spoon and the brown egg?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon and the brown egg are 18.31 inches apart from each other."
+  }
+]

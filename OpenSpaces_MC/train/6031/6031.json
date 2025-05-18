@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the glass on counter have a larger size compared to the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the glass on counter might be smaller or the same size as the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Does the plate on counter appear on the right side of the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the plate on counter is not on the right side of the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How far is the glass on counter from the books on shelf horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 1.38 meters exists between the glass on counter and the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on shelf is 4.5 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the plate on counter is positioned to the right of the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plate on counter is not to the right of the books on shelf."
+  }
+]

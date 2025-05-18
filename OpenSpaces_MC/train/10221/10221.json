@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow pole further to camera compared to the player's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the logo text and the logo text 'w' vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the logo text 'prince' and the player's socks vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the logo text 'prince' and the player's socks are 11.93 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the yellow pole is."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow pole is 6.5 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the green banner behind the dirt ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dirt ground is in front of the green banner."
+  }
+]

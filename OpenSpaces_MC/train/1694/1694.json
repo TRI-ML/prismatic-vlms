@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the wall with shelves from the sofa cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wall with shelves and the sofa cushions are 6.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the light switch from the sofa cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light switch and the sofa cushions are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the light switch and the sofa cushions vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.43 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the sofa cushions appear on the right side of the shelves on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the sofa cushions to the right of the shelves on wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the objects on shelves is thinner than the shelves on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the objects on shelves might be wider or the same width as the shelves on wall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is smaller than the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the trees is not smaller in size than the truck."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the old house with boarded-up windows and doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "25.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the red brick chimney is."
+  },
+  {
+    "from": "gpt",
+    "value": "5.03 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the truck smaller than the old house with boarded-up windows and doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the truck is smaller than the old house with boarded-up windows and doors."
+  },
+  {
+    "from": "human",
+    "value": "Is the old house with boarded-up windows and doors bigger than the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the old house with boarded-up windows and doors is bigger than the truck."
+  }
+]

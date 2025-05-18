@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the sign with letter e smaller than the sign with letter f?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the sign with letter e has a smaller size compared to the sign with letter f."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sign with letter a and the person standing in front of building horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter a is 7.1 meters away from the person standing in front of building horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the sign with letter e and the sign with letter f?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter e and the sign with letter f are 6.4 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the sign with letter b from the sign with letter e?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with letter b and the sign with letter e are 12.92 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the sign with letter h further to camera compared to the sign with letter e?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the sign with letter h is closer to the viewer."
+  }
+]

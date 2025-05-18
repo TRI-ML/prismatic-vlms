@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the bush with red flowers and the bush with red flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bush with red flowers is 0.1 centimeters from the bush with red flowers."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the bush with red flowers in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the bush with red flowers is 20.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the bush with red flowers or the bush with red flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "bush with red flowers is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the bush with red flowers and the bush with red flowers, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "bush with red flowers is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the bush with red flowers and the bush with red flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bush with red flowers and the bush with red flowers are 0.1 centimeters apart."
+  }
+]

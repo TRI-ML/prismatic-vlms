@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the cabinet with glass doors to the cutting board."
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet with glass doors and the cutting board are 4.9 feet apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cabinet with glass doors and the cutting board."
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet with glass doors is 4.8 feet away from the cutting board."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the spices or the picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, spices appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the bottle of wine or the black container?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, bottle of wine appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the bottle of wine to the black container."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 21.6 inches exists between the bottle of wine and the black container."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow gloves on the counter closer to camera compared to the cookbook on the counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the cookbook on the counter."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in a black and white striped shirt come in front of the person cooking at the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the person in a black and white striped shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.8 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the cookbook on the counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the cookbook on the counter is 61.35 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person in a black and white striped shirt from the stove with pots on it vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 3.0 meters exists between the person in a black and white striped shirt and the stove with pots on it."
+  }
+]

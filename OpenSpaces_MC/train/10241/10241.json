@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the plant and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the plant is 29.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman with long black hair from the woman with long black hair in red shirt vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman with long black hair is 1.0 inches from the woman with long black hair in red shirt vertically."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the electrolux appliance and the person sitting at a table."
+  },
+  {
+    "from": "gpt",
+    "value": "the electrolux appliance is 7.46 feet away from the person sitting at a table vertically."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the electrolux appliance to the person sitting at a table."
+  },
+  {
+    "from": "gpt",
+    "value": "the electrolux appliance is 1.99 meters from the person sitting at a table horizontally."
+  }
+]

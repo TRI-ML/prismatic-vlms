@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the white pills in a pack."
+  },
+  {
+    "from": "gpt",
+    "value": "7.8 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the white bowl with red contents and the gray power cord?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white bowl with red contents is 1.05 meters from the gray power cord vertically."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the white bowl with red contents and the gray power cord."
+  },
+  {
+    "from": "gpt",
+    "value": "the white bowl with red contents is 1.0 meters away from the gray power cord vertically."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the black laptop computer is."
+  },
+  {
+    "from": "gpt",
+    "value": "1.12 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the gray power cord and the gray power strip?Could you provide the horizontal distance between the gray power cord and the gray power strip?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray power cord and the gray power strip are 4.4 feet apart horizontally."
+  }
+]

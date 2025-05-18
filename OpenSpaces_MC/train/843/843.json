@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the cardboard box and the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 21.8 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cardboard box and the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.9 meters exists between the cardboard box and the red forklift."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue object is positioned to the right of the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the blue object is not on the right side of the cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Between the cardboard box and the red forklift, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the cardboard box to the cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cardboard box from the cardboard box is 92.97 centimeters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the orange forklift and the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange forklift is 12.35 meters away from the orange forklift horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the orange forklift occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.41 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the orange forklift to the orange forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the orange forklift and the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.8 meters exists between the orange forklift and the orange forklift."
+  },
+  {
+    "from": "human",
+    "value": "Does the orange forklift come in front of the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  }
+]

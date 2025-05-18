@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the person's body and the net."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 28.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the yellow tennis ball in air from the tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow tennis ball in air and the tennis racket are 8.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the sky from the person's face vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the sky or the person's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person's face."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the tennis court and the person's body?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tennis court and the person's body are 0.01 centimeters apart."
+  }
+]

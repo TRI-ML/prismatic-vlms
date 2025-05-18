@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person standing on the right side of the truck thinner than the person standing on the right side of the plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person standing on the right side of the truck's width is not less than the person standing on the right side of the plane's."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the person standing on the left side of the plane is."
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing on the left side of the plane is 1.01 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person standing on the right side of the truck from the person standing on the right side of the plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person standing on the right side of the truck to the person standing on the right side of the plane."
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing on the right side of the truck and the person standing on the right side of the plane are 3.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person standing on the right side of the truck is thinner than the person standing on the right side of the plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person standing on the right side of the truck's width is not less than the person standing on the right side of the plane's."
+  }
+]

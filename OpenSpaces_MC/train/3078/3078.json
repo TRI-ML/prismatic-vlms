@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the large skyscraper is smaller than the people walking on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the large skyscraper might be larger or the same size as the people walking on sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red traffic light is smaller than the people crossing the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the red traffic light might be larger or the same size as the people crossing the street."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white clock tower from the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the clock tower on brick building and the large skyscraper."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the gray suv from the people walking on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 16.7 feet exists between the gray suv and the people walking on sidewalk."
+  }
+]

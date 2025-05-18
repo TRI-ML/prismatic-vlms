@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue table is smaller than the man in orange uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the blue table occupies less space than the man in orange uniform."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the orange boxes and the man in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange boxes is 12.27 centimeters away from the man in blue uniform vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the orange boxes and the man in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 21.0 inches exists between the orange boxes and the man in blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the man in blue uniform and the green forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue uniform is 6.15 inches from the green forklift vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the orange boxes and the man in blue uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the orange boxes is 21.0 inches away from the man in blue uniform."
+  }
+]

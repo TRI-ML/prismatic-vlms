@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person entering a door and the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person entering a door is 10.0 meters away from the light."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the door is positioned above the cable?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the door is positioned over the cable."
+  },
+  {
+    "from": "human",
+    "value": "Does the graffiti have a lesser width compared to the cable?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the graffiti might be wider or the same width as the cable."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the door and the cable?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door and the cable are 9.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sky is thinner than the cable?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the sky's width is not less than the cable's."
+  }
+]

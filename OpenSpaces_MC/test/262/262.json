@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the light brown wooden chair or the door with silver handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "light brown wooden chair is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the light fixture or the light brown wooden cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "light fixture is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the part of a wooden bed frame or the bed with white sheets and pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "part of a wooden bed frame is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the part of a wooden bed frame and the bed with white sheets and pillows, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is part of a wooden bed frame."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the light fixture to the light brown wooden cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture and the light brown wooden cabinet are 6.0 meters apart from each other."
+  }
+]

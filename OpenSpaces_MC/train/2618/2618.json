@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the motorcycle from the woman in black tank top and jean shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 11.0 feet exists between the motorcycle and the woman in black tank top and jean shorts."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the motorcycle is 33.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the motorcycle and the motorcycle vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 22.0 centimeters exists between the motorcycle and the motorcycle."
+  },
+  {
+    "from": "human",
+    "value": "Is the motorcycle wider than the motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the motorcycle's width does not surpass the motorcycle's."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the large building is 23.52 meters."
+  }
+]

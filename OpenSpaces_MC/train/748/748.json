@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the warehouse storage have a larger size compared to the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the warehouse storage is bigger than the warehouse floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse storage positioned in front of the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the warehouse floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow metal beams positioned before the warehouse equipment?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the warehouse equipment."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow metal beams lie in front of the warehouse equipment?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the warehouse equipment."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the yellow metal beams and the warehouse equipment?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.7 meters apart."
+  }
+]

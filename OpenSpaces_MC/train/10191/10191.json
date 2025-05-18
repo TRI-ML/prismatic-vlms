@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the black and white rug come behind the white tiled floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white tiled floor is in front of the black and white rug."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the books on the floor and the brown couch with wooden legs."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.4 meters exists between the books on the floor and the brown couch with wooden legs."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black and white rug to the white tiled floor."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black and white rug from the white tiled floor is 1.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the books on the floor and the brown couch with wooden legs."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on the floor is 2.4 meters from the brown couch with wooden legs."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the books on the floor and the brown couch with wooden legs."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on the floor and the brown couch with wooden legs are 8.0 feet apart horizontally."
+  }
+]

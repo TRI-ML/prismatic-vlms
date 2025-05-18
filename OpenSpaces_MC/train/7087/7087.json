@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the white building is bigger than the person in red shirt and white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white building has a larger size compared to the person in red shirt and white shorts."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the light pole and the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 9.0 feet exists between the light pole and the white building."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the light pole and the white building."
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole is 9.0 feet from the white building."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the light pole is 163.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the white building occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 50.3 meters."
+  }
+]

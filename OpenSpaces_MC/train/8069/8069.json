@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the man holding frisbee and the brown building."
+  },
+  {
+    "from": "gpt",
+    "value": "the man holding frisbee is 6.0 feet away from the brown building."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the silver truck and the gray sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver truck and the gray sky are 29.25 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the man holding frisbee and the brown building?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the man holding frisbee is positioned to the right of the man in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man holding frisbee is to the right of the man in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the silver truck appear on the right side of the gray sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the silver truck is positioned on the right side of the gray sky."
+  }
+]

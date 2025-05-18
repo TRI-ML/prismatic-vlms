@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the books on floor have a smaller size compared to the books on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the books on floor is not smaller in size than the books on floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on floor smaller than the tv stand?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the books on floor is not smaller than the tv stand."
+  },
+  {
+    "from": "human",
+    "value": "Does the books on floor have a smaller size compared to the books on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the books on floor is not smaller than the books on floor."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the books on floor from the picture on left wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the books on floor from the picture on left wall is 11.49 feet."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the sliding glass door?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sliding glass door is 17.52 inches wide."
+  }
+]

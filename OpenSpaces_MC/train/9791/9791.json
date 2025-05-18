@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the books on bookshelf and the books on bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.93 inches"
+  },
+  {
+    "from": "human",
+    "value": "How big is the books on bookshelf in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the books on bookshelf from the bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the books on bookshelf from the bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on bookshelf is 3.0 meters away from the bed."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the books on bookshelf is positioned above the books on bookshelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the books on bookshelf is not positioned above the books on bookshelf."
+  }
+]

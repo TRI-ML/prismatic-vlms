@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the woman's upper body and the machine part?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the woman's upper body from the machine part is 18.49 inches."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman's pants and the woman's face vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.87 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the woman's face and the woman's pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.4 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman's face and the woman's pants vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 13.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the woman's upper body and the machine part?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the woman's upper body from the machine part is 1.6 meters."
+  }
+]

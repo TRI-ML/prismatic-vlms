@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the baseball player in white uniform is wider than the baseball player in white uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the baseball player in white uniform exceeds that of the baseball player in white uniform."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the baseball player in white uniform and the baseball player in white uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the baseball player in white uniform and the baseball player in white uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball player in white uniform is 62.84 feet from the baseball player in white uniform."
+  },
+  {
+    "from": "human",
+    "value": "Between the baseball player in white uniform and the baseball player in white uniform, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is baseball player in white uniform."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the baseball player in white uniform and the baseball player in white uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball player in white uniform is 62.84 feet away from the baseball player in white uniform."
+  }
+]

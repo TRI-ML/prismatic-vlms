@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the no turn sign is bigger than the no turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the no turn sign has a larger size compared to the no turn sign."
+  },
+  {
+    "from": "human",
+    "value": "Does the no turn sign lie behind the one way sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the no turn sign and the no turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the no turn sign from the no turn sign is 0.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the no turn sign further to the viewer compared to the no turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Does the traffic light have a larger size compared to the no turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the traffic light is larger in size than the no turn sign."
+  }
+]

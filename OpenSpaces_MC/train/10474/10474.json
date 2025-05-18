@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the person walking on the sidewalk from the person walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 51.0 centimeters exists between the person walking on the sidewalk and the person walking on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Is the person walking on the sidewalk closer to camera compared to the blue car on the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the blue car on the road."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person walking on the sidewalk and the person walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking on the sidewalk and the person walking on the sidewalk are 19.85 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the person walking on the sidewalk to the person walking on the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "36.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the person walking on the sidewalk and the blue car on the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking on the sidewalk is 4.0 feet away from the blue car on the road."
+  }
+]

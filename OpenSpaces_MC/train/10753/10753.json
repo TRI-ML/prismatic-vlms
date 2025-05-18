@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white wall from the more boxes on pallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 7.0 meters exists between the white wall and the more boxes on pallet."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the white wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall is 2.17 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How close is the gray wall from the yellow pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall and the yellow pole are 10.2 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray wall wider than the yellow pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray wall is wider than the yellow pole."
+  },
+  {
+    "from": "human",
+    "value": "Is the safety sign wider than the yellow pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the safety sign has a greater width compared to the yellow pole."
+  }
+]

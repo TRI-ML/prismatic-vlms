@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the man in white shirt come behind the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the man in white shirt more distant than that of the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the man in white shirt to the sheep."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white shirt and the sheep are 5.0 feet apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the sheep positioned at the back of the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in white shirt is in front of the sheep."
+  },
+  {
+    "from": "human",
+    "value": "How close is the man in white and blue striped shirt from the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white and blue striped shirt is 16.89 feet from the man in white shirt."
+  }
+]

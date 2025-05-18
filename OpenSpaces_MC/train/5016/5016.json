@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the person on horse."
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person on horse or the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "person on horse is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person on horse from the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person on horse and the person on horse are 30.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person on horse to the person on horse."
+  },
+  {
+    "from": "gpt",
+    "value": "the person on horse is 13.0 meters away from the person on horse."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person on horse or the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person on horse."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the baseball bat leaning against fence from the trees in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the person sitting on bench appear over the person in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the person sitting on bench is either below or at the same elevation as the person in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the baseball bat leaning against fence and the trees in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the baseball bat leaning against fence and the trees in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.74 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person sitting on bench and the chain-link fence."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.7 meters exists between the person sitting on bench and the chain-link fence."
+  }
+]

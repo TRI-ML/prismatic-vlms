@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bottle of coke wider than the bottle of milk?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the bottle of coke might be narrower or the same width as the bottle of milk."
+  },
+  {
+    "from": "human",
+    "value": "Between the bottle of coke and the bottle of milk, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "bottle of coke is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the bottle of milk wider than the bottle of milk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bottle of milk is wider than the bottle of milk."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the bottle of milk is."
+  },
+  {
+    "from": "gpt",
+    "value": "the bottle of milk is 8.1 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the bottle of coke or the bottle of milk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is bottle of coke."
+  }
+]

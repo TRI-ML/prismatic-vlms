@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the woman thinner than the screen on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the woman is not thinner than the screen on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the screen on shelf thinner than the gray gloves?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the screen on shelf is thinner than the gray gloves."
+  },
+  {
+    "from": "human",
+    "value": "How far is the screen on shelf from the gray gloves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the screen on shelf is 20.0 inches from the gray gloves."
+  },
+  {
+    "from": "human",
+    "value": "Between the screen on shelf and the gray gloves, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, gray gloves appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the gray shirt or the yellow plastic sheet?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, yellow plastic sheet appears more on the left side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the blue sky and the cars in parking lot."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue sky from the cars in parking lot is 3.4 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the blue sky and the cars in parking lot horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the blue sky from the cars in parking lot is 45.34 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the gray road to the stop sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray road is 3.1 inches from the stop sign."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the gray road or the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is gray road."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the blue sky or the cars in parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is blue sky."
+  }
+]

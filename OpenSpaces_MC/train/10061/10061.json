@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the sheep and the building."
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 6.0 feet from the building."
+  },
+  {
+    "from": "human",
+    "value": "Does the sheep lie behind the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the fence."
+  },
+  {
+    "from": "human",
+    "value": "Is the sheep positioned at the back of the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the sheep positioned at the back of the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Does the sheep appear under the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the sheep is located below the fence."
+  }
+]

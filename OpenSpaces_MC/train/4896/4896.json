@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the green herb and the red vegetable in bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green herb is 92.0 centimeters away from the red vegetable in bowl."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the green herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 41.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white bowl taller than the white rice with green seasoning?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white bowl may be shorter or the same height as the white rice with green seasoning."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red vegetable in bowl is positioned to the right of the black beans?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the red vegetable in bowl to the right of the black beans."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white bowl and the white rice with green seasoning vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 inches"
+  }
+]

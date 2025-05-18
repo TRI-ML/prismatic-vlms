@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the computer monitor and the cash register horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the computer monitor is 2.2 meters away from the cash register horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the cash register receipt paper from the cash register receipt paper horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cash register receipt paper and the cash register receipt paper are 6.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cash register receipt paper and the cash register receipt paper horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the cash register receipt paper is 5.7 meters from the cash register receipt paper horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cash register receipt paper and the cash register receipt paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cash register receipt paper and the cash register receipt paper are 26.4 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the cash register receipt paper to the cash register receipt paper."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.0 meters apart."
+  }
+]

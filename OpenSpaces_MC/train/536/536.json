@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the snowboard from the clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snowboard is 4.46 meters from the clothing."
+  },
+  {
+    "from": "human",
+    "value": "Does the snowboard appear over the clothing?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the snowboard is above the clothing."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the snowboard and the clothing vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the snowboard from the clothing is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the snowboard and the snowboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the snowboard and the snowboard are 8.0 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the snowboard and the snowboard vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 51.2 centimeters apart."
+  }
+]

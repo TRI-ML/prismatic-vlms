@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the woman with black hair to the left of the woman with black hair from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the woman with black hair is not to the left of the woman with black hair."
+  },
+  {
+    "from": "human",
+    "value": "How far is the woman with black hair from the woman with glasses and blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman with black hair is 29.69 feet away from the woman with glasses and blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman with black hair from the woman with black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman with black hair is 9.0 meters away from the woman with black hair."
+  },
+  {
+    "from": "human",
+    "value": "Does the woman with red hat have a lesser height compared to the woman with glasses and headset?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the woman with red hat is not as tall as the woman with glasses and headset."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the man with headset from the woman with black hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man with headset is 3.7 feet away from the woman with black hair."
+  }
+]

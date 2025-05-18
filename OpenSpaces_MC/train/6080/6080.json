@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black suv and the white pickup truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the black suv and the white pickup truck are 5.94 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the people appear on the left side of the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the people to the left of the people."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the people and the horse-drawn carriage?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people and the horse-drawn carriage are 9.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the people thinner than the horse-drawn carriage?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the people's width is less than the horse-drawn carriage's."
+  },
+  {
+    "from": "human",
+    "value": "Is the people thinner than the horse-drawn carriage?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people has a lesser width compared to the horse-drawn carriage."
+  }
+]

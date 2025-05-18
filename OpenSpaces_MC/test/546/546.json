@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the train cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the train cars is 4.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the train cars from the train cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the train cars from the train cars is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the train cars and the train cars?Could you provide the horizontal distance between the train cars and the train cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 6.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the train cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "the train cars is 2.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How close is the train cars from the train cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "the train cars and the train cars are 56.55 feet apart."
+  }
+]

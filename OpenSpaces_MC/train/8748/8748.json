@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the cabinets behind the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Does the lighting lie behind the countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the countertop is in front of the lighting."
+  },
+  {
+    "from": "human",
+    "value": "Is the cabinets behind the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the ceiling positioned at the back of the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the ceiling further to the viewer compared to the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

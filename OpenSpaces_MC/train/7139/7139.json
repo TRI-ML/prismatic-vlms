@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the trees in background or the scoreboard with visitor and eagle bank teams?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, trees in background appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the dirt ground with white base closer to camera compared to the scoreboard with visitor and eagle bank teams?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the scoreboard with visitor and eagle bank teams closer to camera compared to the dirt ground with white base?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the scoreboard with visitor and eagle bank teams come in front of the dirt ground with white base?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dirt ground with white base is behind the scoreboard with visitor and eagle bank teams."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the scoreboard with visitor and eagle bank teams and the dirt ground with white base?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.4 feet"
+  }
+]

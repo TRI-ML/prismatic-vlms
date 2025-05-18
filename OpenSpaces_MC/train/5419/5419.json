@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the garlic clove or the dried red peppers?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is garlic clove."
+  },
+  {
+    "from": "human",
+    "value": "Between the dried red peppers and the dried red peppers, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is dried red peppers."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the garlic clove to the dried red peppers."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 36.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the dried red peppers and the dried red peppers vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 0.08 inches exists between the dried red peppers and the dried red peppers."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the garlic clove and the dried red peppers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the garlic clove is 42.6 centimeters away from the dried red peppers."
+  }
+]

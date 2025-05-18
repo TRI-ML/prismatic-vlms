@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in orange shirt is smaller than the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person in orange shirt occupies less space than the person in orange shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in orange shirt is positioned above the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person in orange shirt is positioned over the person in orange shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the young boy in maroon jersey smaller than the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the young boy in maroon jersey is smaller than the person in orange shirt."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the person in orange shirt to the person in orange shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the person in orange shirt is 9.12 meters away from the person in orange shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in orange shirt is positioned above the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in orange shirt is not above the person in orange shirt."
+  }
+]

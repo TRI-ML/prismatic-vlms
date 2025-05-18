@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the knife and the knife."
+  },
+  {
+    "from": "gpt",
+    "value": "the knife and the knife are 20.27 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the knife lie in front of the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the knife."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the knife to the knife."
+  },
+  {
+    "from": "gpt",
+    "value": "the knife and the knife are 81.5 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the knife and the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the knife closer to camera compared to the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the knife is further to the viewer."
+  }
+]

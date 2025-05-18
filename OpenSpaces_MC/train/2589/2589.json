@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the hardwood floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the window and the bed frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.86 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the window and the bed frame."
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 1.47 meters away from the bed frame vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the window and the bed frame."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the window from the bed frame is 10.86 feet."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the window or the bed frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "window is more to the right."
+  }
+]

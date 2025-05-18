@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the robot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the robot is 22.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the robot to the left of the robot from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the robot is not to the left of the robot."
+  },
+  {
+    "from": "human",
+    "value": "Is the robot positioned before the robot?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the robot."
+  },
+  {
+    "from": "human",
+    "value": "Is the robot in front of the robot?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the robot is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the robot in front of the robot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the robot is closer to the viewer."
+  }
+]

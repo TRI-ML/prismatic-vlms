@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the car side mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the car side mirror is 3.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the windshield wiper occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.64 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the car side mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.43 feet"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the car roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car roof is 1.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the car roof in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.02 meters"
+  }
+]

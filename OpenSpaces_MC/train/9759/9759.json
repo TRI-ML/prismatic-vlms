@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the white chairs or the couch with white cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, couch with white cushions appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the couch with white cushions."
+  },
+  {
+    "from": "gpt",
+    "value": "the couch with white cushions is 2.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the lamp with white shade in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the lamp with white shade is 4.3 feet."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white couch from the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white couch and the white table are 9.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the white table or the couch with white cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is white table."
+  }
+]

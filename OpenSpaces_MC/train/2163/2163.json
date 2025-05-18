@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the reclining chair from the lamp on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the reclining chair and the lamp on side table are 11.6 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the reclining chair or the lamp on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is reclining chair."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the reclining chair to the lamp on side table."
+  },
+  {
+    "from": "gpt",
+    "value": "the reclining chair and the lamp on side table are 2.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cabinet and the window."
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet is 6.34 meters away from the window."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet is 2.5 meters in width."
+  }
+]

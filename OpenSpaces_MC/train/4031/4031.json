@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white house in background from the white bench on left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white house in background and the white bench on left side are 6.97 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white house in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 91.7 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the white house in background in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white house in background is 1.8 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the white house in background and the white bench on left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white house in background and the white bench on left side are 6.0 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Between the white house in background and the white bench on left side, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white bench on left side appears more on the right side."
+  }
+]

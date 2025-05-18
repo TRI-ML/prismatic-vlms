@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the yellow boxes and the yellow boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow boxes is 2.8 meters from the yellow boxes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the yellow boxes and the blue truck vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the yellow boxes from the blue truck is 19.38 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the blue truck to the blue truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue truck is 20.0 inches away from the blue truck vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow boxes from the blue truck horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow boxes is 9.0 meters from the blue truck horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the yellow boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 47.36 centimeters."
+  }
+]

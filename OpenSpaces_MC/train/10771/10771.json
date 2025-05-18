@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the table with fruit positioned behind the shop interior?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the table with fruit is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the food display case or the shop ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, shop ceiling appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the table with fruit?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.83 inches"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the food display case or the shop ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "shop ceiling is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the shop interior come behind the table with fruit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the shop interior is further from the viewer."
+  }
+]

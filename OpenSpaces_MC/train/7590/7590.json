@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the stack of blue boxes behind the stack of white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stack of white boxes is in front of the stack of blue boxes."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the stack of white boxes on pallet or the person in red suit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is stack of white boxes on pallet."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of white boxes on pallet lie behind the stack of white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the stack of white boxes and the stack of white boxes horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 20.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the stack of white boxes on pallet or the stack of white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is stack of white boxes on pallet."
+  }
+]

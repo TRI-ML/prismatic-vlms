@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the black birds on truck is positioned to the right of the white truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black birds on truck is to the right of the white truck."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red dolly is positioned to the right of the white garage interior?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the red dolly is either to the left of or directly aligned with the white garage interior."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black tires is positioned to the right of the yellow ladder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the black tires is positioned on the right side of the yellow ladder."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow ladder in front of the gray concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the black tires positioned in front of the white garage interior?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

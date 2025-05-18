@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the house is bigger than the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the house is bigger than the person in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the house thinner than the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the house has a lesser width compared to the grass."
+  },
+  {
+    "from": "human",
+    "value": "Does the house have a larger size compared to the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the house is not larger than the grass."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is thinner than the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees is not thinner than the house."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white truck is bigger than the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the white truck is larger in size than the house."
+  }
+]

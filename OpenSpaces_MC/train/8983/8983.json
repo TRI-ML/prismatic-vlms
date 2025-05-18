@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the black leather chair to the orange storage bin."
+  },
+  {
+    "from": "gpt",
+    "value": "the black leather chair is 2.0 meters from the orange storage bin."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the black storage bin to the brown chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the black storage bin is 1.11 meters from the brown chair vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black storage bin is positioned to the right of the brown chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black storage bin is to the right of the brown chair."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the black leather chair and the orange storage bin?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the black leather chair to the orange storage bin."
+  },
+  {
+    "from": "gpt",
+    "value": "the black leather chair and the orange storage bin are 2.0 meters apart from each other."
+  }
+]

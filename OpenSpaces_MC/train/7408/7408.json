@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the sinks is."
+  },
+  {
+    "from": "gpt",
+    "value": "the sinks is 31.9 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the partition from the sinks?"
+  },
+  {
+    "from": "gpt",
+    "value": "the partition and the sinks are 6.77 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sinks and the partition horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the sinks is 3.71 meters away from the partition horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the window and the wall vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 4.0 meters away from the wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "How big is the sinks in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sinks is 31.94 inches in width."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the church steeple and the parking lot vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the fence to the buildings."
+  },
+  {
+    "from": "gpt",
+    "value": "3.87 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the cars and the fence horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the cars and the fence are 11.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the fence or the buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is buildings."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the fence is 31.1 meters."
+  }
+]

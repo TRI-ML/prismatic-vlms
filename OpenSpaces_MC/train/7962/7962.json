@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow wall shorter than the window with white curtain?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow wall's height does not fall short of the window with white curtain's."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the brown border above wall to the floral pillow."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown border above wall is 5.0 meters away from the floral pillow."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown border above wall and the floral pillow horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown border above wall is 4.4 meters away from the floral pillow horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown nightstand come in front of the brown bed frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown nightstand is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How big is the window with white curtain in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the window with white curtain is 1.6 meters."
+  }
+]

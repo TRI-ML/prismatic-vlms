@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bald woman to the right of the man with red hair and sunglasses from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the bald woman is not on the right side of the man with red hair and sunglasses."
+  },
+  {
+    "from": "human",
+    "value": "Is the bald woman wider than the man with red hair and sunglasses?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bald woman is wider than the man with red hair and sunglasses."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the bald woman is positioned to the right of the woman with red hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bald woman is to the right of the woman with red hair."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the worthy is positioned to the right of the black?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the worthy to the right of the black."
+  },
+  {
+    "from": "human",
+    "value": "Does the guardians of the galaxy and x-men have a greater width compared to the woman with white and red hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the guardians of the galaxy and x-men is not wider than the woman with white and red hair."
+  }
+]

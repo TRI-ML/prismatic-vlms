@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white suv and the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white suv is 62.0 meters from the large building."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the signpost from the signpost?"
+  },
+  {
+    "from": "gpt",
+    "value": "the signpost and the signpost are 10.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the signpost is positioned to the right of the signpost?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the signpost is not to the right of the signpost."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the gray suv to the white suv."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.9 meters exists between the gray suv and the white suv."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the white suv to the large building."
+  },
+  {
+    "from": "gpt",
+    "value": "the white suv is 17.0 meters away from the large building vertically."
+  }
+]

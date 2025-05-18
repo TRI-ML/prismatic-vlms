@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the 7-up bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 17.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the coffee cups is thinner than the 7-up bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the coffee cups might be wider or the same width as the 7-up bottle."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the coffee maker to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee maker and the plant are 38.8 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the 7-up bottle come in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the blender and the clock?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blender and the clock are 1.82 meters apart from each other."
+  }
+]

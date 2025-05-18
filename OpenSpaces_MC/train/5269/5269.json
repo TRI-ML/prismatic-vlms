@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the yellow apples further to the viewer compared to the yellow apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the yellow apples."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the yellow apples to the yellow apples."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow apples and the yellow apples are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the yellow apples from the yellow apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the yellow apples from the yellow apples is 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow apples have a greater width compared to the yellow apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the yellow apples might be narrower or the same width as the yellow apples."
+  },
+  {
+    "from": "human",
+    "value": "Is the red onions positioned at the back of the yellow apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow apples is in front of the red onions."
+  }
+]

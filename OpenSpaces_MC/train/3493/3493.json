@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the muffins below the orange fruit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the muffins is located below the orange fruit."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the muffins and the muffin in cupcake liner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the muffins is 16.34 centimeters from the muffin in cupcake liner."
+  },
+  {
+    "from": "human",
+    "value": "Is the muffins closer to the viewer compared to the muffin in cupcake liner?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the muffin in cupcake liner is behind the muffins."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the muffin in cupcake liner occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the muffin in cupcake liner and the green apple vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the muffin in cupcake liner is 2.3 centimeters away from the green apple vertically."
+  }
+]

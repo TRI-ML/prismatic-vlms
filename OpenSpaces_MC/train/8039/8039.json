@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person on motorcycle in front of the person on motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person on motorcycle is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on motorcycle positioned before the person on motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on motorcycle closer to camera compared to the person on motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person on motorcycle is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person on motorcycle and the person on motorcycle."
+  },
+  {
+    "from": "gpt",
+    "value": "8.78 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the person on motorcycle smaller than the person on motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person on motorcycle occupies less space than the person on motorcycle."
+  }
+]

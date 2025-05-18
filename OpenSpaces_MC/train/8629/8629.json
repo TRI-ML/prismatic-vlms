@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the soup bowl and the salad bowl horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 7.3 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the meat plate and the salad bowl, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is meat plate."
+  },
+  {
+    "from": "human",
+    "value": "Between the soup bowl and the salad bowl, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "salad bowl is below."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the soup bowl or the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "knife is below."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the meat plate to the fork."
+  },
+  {
+    "from": "gpt",
+    "value": "the meat plate and the fork are 12.48 inches apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the dog and the house vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the dog is 5.8 feet from the house vertically."
+  },
+  {
+    "from": "human",
+    "value": "How close is the house from the concrete wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the house is 13.0 meters away from the concrete wall."
+  },
+  {
+    "from": "human",
+    "value": "Between the house and the dog, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, house appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the dog and the person jumping with tennis racket, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is person jumping with tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the dog and the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dog and the house are 2.33 meters apart from each other."
+  }
+]

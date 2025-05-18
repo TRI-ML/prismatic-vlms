@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the skateboard or the t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, t-shirt appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the t-shirt or the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "skateboard is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the soda can or the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "soda can is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the skateboard or the t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "skateboard is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the t-shirt and the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "the t-shirt is 7.69 feet away from the skateboard."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the doorway bigger than the coffee maker?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the doorway is not bigger than the coffee maker."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in background have a larger size compared to the toaster?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person in background has a larger size compared to the toaster."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the bottle or the person in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is person in background."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the doorway is bigger than the coffee maker?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the doorway might be smaller or the same size as the coffee maker."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the person in background to the coffee maker."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 15.2 centimeters apart."
+  }
+]

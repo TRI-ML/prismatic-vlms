@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the bottle of soda and the silver refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.56 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the family photos on refrigerator and the family photos on refrigerator."
+  },
+  {
+    "from": "gpt",
+    "value": "0.6 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the bottle of soda is thinner than the bottle of soda?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bottle of soda is thinner than the bottle of soda."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the family photos on refrigerator and the silver refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "the family photos on refrigerator is 26.0 inches away from the silver refrigerator horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the bottle of soda and the silver refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.23 meters"
+  }
+]

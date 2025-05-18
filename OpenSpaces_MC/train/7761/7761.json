@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the machine with open lid?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the machine with open lid is 9.72 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the machine on right side and the machine in front, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is machine on right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the machine with open lid from the machine parts?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.59 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the machine in back and the worker in green uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the machine in back is 4.4 meters away from the worker in green uniform."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the machine in back?"
+  },
+  {
+    "from": "gpt",
+    "value": "the machine in back is 8.0 meters wide."
+  }
+]

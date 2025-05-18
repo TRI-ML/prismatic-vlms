@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the intersection sign and the glass building horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the intersection sign appear on the right side of the glass building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the intersection sign is not to the right of the glass building."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the intersection sign and the glass building?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 60.57 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the fulton street is smaller than the brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the fulton street occupies less space than the brick building."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the intersection sign and the fulton street horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection sign is 26.4 meters from the fulton street horizontally."
+  }
+]

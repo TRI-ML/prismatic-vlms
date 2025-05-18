@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the billboard is thinner than the gas station sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the billboard's width is not less than the gas station sign's."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the billboard is thinner than the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the billboard's width is not less than the car's."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the billboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the billboard is 40.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the billboard to the traffic light."
+  },
+  {
+    "from": "gpt",
+    "value": "the billboard and the traffic light are 16.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the billboard thinner than the business sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the billboard is not thinner than the business sign."
+  }
+]

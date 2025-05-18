@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the person wearing red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing red shirt is 6.4 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the person wearing red shirt appear on the left side of the person wearing red skirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person wearing red shirt is to the left of the person wearing red skirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person wearing pink skirt is positioned to the left of the person wearing red skirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person wearing pink skirt is not to the left of the person wearing red skirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the person wearing red skirt appear on the left side of the person wearing blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person wearing red skirt is positioned on the left side of the person wearing blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the person wearing red shirt and the person wearing red skirt?Could you provide the horizontal distance between the person wearing red shirt and the person wearing red skirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the person wearing red shirt from the person wearing red skirt is 4.13 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the person to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 6.0 meters from the person."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person and the person."
+  },
+  {
+    "from": "gpt",
+    "value": "the person and the person are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person and the person vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "63.4 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the person in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person is positioned below the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person is positioned under the person."
+  }
+]

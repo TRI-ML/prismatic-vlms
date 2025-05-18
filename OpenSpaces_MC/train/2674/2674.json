@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the glass coffee table appear on the right side of the circular glass table?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the glass coffee table is either to the left of or directly aligned with the circular glass table."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the skylight and the black leather chair."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the skylight from the black leather chair is 6.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the door have a larger size compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the door might be smaller or the same size as the window."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the door in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 1.7 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the skylight from the black leather ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the skylight and the black leather ottoman are 4.1 feet apart."
+  }
+]

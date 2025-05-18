@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the pedestrians?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the pedestrians is 1.16 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the signage have a smaller size compared to the pedestrians?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the signage has a smaller size compared to the pedestrians."
+  },
+  {
+    "from": "human",
+    "value": "Does the signage appear on the left side of the traffic?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the signage is positioned on the left side of the traffic."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the road is positioned to the left of the pedestrians?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the road is to the left of the pedestrians."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the road to the pedestrians."
+  },
+  {
+    "from": "gpt",
+    "value": "the road and the pedestrians are 17.0 meters apart from each other."
+  }
+]

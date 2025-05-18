@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you tell me the vericall size of the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the coffee table is 33.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the area rug in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the area rug is 86.6 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the area rug to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the area rug from the plant is 13.23 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the area rug and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the area rug is 13.23 feet from the plant."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the sofa from the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the sofa from the air conditioning unit is 6.55 meters."
+  }
+]

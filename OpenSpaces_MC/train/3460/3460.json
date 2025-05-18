@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the blue metal structures to the orange metal structures."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue metal structures is 0.21 inches from the orange metal structures."
+  },
+  {
+    "from": "human",
+    "value": "How close is the orange metal structures from the wooden fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.05 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the orange metal structures is positioned to the right of the blue metal structures?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the orange metal structures to the right of the blue metal structures."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the wooden fence and the concrete floor."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden fence and the concrete floor are 6.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the wooden fence from the concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden fence is 6.0 meters away from the concrete floor."
+  }
+]

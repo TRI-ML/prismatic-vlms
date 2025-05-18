@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white text on black sign come in front of the black sign on bulletin board?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the bulletin board and the man in detective outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bulletin board is 65.75 centimeters away from the man in detective outfit."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white text on black sign is shorter than the white text on black sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white text on black sign is not shorter than the white text on black sign."
+  },
+  {
+    "from": "human",
+    "value": "Does the white text on black sign come in front of the white text on black sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white text on black sign is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the bulletin board and the man in detective outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bulletin board is 65.75 centimeters away from the man in detective outfit."
+  }
+]

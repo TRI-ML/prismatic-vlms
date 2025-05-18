@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the person in background holding object to the man's body."
+  },
+  {
+    "from": "gpt",
+    "value": "the person in background holding object is 2.65 meters away from the man's body."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the small building or the blue frisbee?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue frisbee is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the small building and the blue frisbee?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small building and the blue frisbee are 17.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the parked car or the man's body?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is parked car."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's body and the small building, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "man's body is more to the right."
+  }
+]

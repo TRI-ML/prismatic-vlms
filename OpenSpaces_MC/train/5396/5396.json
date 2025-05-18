@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the audience members in yellow seats."
+  },
+  {
+    "from": "gpt",
+    "value": "32.18 inches"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the western & southern financial group logo and the western & southern financial group banner horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "12.1 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the audience members in yellow seats is positioned to the left of the official in adidas shirt and black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the audience members in yellow seats is either to the right of or directly aligned with the official in adidas shirt and black shorts."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the audience members in blue seats from the western & southern financial group banner horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the audience members in blue seats is 6.0 meters away from the western & southern financial group banner horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the referee in red shirt and white shorts appear on the left side of the audience members in black seats?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the referee in red shirt and white shorts is to the left of the audience members in black seats."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the plane appear on the right side of the plane tail?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the plane to the right of the plane tail."
+  },
+  {
+    "from": "human",
+    "value": "Is the plane engine to the right of the plane logo from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plane engine is not to the right of the plane logo."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the plane nose and the plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plane nose and the plane are 16.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the plane nose and the plane horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 35.58 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the plane is positioned to the right of the plane tail?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plane is to the right of the plane tail."
+  }
+]

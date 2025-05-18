@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the man in white shirt appear on the right side of the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the man in white shirt is either to the left of or directly aligned with the man in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in white shirt wider than the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the man in white shirt might be narrower or the same width as the man in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the man in white shirt and the man in white shirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 83.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in white shirt to the right of the man in white shirt from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the man in white shirt is either to the left of or directly aligned with the man in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the man in white shirt and the man in white shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white shirt and the man in white shirt are 28.07 inches apart."
+  }
+]

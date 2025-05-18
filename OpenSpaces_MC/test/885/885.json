@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the boxes on table and the blue floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on table is 16.7 feet from the blue floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on table positioned in front of the boxes on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on table wider than the boxes on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the boxes on table might be narrower or the same width as the boxes on table."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the metal table and the boxes on table vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the boxes on table is."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on table is 14.4 feet in width."
+  }
+]

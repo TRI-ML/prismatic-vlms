@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the taxi is positioned to the left of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the taxi is not to the left of the car."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pedestrians and the taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pedestrians is 5.0 feet from the taxi."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the pedestrians is positioned to the left of the taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the pedestrians is not on the left side of the taxi."
+  },
+  {
+    "from": "human",
+    "value": "How close is the bicycle from the taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 17.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the taxi to the left of the car from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the taxi is not to the left of the car."
+  }
+]

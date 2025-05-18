@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the box labeled 'toys' to the red and white rug."
+  },
+  {
+    "from": "gpt",
+    "value": "the box labeled 'toys' is 74.4 centimeters away from the red and white rug vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the blackberry phone and the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blackberry phone from the couch is 1.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the box labeled 'toys'."
+  },
+  {
+    "from": "gpt",
+    "value": "the box labeled 'toys' is 1.63 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the cat lying on the couch or the white flip phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white flip phone."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the box labeled 'toys' and the red and white rug."
+  },
+  {
+    "from": "gpt",
+    "value": "the box labeled 'toys' and the red and white rug are 37.4 inches apart."
+  }
+]

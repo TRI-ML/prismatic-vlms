@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bicycle and the bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bicycle from the bicycle is 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people in distance is wider than the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the people in distance's width does not surpass the bicycle's."
+  },
+  {
+    "from": "human",
+    "value": "How close is the people in distance from the people in distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "78.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the bicycle positioned behind the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bicycle is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the bicycle have a greater width compared to the man in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the bicycle might be narrower or the same width as the man in red shirt."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the fork from the lime slice?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fork and the lime slice are 26.7 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the fork and the lime slice?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fork is 26.7 inches away from the lime slice."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the tablecloth to the purple leaves."
+  },
+  {
+    "from": "gpt",
+    "value": "the tablecloth and the purple leaves are 44.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the purple leaves?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the purple leaves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the purple leaves is 5.0 inches in height."
+  }
+]

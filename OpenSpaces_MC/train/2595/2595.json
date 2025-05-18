@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the bowl of red beans and the empty white plate, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "bowl of red beans is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bowl of red beans and the empty white plate."
+  },
+  {
+    "from": "gpt",
+    "value": "0.62 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the two white mugs with blue rims and the lid with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "38.95 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the small pot with melted butter is smaller than the bowl of red beans?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the small pot with melted butter is not smaller in size than the bowl of red beans."
+  },
+  {
+    "from": "human",
+    "value": "How close is the two white mugs with blue rims from the lid with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two white mugs with blue rims and the lid with black handle are 38.95 centimeters apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the white door and the machine, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white door is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the yellow stripe to the worker."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the machine base is thinner than the machine handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the machine base's width is not less than the machine handle's."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the white door?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white door is 2.0 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the machine base and the machine handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the machine base from the machine handle is 0.1 centimeters."
+  }
+]

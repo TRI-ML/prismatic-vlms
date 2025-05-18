@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the no smoking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the no smoking sign is 5.27 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the low bench from the cargo plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the no smoking sign and the low bench vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the hotel advertisement and the cargo plane, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "hotel advertisement is below."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the low bench or the cargo plane?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cargo plane appears more on the right side."
+  }
+]

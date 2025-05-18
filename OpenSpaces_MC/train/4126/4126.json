@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the knife with black handle and the light brown wooden cutting board?"
+  },
+  {
+    "from": "gpt",
+    "value": "the knife with black handle and the light brown wooden cutting board are 37.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the light brown wooden cutting board and the oranges on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "14.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the knife with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 16.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the light brown wooden cutting board or the knife with black handle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is light brown wooden cutting board."
+  },
+  {
+    "from": "human",
+    "value": "Is the light brown wooden cutting board smaller than the oranges on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the light brown wooden cutting board is not smaller than the oranges on the left side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the wooden floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the wooden floor is 15.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the mouse from the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "25.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the plant or the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is table."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the wooden floor and the mouse?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the wooden floor from the mouse is 14.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the table from the bookcase?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 100.0 feet apart."
+  }
+]

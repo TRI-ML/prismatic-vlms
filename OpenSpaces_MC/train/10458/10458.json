@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the broccoli lie in front of the roast chicken?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the broccoli and the roast chicken?"
+  },
+  {
+    "from": "gpt",
+    "value": "the broccoli and the roast chicken are 20.32 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the sautéed mushrooms in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "48.4 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How big is the plate with design in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 11.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the sautéed mushrooms?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the sautéed mushrooms is 19.0 inches."
+  }
+]

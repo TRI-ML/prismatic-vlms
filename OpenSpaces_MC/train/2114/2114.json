@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the sand and the water fountain?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sand is 11.0 meters away from the water fountain."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sand is bigger than the water fountain?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the sand is bigger than the water fountain."
+  },
+  {
+    "from": "human",
+    "value": "How close is the sand from the sand?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sand and the sand are 16.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the man closer to the viewer compared to the water fountain?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the sand positioned before the water fountain?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the sand is further to the viewer."
+  }
+]

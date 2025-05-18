@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the fisher price logo and the woman with blonde hair, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, fisher price logo appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the woman with blonde hair or the text 'to the rescue'?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, text 'to the rescue' appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the dalmatian dog and the green house?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dalmatian dog and the green house are 28.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the wooden plank."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden plank is 16.4 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the fisher price logo or the woman with blonde hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "fisher price logo is below."
+  }
+]

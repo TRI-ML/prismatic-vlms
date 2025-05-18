@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the white stars and the black stars horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white stars and the black stars are 16.0 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the jeans to the bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "the jeans is 85.0 feet away from the bicycle horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white stars?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the helmet or the stars?"
+  },
+  {
+    "from": "gpt",
+    "value": "helmet is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white stars from the black stars?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.01 inches apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the nokia phone positioned at the back of the no smoking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the nokia phone is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the nokia phone is positioned below the no smoking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the nokia phone is positioned under the no smoking sign."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the android robot and the no smoking sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the android robot and the no smoking sign are 2.5 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the no smoking sign further to the viewer compared to the fire extinguisher?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the no smoking sign is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the no smoking sign appear under the fire extinguisher?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the no smoking sign is not below the fire extinguisher."
+  }
+]

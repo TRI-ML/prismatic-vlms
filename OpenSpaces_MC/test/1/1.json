@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is smaller than the fridge?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the window occupies less space than the fridge."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the stove and the fridge?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove and the fridge are 3.0 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the window and the fridge?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 10.2 feet away from the fridge."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the window and the fridge."
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the fridge are 10.2 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the microwave wider than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the microwave exceeds that of the window."
+  }
+]

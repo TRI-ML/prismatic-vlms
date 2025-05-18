@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the tennis court and the tennis racket, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, tennis racket appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tennis racket or the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the tennis ball and the tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tennis court or the rafael nadal?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, rafael nadal appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the rafael nadal smaller than the tennis ball?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the rafael nadal is not smaller than the tennis ball."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the kitchen table from the white cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.62 feet"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the kitchen table or the kitchen table?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, kitchen table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the kitchen table and the white cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the kitchen table from the white cabinet is 3.88 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the kitchen table or the white cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, kitchen table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the kitchen table and the kitchen table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen table is 3.0 meters from the kitchen table."
+  }
+]

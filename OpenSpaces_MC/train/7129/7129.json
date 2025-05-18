@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the telephone pole and the telephone pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person wearing reflective vest from the white house?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.33 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the telephone pole and the white car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 2.25 meters exists between the telephone pole and the white car."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person wearing reflective vest and the white house horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing reflective vest is 9.0 meters away from the white house horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the telephone pole occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the telephone pole is 9.02 feet tall."
+  }
+]

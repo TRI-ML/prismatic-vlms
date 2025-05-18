@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the yellow watering can and the green gardening gloves horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 19.72 centimeters exists between the yellow watering can and the green gardening gloves."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the yellow watering can or the plant pot with yellow flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow watering can."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the plant pot with yellow flowers or the yellow watering can?"
+  },
+  {
+    "from": "gpt",
+    "value": "yellow watering can is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the plant pot with yellow flowers and the yellow watering can?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant pot with yellow flowers is 19.0 centimeters from the yellow watering can."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant pot with yellow flowers and the blue gardening trowel, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue gardening trowel is more to the left."
+  }
+]

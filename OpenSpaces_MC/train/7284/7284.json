@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the trees from the smoke?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 32.51 inches from the smoke."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the clock tower?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 12.36 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the brick building smaller than the red awnings?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the brick building is not smaller in size than the red awnings."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person from the smoke?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 2.2 meters from the smoke."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees to the left of the brick building from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the trees is either to the right of or directly aligned with the brick building."
+  }
+]

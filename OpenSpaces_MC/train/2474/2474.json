@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white boxes on pallets or the white boxes on pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white boxes on pallets appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the gray concrete floor and the pallets."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray concrete floor from the pallets is 3.91 meters."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the gray concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray concrete floor is 2.1 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the pallets or the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the white boxes on pallets and the pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the white boxes on pallets from the pallets is 4.0 meters."
+  }
+]

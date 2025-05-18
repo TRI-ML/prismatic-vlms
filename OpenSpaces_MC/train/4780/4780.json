@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the people closer to camera compared to the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the people lie behind the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the people and the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the people from the red car is 51.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black suv and the red car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 28.2 meters tall."
+  }
+]

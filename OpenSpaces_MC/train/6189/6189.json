@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the house in the background."
+  },
+  {
+    "from": "gpt",
+    "value": "23.09 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the house in the background to the red frisbee."
+  },
+  {
+    "from": "gpt",
+    "value": "the house in the background and the red frisbee are 90.0 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the large tree to the red frisbee."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 100.1 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the red frisbee or the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "red frisbee is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the house in the background or the red frisbee?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, house in the background appears more on the left side."
+  }
+]

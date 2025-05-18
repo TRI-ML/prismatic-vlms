@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the cow or the cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is cow."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the cow from the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "42.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "How much space does the cow occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cow is 38.98 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 41.33 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the cow and the truck horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the cow and the truck are 13.52 meters apart horizontally."
+  }
+]

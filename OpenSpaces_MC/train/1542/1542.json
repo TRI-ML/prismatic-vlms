@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the text 'konami kanata' and the text in foreign language horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the text 'konami kanata' is 6.4 centimeters away from the text in foreign language horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the cartoon cat with striped tail from the text 'chi's'?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cartoon cat with striped tail and the text 'chi's' are 12.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the text 'sweet home' and the text 'konami kanata'?Could you provide the horizontal distance between the text 'sweet home' and the text 'konami kanata'?"
+  },
+  {
+    "from": "gpt",
+    "value": "the text 'sweet home' is 6.55 inches away from the text 'konami kanata' horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the text 'chi's' and the text 'vertical'?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 32.42 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the cartoon cat with striped tail and the text 'chi's'?Could you provide the horizontal distance between the cartoon cat with striped tail and the text 'chi's'?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cartoon cat with striped tail is 14.0 centimeters from the text 'chi's' horizontally."
+  }
+]

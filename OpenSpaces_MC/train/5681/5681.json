@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white building smaller than the person standing on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the white building might be larger or the same size as the person standing on sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white building from the person standing on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person standing on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the white building smaller than the building with white walls?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white building is smaller than the building with white walls."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person standing on sidewalk and the building with white walls?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing on sidewalk and the building with white walls are 20.3 meters apart from each other."
+  }
+]

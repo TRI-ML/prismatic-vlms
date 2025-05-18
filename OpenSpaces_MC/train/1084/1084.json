@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the basket of green bananas come behind the basket of green bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the basket of green bananas."
+  },
+  {
+    "from": "human",
+    "value": "Is the basket of green bananas positioned at the back of the basket of green bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the basket of green bananas."
+  },
+  {
+    "from": "human",
+    "value": "Is the basket of green bananas positioned behind the basket of green bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the basket of green bananas and the basket of green bananas."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the basket of green bananas from the basket of green bananas is 9.83 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the basket of green bananas?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 26.0 feet."
+  }
+]

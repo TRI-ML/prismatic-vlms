@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the cars and the bicycle symbol, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "cars is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the traffic lights or the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, traffic lights appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stop sign in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stop sign is 5.54 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the traffic lights or the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "traffic lights is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cars and the bicycle lane?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cars is 22.0 meters from the bicycle lane."
+  }
+]

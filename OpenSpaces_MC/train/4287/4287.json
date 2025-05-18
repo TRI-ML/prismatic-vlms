@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the kitchen wall to the kitchen wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen wall and the kitchen wall are 8.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the black chair from the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.49 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the black chair from the white table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the kitchen wall and the kitchen wall?Could you provide the horizontal distance between the kitchen wall and the kitchen wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kitchen wall and the kitchen wall are 5.0 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the black chair or the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is black chair."
+  }
+]

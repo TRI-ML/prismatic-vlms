@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the machine with black frame and the yellow wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the machine with black frame is 72.33 centimeters away from the yellow wall."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the yellow wall and the purple shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow wall and the purple shirt are 26.36 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the machine with black frame or the yellow wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is machine with black frame."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the man wearing blue jacket and hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man wearing blue jacket and hat is 5.0 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the man wearing blue jacket and hat and the yellow wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.28 feet apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.6 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the people to the street sign."
+  },
+  {
+    "from": "gpt",
+    "value": "14.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the people positioned in front of the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the people."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 13.8 inches."
+  },
+  {
+    "from": "human",
+    "value": "Does the school bus appear on the left side of the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the school bus is to the left of the people."
+  }
+]

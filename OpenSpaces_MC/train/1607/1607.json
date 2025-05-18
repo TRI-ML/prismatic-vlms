@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the fake tree and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 30.66 centimeters exists between the fake tree and the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the blue awning from the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.9 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the one way sign or the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "one way sign is above."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue awning and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue awning is 3.9 meters away from the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the one way sign and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "the one way sign is 6.7 meters away from the air conditioning unit."
+  }
+]

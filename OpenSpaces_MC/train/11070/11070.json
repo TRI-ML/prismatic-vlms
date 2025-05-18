@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the lighting fixture further to camera compared to the glass wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the lighting fixture is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white wall to the glass table."
+  },
+  {
+    "from": "gpt",
+    "value": "11.08 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white chairs is bigger than the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white chairs has a larger size compared to the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the white chairs and the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 4.21 meters exists between the white chairs and the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white wall and the glass table vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 2.0 meters exists between the white wall and the glass table."
+  }
+]

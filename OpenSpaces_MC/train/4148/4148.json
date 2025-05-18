@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the stone wall to the tree trunk."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.4 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the grass and the white lamb?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the white lamb are 51.6 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the white sheep to the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 20.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white sheep positioned behind the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white sheep is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How close is the grass from the white lamb?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the grass from the white lamb is 2.8 meters."
+  }
+]

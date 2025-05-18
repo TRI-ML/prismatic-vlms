@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is above, the plant or the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "plant is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Between the curtains and the teal couch, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "curtains is higher up."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the curtains from the teal couch vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 22.2 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the plant from the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the plant from the coffee table is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the curtains?"
+  },
+  {
+    "from": "gpt",
+    "value": "38.86 centimeters"
+  }
+]

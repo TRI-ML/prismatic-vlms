@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the us open text and the crowd."
+  },
+  {
+    "from": "gpt",
+    "value": "the us open text is 9.0 feet away from the crowd."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the british flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 12.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the british flag and the referee horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the staircase to the us open banner."
+  },
+  {
+    "from": "gpt",
+    "value": "the staircase is 8.0 feet away from the us open banner."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the referee is positioned to the left of the british flag?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the referee is positioned on the left side of the british flag."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the gray curtains or the glass coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray curtains is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the white plastic chairs to the right of the brown wooden table from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white plastic chairs to the right of the brown wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Between the white plastic chairs and the brown wooden table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white plastic chairs."
+  },
+  {
+    "from": "human",
+    "value": "Between the white plastic chairs and the brown wooden table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white plastic chairs appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the white plastic chairs appear on the right side of the brown wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white plastic chairs is to the right of the brown wooden table."
+  }
+]

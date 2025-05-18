@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the gray concrete floor and the person wearing red hat horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.83 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the person wearing red hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.67 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the gray concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray concrete floor is 15.4 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "How far is the gray walls from the warehouse shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray walls and the warehouse shelves are 87.18 centimeters apart from each other."
+  }
+]

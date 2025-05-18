@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the light and the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light is 22.0 feet from the knife block."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the light and the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light is 22.0 feet away from the knife block."
+  },
+  {
+    "from": "human",
+    "value": "Does the door with window come in front of the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the door with window and the light?Could you provide the horizontal distance between the door with window and the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the light closer to the viewer compared to the knife block?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the knife block."
+  }
+]

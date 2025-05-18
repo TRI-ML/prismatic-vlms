@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the plant and the cabinets vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 9.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the table and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.92 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the table to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the table and the plant are 0.07 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cabinets and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinets and the sink are 14.8 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the couch lie behind the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pictures is in front of the couch."
+  }
+]

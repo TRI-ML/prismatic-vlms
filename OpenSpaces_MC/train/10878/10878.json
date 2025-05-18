@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the trees on the right side of the river to the trees on the right side of the river."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees on the right side of the river and the trees on the right side of the river are 21.94 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the trees on the right side of the river and the river?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the river in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the river is 63.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees on the left side of the river positioned in front of the trees on the right side of the river?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the river to the trees on the right side of the river."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the river from the trees on the right side of the river is 9.96 meters."
+  }
+]

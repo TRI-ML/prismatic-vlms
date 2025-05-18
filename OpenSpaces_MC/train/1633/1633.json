@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the green gate to the green fencing."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.8 meters exists between the green gate and the green fencing."
+  },
+  {
+    "from": "human",
+    "value": "Between the green gate and the green fencing, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "green fencing is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the bicycle or the gray road?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, bicycle appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Does the light pole have a larger size compared to the gray road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the light pole is larger in size than the gray road."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue fencing is bigger than the green fencing?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the blue fencing might be smaller or the same size as the green fencing."
+  }
+]

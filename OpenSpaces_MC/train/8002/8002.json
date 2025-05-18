@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the stack of boxes from the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stack of boxes from the stack of boxes is 21.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the stack of boxes in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of boxes is 3.72 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the stack of boxes occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.58 meters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the stack of boxes and the stack of boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.48 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stack of boxes from the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "81.14 centimeters"
+  }
+]

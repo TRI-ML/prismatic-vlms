@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the person walking on the left side of the road have a greater width compared to the trees on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person walking on the left side of the road's width does not surpass the trees on the left side of the road's."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person walking on the left side of the road and the trees on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "40.53 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the person walking on the left side of the road or the green bus on the left side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green bus on the left side of the road appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the white van on the right side of the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white van on the right side of the road is 5.1 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the car on the left side of the road and the large white building with orange windows in the background vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car on the left side of the road is 7.56 feet from the large white building with orange windows in the background vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the trees appear on the left side of the green building with white base?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the trees is positioned on the left side of the green building with white base."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the windows and the trees horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the windows from the trees is 12.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the trees or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is below."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees to the left of the green building with white base from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the trees is to the left of the green building with white base."
+  },
+  {
+    "from": "human",
+    "value": "Between the windows and the trees, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is lower down."
+  }
+]

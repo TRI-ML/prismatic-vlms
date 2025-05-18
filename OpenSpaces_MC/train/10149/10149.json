@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the stack of brown boxes on left shelf from the stack of brown boxes on left shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on left shelf is 4.16 feet from the stack of brown boxes on left shelf."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the stack of brown boxes on right shelf and the stack of brown boxes on left shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on right shelf is 1.65 meters away from the stack of brown boxes on left shelf."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the stack of brown boxes on right shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the stack of brown boxes on left shelf and the stack of brown boxes on left shelf horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the stack of brown boxes on left shelf or the stack of brown boxes on left shelf, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is stack of brown boxes on left shelf."
+  }
+]

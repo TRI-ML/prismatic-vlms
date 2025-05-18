@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the buildings in background from the crosswalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the buildings in background from the crosswalk is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the buildings in background come behind the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the cars on road and the person in red jacket."
+  },
+  {
+    "from": "gpt",
+    "value": "28.5 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the buildings in background and the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "the buildings in background and the sidewalk are 0.1 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sign with chinese characters and the cars on road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with chinese characters is 32.2 centimeters from the cars on road."
+  }
+]

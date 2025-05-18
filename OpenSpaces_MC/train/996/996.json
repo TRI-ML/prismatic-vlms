@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the red pillow on bed is wider than the small plant on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the red pillow on bed might be narrower or the same width as the small plant on table."
+  },
+  {
+    "from": "human",
+    "value": "How far is the small plant on table from the red pillow on bed vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.95 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the bed with white sheets."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the small plant on table and the small plant on table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, small plant on table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the red pillow on bed to the small plant on table."
+  },
+  {
+    "from": "gpt",
+    "value": "the red pillow on bed and the small plant on table are 3.0 meters apart horizontally from each other."
+  }
+]

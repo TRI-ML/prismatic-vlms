@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the umpire in black shirt in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the td bank sign and the toronto blue jays sign."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 12.09 meters exists between the td bank sign and the toronto blue jays sign."
+  },
+  {
+    "from": "human",
+    "value": "How far is the td bank sign from the toronto blue jays sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the td bank sign is 12.09 meters away from the toronto blue jays sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the umpire in black shirt from the baseball player in white uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the umpire in black shirt is 28.34 meters from the baseball player in white uniform."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the umpire in black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.8 meters."
+  }
+]

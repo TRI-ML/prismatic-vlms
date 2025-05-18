@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the street lights to the left of the row of houses from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the street lights is not on the left side of the row of houses."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the street lights to the row of houses."
+  },
+  {
+    "from": "gpt",
+    "value": "1.32 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the roundabout symbol is positioned to the left of the street lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the roundabout symbol to the left of the street lights."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the roundabout symbol and the street lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the sign on street pole appear on the right side of the sign on building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the sign on street pole to the right of the sign on building."
+  }
+]

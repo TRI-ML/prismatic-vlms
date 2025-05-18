@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the balcony in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the balcony is 1.49 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the balcony and the blue awning."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.78 meters exists between the balcony and the blue awning."
+  },
+  {
+    "from": "human",
+    "value": "How far is the balcony from the blue awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.78 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the person walking to the left of the table and chairs from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person walking is positioned on the left side of the table and chairs."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the balcony and the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "the balcony is 5.4 meters from the person walking."
+  }
+]

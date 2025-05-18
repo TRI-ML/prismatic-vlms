@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the small dog is taller than the dog?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the small dog may be shorter or the same height as the dog."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the baby stroller from the cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.21 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the small dog taller than the dog?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the small dog is not taller than the dog."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the dog to the dog."
+  },
+  {
+    "from": "gpt",
+    "value": "the dog and the dog are 12.2 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the baby stroller in front of the cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

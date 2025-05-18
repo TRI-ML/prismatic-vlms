@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the gray and white shorts and the skateboarder, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, gray and white shorts appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the house in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue shirt or the gray and white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray and white shorts is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the house is positioned to the left of the blue helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the house is not on the left side of the blue helmet."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue shirt from the gray and white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue shirt and the gray and white shorts are 58.2 centimeters apart from each other."
+  }
+]

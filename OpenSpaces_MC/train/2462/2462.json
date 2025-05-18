@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the barcode label and the scanner device?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 32.68 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the barcode label from the scanner device?"
+  },
+  {
+    "from": "gpt",
+    "value": "the barcode label and the scanner device are 32.68 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the stack of boxes and the scanner device?"
+  },
+  {
+    "from": "gpt",
+    "value": "57.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How big is the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of boxes is 8.0 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the scanner device from the barcode label vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the scanner device is 7.18 centimeters away from the barcode label vertically."
+  }
+]

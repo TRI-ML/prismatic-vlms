@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the trees in the background shorter than the goal net?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the trees in the background may be taller or the same height as the goal net."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the trees in the background and the large kite in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees in the background and the large kite in the sky are 31.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the bridge in the background is bigger than the person walking on field?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bridge in the background is not bigger than the person walking on field."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the trees in the background and the trees in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 83.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees in the background have a larger size compared to the large kite in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the trees in the background is bigger than the large kite in the sky."
+  }
+]

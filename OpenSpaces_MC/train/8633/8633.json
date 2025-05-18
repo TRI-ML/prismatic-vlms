@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the light to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the towel to the light."
+  },
+  {
+    "from": "gpt",
+    "value": "the towel is 2.0 meters from the light."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the towel?"
+  },
+  {
+    "from": "gpt",
+    "value": "the towel is 79.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the towel bigger than the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the towel is not larger than the light."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the light and the sink horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.0 meters."
+  }
+]

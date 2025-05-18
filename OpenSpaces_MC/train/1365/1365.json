@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the woman in blue jacket and the red and white pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.49 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the woman in blue jacket and the woman in black outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.1 meters exists between the woman in blue jacket and the woman in black outfit."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person drinking from cup is positioned to the right of the person holding cup?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person drinking from cup is not to the right of the person holding cup."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white jacket to the right of the woman in black outfit from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person in white jacket is not on the right side of the woman in black outfit."
+  },
+  {
+    "from": "human",
+    "value": "Does the person drinking from cup appear on the right side of the woman in black outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person drinking from cup is not to the right of the woman in black outfit."
+  }
+]

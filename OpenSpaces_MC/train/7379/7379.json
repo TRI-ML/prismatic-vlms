@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the pallets on bottom shelf from the stack of pallets horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 10.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the pallets on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets on bottom shelf is 2.8 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the stack of pallets positioned before the pallets on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the pallets on bottom shelf less distant than that of the pallets on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pallets on bottom shelf is behind the pallets on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the pallets on bottom shelf positioned in front of the stack of pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the stack of pallets."
+  }
+]

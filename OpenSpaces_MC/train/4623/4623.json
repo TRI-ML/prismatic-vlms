@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the white object on shelf to the white shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the white object on shelf and the white shelf are 2.62 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the white shelf have a greater width compared to the gray couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white shelf is not wider than the gray couch."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the painting and the white object on shelf horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the painting is 19.8 feet away from the white object on shelf horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white shelf or the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white chair."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white shelf or the white chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white chair appears more on the right side."
+  }
+]

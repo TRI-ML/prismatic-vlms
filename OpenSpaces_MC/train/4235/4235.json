@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the oven bottom drawer closer to the viewer compared to the oven door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the oven bottom drawer is in front of the oven door."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the oven bottom drawer and the oven door?"
+  },
+  {
+    "from": "gpt",
+    "value": "the oven bottom drawer is 48.8 centimeters from the oven door."
+  },
+  {
+    "from": "human",
+    "value": "Does the oven handle appear on the right side of the oven light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the oven handle is positioned on the right side of the oven light."
+  },
+  {
+    "from": "human",
+    "value": "Is the oven bottom drawer positioned in front of the oven door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the burners to the right of the microwave oven from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the burners is either to the left of or directly aligned with the microwave oven."
+  }
+]

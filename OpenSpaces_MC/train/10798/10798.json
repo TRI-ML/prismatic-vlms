@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person holding a baseball or the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person holding a baseball appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person holding a baseball and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.7 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person holding a baseball in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the person holding a baseball from the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.7 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person holding a baseball in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person holding a baseball is 2.0 meters."
+  }
+]

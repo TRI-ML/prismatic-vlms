@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the warehouse rack and the warehouse rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse rack is 3.7 meters away from the warehouse rack vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse rack to the left of the warehouse rack from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse rack is not to the left of the warehouse rack."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the warehouse rack and the warehouse rack."
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse rack and the warehouse rack are 19.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the warehouse rack and the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse rack is 6.0 meters away from the red forklift."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the warehouse rack from the red forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse rack and the red forklift are 6.0 meters apart from each other."
+  }
+]

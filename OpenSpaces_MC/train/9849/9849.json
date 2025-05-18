@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the window further to camera compared to the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the soap more distant than that of the television?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the television?"
+  },
+  {
+    "from": "gpt",
+    "value": "33.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the window positioned behind the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant and the window, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, plant appears more on the left side."
+  }
+]

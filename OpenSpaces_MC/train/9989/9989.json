@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bus with 'dance' sign to the left of the people on balcony from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the bus with 'dance' sign to the left of the people on balcony."
+  },
+  {
+    "from": "human",
+    "value": "Between the bus with 'dance' sign and the umbrellas, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "bus with 'dance' sign is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the lights to the left of the people on balcony from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the lights to the left of the people on balcony."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the bus with 'dance' sign and the umbrellas horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bus with 'dance' sign and the umbrellas are 2.23 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the umbrellas or the people in crowd?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, people in crowd appears more on the left side."
+  }
+]

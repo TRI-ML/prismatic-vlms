@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the cd case from the game case vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 36.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the paper is positioned to the right of the paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the paper to the right of the paper."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cd case and the game case."
+  },
+  {
+    "from": "gpt",
+    "value": "the cd case and the game case are 96.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the wallet and the pens."
+  },
+  {
+    "from": "gpt",
+    "value": "the wallet and the pens are 13.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the wallet from the pens?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 13.0 inches apart."
+  }
+]

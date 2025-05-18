@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the grass and the text?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.03 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the text below the text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the text is positioned under the text."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the door occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 48.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the door come behind the text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the text is positioned below the text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the text is below the text."
+  }
+]

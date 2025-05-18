@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the smaller cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "the smaller cardboard box is 2.97 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the cardboard boxes on shelf positioned before the smaller cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the smaller cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Is the cardboard boxes on shelf in front of the cardboard boxes on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cardboard boxes on shelf and the smaller cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cardboard boxes on shelf is 5.0 meters from the smaller cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the cardboard boxes on shelf and the smaller cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cardboard boxes on shelf and the smaller cardboard box are 9.0 feet apart vertically."
+  }
+]

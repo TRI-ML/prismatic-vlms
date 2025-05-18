@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the wall lie in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wall is in front of the plant."
+  },
+  {
+    "from": "human",
+    "value": "Is the chair positioned before the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the wall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the door."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the door is 7.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far is the door from the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.28 feet"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the wall to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.83 meters apart."
+  }
+]

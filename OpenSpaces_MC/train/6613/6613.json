@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the man in black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in black shirt is 10.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the man in black shirt and the woman in black shirt vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in black shirt and the woman in black shirt are 3.8 feet apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the woman in black shirt with sunglasses or the woman with glasses and green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "woman in black shirt with sunglasses is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the woman in black shirt with sunglasses to the woman with glasses and green shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in black shirt with sunglasses and the woman with glasses and green shirt are 4.0 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the woman with glasses and green shirt and the woman in black shirt, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is woman in black shirt."
+  }
+]

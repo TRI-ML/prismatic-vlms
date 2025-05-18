@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the orange mug with white logo and the blue mug with red logo."
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white speaker or the orange mug with white logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "white speaker is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the orange mug with white logo or the blue mug with red logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "orange mug with white logo is taller."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the red mug with white logo or the white keyboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "white keyboard is taller."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the orange mug with white logo to the blue mug with red logo."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 56.0 centimeters exists between the orange mug with white logo and the blue mug with red logo."
+  }
+]

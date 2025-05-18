@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the chain-link fence behind woman or the green tennis ball in air?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green tennis ball in air appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the green tennis ball in air less distant than that of the chain-link fence behind woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the chain-link fence behind woman."
+  },
+  {
+    "from": "human",
+    "value": "Between the chain-link fence behind woman and the green tennis ball in air, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green tennis ball in air appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the grass on tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.62 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the green tennis ball in air or the chain-link fence behind woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "green tennis ball in air is more to the left."
+  }
+]

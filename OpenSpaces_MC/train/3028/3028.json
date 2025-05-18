@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the sailboat and the building."
+  },
+  {
+    "from": "gpt",
+    "value": "the sailboat is 15.0 meters from the building vertically."
+  },
+  {
+    "from": "human",
+    "value": "How close is the boat from the dock?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boat is 2.0 meters from the dock."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the boat is bigger than the dock?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the boat is not bigger than the dock."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the dock or the boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "dock is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the boat is bigger than the boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the boat is not larger than the boat."
+  }
+]

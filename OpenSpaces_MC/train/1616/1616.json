@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the snow-covered car and the large building."
+  },
+  {
+    "from": "gpt",
+    "value": "the snow-covered car and the large building are 6.9 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the snow-covered car or the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, large building appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the white fence and the large building, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is large building."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.06 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white fence and the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white fence from the large building is 1.43 meters."
+  }
+]

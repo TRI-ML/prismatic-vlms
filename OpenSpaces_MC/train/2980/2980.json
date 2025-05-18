@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the pictures on wall appear on the right side of the bottles on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the pictures on wall to the right of the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the pictures on wall bigger than the bottles on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the pictures on wall is bigger than the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the pictures on wall bigger than the bottles on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the pictures on wall is larger in size than the bottles on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How big is the bottles on shelf in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bottles on shelf is 36.8 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the bottles on shelf to the neon bar sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the bottles on shelf is 9.87 feet away from the neon bar sign."
+  }
+]

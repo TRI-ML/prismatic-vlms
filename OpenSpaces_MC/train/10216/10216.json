@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 27.12 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the lighting to the table."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the lighting from the table is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the no smoking sign thinner than the chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the no smoking sign is not thinner than the chairs."
+  },
+  {
+    "from": "human",
+    "value": "Between the no smoking sign and the chairs, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is chairs."
+  },
+  {
+    "from": "human",
+    "value": "Is the door thinner than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the door is thinner than the window."
+  }
+]

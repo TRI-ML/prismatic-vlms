@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the plant in ground and the plant in ground, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "plant in ground is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the light or the plant in ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, plant in ground appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the light and the plant in ground, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "plant in ground is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How far is the light from the plant in ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light is 1.4 meters away from the plant in ground."
+  },
+  {
+    "from": "human",
+    "value": "Between the plant in ground and the plant in ground, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is plant in ground."
+  }
+]

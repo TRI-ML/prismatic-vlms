@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the baseball player in orange uniform and the advertising sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball player in orange uniform and the advertising sign are 23.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the baseball player in orange uniform and the advertising sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball player in orange uniform is 23.6 meters away from the advertising sign."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the advertising sign and the advertising sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the advertising sign is 11.0 feet away from the advertising sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white uniform to the left of the advertising sign from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person in white uniform is to the left of the advertising sign."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the advertising sign from the advertising sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the advertising sign is 2.3 centimeters away from the advertising sign."
+  }
+]

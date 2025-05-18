@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the person riding a bicycle and the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person riding a bicycle from the white car is 10.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person riding a bicycle less distant than that of the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white car and the white car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the white car and the white car are 5.9 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the white car come in front of the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white car is behind the white car."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white car from the person riding a bicycle vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.2 feet apart."
+  }
+]

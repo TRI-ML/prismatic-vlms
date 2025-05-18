@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the painting on wall and the stove."
+  },
+  {
+    "from": "gpt",
+    "value": "the painting on wall is 17.0 centimeters away from the stove vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the clock and the painting on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the clock from the painting on wall is 17.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the spatula in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 33.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.87 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stove is bigger than the spatula?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the stove might be smaller or the same size as the spatula."
+  }
+]

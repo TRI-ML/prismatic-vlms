@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the person running towards the bicycle and the person riding a bicycle, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is person riding a bicycle."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the body of water or the person carrying a backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "person carrying a backpack is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the body of water or the person carrying a backpack, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is person carrying a backpack."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person carrying a backpack from the person riding a bicycle horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person carrying a backpack and the person riding a bicycle are 7.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the person carrying a backpack or the person riding a bicycle, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is person riding a bicycle."
+  }
+]

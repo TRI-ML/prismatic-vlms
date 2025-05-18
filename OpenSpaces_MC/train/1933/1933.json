@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the herb come in front of the herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the herb."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the herb less distant than that of the tomato?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the herb closer to camera compared to the herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the herb."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the herb less distant than that of the herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the herb to the herb."
+  },
+  {
+    "from": "gpt",
+    "value": "the herb is 0.3 centimeters from the herb."
+  }
+]

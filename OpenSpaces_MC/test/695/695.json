@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate height of the green circular arrow sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.42 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sidewalk and the crosswalk vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.8 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the sidewalk closer to the viewer compared to the pedestrian?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the sidewalk from the pedestrian?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sidewalk is 5.29 feet from the pedestrian."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the sidewalk and the crosswalk?Could you provide the horizontal distance between the sidewalk and the crosswalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the sidewalk from the crosswalk is 7.3 meters."
+  }
+]

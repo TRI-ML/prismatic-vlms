@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the racket held by player."
+  },
+  {
+    "from": "gpt",
+    "value": "6.18 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the racket held by player more distant than that of the player's pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white lines on court more distant than that of the player's pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the player's body closer to the viewer compared to the orange clay court?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the player's body is in front of the orange clay court."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the racket held by player occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.88 meters"
+  }
+]

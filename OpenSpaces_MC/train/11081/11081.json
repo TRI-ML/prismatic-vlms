@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the white building is thinner than the woman's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white building might be wider or the same width as the woman's face."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white fence is positioned to the right of the white fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the white fence to the right of the white fence."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white fence from the white fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white fence is 6.0 meters away from the white fence."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white fence from the white fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the white building appear on the right side of the boy's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white building is to the right of the boy's face."
+  }
+]

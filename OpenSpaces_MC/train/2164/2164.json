@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the paper towels on countertop from the kitchen cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the paper towels on countertop from the kitchen cabinets is 2.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the stove in kitchen from the black backpack on countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove in kitchen and the black backpack on countertop are 14.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stove in kitchen is bigger than the black backpack on countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stove in kitchen is bigger than the black backpack on countertop."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove in kitchen smaller than the black backpack on countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stove in kitchen is not smaller than the black backpack on countertop."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the stove in kitchen."
+  },
+  {
+    "from": "gpt",
+    "value": "the stove in kitchen is 3.4 meters wide."
+  }
+]

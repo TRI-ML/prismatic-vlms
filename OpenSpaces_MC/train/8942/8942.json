@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white wall lie in front of the yellow and black shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the gray metal ceiling and the yellow metal frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray metal ceiling is 4.0 feet from the yellow metal frame."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow and black shelving closer to the viewer compared to the gray metal ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow and black shelving is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red shiny floor and the yellow and black shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 45.33 centimeters exists between the red shiny floor and the yellow and black shelving."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the red shiny floor and the yellow and black shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red shiny floor and the yellow and black shelving are 45.33 centimeters apart from each other."
+  }
+]

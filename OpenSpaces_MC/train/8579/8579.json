@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the boxes have a smaller size compared to the blue bin?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the boxes is not smaller in size than the blue bin."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the boxes from the blue bin?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the boxes from the blue bin is 11.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the pallets and the orange bin?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 29.0 centimeters exists between the pallets and the orange bin."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the pallets to the yellow pole."
+  },
+  {
+    "from": "gpt",
+    "value": "26.4 feet"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the orange bin to the boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "the orange bin is 8.13 meters away from the boxes."
+  }
+]

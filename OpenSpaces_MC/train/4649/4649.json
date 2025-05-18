@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the cargo on forklift from the blue metal shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 26.73 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the green conveyor belt have a larger size compared to the gray metal racks?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the green conveyor belt might be smaller or the same size as the gray metal racks."
+  },
+  {
+    "from": "human",
+    "value": "Between the yellow object on forklift and the yellow forklift, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is yellow object on forklift."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the yellow object on forklift or the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is yellow object on forklift."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the green conveyor belt and the blue metal shelving."
+  },
+  {
+    "from": "gpt",
+    "value": "the green conveyor belt is 12.1 feet from the blue metal shelving."
+  }
+]

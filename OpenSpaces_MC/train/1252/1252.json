@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the picture from the picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture is 17.0 centimeters away from the picture."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the picture from the pins?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 32.0 inches exists between the picture and the pins."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the picture."
+  },
+  {
+    "from": "gpt",
+    "value": "the picture is 1.6 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the pictures to the picture."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pictures from the picture is 51.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the picture or the pictures?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is pictures."
+  }
+]

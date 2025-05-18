@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the people on motorcycles is smaller than the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the people on motorcycles might be larger or the same size as the street."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the street and the motorcycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the street from the motorcycles is 4.5 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the bridge and the people on motorcycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 41.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the street further to the viewer compared to the red bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red bus and the buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red bus and the buildings are 6.9 meters apart from each other."
+  }
+]

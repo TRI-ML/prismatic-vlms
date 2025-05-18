@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the sofa appear on the right side of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the sofa is not on the right side of the plant."
+  },
+  {
+    "from": "human",
+    "value": "Does the kitchen chairs appear on the right side of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the kitchen chairs is positioned on the right side of the plant."
+  },
+  {
+    "from": "human",
+    "value": "How far is the plant on side table from the sofa?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant on side table and the sofa are 0.06 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cabinet is wider than the kitchen table?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the cabinet might be narrower or the same width as the kitchen table."
+  },
+  {
+    "from": "human",
+    "value": "Is the sofa wider than the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the sofa might be narrower or the same width as the plant."
+  }
+]

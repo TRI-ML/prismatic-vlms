@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate width of the planting?"
+  },
+  {
+    "from": "gpt",
+    "value": "the planting is 12.9 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the cars in parking lot wider than the planting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cars in parking lot is not wider than the planting."
+  },
+  {
+    "from": "human",
+    "value": "Is the cars in parking lot wider than the planting?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the cars in parking lot might be narrower or the same width as the planting."
+  },
+  {
+    "from": "human",
+    "value": "Does the planting appear over the planting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the planting is not above the planting."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the planting and the cars in parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the planting and the cars in parking lot are 8.0 feet apart."
+  }
+]

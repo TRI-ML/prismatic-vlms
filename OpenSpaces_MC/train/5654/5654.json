@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the fireplace with glowing coals and the table with plates?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fireplace with glowing coals is 1.1 meters from the table with plates."
+  },
+  {
+    "from": "human",
+    "value": "Does the black pot on hearth have a smaller size compared to the wooden bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the black pot on hearth has a smaller size compared to the wooden bench."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black pot on hearth and the fireplace with glowing coals."
+  },
+  {
+    "from": "gpt",
+    "value": "the black pot on hearth and the fireplace with glowing coals are 14.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the black pot on hearth smaller than the wooden bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black pot on hearth is smaller than the wooden bench."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wicker basket is smaller than the black pot on hearth?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wicker basket is not smaller than the black pot on hearth."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the picture frame on the wall and the black fan on the wall?Could you provide the horizontal distance between the picture frame on the wall and the black fan on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the picture frame on the wall to the picture frame on the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frame on the wall is 71.0 centimeters away from the picture frame on the wall."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the picture frame on the wall from the black bottle on the dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.95 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the picture frame on the wall and the picture frame on the wall horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frame on the wall and the picture frame on the wall are 3.8 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the picture frame on the wall or the black fan on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black fan on the wall appears more on the left side."
+  }
+]

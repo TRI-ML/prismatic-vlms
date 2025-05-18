@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the red object on shelf and the brown object on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the gray object on shelf and the driver wearing white hard hat, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is gray object on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Is the driver wearing white hard hat smaller than the blue object on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the driver wearing white hard hat is not smaller than the blue object on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the driver wearing white hard hat from the gray object on shelf vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the driver wearing white hard hat is 6.0 meters from the gray object on shelf vertically."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the red object on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the red object on shelf is 66.3 centimeters tall."
+  }
+]

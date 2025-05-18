@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the red object with two black dots above it to the red object with two black dots above it."
+  },
+  {
+    "from": "gpt",
+    "value": "the red object with two black dots above it is 44.9 centimeters from the red object with two black dots above it."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the red object with two black dots above it?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the red object with two black dots above it is 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the yellow line below the arrow?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the yellow line below the arrow is 3.3 feet."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the red object with two black dots above it in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red object with two black dots above it is 2.74 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the red object with two black dots above it and the red object with two black dots above it."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 44.9 centimeters exists between the red object with two black dots above it and the red object with two black dots above it."
+  }
+]

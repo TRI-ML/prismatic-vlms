@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the brown leather chair from the gray ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.7 meters exists between the brown leather chair and the gray ottoman."
+  },
+  {
+    "from": "human",
+    "value": "How close is the brown leather chair from the gray ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown leather chair and the gray ottoman are 2.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the book closer to camera compared to the gray ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray ottoman is behind the book."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray couch positioned in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray couch is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the gray couch lie in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray couch is closer to the viewer."
+  }
+]

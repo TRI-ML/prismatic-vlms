@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the brown suitcase appear on the left side of the brown suitcase?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown suitcase is to the left of the brown suitcase."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown suitcase to the left of the brown suitcase from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown suitcase is not to the left of the brown suitcase."
+  },
+  {
+    "from": "human",
+    "value": "Is the bulletin board with 'book here' sign to the left of the brown suitcase from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bulletin board with 'book here' sign is to the left of the brown suitcase."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the brown suitcase and the brown suitcase?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown suitcase and the brown suitcase are 71.84 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the brown suitcase and the brown suitcase?"
+  },
+  {
+    "from": "gpt",
+    "value": "45.0 centimeters"
+  }
+]

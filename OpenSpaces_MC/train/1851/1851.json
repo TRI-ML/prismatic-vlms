@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the blue suv from the black suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue suv is 3.01 meters away from the black suv."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white planter and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 31.4 feet exists between the white planter and the trees."
+  },
+  {
+    "from": "human",
+    "value": "Is the large white statue taller than the white planter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the large white statue is much taller as the white planter."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is thinner than the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the trees is thinner than the trees."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the blue suv to the black suv."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue suv and the black suv are 3.01 meters apart."
+  }
+]

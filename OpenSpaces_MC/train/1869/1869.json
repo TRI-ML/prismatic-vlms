@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the parked car and the building vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 30.85 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the street sign in front of the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the stop sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the silver sedan and the bicyclist?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver sedan and the bicyclist are 7.91 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the street sign to the stop sign."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the street sign is smaller than the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the street sign has a smaller size compared to the stop sign."
+  }
+]

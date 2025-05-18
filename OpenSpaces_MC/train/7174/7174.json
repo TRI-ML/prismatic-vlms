@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the door with window panes or the mirror on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, mirror on dresser appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the door with window panes or the mirror on dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is mirror on dresser."
+  },
+  {
+    "from": "human",
+    "value": "Between the clock on mantle and the door with window panes, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "door with window panes is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the door with window panes have a greater width compared to the clock on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the door with window panes's width does not surpass the clock on mantle's."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the mirror on dresser or the clock on mantle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is mirror on dresser."
+  }
+]

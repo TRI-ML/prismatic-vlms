@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the picture frame with person?"
+  },
+  {
+    "from": "gpt",
+    "value": "76.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the clothing item and the picture frame with black background?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.96 meters exists between the clothing item and the picture frame with black background."
+  },
+  {
+    "from": "human",
+    "value": "How far is the picture frame with person from the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frame with person and the lamp are 88.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the dresser."
+  },
+  {
+    "from": "gpt",
+    "value": "the dresser is 3.68 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the dresser?"
+  },
+  {
+    "from": "gpt",
+    "value": "the dresser is 3.7 feet tall."
+  }
+]

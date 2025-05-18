@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the little girl to the right of the red tennis court from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the little girl is to the right of the red tennis court."
+  },
+  {
+    "from": "human",
+    "value": "Is the pink and yellow tennis racket to the right of the green tennis court from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the pink and yellow tennis racket is positioned on the right side of the green tennis court."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the pink and yellow tennis racket in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the chain-link fence have a greater width compared to the pink and yellow tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the chain-link fence is not wider than the pink and yellow tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "Is the pink and yellow tennis racket to the right of the green tennis court from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the pink and yellow tennis racket to the right of the green tennis court."
+  }
+]

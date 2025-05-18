@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the silver suv and the blue umbrellas horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the silver suv is 86.6 feet from the blue umbrellas horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the silver suv from the blue umbrellas vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.86 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue umbrellas and the red awning vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the blue umbrellas from the red awning is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown building bigger than the yellow awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown building is not bigger than the yellow awning."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow awning is bigger than the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow awning is bigger than the person walking."
+  }
+]

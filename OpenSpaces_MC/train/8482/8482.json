@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the fork in main dish to the small bowl of nuts."
+  },
+  {
+    "from": "gpt",
+    "value": "the fork in main dish is 29.78 inches from the small bowl of nuts."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the two empty glasses?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 36.72 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white tablecloth and the two empty glasses?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white tablecloth from the two empty glasses is 22.78 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the spoon in main dish?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the spoon in main dish is 26.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the spoon in main dish in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 65.0 centimeters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the broken window and the hay feeder."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the broken window from the hay feeder is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the truck in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the truck is 4.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the hay feeder bigger than the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the hay feeder is not larger than the building."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the truck and the broken window?"
+  },
+  {
+    "from": "gpt",
+    "value": "the truck is 50.1 feet away from the broken window."
+  },
+  {
+    "from": "human",
+    "value": "Is the horse bigger than the hay feeder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the horse might be smaller or the same size as the hay feeder."
+  }
+]

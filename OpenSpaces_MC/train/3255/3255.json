@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the route number 15 and the route number 2?"
+  },
+  {
+    "from": "gpt",
+    "value": "75.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the highway sign with route numbers is positioned to the left of the directional arrow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the highway sign with route numbers is to the left of the directional arrow."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the route number 15 and the directional arrow."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 29.8 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the directional arrow and the directional arrow vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the directional arrow from the directional arrow is 57.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the highway sign with route numbers."
+  },
+  {
+    "from": "gpt",
+    "value": "the highway sign with route numbers is 25.1 meters in width."
+  }
+]

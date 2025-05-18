@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the helly hansen store sign appear on the right side of the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the helly hansen store sign is positioned on the right side of the helly hansen store sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the helly hansen store sign positioned in front of the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the helly hansen store sign and the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.44 feet"
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the helly hansen store sign to the helly hansen store sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the helly hansen store sign is 4.0 feet away from the helly hansen store sign vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the helly hansen store sign is 1.0 meters wide."
+  }
+]

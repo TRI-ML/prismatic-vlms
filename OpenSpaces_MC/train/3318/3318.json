@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the plant in a pot positioned in front of the decorative object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plant in a pot is in front of the decorative object."
+  },
+  {
+    "from": "human",
+    "value": "How close is the plant in a pot from the plant in a pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant in a pot and the plant in a pot are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the books on a shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "29.85 inches"
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the plant in a pot and the decorative object."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.01 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the small picture frame in front of the candle on a wall sconce?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the wooden surface in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the wooden surface is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the wooden surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.57 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the green pasta and the cast iron skillet, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "green pasta is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How close is the green pasta from the cast iron skillet?"
+  },
+  {
+    "from": "gpt",
+    "value": "18.64 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the green pasta from the cast iron skillet?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.64 inches apart."
+  }
+]

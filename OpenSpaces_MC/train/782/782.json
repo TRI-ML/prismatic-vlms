@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the stack of pallets behind the white boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the white boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the stack of pallets and the white boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of pallets is 3.0 meters from the white boxes on shelves."
+  },
+  {
+    "from": "human",
+    "value": "How close is the gray boxes on shelves from the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray boxes on shelves is 21.18 feet from the yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red boxes on shelves is positioned to the left of the large shelving unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red boxes on shelves is not on the left side of the large shelving unit."
+  },
+  {
+    "from": "human",
+    "value": "Is the large shelving unit positioned at the back of the blue metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue metal beams is in front of the large shelving unit."
+  }
+]

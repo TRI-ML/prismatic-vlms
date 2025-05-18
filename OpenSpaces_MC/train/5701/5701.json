@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the white appliance and the white appliance?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.59 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the white appliance and the white appliance."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.59 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the white appliance with yellow sticker in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white appliance with yellow sticker is 1.89 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the white appliance to the white appliance."
+  },
+  {
+    "from": "gpt",
+    "value": "the white appliance and the white appliance are 14.3 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white appliance with yellow sticker from the silver and black microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.8 meters"
+  }
+]

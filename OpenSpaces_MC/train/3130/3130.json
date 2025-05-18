@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the black cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black cow is 2.91 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brown cow from the black cow?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown cow from the black cow is 9.11 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the distant mountain."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the distant mountain is 79.7 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the black cow and the distant mountain, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "black cow is above."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the brown cow or the distant mountain?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown cow is above."
+  }
+]

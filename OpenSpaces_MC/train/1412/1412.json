@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the clock on wall to the clock on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall and the clock on wall are 3.4 feet apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the clock on wall and the clock on wall horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 1.61 meters away from the clock on wall horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the clock on wall and the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the clock on wall to the clock on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall is 79.6 centimeters away from the clock on wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the clock on wall and the clock on wall horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on wall and the clock on wall are 5.0 feet apart horizontally."
+  }
+]

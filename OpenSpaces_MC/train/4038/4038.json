@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the trees to the grassy field."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red car from the young boy in baseball uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the red car from the young boy in baseball uniform is 23.12 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the grassy field further to camera compared to the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the red car."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the baseball glove and the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball glove and the red car are 29.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the grassy field from the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.67 centimeters"
+  }
+]

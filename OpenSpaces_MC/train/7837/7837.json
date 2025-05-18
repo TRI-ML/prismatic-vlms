@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the green painting on left wall to the red exit sign."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red exit sign and the green painting on left wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.6 meters exists between the red exit sign and the green painting on left wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the silver chest on floor is taller than the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the silver chest on floor may be shorter or the same height as the green plant."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the picture on right wall is taller than the star on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the picture on right wall is taller than the star on table."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver chest on floor taller than the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the silver chest on floor is not taller than the green plant."
+  }
+]

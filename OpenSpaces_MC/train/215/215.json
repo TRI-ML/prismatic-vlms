@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the hand truck to the left of the white boxes on top shelf from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the hand truck is to the left of the white boxes on top shelf."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the man in orange jacket occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "61.8 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the red bags on bottom shelf and the hand truck?Could you provide the horizontal distance between the red bags on bottom shelf and the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red bags on bottom shelf is 18.09 inches from the hand truck horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the man in orange jacket to the blue bags on bottom shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in orange jacket is 89.74 centimeters away from the blue bags on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the man in orange jacket and the blue bags on bottom shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "89.74 centimeters"
+  }
+]

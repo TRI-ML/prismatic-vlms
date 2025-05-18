@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the buildings thinner than the signs?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the buildings is not thinner than the signs."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the people in crowd from the lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in crowd is 4.02 meters away from the lights."
+  },
+  {
+    "from": "human",
+    "value": "Is the umbrellas thinner than the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the umbrellas has a lesser width compared to the street."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the umbrellas from the people in crowd?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the umbrellas from the people in crowd is 5.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the bus with 'dance' sign wider than the night sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bus with 'dance' sign is wider than the night sky."
+  }
+]

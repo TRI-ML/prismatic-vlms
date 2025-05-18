@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the car on the left side of the street more distant than that of the yellow truck on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the yellow truck on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Is the car on the left side of the street further to the viewer compared to the car on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car on the left side of the street is behind the car on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the car on the left side of the street more distant than that of the person on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person on the sidewalk is in front of the car on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white truck on the left side of the street and the car on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white truck on the left side of the street from the car on the left side of the street is 10.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the person on the sidewalk and the car on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 44.9 centimeters."
+  }
+]

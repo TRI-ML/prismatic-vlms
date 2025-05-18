@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the mirror or the brush?"
+  },
+  {
+    "from": "gpt",
+    "value": "mirror is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the clothes to the mirror."
+  },
+  {
+    "from": "gpt",
+    "value": "19.88 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the shaving cream positioned at the back of the brush?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the shaving cream occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.06 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the soap behind the scissors?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

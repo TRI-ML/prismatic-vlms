@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the intersection sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the intersection sign is 24.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the intersection sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection sign is 24.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the intersection sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection sign is 24.29 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the intersection sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the intersection sign is 24.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the intersection sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the intersection sign is 24.3 meters wide."
+  }
+]

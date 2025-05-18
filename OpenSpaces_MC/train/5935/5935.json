@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the green beans positioned before the white sauce?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sausages from the potatoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 48.75 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sausages and the potatoes."
+  },
+  {
+    "from": "gpt",
+    "value": "the sausages is 48.75 centimeters from the potatoes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the sausages less distant than that of the potatoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the sausages is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the green beans and the white sauce horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 0.25 centimeters."
+  }
+]

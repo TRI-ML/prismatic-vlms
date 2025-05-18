@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the player's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's face is 2.1 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Between the ball and the player's shirt, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, ball appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the player's head in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's head is 25.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the player's head from the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.8 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's face and the player's shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player's face and the player's shirt are 26.0 centimeters apart."
+  }
+]

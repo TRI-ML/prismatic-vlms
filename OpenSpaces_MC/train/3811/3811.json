@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the clock surrounding scaffolding from the clock base vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the clock surrounding scaffolding and the clock face?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock surrounding scaffolding and the clock face are 2.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the clock with roman numerals and the clock surrounding scaffolding?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the clock with roman numerals is thinner than the clock surrounding scaffolding?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the clock with roman numerals might be wider or the same width as the clock surrounding scaffolding."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the clock with roman numerals to the clock surrounding scaffolding."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.0 feet apart."
+  }
+]

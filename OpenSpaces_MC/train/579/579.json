@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the plant on table lie in front of the plant on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plant on coffee table is behind the plant on table."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the plant on table or the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "plant on table is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the plant on table to the plant on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the plant on table or the plant on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is plant on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant on table come in front of the clothes on chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the plant on table is further to the viewer."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the black gate to the black gate."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the black gate or the sign with text?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sign with text."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the black metal fence or the black gate?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black metal fence appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the black gate?"
+  },
+  {
+    "from": "gpt",
+    "value": "35.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the black metal fence or the black gate?"
+  },
+  {
+    "from": "gpt",
+    "value": "black gate is more to the right."
+  }
+]

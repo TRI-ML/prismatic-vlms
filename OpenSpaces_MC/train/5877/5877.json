@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tennis racket or the man in blue hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "man in blue hat is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the staircase and the tennis racket, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "staircase is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the staircase or the tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, staircase appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the woman in white tennis outfit is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the woman in white tennis outfit is 28.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the green court and the tennis racket horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the green court is 1.8 centimeters from the tennis racket horizontally."
+  }
+]

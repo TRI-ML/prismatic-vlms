@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the warehouse pillars or the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "warehouse floor is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the warehouse ceiling or the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "warehouse floor is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the warehouse pillars is bigger than the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the warehouse pillars is not larger than the warehouse floor."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse pillars have a larger size compared to the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the warehouse pillars might be smaller or the same size as the warehouse floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse pillars bigger than the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the warehouse pillars is not larger than the warehouse floor."
+  }
+]

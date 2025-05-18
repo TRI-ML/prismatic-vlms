@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the cardboard box on shelf bigger than the cardboard box on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cardboard box on shelf has a larger size compared to the cardboard box on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box on shelf come in front of the cardboard box on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box on shelf have a larger size compared to the cardboard box on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cardboard box on shelf is bigger than the cardboard box on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the cardboard box on shelf occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.8 inches"
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box on shelf lie in front of the cardboard box on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

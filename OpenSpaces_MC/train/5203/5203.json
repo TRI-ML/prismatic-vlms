@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the vase with red flowers and the brown wooden ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.0 inches exists between the vase with red flowers and the brown wooden ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Does the bed with blue blanket lie behind the window with green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window with green plant is in front of the bed with blue blanket."
+  },
+  {
+    "from": "human",
+    "value": "Between the bed with blue blanket and the window with green plant, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is bed with blue blanket."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the vase with red flowers in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the vase with red flowers is 13.3 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Between the white wall and the vase with red flowers, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white wall is more to the left."
+  }
+]

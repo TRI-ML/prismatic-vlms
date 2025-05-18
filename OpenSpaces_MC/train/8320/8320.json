@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the smaller buildings in the distance to the trees along the riverbank."
+  },
+  {
+    "from": "gpt",
+    "value": "33.61 meters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the cars parked along the riverbank to the people walking on the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the cars parked along the riverbank is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the cars parked along the riverbank is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the distant buildings along the riverbank to the right of the cars parked along the riverbank from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the distant buildings along the riverbank is positioned on the right side of the cars parked along the riverbank."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the cars parked along the riverbank and the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cars parked along the riverbank and the people walking on the sidewalk are 2.0 meters apart."
+  }
+]

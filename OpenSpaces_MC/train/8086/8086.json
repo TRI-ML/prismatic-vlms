@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the people and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the people from the trees is 13.32 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the people wider than the speed limit sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people has a greater width compared to the speed limit sign."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees appear over the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the trees is positioned over the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the trees to the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the trees from the sidewalk is 0.58 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the trees above the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the trees is above the sidewalk."
+  }
+]

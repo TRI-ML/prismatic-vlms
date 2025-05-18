@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the green hat is taller than the brown beard?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the green hat is much taller as the brown beard."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown boxes is taller than the brown shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown boxes is not taller than the brown shoes."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the brown mustache and the red roof of building."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown mustache and the red roof of building are 1.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the red roof of building and the building entrance vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the red roof of building from the building entrance is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the green hat and the brown beard?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green hat from the brown beard is 5.0 feet."
+  }
+]

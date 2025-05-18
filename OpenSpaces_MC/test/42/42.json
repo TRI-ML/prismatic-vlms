@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the red arrow and the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the no parking sign is shorter than the red arrow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the no parking sign is shorter than the red arrow."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the sign with text to the no parking sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with text and the no parking sign are 1.28 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sign with text is shorter than the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the sign with text is not as tall as the tree."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the building is shorter than the red arrow?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the building may be taller or the same height as the red arrow."
+  }
+]

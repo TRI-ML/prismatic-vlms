@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the blue wall with advertisements or the tennis player in blue shirt and white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "tennis player in blue shirt and white shorts is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the blue wall with advertisements and the tennis player in blue shirt and white shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue wall with advertisements is 25.0 centimeters from the tennis player in blue shirt and white shorts."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the blue wall with advertisements to the tennis player in blue shirt and white shorts."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 25.0 centimeters exists between the blue wall with advertisements and the tennis player in blue shirt and white shorts."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown clay tennis court to the right of the person in red hat and black shirt from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brown clay tennis court is positioned on the right side of the person in red hat and black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the catuzzi logo and the yellow tennis ball?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 inches"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the white object in upper right corner to the red object on table."
+  },
+  {
+    "from": "gpt",
+    "value": "the white object in upper right corner and the red object on table are 3.94 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the book or notebook on table further to camera compared to the red object on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the red object on table."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the book or notebook on table more distant than that of the red object on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the book or notebook on table is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white object in upper right corner and the white object in upper right corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white object in upper right corner from the white object in upper right corner is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the white object in upper right corner come behind the white object in upper right corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

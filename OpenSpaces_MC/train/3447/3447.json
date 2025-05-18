@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the yellow boxes is bigger than the green metal structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the yellow boxes is not larger than the green metal structure."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.66 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the boxes and the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes and the person are 24.99 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the yellow boxes and the boxes horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow boxes is 11.0 meters from the boxes horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the boxes is bigger than the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the boxes is not bigger than the boxes."
+  }
+]

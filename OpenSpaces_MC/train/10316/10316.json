@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the door of the building and the pallet on the ground, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is pallet on the ground."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the door of the building from the pallet on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door of the building and the pallet on the ground are 3.08 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the pallet on the ground and the door of the building, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pallet on the ground appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the door of the building is positioned to the left of the pallet on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the door of the building is to the left of the pallet on the ground."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the door of the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door of the building is 17.0 inches tall."
+  }
+]

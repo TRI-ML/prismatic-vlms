@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the large tree and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 44.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the large tree lie in front of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the large tree occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large tree is 232.9 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the car and the large tree."
+  },
+  {
+    "from": "gpt",
+    "value": "the car and the large tree are 16.13 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the car closer to camera compared to the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

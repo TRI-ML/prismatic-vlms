@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person in front of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is behind the person."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person less distant than that of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the person in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.89 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the person positioned in front of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the person lie in front of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

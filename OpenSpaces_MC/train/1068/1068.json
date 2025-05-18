@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the salad with egg and salmon and the tea bags on table, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "salad with egg and salmon is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the pepper shaker and the salad with egg and salmon vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the pepper shaker from the salad with egg and salmon is 72.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the salad with egg and salmon from the wooden spoon vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 89.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the box of tissues from the pepper shaker?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 35.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the pepper shaker and the salad with egg and salmon?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 66.0 centimeters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the basket with blue object positioned at the back of the basket with white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the basket with blue object is behind the basket with white object."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the basket with blue object from the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket with blue object is 3.9 meters away from the white object."
+  },
+  {
+    "from": "human",
+    "value": "How far is the basket with blue object from the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket with blue object and the white object are 3.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the basket with blue object or the white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "basket with blue object is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the basket with blue object or the basket with white object?"
+  },
+  {
+    "from": "gpt",
+    "value": "basket with blue object is more to the right."
+  }
+]

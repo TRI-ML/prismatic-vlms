@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the skateboarder is wider than the skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the skateboarder might be narrower or the same width as the skateboard."
+  },
+  {
+    "from": "human",
+    "value": "Is the light pole closer to camera compared to the skateboard ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the dirt and the tree."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 26.0 meters exists between the dirt and the tree."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the dirt from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 26.0 meters exists between the dirt and the tree."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole is 2.0 meters wide."
+  }
+]

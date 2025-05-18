@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the sofa behind the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stove from the sofa?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove and the sofa are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sofa is wider than the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the sofa has a greater width compared to the cabinets."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the sink and the sofa."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 28.0 feet wide."
+  }
+]

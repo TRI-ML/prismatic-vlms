@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the hillside from the crane on truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hillside and the crane on truck bed are 19.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the hillside from the crane on truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the hillside from the crane on truck bed is 19.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the grass or the clouds?"
+  },
+  {
+    "from": "gpt",
+    "value": "grass is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the crane on truck bed and the old orange truck, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "old orange truck is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the grass and the hillside vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the hillside are 5.2 meters apart vertically."
+  }
+]

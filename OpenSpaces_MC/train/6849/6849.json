@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the green vegetables in wooden crate and the cat with brown and white fur vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green vegetables in wooden crate and the cat with brown and white fur are 46.0 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the orange vegetables in wooden crate in front of the red fruits in wooden crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the green vegetables in wooden crate."
+  },
+  {
+    "from": "gpt",
+    "value": "the green vegetables in wooden crate is 11.23 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the red vegetables in wooden crate or the red fruits in wooden crate?"
+  },
+  {
+    "from": "gpt",
+    "value": "red fruits in wooden crate is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Is the white wall closer to camera compared to the basket or container?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

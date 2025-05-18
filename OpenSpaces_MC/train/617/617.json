@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the warehouse metal structure and the warehouse metal structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse metal structure is 10.3 meters away from the warehouse metal structure."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the forklift or the worker in yellow hard hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "forklift is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the worker on forklift and the warehouse metal structure?Could you provide the horizontal distance between the worker on forklift and the warehouse metal structure?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 27.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the forklift and the worker in yellow hard hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the forklift from the worker in yellow hard hat is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the forklift and the worker in yellow hard hat horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  }
+]

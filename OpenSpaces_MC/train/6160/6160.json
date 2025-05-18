@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the ship appear on the right side of the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the ship is positioned on the right side of the bicycle."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the ship in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the ship is 2.53 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the woman to the ship."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the bicycle appear on the right side of the ship?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the bicycle is not on the right side of the ship."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the old man and the ship vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the old man is 1.99 meters from the ship vertically."
+  }
+]

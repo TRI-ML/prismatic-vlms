@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the light switch panel appear on the right side of the small plant on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the light switch panel to the right of the small plant on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the books on coffee table to the lamp with black and white lampshade."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the painting on wall and the small plant on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the painting on wall is 4.3 meters from the small plant on coffee table horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Between the light switch panel and the small plant on coffee table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is light switch panel."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the books on coffee table and the lamp with black and white lampshade?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on coffee table is 4.3 meters from the lamp with black and white lampshade."
+  }
+]

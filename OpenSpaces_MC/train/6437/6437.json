@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the green truck and the people in orange robes."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the green truck from the people in orange robes is 53.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the people in orange robes and the people in orange robes?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 83.5 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the people in orange robes from the people in orange robes?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.57 meters exists between the people in orange robes and the people in orange robes."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow fruits on truck bed appear on the right side of the people in orange robes?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the yellow fruits on truck bed is either to the left of or directly aligned with the people in orange robes."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the yellow fruits on truck bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the yellow fruits on truck bed is 3.0 meters."
+  }
+]

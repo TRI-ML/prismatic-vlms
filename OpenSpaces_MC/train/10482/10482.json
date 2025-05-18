@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the shed and the girl with raised hand."
+  },
+  {
+    "from": "gpt",
+    "value": "the shed is 21.5 meters from the girl with raised hand."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the fence and the base?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fence is 132.05 feet away from the base."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the fence and the base?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fence is 39.0 meters away from the base horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the tree from the man in gray shirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree is 24.0 meters from the man in gray shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the fence and the girl with baseball glove."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.52 meters apart."
+  }
+]

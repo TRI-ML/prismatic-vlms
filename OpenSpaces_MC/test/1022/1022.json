@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white car on the right side of the street from the buildings?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the sky and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky and the trees are 11.08 feet apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the sky and the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 45.9 feet from the trees."
+  },
+  {
+    "from": "human",
+    "value": "Does the white car in the distance have a greater width compared to the telephone poles?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white car in the distance might be narrower or the same width as the telephone poles."
+  },
+  {
+    "from": "human",
+    "value": "Is the buildings wider than the businesses?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the buildings exceeds that of the businesses."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the window from the black object on counter?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the black object on counter are 8.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the large metallic appliance and the silver pot or container?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large metallic appliance is 1.2 meters from the silver pot or container."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the large metallic appliance and the silver pot or container?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.2 meters exists between the large metallic appliance and the silver pot or container."
+  },
+  {
+    "from": "human",
+    "value": "How big is the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "26.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the large metallic appliance and the silver pot or container."
+  },
+  {
+    "from": "gpt",
+    "value": "the large metallic appliance and the silver pot or container are 4.32 feet apart horizontally from each other."
+  }
+]

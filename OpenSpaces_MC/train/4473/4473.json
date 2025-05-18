@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which of these two, the two gray pillows or the small globe on top shelf, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is small globe on top shelf."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the small globe on top shelf and the two white pillows horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the small globe on top shelf is 14.0 feet from the two white pillows horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How close is the small globe on top shelf from the two white pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small globe on top shelf and the two white pillows are 4.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the white closet with two doors or the two white pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is white closet with two doors."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the small globe on top shelf and the two white pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small globe on top shelf is 1.2 meters from the two white pillows vertically."
+  }
+]

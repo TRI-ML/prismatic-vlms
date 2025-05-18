@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the brown pants or the brown shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is brown shoes."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown pants and the blue metal shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown pants is 32.0 inches from the blue metal shelving."
+  },
+  {
+    "from": "human",
+    "value": "Between the brown shoes and the red forklift, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, brown shoes appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the red forklift or the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is red forklift."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown pants wider than the blue metal shelving?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown pants is wider than the blue metal shelving."
+  }
+]

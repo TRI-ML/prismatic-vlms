@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is above, the ostrich or the young giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "ostrich is above."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the another giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the another giraffe is 2.36 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the trees and the young giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "33.99 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the ostrich and the young giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the trees or the young giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is higher up."
+  }
+]

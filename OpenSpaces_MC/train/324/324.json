@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the person in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 4.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the sign with text and the stoplight?Could you provide the horizontal distance between the sign with text and the stoplight?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the sign with text from the stoplight is 6.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the sign with text from the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with text and the bicycle are 6.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the bicycle and the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the sign with text appear on the right side of the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the sign with text is not to the right of the bicycle."
+  }
+]

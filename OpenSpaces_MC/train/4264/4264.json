@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the concrete surface or the black wristband?"
+  },
+  {
+    "from": "gpt",
+    "value": "concrete surface is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the blue tennis shoes and the racket held by boy."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 2.2 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the pink socks is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 14.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the boy in mid-swing and the concrete surface vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boy in mid-swing is 22.9 inches from the concrete surface vertically."
+  },
+  {
+    "from": "human",
+    "value": "Does the concrete surface appear on the left side of the black wristband?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the concrete surface is to the left of the black wristband."
+  }
+]

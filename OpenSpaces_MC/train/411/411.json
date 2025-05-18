@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the rusted bench and the trash can."
+  },
+  {
+    "from": "gpt",
+    "value": "the rusted bench is 27.72 inches from the trash can."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the rusted bench or the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, trash can appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the window with black frame and the trash can, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "window with black frame is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How close is the trash can from the window with black frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trash can and the window with black frame are 5.01 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the window with black frame in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.4 meters."
+  }
+]

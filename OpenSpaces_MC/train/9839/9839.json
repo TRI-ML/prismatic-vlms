@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the gray object positioned behind the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray object is in front of the gray object."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the gray object and the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray object is 10.0 meters from the gray object."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the gray object from the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.36 feet"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray object and the gray object."
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the gray object."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray object is 1.0 meters wide."
+  }
+]

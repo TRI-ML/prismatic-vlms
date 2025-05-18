@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the orange traffic cone and the orange traffic cone."
+  },
+  {
+    "from": "gpt",
+    "value": "the orange traffic cone and the orange traffic cone are 69.6 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the orange traffic cone occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "19.66 feet"
+  },
+  {
+    "from": "human",
+    "value": "How big is the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange traffic cone is 15.6 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the orange traffic cone or the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "orange traffic cone is shorter."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the orange traffic cone in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "72.51 centimeters"
+  }
+]

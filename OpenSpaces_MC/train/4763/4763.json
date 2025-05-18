@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the black knee pads is positioned to the left of the white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black knee pads is not to the left of the white shirt."
+  },
+  {
+    "from": "human",
+    "value": "Does the red helmet have a larger size compared to the young boy on skateboard?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the red helmet is bigger than the young boy on skateboard."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the ramp is."
+  },
+  {
+    "from": "gpt",
+    "value": "the ramp is 74.0 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the young boy on skateboard is positioned to the left of the ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the young boy on skateboard is to the left of the ramp."
+  }
+]

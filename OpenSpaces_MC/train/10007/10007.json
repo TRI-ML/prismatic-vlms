@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the broken wall from the broken tiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "the broken wall is 7.0 feet away from the broken tiles."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the broken wall is shorter than the broken wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the broken wall is not as tall as the broken wall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the broken wall and the broken sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the broken wall in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.52 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the broken wall have a lesser height compared to the broken tiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the broken wall is shorter than the broken tiles."
+  }
+]

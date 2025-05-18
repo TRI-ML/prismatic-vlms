@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the plant and the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.0 meters exists between the plant and the black table."
+  },
+  {
+    "from": "human",
+    "value": "Between the door and the white chair, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is door."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white chair and the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "0.19 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Between the plant and the black table, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "black table is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far is the painting of fabrics from the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.84 meters exists between the painting of fabrics and the black table."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the two oxen pulling a plow from the woman in blue dress horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two oxen pulling a plow is 4.86 meters away from the woman in blue dress horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the man in gray shirt and blue jeans and the blue sky horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 21.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the two oxen pulling a plow to the left of the woman in blue dress from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the two oxen pulling a plow is to the left of the woman in blue dress."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the man in gray shirt and blue jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.63 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the two oxen pulling a plow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two oxen pulling a plow is 10.1 feet tall."
+  }
+]

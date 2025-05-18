@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the biker is smaller than the skateboarder?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the biker has a smaller size compared to the skateboarder."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "the taxi is 2.3 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person from the person horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 9.99 meters exists between the person and the person."
+  },
+  {
+    "from": "human",
+    "value": "Between the biker and the person, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the biker to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  }
+]

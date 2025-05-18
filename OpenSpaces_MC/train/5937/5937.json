@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the brown cabinet smaller than the oven knobs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the brown cabinet has a smaller size compared to the oven knobs."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the stovetop to the brown cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "the stovetop and the brown cabinet are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the light switch is smaller than the stovetop?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the light switch is smaller than the stovetop."
+  },
+  {
+    "from": "human",
+    "value": "How far is the light switch from the stovetop?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light switch and the stovetop are 1.52 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the brown cabinet from the brown cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the brown rug in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown rug is 8.1 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the plant or the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "plant is taller."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "13.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Between the door and the white coffee table, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "door is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Between the white ottoman and the gray chair, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "white ottoman is taller."
+  }
+]

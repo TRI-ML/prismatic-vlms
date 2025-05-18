@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue mug and the silver box."
+  },
+  {
+    "from": "gpt",
+    "value": "4.8 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the blue mug or the silver box?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is silver box."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the orange paper or the computer monitor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is orange paper."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow paper taller than the blue mug?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the yellow paper may be shorter or the same height as the blue mug."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the orange paper or the computer monitor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is orange paper."
+  }
+]

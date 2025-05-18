@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the cargo being transported from the boxes on the truck vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the cargo being transported from the boxes on the truck is 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes on the ground wider than the plastic-wrapped object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the boxes on the ground is wider than the plastic-wrapped object."
+  },
+  {
+    "from": "human",
+    "value": "Is the cargo being transported wider than the boxes on the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the cargo being transported's width does not surpass the boxes on the truck's."
+  },
+  {
+    "from": "human",
+    "value": "How far is the boxes on the ground from the person near the truck vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on the ground is 4.0 meters from the person near the truck vertically."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the person near the truck and the boxes on the truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the person near the truck is 1.8 meters from the boxes on the truck horizontally."
+  }
+]

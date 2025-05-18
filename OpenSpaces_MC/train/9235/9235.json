@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the tap?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 29.7 inches."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the tap is."
+  },
+  {
+    "from": "gpt",
+    "value": "75.5 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the tap and the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 84.0 centimeters exists between the tap and the door."
+  },
+  {
+    "from": "human",
+    "value": "Is the dora the explorer character taller than the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the dora the explorer character may be shorter or the same height as the wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the earring taller than the tap?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the earring is much taller as the tap."
+  }
+]

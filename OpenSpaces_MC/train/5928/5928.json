@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the street name from the stoplight?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street name and the stoplight are 14.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the stoplight and the walk/don't walk sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the stoplight is 34.38 centimeters from the walk/don't walk sign."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the street name in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street name is 52.87 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the stoplight is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the stoplight is 49.96 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the walk/don't walk sign to the clock on building facade."
+  },
+  {
+    "from": "gpt",
+    "value": "the walk/don't walk sign is 6.0 feet from the clock on building facade."
+  }
+]

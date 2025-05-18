@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the black table or the green accent wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is black table."
+  },
+  {
+    "from": "human",
+    "value": "Between the red chair and the white tv stand, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white tv stand is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the black table and the green accent wall, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is black table."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white table from the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white table is 2.0 meters away from the black table."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black table and the black chairs horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 22.3 centimeters exists between the black table and the black chairs."
+  }
+]

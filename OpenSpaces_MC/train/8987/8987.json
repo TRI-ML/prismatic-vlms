@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the union sign is positioned to the left of the police officer?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the union sign is not to the left of the police officer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the police officer and the street sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the police officer is 2.0 meters from the street sign."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pedestrian crossing sign from the union sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pedestrian crossing sign and the union sign are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the unknown object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the unknown object is 24.91 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the unknown object to the left of the police officer from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the unknown object is to the left of the police officer."
+  }
+]

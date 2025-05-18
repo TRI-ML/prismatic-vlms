@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the blue writing on shirt from the blue writing on shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue writing on shirt and the blue writing on shirt are 0.54 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the black shirt have a lesser width compared to the black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the black shirt is not thinner than the black pants."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black shirt is positioned to the left of the person holding a tennis racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the black shirt to the left of the person holding a tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the blue writing on shirt to the blue writing on shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue writing on shirt and the blue writing on shirt are 0.54 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the black shirt and the person holding a tennis racket."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  }
+]

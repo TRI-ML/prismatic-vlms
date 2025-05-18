@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the machine part or the man in yellow vest?"
+  },
+  {
+    "from": "gpt",
+    "value": "man in yellow vest is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the factory background and the man in yellow vest vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the factory background is 3.02 meters from the man in yellow vest vertically."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the factory background from the yellow cord?"
+  },
+  {
+    "from": "gpt",
+    "value": "the factory background and the yellow cord are 13.29 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the factory background from the yellow cord?"
+  },
+  {
+    "from": "gpt",
+    "value": "the factory background is 13.29 feet from the yellow cord."
+  },
+  {
+    "from": "human",
+    "value": "Does the machine part come in front of the yellow cord?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  }
+]

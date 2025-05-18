@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the wooden bench or the wooden bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is wooden bench."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the wooden bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden bench is 13.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stone walkway?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the stone walkway is 23.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Between the wooden bench and the stone walkway, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "stone walkway is below."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wooden bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 41.1 feet."
+  }
+]

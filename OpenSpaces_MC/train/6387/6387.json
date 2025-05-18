@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the small dog to the man with black pants."
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Does the man with black pants come behind the woman with blonde hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man with black pants is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the man with black pants come behind the woman with blonde hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the woman with blonde hair."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the small dog more distant than that of the man with black pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the small dog is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the woman with blonde hair and the woman with blonde hair."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman with blonde hair is 33.6 inches away from the woman with blonde hair."
+  }
+]

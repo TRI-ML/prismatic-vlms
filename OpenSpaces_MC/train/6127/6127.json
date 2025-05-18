@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the bartending bottles and the cake?"
+  },
+  {
+    "from": "gpt",
+    "value": "33.1 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the bartending bottles from the cake?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bartending bottles and the cake are 33.1 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the potato chips and the credit card vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the potato chips is 2.0 inches away from the credit card vertically."
+  },
+  {
+    "from": "human",
+    "value": "Between the potato chips and the toaster, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is potato chips."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the potato chips and the toaster?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the potato chips and the toaster."
+  }
+]

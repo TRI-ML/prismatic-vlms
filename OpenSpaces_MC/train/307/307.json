@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the books on shelves and the cage-like table."
+  },
+  {
+    "from": "gpt",
+    "value": "38.4 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the tv stand positioned behind the cage-like table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the books on shelves more distant than that of the cage-like table?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Does the tv stand come behind the shelves on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the tv stand occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tv stand is 8.57 meters wide."
+  }
+]

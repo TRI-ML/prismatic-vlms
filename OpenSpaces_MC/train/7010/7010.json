@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the door handle is wider than the red door on building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the door handle has a greater width compared to the red door on building."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the mailbox on door?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the mailbox on door is 92.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the mailbox on door from the cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mailbox on door and the cars are 11.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the door handle in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cars is wider than the building with red door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cars is not wider than the building with red door."
+  }
+]

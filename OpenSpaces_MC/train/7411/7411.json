@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the large painting of a deer further to the viewer compared to the large black leather couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the large painting of a deer is behind the large black leather couch."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the large painting of a deer more distant than that of the small table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the small table is in front of the large painting of a deer."
+  },
+  {
+    "from": "human",
+    "value": "Is the large painting of a deer behind the large window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the large window."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the large painting of a deer."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the large painting of a deer is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the large painting of a deer and the large window horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the large painting of a deer and the large window are 9.0 feet apart horizontally from each other."
+  }
+]

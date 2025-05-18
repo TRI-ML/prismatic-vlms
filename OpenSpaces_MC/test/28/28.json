@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the blue sky or the building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue sky appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the palm tree and the sign with hebrew text and triangular symbol."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm tree and the sign with hebrew text and triangular symbol are 100.2 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the palm tree to the sign with hebrew text and triangular symbol."
+  },
+  {
+    "from": "gpt",
+    "value": "the palm tree and the sign with hebrew text and triangular symbol are 100.2 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stick figure representation of a man from the text in hebrew language?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stick figure representation of a man and the text in hebrew language are 97.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the stick figure representation of a man or the text in hebrew language?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is stick figure representation of a man."
+  }
+]

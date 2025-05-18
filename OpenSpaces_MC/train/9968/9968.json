@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the trees in the background and the brown horse with long mane?"
+  },
+  {
+    "from": "gpt",
+    "value": "14.89 meters"
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the two people sitting on the cart is."
+  },
+  {
+    "from": "gpt",
+    "value": "the two people sitting on the cart is 84.1 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown horse with long mane and the white car in the background vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.01 meters."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the two people sitting on the cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the two people sitting on the cart is 33.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the man wearing a black hat to the white truck with green writing."
+  },
+  {
+    "from": "gpt",
+    "value": "12.92 meters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the plate or the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is plate."
+  },
+  {
+    "from": "human",
+    "value": "Is the plate closer to the viewer compared to the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the plate closer to camera compared to the plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the plate."
+  },
+  {
+    "from": "human",
+    "value": "Is the clock closer to camera compared to the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the plate or the plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "plate is more to the right."
+  }
+]

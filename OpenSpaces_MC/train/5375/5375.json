@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the small bowl with red and white seeds to the fork with wooden handle."
+  },
+  {
+    "from": "gpt",
+    "value": "the small bowl with red and white seeds is 4.6 centimeters away from the fork with wooden handle."
+  },
+  {
+    "from": "human",
+    "value": "Between the knife with wooden handle and the white pepper shaker, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white pepper shaker."
+  },
+  {
+    "from": "human",
+    "value": "Between the fork with wooden handle and the wooden cutting board, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is wooden cutting board."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the oil bottle with cork and the small bowl with red and white seeds?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the oil bottle with cork and the small bowl with red and white seeds?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 72.0 centimeters exists between the oil bottle with cork and the small bowl with red and white seeds."
+  }
+]

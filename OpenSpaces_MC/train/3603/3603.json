@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the red picture frame to the mini-fridge."
+  },
+  {
+    "from": "gpt",
+    "value": "1.33 inches"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the red picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 12.4 inches."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the coffee maker?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 49.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the coffee maker occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 48.97 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the coffee maker?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 19.28 inches."
+  }
+]

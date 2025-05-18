@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the blue eyes from the child holding a wii remote horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue eyes appear on the right side of the child holding a wii remote?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the blue eyes is either to the left of or directly aligned with the child holding a wii remote."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue eyes appear on the right side of the brown couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue eyes is not to the right of the brown couch."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the blue eyes and the child holding a wii remote horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue eyes and the child holding a wii remote are 1.8 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue eyes to the right of the blonde hair from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the blue eyes is either to the left of or directly aligned with the blonde hair."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the boxes on the ground from the person in yellow shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on the ground is 12.0 meters from the person in yellow shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the boxes on the ground."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on the ground is 1.6 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in yellow shirt below the person in yellow shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in yellow shirt is not below the person in yellow shirt."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the person in yellow shirt to the person in yellow shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 5.6 meters exists between the person in yellow shirt and the person in yellow shirt."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the person in yellow shirt occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in yellow shirt is 11.91 feet in height."
+  }
+]

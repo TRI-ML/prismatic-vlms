@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the pedestrian symbol and the bicycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pedestrian symbol and the bicycles are 1.3 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the pedestrian is bigger than the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the pedestrian is bigger than the fence."
+  },
+  {
+    "from": "human",
+    "value": "Between the grass and the blue sky, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is blue sky."
+  },
+  {
+    "from": "human",
+    "value": "Does the grass have a larger size compared to the pedestrian?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the grass is not larger than the pedestrian."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the pedestrian."
+  },
+  {
+    "from": "gpt",
+    "value": "the pedestrian is 29.0 meters tall."
+  }
+]

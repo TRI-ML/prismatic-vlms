@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the brown chair and the partition screen horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the black chair or the brown chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black chair appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the black chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the black chair is 84.8 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the partition screen and the bed with white sheets, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, partition screen appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the partition screen and the bed with white sheets."
+  },
+  {
+    "from": "gpt",
+    "value": "9.35 feet"
+  }
+]

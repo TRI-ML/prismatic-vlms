@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the baseball player in black uniform to the left of the baseball player in black uniform from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the baseball player in black uniform is not to the left of the baseball player in black uniform."
+  },
+  {
+    "from": "human",
+    "value": "Is the stadium seats to the left of the baseball player in white uniform from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stadium seats is not to the left of the baseball player in white uniform."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the baseball player in black uniform to the baseball player in white uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "26.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Between the baseball player in black uniform and the baseball player in white uniform, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, baseball player in black uniform appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball player in black uniform to the left of the baseball player in black uniform from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the baseball player in black uniform is either to the right of or directly aligned with the baseball player in black uniform."
+  }
+]

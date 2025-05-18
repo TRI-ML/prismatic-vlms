@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the picture from the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the door with window and the pot rack, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pot rack appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the table or the basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the microwave oven and the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the microwave oven and the light are 26.69 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the door with window closer to camera compared to the pot rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

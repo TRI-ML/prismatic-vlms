@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the warehouse concrete floor and the warehouse white rope?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse concrete floor is 37.98 inches away from the warehouse white rope."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the warehouse boxes to the warehouse plastic tubes."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.88 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the warehouse concrete floor."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the warehouse concrete floor is 2.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse forklift thinner than the warehouse plastic wrapping?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the warehouse forklift's width is less than the warehouse plastic wrapping's."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the warehouse forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "34.9 centimeters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the green building with white base from the white sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green building with white base from the white sign is 2.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the gravel ground is."
+  },
+  {
+    "from": "gpt",
+    "value": "the gravel ground is 7.5 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the white sign behind the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the trees."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the white sign or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is white sign."
+  },
+  {
+    "from": "human",
+    "value": "Between the white sign and the trees, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "white sign is shorter."
+  }
+]

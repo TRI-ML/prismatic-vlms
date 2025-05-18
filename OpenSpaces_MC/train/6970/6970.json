@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the people sitting at picnic table and the people sitting at picnic table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people sitting at picnic table is 4.0 meters away from the people sitting at picnic table."
+  },
+  {
+    "from": "human",
+    "value": "Between the people sitting at picnic table and the people sitting at picnic table, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "people sitting at picnic table is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the people sitting at picnic table from the blue recycling bin?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people sitting at picnic table and the blue recycling bin are 110.0 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the people sitting at picnic table and the people sitting at picnic table?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the blue recycling bin and the people sitting at picnic table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue recycling bin is 21.53 feet away from the people sitting at picnic table vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the large green plant have a lesser width compared to the black coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the large green plant has a lesser width compared to the black coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black tv stand to the large picture frame."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the black tv stand closer to the viewer compared to the large picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the white shelving unit positioned before the large green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the large green plant."
+  },
+  {
+    "from": "human",
+    "value": "Is the black tv stand closer to camera compared to the large picture frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

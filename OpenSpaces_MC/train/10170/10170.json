@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the knife block and the stove."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 1.2 meters exists between the knife block and the stove."
+  },
+  {
+    "from": "human",
+    "value": "Is the cabinet taller than the bottle of wine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cabinet is taller than the bottle of wine."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the bottle on counter is taller than the bottle of vinegar?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the bottle on counter is much taller as the bottle of vinegar."
+  },
+  {
+    "from": "human",
+    "value": "Is the cabinet taller than the bottle of wine?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the cabinet is much taller as the bottle of wine."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the bottle on counter from the bottle of vinegar?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.91 inches apart."
+  }
+]

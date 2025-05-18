@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the large wooden door."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the large wooden door?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the large wooden door have a lesser height compared to the gray stone steps leading up to the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the large wooden door is not as tall as the gray stone steps leading up to the door."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the gray stone steps leading up to the door to the small dog sitting in front of the door."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 49.4 centimeters exists between the gray stone steps leading up to the door and the small dog sitting in front of the door."
+  },
+  {
+    "from": "human",
+    "value": "How far is the large wooden door from the gray stone steps leading up to the door horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large wooden door and the gray stone steps leading up to the door are 90.26 centimeters apart horizontally."
+  }
+]

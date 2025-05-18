@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the man's shoes and the prudential financial sign horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the man's shoes from the prudential financial sign is 1.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the man's shoes or the prudential financial sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is man's shoes."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the prudential financial sign and the man's pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "the prudential financial sign is 3.5 meters away from the man's pants."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the man's hat and the woman player?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.68 feet"
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the woman's hat or the man's hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "man's hat is lower down."
+  }
+]

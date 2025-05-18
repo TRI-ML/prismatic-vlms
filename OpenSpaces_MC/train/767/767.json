@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the white bowl on counter and the scale, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white bowl on counter appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the stove with pot and the white appliance (possibly a dishwasher), which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "stove with pot is shorter."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the stove with pot occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove with pot is 17.29 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stove with pot from the white appliance (possibly a dishwasher)?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stove with pot and the white appliance (possibly a dishwasher) are 12.02 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the stove with pot and the white appliance (possibly a dishwasher)."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.02 feet apart."
+  }
+]

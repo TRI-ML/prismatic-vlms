@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the nike logo closer to camera compared to the green wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the nike logo is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the seats and the tennis racket horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the seats is 3.8 meters from the tennis racket horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the nike logo and the green wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the nike logo from the green wall is 32.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the nike logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the nike logo is 11.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the nike logo closer to camera compared to the green wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the nike logo is in front of the green wall."
+  }
+]

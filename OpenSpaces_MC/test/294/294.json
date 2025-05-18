@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the baseball uniform is positioned to the right of the baseball helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the baseball uniform is not to the right of the baseball helmet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the baseball helmet and the baseball uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball helmet is 80.0 centimeters away from the baseball uniform."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the baseball helmet from the baseball uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 74.7 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the baseball helmet occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball helmet is 53.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball helmet thinner than the baseball uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the baseball helmet is not thinner than the baseball uniform."
+  }
+]

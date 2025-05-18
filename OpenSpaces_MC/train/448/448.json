@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the wall from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wall is 1.2 meters from the tree."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.7 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the man in suit or the man's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is man in suit."
+  },
+  {
+    "from": "human",
+    "value": "Does the man in suit have a larger size compared to the man's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in suit is bigger than the man's face."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the man in suit and the man's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the man in suit from the man's face is 70.0 centimeters."
+  }
+]

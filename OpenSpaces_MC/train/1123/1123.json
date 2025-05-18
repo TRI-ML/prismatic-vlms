@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the bananas on shelf from the bananas on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas on shelf is 3.58 feet away from the bananas on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the bananas on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas on shelf is 54.54 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the bananas on shelf and the bananas on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas on shelf is 4.83 feet away from the bananas on shelf."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the bananas on shelf and the bananas on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.83 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the bananas on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the bananas on shelf is 54.0 centimeters wide."
+  }
+]

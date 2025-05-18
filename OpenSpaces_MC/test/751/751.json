@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the spoon and the gray napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "36.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.47 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the hand holding plate or the spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "spoon is lower down."
+  },
+  {
+    "from": "human",
+    "value": "How far is the lemon slices from the spoon horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the lemon slices from the spoon is 37.56 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the spoon or the gray napkin?"
+  },
+  {
+    "from": "gpt",
+    "value": "spoon is lower down."
+  }
+]

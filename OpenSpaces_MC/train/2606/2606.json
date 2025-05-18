@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the striped cushions to the striped bench."
+  },
+  {
+    "from": "gpt",
+    "value": "the striped cushions and the striped bench are 8.71 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the striped bench cushions smaller than the striped bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the striped bench cushions might be larger or the same size as the striped bench."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the striped bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "the striped bench is 28.9 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the striped bench cushions lie in front of the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the striped bench in front of the striped cushions?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the striped cushions is behind the striped bench."
+  }
+]

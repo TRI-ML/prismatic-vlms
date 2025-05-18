@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the trash can and the branches horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 0.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the grass and the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 0.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the grass in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the grass is 1.41 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the trash can to the branches."
+  },
+  {
+    "from": "gpt",
+    "value": "the trash can is 0.0 centimeters away from the branches horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the fence and the trash can horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the fence from the trash can is 0.0 inches."
+  }
+]

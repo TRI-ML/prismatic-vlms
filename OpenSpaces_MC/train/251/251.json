@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue and white can of pabst blue ribbon beer and the blue and white box with yellow writing horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "5.55 feet"
+  },
+  {
+    "from": "human",
+    "value": "How distant is the blue and white can of pabst blue ribbon beer from the white microwave with black window and dials horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 3.5 feet exists between the blue and white can of pabst blue ribbon beer and the white microwave with black window and dials."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the yellow and red box and the circular object with white center."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow and red box and the circular object with white center are 90.84 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the yellow and red box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow and red box is 7.14 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white microwave with black window and dials and the white box with red writing horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white microwave with black window and dials is 3.7 feet away from the white box with red writing horizontally."
+  }
+]

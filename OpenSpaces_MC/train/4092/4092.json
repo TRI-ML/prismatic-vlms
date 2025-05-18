@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the teddy bears on shelf and the teddy bears on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 94.78 centimeters exists between the teddy bears on shelf and the teddy bears on shelf."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the teddy bears on shelf and the teddy bears on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 1.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the teddy bears on shelf in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.1 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the teddy bears on shelf to the teddy bears on shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the teddy bears on shelf from the teddy bears on shelf is 1.1 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the teddy bears on shelf or the teddy bears on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "teddy bears on shelf is more to the left."
+  }
+]

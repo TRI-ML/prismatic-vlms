@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the box labeled 'master' to the left of the large brown box from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the box labeled 'master' is to the left of the large brown box."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the another large brown box and the scanner or tablet?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the another large brown box is positioned to the left of the scanner or tablet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the another large brown box to the left of the scanner or tablet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red box is positioned to the left of the woman in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the red box to the left of the woman in blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the box labeled 'master' to the stack of blankets."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the box labeled 'master' from the stack of blankets is 37.6 inches."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the church from the power line?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the church from the power line is 18.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the church spires from the church steeple horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the church spires is 21.0 meters away from the church steeple horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the church spires from the church steeple?"
+  },
+  {
+    "from": "gpt",
+    "value": "the church spires is 21.46 meters away from the church steeple horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the church and the power line?"
+  },
+  {
+    "from": "gpt",
+    "value": "the church is 52.0 centimeters from the power line."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the church door?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the church door is 29.3 meters."
+  }
+]

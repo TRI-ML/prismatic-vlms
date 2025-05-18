@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person in black shorts positioned at the back of the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in black shorts behind the person in black shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person in white shirt from the person in black shorts horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the person in white shirt from the person in black shorts is 15.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person in black shorts to the person in orange shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black shorts is 7.2 feet away from the person in orange shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in orange shirt further to camera compared to the person in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

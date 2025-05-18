@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the doors or the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "doors is below."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the doors or the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "doors is lower down."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the doors is 14.55 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the windows is smaller than the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the windows has a smaller size compared to the street."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the building or the doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "doors is below."
+  }
+]

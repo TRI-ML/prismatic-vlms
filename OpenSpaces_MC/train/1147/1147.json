@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the books on the table."
+  },
+  {
+    "from": "gpt",
+    "value": "9.65 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the books on the table to the books on the table."
+  },
+  {
+    "from": "gpt",
+    "value": "the books on the table is 1.76 meters from the books on the table."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on the table positioned at the back of the books on the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the books on the table is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the books on the table and the books on the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books on the table and the books on the table are 1.76 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on the table behind the books on the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

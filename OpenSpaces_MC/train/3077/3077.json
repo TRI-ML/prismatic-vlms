@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the red shelves in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red shelves is 2.2 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the red shelves to the red shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "8.6 feet"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white boxes on shelves or the red shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white boxes on shelves appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the white boxes on shelves to the red shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "the white boxes on shelves is 8.61 feet away from the red shelves."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the red shelves to the white boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 8.0 meters exists between the red shelves and the white boxes on shelves."
+  }
+]

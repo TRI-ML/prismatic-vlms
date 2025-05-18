@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the car or the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is car."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person from the car horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 34.0 meters exists between the person and the car."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the car or the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is car."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person and the car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 31.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the person or the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "person is above."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the parking meter or the parking meter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is parking meter."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the parking meter and the storefront horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "23.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the car have a larger size compared to the parking meter?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car is not bigger than the parking meter."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the parking meter or the storefront, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is storefront."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the car and the parking meter vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 79.7 centimeters apart."
+  }
+]

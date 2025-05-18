@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the green pasta to the red tomatoes."
+  },
+  {
+    "from": "gpt",
+    "value": "16.07 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the green pasta from the wooden surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green pasta is 2.19 meters from the wooden surface."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the green pasta and the wooden surface horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the green pasta and the wooden surface are 2.29 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the green pasta from the wooden surface vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 23.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the green pasta taller than the red tomatoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the green pasta's height is not larger of the red tomatoes's."
+  }
+]

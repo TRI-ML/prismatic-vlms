@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the people."
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 3.0 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the people and the fire truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 23.2 centimeters away from the fire truck."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the people from the people horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.9 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people is bigger than the fire truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people is not bigger than the fire truck."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the people to the fire truck."
+  },
+  {
+    "from": "gpt",
+    "value": "23.2 centimeters"
+  }
+]

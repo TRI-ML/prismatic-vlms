@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white shoes lie in front of the green area?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white shoes is in front of the green area."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white shoes and the green area."
+  },
+  {
+    "from": "gpt",
+    "value": "the white shoes and the green area are 23.9 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the player in action from the white cap?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player in action and the white cap are 2.4 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How big is the green area?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the green area?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the green area is 6.0 feet."
+  }
+]

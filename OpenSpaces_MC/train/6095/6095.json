@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue door is wider than the blue curtain?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue door is not wider than the blue curtain."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white brick wall and the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.06 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue door have a smaller size compared to the blue curtain?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue door is smaller than the blue curtain."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the blue door?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.23 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white brick wall smaller than the white table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white brick wall is not smaller in size than the white table."
+  }
+]

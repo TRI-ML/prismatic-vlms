@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the brush in the center and the tree trunk."
+  },
+  {
+    "from": "gpt",
+    "value": "the brush in the center and the tree trunk are 1.48 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the tree trunk and the zebra on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.14 meters exists between the tree trunk and the zebra on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the tree trunk to the tree trunk."
+  },
+  {
+    "from": "gpt",
+    "value": "the tree trunk is 4.1 meters away from the tree trunk."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the brush in the center to the tree on the left."
+  },
+  {
+    "from": "gpt",
+    "value": "1.8 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the brush in the center below the tree on the left?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brush in the center is below the tree on the left."
+  }
+]

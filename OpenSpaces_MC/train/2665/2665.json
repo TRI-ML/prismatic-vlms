@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the approximate width of the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes is 42.5 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sweeper from the boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.07 meters exists between the sweeper and the boxes."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the sweeper?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sweeper is 3.7 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the boxes and the worker in blue uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes and the worker in blue uniform are 2.0 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the boxes and the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the boxes from the boxes is 21.4 inches."
+  }
+]

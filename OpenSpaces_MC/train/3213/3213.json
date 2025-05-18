@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person is taller than the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is not taller than the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the yellow building to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "1.75 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the person closer to the viewer compared to the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person to the sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 9.0 inches from the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow building closer to the viewer compared to the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow building is further to the viewer."
+  }
+]

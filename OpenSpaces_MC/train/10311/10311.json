@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the truck to the adobe stock watermark."
+  },
+  {
+    "from": "gpt",
+    "value": "the truck and the adobe stock watermark are 4.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the crates or the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, truck appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the boxes is."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes is 16.5 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the crates?"
+  },
+  {
+    "from": "gpt",
+    "value": "the crates is 8.93 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the truck is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the truck is 1.85 meters."
+  }
+]

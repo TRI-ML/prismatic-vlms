@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how wide the player in black jersey is."
+  },
+  {
+    "from": "gpt",
+    "value": "the player in black jersey is 2.84 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the trees in background and the player with hands on hips?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the player in green jersey from the player in green jersey?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player in green jersey and the player in green jersey are 7.47 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the player in black jersey and the player in green jersey."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.44 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the player in green jersey to the player in green jersey."
+  },
+  {
+    "from": "gpt",
+    "value": "the player in green jersey is 19.1 meters away from the player in green jersey horizontally."
+  }
+]

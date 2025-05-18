@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the green grass and the flowers in field, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is green grass."
+  },
+  {
+    "from": "human",
+    "value": "Does the flowers in field appear on the left side of the yellow flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the flowers in field is not to the left of the yellow flowers."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the flowers in field and the red flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.48 feet"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the flowers in field or the red flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red flowers appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the flowers in field in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.2 inches."
+  }
+]

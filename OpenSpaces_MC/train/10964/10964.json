@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the white pillows on bed less distant than that of the black blanket on bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Does the rock or sculpture on nightstand come in front of the camera hanging from ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the rock or sculpture on nightstand is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white pillows on bed and the black blanket on bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white pillows on bed is 1.2 meters from the black blanket on bed."
+  },
+  {
+    "from": "human",
+    "value": "Is the white bed frame closer to the viewer compared to the rock or sculpture on nightstand?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white pillows on bed and the black blanket on bed."
+  },
+  {
+    "from": "gpt",
+    "value": "the white pillows on bed is 1.2 meters away from the black blanket on bed."
+  }
+]

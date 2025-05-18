@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the toilet or the shower control?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, shower control appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the toilet is 51.6 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Between the shower curtain rod and the doorknob, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "shower curtain rod is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the shower in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shower is 13.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the toilet occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 51.61 centimeters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the bicycle seat occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle seat is 1.0 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bicycle and the black chair horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle is 4.2 meters from the black chair horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the deer head mount and the black chair."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.85 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the deer head mount from the bicycle seat horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.31 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the white chair to the bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  }
+]

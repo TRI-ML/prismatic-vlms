@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the plus sign and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 62.1 feet exists between the plus sign and the trees."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white line and the plus sign horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white line is 1.0 inches away from the plus sign horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 4.6 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white line to the plus sign."
+  },
+  {
+    "from": "gpt",
+    "value": "0.09 inches"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the trees and the white line."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 23.2 meters from the white line."
+  }
+]

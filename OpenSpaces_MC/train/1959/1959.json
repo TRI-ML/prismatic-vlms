@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the open white door and the flat-screen tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the open white door from the flat-screen tv is 9.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the red rug in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.01 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the red rug and the light on ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.14 meters"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the old-fashioned tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "the old-fashioned tv is 2.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the open white door."
+  },
+  {
+    "from": "gpt",
+    "value": "the open white door is 11.0 feet tall."
+  }
+]

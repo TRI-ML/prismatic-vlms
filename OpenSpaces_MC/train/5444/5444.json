@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Find out how tall the tennis racket is."
+  },
+  {
+    "from": "gpt",
+    "value": "the tennis racket is 8.26 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the blue wall and the white shoes."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue wall and the white shoes are 34.94 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white cap from the tennis racket vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 9.79 centimeters exists between the white cap and the tennis racket."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the scoreboard and the blue wall vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the scoreboard is 0.1 centimeters away from the blue wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "How close is the scoreboard from the blue wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.0 centimeters"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the egyptian-style statue and the egyptian-style statue, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, egyptian-style statue appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the giraffe from the egyptian-style statue?"
+  },
+  {
+    "from": "gpt",
+    "value": "the giraffe is 4.0 feet away from the egyptian-style statue."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the giraffe or the egyptian-style statue?"
+  },
+  {
+    "from": "gpt",
+    "value": "giraffe is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the giraffe and the egyptian-style statue."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the giraffe from the egyptian-style statue is 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the egyptian-style statue or the egyptian-style statue?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, egyptian-style statue appears more on the left side."
+  }
+]

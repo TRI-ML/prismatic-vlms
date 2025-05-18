@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the blue wooden house from the red fire hydrant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue wooden house is 6.0 feet from the red fire hydrant."
+  },
+  {
+    "from": "human",
+    "value": "How far is the window with white curtain from the red fire hydrant horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window with white curtain and the red fire hydrant are 1.9 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the mile 0 sign have a lesser width compared to the blue wooden house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the mile 0 sign is thinner than the blue wooden house."
+  },
+  {
+    "from": "human",
+    "value": "Does the red fire hydrant have a lesser width compared to the black shutter on house?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the red fire hydrant is thinner than the black shutter on house."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the blue wooden house or the red fire hydrant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is red fire hydrant."
+  }
+]

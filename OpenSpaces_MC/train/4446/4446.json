@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the tree to the man with backpack."
+  },
+  {
+    "from": "gpt",
+    "value": "50.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the food truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 65.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the tree and the woman with long hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree and the woman with long hair are 15.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman with long hair from the man in front of window?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman with long hair is 4.0 feet from the man in front of window."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the tree from the woman with long hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.9 meters apart."
+  }
+]

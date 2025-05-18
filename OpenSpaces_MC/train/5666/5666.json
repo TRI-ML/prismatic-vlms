@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the people on motorcycles to the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the power lines or the people on motorcycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "power lines is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How close is the power lines from the people on motorcycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 21.8 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the power lines from the people on motorcycles?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the power lines from the people on motorcycles is 1.0 meters."
+  }
+]

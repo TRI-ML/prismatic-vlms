@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the wall visible in the background and the red apple on the edge of the tub."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the wall visible in the background from the red apple on the edge of the tub is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the bubble bath with white tiles in the background positioned behind the wall visible in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the bubble bath with white tiles in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 58.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the wall visible in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 36.2 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the bubble bath with white tiles in the background behind the tile grout visible on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

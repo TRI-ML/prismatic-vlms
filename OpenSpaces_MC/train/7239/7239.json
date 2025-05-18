@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the man wider than the motorcycle lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man is wider than the motorcycle lights."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the text to the motorcycle lights."
+  },
+  {
+    "from": "gpt",
+    "value": "the text and the motorcycle lights are 4.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the motorcycle lights have a greater width compared to the motorcycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the motorcycle lights is wider than the motorcycle."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the motorcycle to the motorcycle fender."
+  },
+  {
+    "from": "gpt",
+    "value": "the motorcycle is 61.0 centimeters from the motorcycle fender horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the man from the motorcycle lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man is 37.0 inches away from the motorcycle lights."
+  }
+]

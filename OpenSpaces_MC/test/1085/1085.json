@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person walking further to the viewer compared to the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person walking is in front of the person walking."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the food stall and the food stall."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the food stall from the food stall is 5.7 feet."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the food stall."
+  },
+  {
+    "from": "gpt",
+    "value": "the food stall is 5.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the food stall behind the food stall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the food stall."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the food stall and the food stall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the food stall and the food stall are 14.3 meters apart from each other."
+  }
+]

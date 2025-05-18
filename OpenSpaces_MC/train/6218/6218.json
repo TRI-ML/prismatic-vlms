@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the car bigger than the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the car is larger in size than the car."
+  },
+  {
+    "from": "human",
+    "value": "Does the parking meter have a larger size compared to the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the parking meter is bigger than the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the car and the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car is 7.0 inches away from the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is bigger than the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the car might be smaller or the same size as the car."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the car from the car vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the car is 0.2 centimeters away from the car vertically."
+  }
+]

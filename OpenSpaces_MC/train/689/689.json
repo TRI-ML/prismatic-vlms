@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the truck from the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.22 feet exists between the truck and the truck."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the truck to the truck."
+  },
+  {
+    "from": "gpt",
+    "value": "0.06 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far is the truck from the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.22 feet exists between the truck and the truck."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the person and the truck."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 5.0 meters away from the truck vertically."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tractor or the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "person is more to the right."
+  }
+]

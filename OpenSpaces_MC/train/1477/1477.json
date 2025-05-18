@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the pink object with black eyes and the mirror with black frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pink object with black eyes is 21.2 inches from the mirror with black frame."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white sink from the pink object with black eyes?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the mirror with black frame and the silver faucet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mirror with black frame is 97.0 centimeters away from the silver faucet."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the mirror with black frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "the mirror with black frame is 88.3 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the grayish-white tiled wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grayish-white tiled wall is 4.2 feet wide."
+  }
+]

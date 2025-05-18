@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the skateboard ramp and the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboard ramp and the tree are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the garage door and the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the garage door and the tree are 6.6 meters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the skateboarder in mid-air or the skateboard ramp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is skateboarder in mid-air."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the garage door and the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the garage door and the tree are 13.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the skateboarder in mid-air and the house vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the skateboarder in mid-air and the house are 9.4 meters apart vertically from each other."
+  }
+]

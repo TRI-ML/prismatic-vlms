@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the person in green uniform to the person's head."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 79.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the floor is wider than the person in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the floor is wider than the person in blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "How far is the floor from the person in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the floor is 2.3 meters away from the person in blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "How far is the person's hand from the person in blue uniform horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the person's hand have a larger size compared to the person in blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person's hand is not larger than the person in blue uniform."
+  }
+]

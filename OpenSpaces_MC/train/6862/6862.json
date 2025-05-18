@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the streetlight and the streetlight, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is streetlight."
+  },
+  {
+    "from": "human",
+    "value": "Does the streetlight have a smaller size compared to the streetlight?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the streetlight is not smaller in size than the streetlight."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the streetlight and the streetlight."
+  },
+  {
+    "from": "gpt",
+    "value": "94.44 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the streetlight?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 10.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the streetlight from the streetlight?"
+  },
+  {
+    "from": "gpt",
+    "value": "the streetlight and the streetlight are 94.44 feet apart."
+  }
+]

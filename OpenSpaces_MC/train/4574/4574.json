@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the stack of brown boxes on right shelf to the stack of brown boxes on right shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on right shelf and the stack of brown boxes on right shelf are 1.5 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the stack of brown boxes on left shelf and the stack of brown boxes on left shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the stack of brown boxes on right shelf and the stack of brown boxes on right shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on right shelf and the stack of brown boxes on right shelf are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of brown boxes on right shelf have a lesser height compared to the stack of brown boxes on right shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stack of brown boxes on right shelf is shorter than the stack of brown boxes on right shelf."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the stack of brown boxes on right shelf and the stack of brown boxes on right shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of brown boxes on right shelf and the stack of brown boxes on right shelf are 4.84 feet apart horizontally."
+  }
+]

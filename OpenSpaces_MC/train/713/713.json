@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the yellow forklift and the white t-shirt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "Does the black shoes lie behind the white t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Does the white t-shirt come behind the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow forklift is in front of the white t-shirt."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white t-shirt from the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white t-shirt is 5.1 meters from the yellow forklift."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown boxes positioned at the back of the white t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the white t-shirt."
+  }
+]

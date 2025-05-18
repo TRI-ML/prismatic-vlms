@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the files or the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "books is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the file cabinet or the file cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is file cabinet."
+  },
+  {
+    "from": "human",
+    "value": "Is the desk bigger than the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the desk is not larger than the chair."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the files or the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is books."
+  },
+  {
+    "from": "human",
+    "value": "Between the file cabinet and the file cabinet, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, file cabinet appears more on the right side."
+  }
+]

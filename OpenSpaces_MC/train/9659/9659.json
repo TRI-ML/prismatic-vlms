@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the bowl of bread is smaller than the plate with cheese?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bowl of bread is not smaller than the plate with cheese."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the bowl of bread and the knife horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 63.5 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the bowl of bread to the knife."
+  },
+  {
+    "from": "gpt",
+    "value": "the bowl of bread is 52.0 centimeters from the knife."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bowl of bread and the plate with cheese."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 22.0 inches exists between the bowl of bread and the plate with cheese."
+  },
+  {
+    "from": "human",
+    "value": "Between the glass and the napkin, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is napkin."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the man wearing safety vest and the cardboard box?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the man wearing safety vest and the cardboard box."
+  },
+  {
+    "from": "gpt",
+    "value": "the man wearing safety vest is 3.5 meters away from the cardboard box."
+  },
+  {
+    "from": "human",
+    "value": "Does the cardboard box have a lesser width compared to the yellow paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the cardboard box might be wider or the same width as the yellow paper."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the man wearing safety vest to the man's shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 0.45 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cardboard box and the yellow paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cardboard box and the yellow paper are 5.0 feet apart."
+  }
+]

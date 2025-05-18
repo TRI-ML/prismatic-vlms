@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the grass and the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the road are 81.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the grass taller than the road?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the grass is not taller than the road."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the red shirt from the sandals?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the grass and the blue car vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the blue car are 12.9 feet apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the blue, green, white, red, and yellow striped shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue, green, white, red, and yellow striped shirt is 3.0 feet tall."
+  }
+]

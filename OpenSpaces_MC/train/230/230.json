@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the tiger statue on coffee table and the basket on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tiger statue on coffee table from the basket on coffee table is 2.59 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cable on floor and the tiger statue on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the cable on floor and the tiger statue on coffee table are 11.4 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the cable on floor more distant than that of the basket on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the cable on floor further to the viewer compared to the tiger statue on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tiger statue on coffee table is in front of the cable on floor."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the cable on floor and the basket on coffee table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cable on floor and the basket on coffee table are 27.29 inches apart vertically."
+  }
+]

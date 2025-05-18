@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the width of the storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the storefront is 1.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the no left turn sign to the storefront."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.95 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the storefront and the traffic light, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "storefront is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the trees from the no left turn sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the storefront from the traffic light?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 13.0 meters apart."
+  }
+]

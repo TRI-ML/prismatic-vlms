@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the car on the left side come behind the red car on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the car on the left side."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 13.6 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the car on the left side more distant than that of the car on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the car on the left side come behind the car on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car on the left side is in front of the car on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the car on the left side and the car on the left side horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 10.0 meters apart."
+  }
+]

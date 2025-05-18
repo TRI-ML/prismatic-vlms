@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the white and brown pillows and the black bar across the ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white and brown pillows is 5.75 meters away from the black bar across the ceiling vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black bar across the ceiling and the brown and white rug vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "6.3 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the black bar across the ceiling from the brown and white rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.7 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the gray couch to the white and brown pillows."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray couch and the white and brown pillows are 3.0 inches apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the plant in corner in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant in corner is 5.4 feet in height."
+  }
+]

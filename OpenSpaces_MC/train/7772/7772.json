@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the towel from the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the towel is 3.8 meters away from the light."
+  },
+  {
+    "from": "human",
+    "value": "Is the bed positioned behind the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "21.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the towel to the light."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the light behind the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

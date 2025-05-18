@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the small white bowl with honey from the plate with toast, blueberries, and orange slices?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small white bowl with honey and the plate with toast, blueberries, and orange slices are 77.55 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the white cup with black coffee positioned before the plate with eggs, bacon, and herbs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white cup with black coffee is in front of the plate with eggs, bacon, and herbs."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the small white bowl with honey?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the small white bowl with honey is 24.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the small white bowl with honey from the plate with toast, blueberries, and orange slices?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the small white bowl with honey from the plate with toast, blueberries, and orange slices is 77.55 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the small white bowl with honey and the plate with eggs, bacon, and herbs?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 74.4 centimeters apart."
+  }
+]

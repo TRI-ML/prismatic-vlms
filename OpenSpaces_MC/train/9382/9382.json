@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the glassware from the glassware?"
+  },
+  {
+    "from": "gpt",
+    "value": "the glassware and the glassware are 10.0 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the glassware is shorter than the glassware?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the glassware is shorter than the glassware."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the glassware from the glassware horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 24.0 centimeters exists between the glassware and the glassware."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the glassware and the glassware."
+  },
+  {
+    "from": "gpt",
+    "value": "the glassware and the glassware are 1.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the glassware and the glassware horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the glassware is 0.4 centimeters from the glassware horizontally."
+  }
+]

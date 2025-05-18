@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the shrimp on the plate and the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shrimp on the plate and the flowers are 4.2 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the shrimp on the plate positioned behind the flower on the side?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the shrimp on the plate and the flower on the side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shrimp on the plate and the flower on the side are 55.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the shrimp on the plate closer to camera compared to the lettuce?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the shrimp on the plate is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the shrimp on the plate and the lettuce?"
+  },
+  {
+    "from": "gpt",
+    "value": "the shrimp on the plate is 37.0 centimeters away from the lettuce."
+  }
+]

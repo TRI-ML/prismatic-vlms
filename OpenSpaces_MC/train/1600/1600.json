@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the lamp post to the window."
+  },
+  {
+    "from": "gpt",
+    "value": "the lamp post is 26.0 meters from the window."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the lamp post is taller than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the lamp post has a greater height compared to the window."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the lamp post from the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 26.0 meters exists between the lamp post and the window."
+  },
+  {
+    "from": "human",
+    "value": "Is the lamp post bigger than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the lamp post is larger in size than the window."
+  },
+  {
+    "from": "human",
+    "value": "Does the air conditioning unit have a larger size compared to the antique store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the air conditioning unit is larger in size than the antique store sign."
+  }
+]

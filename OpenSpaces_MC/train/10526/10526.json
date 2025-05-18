@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the cars in parking lot is positioned to the left of the white sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the cars in parking lot is positioned on the left side of the white sky."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the parking lot and the kite in the sky horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 33.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the parking lot from the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the parking lot and the trees are 15.54 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the green grass or the grassy field?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green grass appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the green grass and the grassy field?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green grass is 1.5 meters from the grassy field vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the author name?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the author name is 43.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "How far is the author name from the publication status?"
+  },
+  {
+    "from": "gpt",
+    "value": "the author name is 0.2 inches away from the publication status."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the author's pose and the book subtitle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the author's pose is 4.0 feet from the book subtitle horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the author name."
+  },
+  {
+    "from": "gpt",
+    "value": "13.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the author's pose is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 55.0 centimeters."
+  }
+]

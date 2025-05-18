@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the people walking on the sidewalk is smaller than the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the people walking on the sidewalk occupies less space than the people walking on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Does the people walking on the sidewalk have a smaller size compared to the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people walking on the sidewalk has a smaller size compared to the people walking on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Does the people walking on the sidewalk appear on the left side of the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the people walking on the sidewalk is to the left of the people walking on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "How far is the people walking on the sidewalk from the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people walking on the sidewalk and the people walking on the sidewalk are 1.7 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people walking on the sidewalk is smaller than the people walking on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people walking on the sidewalk has a smaller size compared to the people walking on the sidewalk."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the black coffee table or the gray blanket on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, black coffee table appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the gray blanket on couch to the green plant."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray blanket on couch from the green plant is 3.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the black coffee table and the gray blanket on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black coffee table and the gray blanket on couch are 4.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black coffee table is positioned to the right of the gray blanket on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the black coffee table to the right of the gray blanket on couch."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the gray blanket on couch."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray blanket on couch is 1.47 meters tall."
+  }
+]

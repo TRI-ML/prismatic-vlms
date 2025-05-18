@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the children's feet come in front of the woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the children's feet is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the children's feet closer to the viewer compared to the woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the woman."
+  },
+  {
+    "from": "human",
+    "value": "Is the children's feet positioned at the back of the children's feet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the children's feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the children's feet from the children's feet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the children's feet and the children's feet are 65.7 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the doors and the star-shaped decorations."
+  },
+  {
+    "from": "gpt",
+    "value": "63.18 centimeters"
+  }
+]

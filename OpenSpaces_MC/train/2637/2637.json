@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the glass coffee table from the purple pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the glass coffee table is 2.0 meters away from the purple pillow."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the glass coffee table or the purple pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is purple pillow."
+  },
+  {
+    "from": "human",
+    "value": "Does the glass coffee table appear over the purple pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the glass coffee table is not above the purple pillow."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant in white pot appear over the glass coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plant in white pot is above the glass coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the glass coffee table is positioned above the purple pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the glass coffee table is not positioned above the purple pillow."
+  }
+]

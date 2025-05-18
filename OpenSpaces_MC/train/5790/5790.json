@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white bags on bottom shelf positioned before the green bags on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white bags on bottom shelf is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white bags on bottom shelf from the white boxes on top shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white bags on bottom shelf from the white boxes on top shelf is 13.9 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the white boxes on top shelf less distant than that of the white bags on middle shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Does the white boxes on top shelf come in front of the white bags on middle shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white boxes on top shelf is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the white bags on bottom shelf and the green bags on bottom shelf horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 44.0 centimeters exists between the white bags on bottom shelf and the green bags on bottom shelf."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the birds on the ground and the birds on the ground."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the birds on the ground and the birds on the ground vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground is 9.8 feet away from the birds on the ground vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the birds on the ground bigger than the birds on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the birds on the ground is not bigger than the birds on the ground."
+  },
+  {
+    "from": "human",
+    "value": "How far is the birds on the ground from the birds on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground and the birds on the ground are 1.1 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the birds on the ground from the birds on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the birds on the ground is 3.2 centimeters from the birds on the ground."
+  }
+]

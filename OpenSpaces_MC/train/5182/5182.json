@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the white road markings or the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is white road markings."
+  },
+  {
+    "from": "human",
+    "value": "How close is the bicyclist from the white van?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicyclist is 32.0 feet from the white van."
+  },
+  {
+    "from": "human",
+    "value": "Does the white road markings have a lesser height compared to the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white road markings is not shorter than the white car."
+  },
+  {
+    "from": "human",
+    "value": "Between the bicyclist and the white van, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is bicyclist."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the bicyclist or the white van?"
+  },
+  {
+    "from": "gpt",
+    "value": "bicyclist is below."
+  }
+]

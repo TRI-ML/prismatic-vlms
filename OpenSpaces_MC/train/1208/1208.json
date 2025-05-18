@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the people and the red uniform horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 8.6 meters from the red uniform horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the parents to the cars."
+  },
+  {
+    "from": "gpt",
+    "value": "the parents and the cars are 47.03 centimeters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the parents to the cars."
+  },
+  {
+    "from": "gpt",
+    "value": "the parents is 22.2 feet away from the cars."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the people."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 35.7 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the pink chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the pink chair is 2.0 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the bridge over the street from the person crossing the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bridge over the street from the person crossing the street is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the street with cars have a lesser width compared to the modern skyscrapers?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the street with cars's width is not less than the modern skyscrapers's."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the bridge over the street or the person crossing the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "bridge over the street is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the street with cars is thinner than the person standing on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the street with cars is not thinner than the person standing on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Does the modern skyscrapers have a lesser width compared to the pedestrian crossing?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the modern skyscrapers has a lesser width compared to the pedestrian crossing."
+  }
+]

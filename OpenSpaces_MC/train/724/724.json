@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the poster from the fire hydrant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the poster is 7.27 feet away from the fire hydrant."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the poster?"
+  },
+  {
+    "from": "gpt",
+    "value": "the poster is 1.48 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the parking meter from the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the parking meter from the door is 1.74 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the poster or the fire hydrant?"
+  },
+  {
+    "from": "gpt",
+    "value": "fire hydrant is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the poster or the fire hydrant?"
+  },
+  {
+    "from": "gpt",
+    "value": "fire hydrant is more to the left."
+  }
+]

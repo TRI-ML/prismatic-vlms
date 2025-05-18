@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wheelchair and the racket held by man?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the wheelchair from the racket held by man is 1.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the man in white shirt and tie is positioned to the left of the spectators behind fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the man in white shirt and tie is to the left of the spectators behind fence."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in wheelchair further to the viewer compared to the court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in wheelchair is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the man in wheelchair to the wheelchair."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 22.1 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the racket held by man to the court surface."
+  },
+  {
+    "from": "gpt",
+    "value": "the racket held by man and the court surface are 4.81 feet apart."
+  }
+]

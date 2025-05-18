@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the tennis attire to the right of the tennis outfit from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the tennis attire is not to the right of the tennis outfit."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the tennis shoes is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the tennis shoes appear on the left side of the tennis player's head?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tennis shoes is not on the left side of the tennis player's head."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the tennis attire is positioned to the left of the tennis outfit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tennis attire is to the left of the tennis outfit."
+  },
+  {
+    "from": "human",
+    "value": "Does the tennis shoes appear on the right side of the tennis player's arms?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the tennis shoes is not on the right side of the tennis player's arms."
+  }
+]

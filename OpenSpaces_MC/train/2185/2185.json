@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is below, the gray cushioned chair or the blue curtains?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is gray cushioned chair."
+  },
+  {
+    "from": "human",
+    "value": "How big is the gray cushioned chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray cushioned chair is 6.4 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the striped chair to the coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 2.58 meters exists between the striped chair and the coffee table."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the striped chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the striped chair is 2.0 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How big is the window in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 9.0 feet wide."
+  }
+]

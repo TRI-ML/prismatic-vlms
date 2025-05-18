@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the tv stand positioned before the books on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the books on shelves is behind the tv stand."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the tv stand and the large window horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.39 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the tv stand is smaller than the books on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the tv stand might be larger or the same size as the books on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Is the cage-like table smaller than the books on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the cage-like table might be larger or the same size as the books on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the books on shelves less distant than that of the large window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the books on shelves is closer to the viewer."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the chair from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the chair is 7.0 meters away from the tree horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the window and the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 21.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the window from the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the chair are 9.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the chair and the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.6 meters"
+  },
+  {
+    "from": "human",
+    "value": "How close is the chair from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 6.6 meters exists between the chair and the tree."
+  }
+]

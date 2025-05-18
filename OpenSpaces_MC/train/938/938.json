@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the books have a smaller size compared to the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the books is not smaller in size than the lamp."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the books and the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 7.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the books from the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the books from the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books is 9.0 meters away from the books."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the books is positioned to the left of the books?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the books to the left of the books."
+  }
+]

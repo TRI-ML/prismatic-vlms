@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the green pillow come behind the orange chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the orange chair is in front of the green pillow."
+  },
+  {
+    "from": "human",
+    "value": "Is the orange pillow behind the striped pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the green pillow and the orange chair horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green pillow and the orange chair are 3.04 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the orange pillow behind the striped pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the orange pillow or the striped pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is orange pillow."
+  }
+]

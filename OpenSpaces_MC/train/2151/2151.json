@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the person walking and the long building with arched windows."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the person walking is 1.84 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person walking and the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking is 5.0 meters away from the person walking."
+  },
+  {
+    "from": "human",
+    "value": "Is the person walking smaller than the large building in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person walking is smaller than the large building in background."
+  },
+  {
+    "from": "human",
+    "value": "Is the person walking to the right of the person walking from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person walking is to the right of the person walking."
+  }
+]

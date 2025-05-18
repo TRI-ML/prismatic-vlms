@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the microwave oven in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 70.6 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the window and the plant on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 19.8 feet away from the plant on table."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the microwave oven less distant than that of the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the microwave oven positioned in front of the guitar?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the microwave oven is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the window thinner than the plant on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window is not thinner than the plant on table."
+  }
+]

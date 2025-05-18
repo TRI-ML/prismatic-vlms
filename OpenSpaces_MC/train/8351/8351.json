@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the bicycle and the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle is 1.74 meters from the bicycle horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person riding a bicycle and the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding a bicycle and the bicycle are 46.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the bicycle and the bicycle, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, bicycle appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person riding a bicycle and the bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding a bicycle and the bicycle are 46.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person riding a bicycle and the bicycle."
+  },
+  {
+    "from": "gpt",
+    "value": "the person riding a bicycle is 5.0 feet from the bicycle."
+  }
+]

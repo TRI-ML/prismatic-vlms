@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the sheep to the sheep."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.8 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sheep and the sheep vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 4.0 meters away from the sheep vertically."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sheep and the sheep vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.99 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the sheep and the sheep vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the sheep from the sheep is 4.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 3.6 feet in width."
+  }
+]

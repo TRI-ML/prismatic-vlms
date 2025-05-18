@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the building and the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 12.71 feet away from the building."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the building and the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 3.83 feet exists between the building and the building."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 5.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large building is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the building is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the building is 14.4 feet."
+  }
+]

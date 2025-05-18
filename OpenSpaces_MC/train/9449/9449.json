@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white bowl from the silver pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white bowl and the silver pot are 24.8 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the white bowl smaller than the silver pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white bowl is smaller than the silver pot."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the wooden spoon and the wooden spoon horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon and the wooden spoon are 45.63 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the green herb or plant from the green onions?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green herb or plant is 10.9 inches away from the green onions."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the silver pot and the green herb or plant vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver pot is 25.3 inches away from the green herb or plant vertically."
+  }
+]

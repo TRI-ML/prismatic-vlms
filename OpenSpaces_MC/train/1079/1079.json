@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the spectators in stands and the spectators in stands horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the spectators in stands from the spectators in stands is 40.31 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the spectators in stands to the spectators in stands."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the spectators in stands from the spectators in stands is 22.56 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the spectators in stands and the spectators in stands, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is spectators in stands."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the spectators in stands and the court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 39.22 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the spectators in stands to the left of the player on right side of court from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the spectators in stands is not on the left side of the player on right side of court."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the toilet is 90.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the toilet more distant than that of the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the toilet or the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sink appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the shower more distant than that of the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the toilet further to the viewer compared to the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

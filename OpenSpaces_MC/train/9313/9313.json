@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the gray car have a smaller size compared to the gray car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the gray car has a smaller size compared to the gray car."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the trees and the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the white car are 10.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the person walking and the gray car."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 23.7 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees appear on the left side of the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the trees is positioned on the left side of the white car."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "16.0 meters"
+  }
+]

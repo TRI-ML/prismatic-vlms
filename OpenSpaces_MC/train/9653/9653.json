@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the gray object on counter positioned before the yellow pillow on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How close is the gray object on counter from the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray object on counter is 2.85 meters from the black table."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the black table or the white vase with flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white vase with flowers appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray object on counter positioned before the black table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the black table."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the gray object on counter from the yellow pillow on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  }
+]

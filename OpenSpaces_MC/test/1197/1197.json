@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person on horse is positioned to the left of the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person on horse is not to the left of the person on horse."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on horse closer to the viewer compared to the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person on horse is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person on horse is 4.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on horse positioned before the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person on horse is behind the person on horse."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on horse positioned before the person on horse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person on horse is further to the viewer."
+  }
+]

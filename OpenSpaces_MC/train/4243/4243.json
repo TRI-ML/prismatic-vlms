@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the player's shoes wider than the player's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the player's shoes might be narrower or the same width as the player's legs."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the racket held by player and the net (implied)?"
+  },
+  {
+    "from": "gpt",
+    "value": "the racket held by player and the net (implied) are 4.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the racket held by player or the net (implied)?"
+  },
+  {
+    "from": "gpt",
+    "value": "racket held by player is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Does the racket held by player have a greater width compared to the net (implied)?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the racket held by player might be narrower or the same width as the net (implied)."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the player's body or the player's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is player's body."
+  }
+]

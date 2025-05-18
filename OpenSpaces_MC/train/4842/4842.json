@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the three tv screens and the person carrying backpack."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the person sitting on bench and the turnstiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 7.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the floor smaller than the person walking through turnstiles?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the floor is not smaller than the person walking through turnstiles."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the person sitting on bench."
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person walking through turnstiles or the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is floor."
+  }
+]

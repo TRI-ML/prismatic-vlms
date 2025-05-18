@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the red apple from the red apple?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red apple and the red apple are 52.31 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red apple from the green grapes?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.86 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the red apple and the green grapes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red apple and the green grapes are 12.86 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the red apple or the red apple?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is red apple."
+  },
+  {
+    "from": "human",
+    "value": "How far is the red apple from the red apple?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 inches apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the refrigerator from the wooden planks?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the light and the refrigerator horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "5.2 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is positioned to the left of the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the car is not to the left of the car."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is positioned to the left of the light?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car is to the left of the light."
+  },
+  {
+    "from": "human",
+    "value": "Is the refrigerator to the left of the wooden planks from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the refrigerator is to the left of the wooden planks."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the silver sedan and the trees."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the residential houses wider than the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the residential houses is wider than the trees."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the trees in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.79 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the silver sedan and the trees, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is trees."
+  },
+  {
+    "from": "human",
+    "value": "Between the residential houses and the trees, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is trees."
+  }
+]

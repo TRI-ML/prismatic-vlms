@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the deck and the parrot on book?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the deck from the parrot on book is 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the parrot on book from the deck?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the parrot on book from the deck is 5.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the book on table and the deck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the book on table and the deck are 5.2 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the book on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the parrot on book from the deck?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.5 meters"
+  }
+]

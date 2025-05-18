@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the flowers from the jewelry?"
+  },
+  {
+    "from": "gpt",
+    "value": "9.14 feet"
+  },
+  {
+    "from": "human",
+    "value": "How close is the schiffer logo from the jewelry?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the flowers."
+  },
+  {
+    "from": "gpt",
+    "value": "the flowers is 20.2 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the schiffer logo is."
+  },
+  {
+    "from": "gpt",
+    "value": "the schiffer logo is 3.01 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the jewelry is."
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 feet"
+  }
+]

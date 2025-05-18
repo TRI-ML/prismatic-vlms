@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the silver faucet and the brown countertop?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver faucet and the brown countertop are 7.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the white door frame and the white wall, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is white door frame."
+  },
+  {
+    "from": "human",
+    "value": "How far is the black mirror frame from the white sink vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the black mirror frame from the white sink is 7.3 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the silver faucet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver faucet is 11.25 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the black mirror frame and the white sink."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black mirror frame from the white sink is 1.39 meters."
+  }
+]

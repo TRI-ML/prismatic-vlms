@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the stacked boxes and the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes and the stacked boxes are 27.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the stacked boxes smaller than the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the stacked boxes occupies less space than the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the stacked boxes and the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 9.27 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 2.8 meters wide."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the gray wall in background further to the viewer compared to the machine being worked on?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the gray wall in background from the machine being worked on?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the gray wall in background from the machine being worked on is 26.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the gray wall in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray wall in background is 22.0 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Is the woman working on a machine in front of the gray concrete floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the gray concrete floor is behind the woman working on a machine."
+  },
+  {
+    "from": "human",
+    "value": "Does the machine being worked on lie behind the woman's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the machine being worked on is behind the woman's face."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the warehouse background to the stacked boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the warehouse background from the stacked boxes is 1.2 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse background have a larger size compared to the boxes on pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse background is not bigger than the boxes on pallets."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the warehouse background from the stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 7.0 feet exists between the warehouse background and the stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stacked boxes in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked boxes is 45.9 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse background to the left of the stacked boxes from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the warehouse background is to the left of the stacked boxes."
+  }
+]

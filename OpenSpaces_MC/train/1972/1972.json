@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the ball in hand from the stars?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.01 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the court surface and the text, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "court surface is taller."
+  },
+  {
+    "from": "human",
+    "value": "Is the ball in hand closer to the viewer compared to the player in action?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the ball in hand is in front of the player in action."
+  },
+  {
+    "from": "human",
+    "value": "Is the banner positioned before the ball in hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Is the ball in hand closer to the viewer compared to the stars?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the stars."
+  }
+]

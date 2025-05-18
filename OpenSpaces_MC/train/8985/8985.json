@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the glass to the stove."
+  },
+  {
+    "from": "gpt",
+    "value": "25.2 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the glass to the glass."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the glass from the glass is 2.36 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the stove and the glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 50.07 centimeters exists between the stove and the glass."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the glass to the glass."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 5.0 feet exists between the glass and the glass."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove above the glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the stove is not positioned above the glass."
+  }
+]

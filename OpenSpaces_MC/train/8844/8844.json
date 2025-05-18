@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the pizza on a plate or the pizza on a plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pizza on a plate appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the pizza on a plate in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pizza on a plate is 32.6 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the pizza on a plate in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pizza on a plate is 94.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pizza on a plate from the pizza on a plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pizza on a plate from the pizza on a plate is 4.9 inches."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the pizza on a plate from the pizza on a plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pizza on a plate is 3.5 feet from the pizza on a plate."
+  }
+]

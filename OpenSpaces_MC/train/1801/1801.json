@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the truck flatbed is taller than the white truck cab?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the truck flatbed is taller than the white truck cab."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the truck flatbed from the white truck cab horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.1 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the two stacked boxes on flatbed lie behind the white truck cab?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white truck cab is in front of the two stacked boxes on flatbed."
+  },
+  {
+    "from": "human",
+    "value": "Is the two stacked boxes on flatbed further to camera compared to the white truck cab?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the two stacked boxes on flatbed is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the truck flatbed behind the white truck cab?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue monkey plate and the pizza on baking tray."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue monkey plate is 10.8 inches away from the pizza on baking tray."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the pizza on baking tray to the blue monkey plate."
+  },
+  {
+    "from": "gpt",
+    "value": "the pizza on baking tray and the blue monkey plate are 26.0 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the blue monkey plate and the pizza on baking tray."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue monkey plate and the pizza on baking tray are 10.8 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the pizza on baking tray smaller than the blue monkey plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the pizza on baking tray is not smaller in size than the blue monkey plate."
+  },
+  {
+    "from": "human",
+    "value": "How far is the pizza on baking tray from the blue monkey plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pizza on baking tray and the blue monkey plate are 13.54 inches apart from each other."
+  }
+]

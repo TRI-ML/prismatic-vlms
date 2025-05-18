@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the clear blue sky to the parcel being held."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 44.0 meters exists between the clear blue sky and the parcel being held."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the clear blue sky and the parcel being held horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 30.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the clear blue sky and the white ground, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, clear blue sky appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white ground or the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white ground."
+  },
+  {
+    "from": "human",
+    "value": "Between the white ground and the clear blue sky, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white ground appears more on the left side."
+  }
+]

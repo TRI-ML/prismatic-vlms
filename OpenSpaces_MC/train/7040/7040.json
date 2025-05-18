@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the black pillow to the coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the black pillow and the coffee table are 2.73 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the black pillow from the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black pillow and the coffee table are 2.73 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the books on table to the left of the silver pillow from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the books on table is positioned on the left side of the silver pillow."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the silver pillow to the silver objects on table."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the silver pillow from the silver objects on table is 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black pillow is positioned to the left of the coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the black pillow is not on the left side of the coffee table."
+  }
+]

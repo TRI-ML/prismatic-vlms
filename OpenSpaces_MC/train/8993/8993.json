@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is lower down, the white sink bowl or the white electrical outlet?"
+  },
+  {
+    "from": "gpt",
+    "value": "white sink bowl is below."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the three test tubes?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the white sink bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "37.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the first aid kit or the white electrical outlet?"
+  },
+  {
+    "from": "gpt",
+    "value": "white electrical outlet is below."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the three test tubes to the white toilet."
+  },
+  {
+    "from": "gpt",
+    "value": "the three test tubes and the white toilet are 1.4 meters apart horizontally from each other."
+  }
+]

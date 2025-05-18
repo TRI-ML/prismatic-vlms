@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the stack of boxes from the worker in blue uniform vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the worker in blue uniform in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker in blue uniform is 5.14 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the stack of boxes from the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.8 meters exists between the stack of boxes and the stack of boxes."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of boxes lie in front of the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the stack of boxes from the worker in blue uniform vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of boxes and the worker in blue uniform are 3.72 meters apart vertically from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman's headband and the man's shirt horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's headband is 5.7 meters away from the man's shirt horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the man's hat."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the woman's headband from the man's shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.46 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the man's hat from the woman's earrings?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man's hat is 12.42 feet away from the woman's earrings."
+  },
+  {
+    "from": "human",
+    "value": "Is the man's hat bigger than the man's hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the man's hat has a larger size compared to the man's hat."
+  }
+]

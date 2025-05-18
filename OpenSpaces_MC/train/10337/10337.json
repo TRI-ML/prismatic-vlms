@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the refrigerator and the stove top, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "refrigerator is above."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the cabinets or the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the cabinets and the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 3.0 meters exists between the cabinets and the wall."
+  },
+  {
+    "from": "human",
+    "value": "How big is the stove top?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the stove top is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the wall or the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "wall is above."
+  }
+]

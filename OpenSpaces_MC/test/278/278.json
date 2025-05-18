@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the yellow tennis ball and the light blue polo shirt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow tennis ball."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown clay court closer to the viewer compared to the man with short brown hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow tennis ball closer to the viewer compared to the light blue polo shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the yellow tennis ball is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the light blue polo shirt and the white tennis shoes horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the light blue polo shirt and the white tennis shoes are 5.8 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the brown clay court?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the brown clay court is 18.0 inches."
+  }
+]

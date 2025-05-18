@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the trees or the smaller tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "smaller tree is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the trees and the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 43.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the trees and the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the trees and the stone wall are 43.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the large tree and the grass, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is large tree."
+  },
+  {
+    "from": "human",
+    "value": "How close is the sky from the smaller tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sky is 85.0 centimeters from the smaller tree."
+  }
+]

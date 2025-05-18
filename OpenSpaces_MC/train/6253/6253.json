@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the white cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the white cabinet is 12.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white table from the dresser with three drawers horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 97.3 centimeters exists between the white table and the dresser with three drawers."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the small circular mirror and the large white cabinet with four doors?"
+  },
+  {
+    "from": "gpt",
+    "value": "the small circular mirror is 7.0 feet from the large white cabinet with four doors."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white table from the dresser with three drawers?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 28.31 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white table and the dresser with three drawers?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white table and the dresser with three drawers are 28.31 inches apart from each other."
+  }
+]

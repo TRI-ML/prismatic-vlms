@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the plate on side table appear on the left side of the plate on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the plate on side table to the left of the plate on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the plate on coffee table is bigger than the plate on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the plate on coffee table is not larger than the plate on side table."
+  },
+  {
+    "from": "human",
+    "value": "Is the plate on coffee table to the left of the plate on side table from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the plate on coffee table is either to the right of or directly aligned with the plate on side table."
+  },
+  {
+    "from": "human",
+    "value": "Is the plate on side table bigger than the plate with food remnants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plate on side table is bigger than the plate with food remnants."
+  },
+  {
+    "from": "human",
+    "value": "Does the plate on side table have a larger size compared to the plate with food remnants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the plate on side table has a larger size compared to the plate with food remnants."
+  }
+]

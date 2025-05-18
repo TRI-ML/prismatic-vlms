@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the stove positioned at the back of the television set?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is behind the television set."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the microwave to the wall."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 48.2 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the stove to the television set."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the stove from the television set is 3.28 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the couch is thinner than the wall mirror?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the couch is not thinner than the wall mirror."
+  },
+  {
+    "from": "human",
+    "value": "Is the heater thinner than the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the heater has a lesser width compared to the couch."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the mac computer is wider than the large tv screen?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the mac computer's width does not surpass the large tv screen's."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the mac computer is."
+  },
+  {
+    "from": "gpt",
+    "value": "the mac computer is 57.9 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the mac computer and the large tv screen?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the mac computer from the large tv screen is 2.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the apple logo on black wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 69.91 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the mac computer from the apple logo on black wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.99 meters exists between the mac computer and the apple logo on black wall."
+  }
+]

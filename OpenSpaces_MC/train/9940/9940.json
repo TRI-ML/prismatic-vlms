@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white cabinet behind the yellow and blue flyer?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white cabinet in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white cabinet is 83.9 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the white cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white cabinet is 33.0 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the brown wooden table and the yellow and blue flyer?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden table is 2.5 meters from the yellow and blue flyer."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white refrigerator and the yellow and blue flyer vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the white refrigerator is 33.62 inches from the yellow and blue flyer vertically."
+  }
+]

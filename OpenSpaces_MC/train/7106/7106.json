@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the green sign with chinese characters bigger than the ice cream cone banner?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the green sign with chinese characters is larger in size than the ice cream cone banner."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the green sign with chinese characters and the shop with open door horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the green sign with chinese characters have a larger size compared to the shop with open door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the green sign with chinese characters is not bigger than the shop with open door."
+  },
+  {
+    "from": "human",
+    "value": "Is the green sign with chinese characters in front of the ice cream cone banner?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the shop with open door closer to the viewer compared to the shop with open door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the shop with open door."
+  }
+]

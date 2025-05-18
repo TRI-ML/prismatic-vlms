@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the people in the background from the people in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in the background and the people in the background are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the people in the background wider than the children in white shirts?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the people in the background exceeds that of the children in white shirts."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the children in white shirts and the children in white shirt and orange shorts vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the children in white shirts is 9.63 inches away from the children in white shirt and orange shorts vertically."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the children in white shirts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the children in white shirts is 6.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the children in black and white shirts and the woman in white shirt and blue jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 19.15 feet apart."
+  }
+]

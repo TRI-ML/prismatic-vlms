@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the wooden spoons occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the wooden spoons is 3.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the spices from the garlic cloves vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.1 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the spices and the garlic cloves?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the spices from the garlic cloves is 6.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the wooden spoons to the right of the fresh herbs from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wooden spoons is not to the right of the fresh herbs."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the wooden spoons and the fresh herbs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoons is 2.0 meters from the fresh herbs."
+  }
+]

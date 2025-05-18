@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the brown wooden table or the brown rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is brown wooden table."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the brown coffee table or the green couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is green couch."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the brown rug and the brown chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown rug and the brown chair are 13.13 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the brown coffee table or the green couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown coffee table is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the brown rug to the brown wooden table."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 13.1 feet exists between the brown rug and the brown wooden table."
+  }
+]

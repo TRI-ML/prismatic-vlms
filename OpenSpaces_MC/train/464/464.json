@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the cabinet is positioned to the right of the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cabinet is not to the right of the door."
+  },
+  {
+    "from": "human",
+    "value": "How big is the vase in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the vase is 19.0 centimeters in width."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the cabinet to the door."
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet and the door are 5.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the picture or the vase?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, picture appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the vase from the picture?"
+  },
+  {
+    "from": "gpt",
+    "value": "27.0 inches"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the person appear on the right side of the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person is not to the right of the ground."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the person from the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 1.8 meters away from the ground."
+  },
+  {
+    "from": "human",
+    "value": "Between the tree and the electric wire, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "tree is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person or the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "ground is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tree or the electric wire?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is tree."
+  }
+]

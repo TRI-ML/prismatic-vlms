@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the umbrella behind the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the umbrella is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the man and the red car horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man is 5.0 feet away from the red car horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the crosswalk behind the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the people."
+  },
+  {
+    "from": "human",
+    "value": "How far is the sign from the bicycle?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.66 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the man and the red car."
+  },
+  {
+    "from": "gpt",
+    "value": "the man and the red car are 6.8 feet apart."
+  }
+]

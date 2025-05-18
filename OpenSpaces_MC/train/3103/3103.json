@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the toilet to the drawer."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet is 2.1 meters away from the drawer."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the drawer and the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "the drawer is 2.0 meters from the trash can."
+  },
+  {
+    "from": "human",
+    "value": "How far is the basket on toilet tank from the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the basket on toilet tank is 4.0 feet from the toilet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the trash can to the cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the trash can from the cabinet is 31.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the trash can and the cabinet vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 4.0 feet apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the broken eggshell from the white coffee mug horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the broken eggshell is 9.0 inches away from the white coffee mug horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the broken eggshell and the clear glass plate vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 5.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brown wooden table from the clear glass plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden table is 3.9 inches from the clear glass plate."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the brown wooden table from the brown exterior of microwave vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the brown wooden table from the brown exterior of microwave is 1.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the broken eggshell?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.3 inches"
+  }
+]

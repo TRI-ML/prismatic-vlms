@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the beach tent in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 200.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the beach tent or the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, people appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the flag and the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "the flag is 4.1 feet away from the people vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the people and the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 24.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the beach tent or the umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is umbrella."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How close is the ottoman from the ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ottoman is 6.0 meters away from the ottoman."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the chair and the coffee table horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 15.1 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the ottoman to the ottoman."
+  },
+  {
+    "from": "gpt",
+    "value": "the ottoman is 6.0 meters away from the ottoman."
+  },
+  {
+    "from": "human",
+    "value": "Is the small round table in front of the ottoman?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the ottoman."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the small round table is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.0 feet."
+  }
+]

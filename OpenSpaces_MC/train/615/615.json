@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the golden retriever dog come in front of the blue plastic basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the yellow curtains from the blue pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow curtains is 7.61 feet from the blue pot."
+  },
+  {
+    "from": "human",
+    "value": "Does the golden retriever dog have a greater width compared to the blue plastic basket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the golden retriever dog has a greater width compared to the blue plastic basket."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the pink velvet chair to the gray couch."
+  },
+  {
+    "from": "gpt",
+    "value": "1.51 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the dead plant is wider than the brown wooden shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dead plant is not wider than the brown wooden shelf."
+  }
+]

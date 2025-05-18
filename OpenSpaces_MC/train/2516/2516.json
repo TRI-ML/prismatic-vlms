@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the boxes on bottom shelf from the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.0 meters exists between the boxes on bottom shelf and the boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the boxes on bottom shelf from the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on bottom shelf and the boxes on bottom shelf are 15.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How big is the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.1 feet"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the boxes on bottom shelf and the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on bottom shelf is 5.0 meters from the boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on bottom shelf is 3.17 meters tall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the white sheep and the white sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white sheep and the white sheep are 25.1 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white sheep and the white sheep horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the white sheep from the white sheep is 13.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How big is the white sheep in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white sheep is 31.17 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the white sheep lie behind the large white sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white sheep is behind the large white sheep."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the white sheep."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.0 meters."
+  }
+]

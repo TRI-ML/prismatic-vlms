@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the spoon in main dish and the main dish with colorful vegetables?"
+  },
+  {
+    "from": "gpt",
+    "value": "the spoon in main dish and the main dish with colorful vegetables are 0.9 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the spoon in main dish from the fork in main dish?"
+  },
+  {
+    "from": "gpt",
+    "value": "the spoon in main dish is 15.1 centimeters from the fork in main dish."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the spoon in main dish or the main dish with colorful vegetables?"
+  },
+  {
+    "from": "gpt",
+    "value": "main dish with colorful vegetables is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white tablecloth from the main dish with colorful vegetables vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.72 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the small bowl of nuts or the white tablecloth?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, small bowl of nuts appears more on the left side."
+  }
+]

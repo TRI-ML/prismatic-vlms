@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is taller, the salt or the radishes?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is salt."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the salt and the radishes vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the salt from the radishes is 3.6 inches."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the silver plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the garlic cloves or the shredded vegetables?"
+  },
+  {
+    "from": "gpt",
+    "value": "garlic cloves is taller."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the garlic cloves from the shredded vegetables?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 28.0 inches apart."
+  }
+]

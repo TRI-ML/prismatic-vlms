@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the blue shopping cart positioned in front of the green shopping cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue shopping cart is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Between the green shopping cart and the green shopping cart, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, green shopping cart appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Is the person wearing safety vest closer to camera compared to the green shopping cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the green shopping cart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the blue shopping cart from the green shopping cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue shopping cart and the green shopping cart are 5.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the green shopping cart in front of the blue shopping cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

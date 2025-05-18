@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the picture frame on wall to the left of the picture frame on wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the picture frame on wall is not to the left of the picture frame on wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the picture frame on wall bigger than the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the picture frame on wall is larger in size than the picture frame on wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the picture frame on wall is positioned to the left of the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the picture frame on wall is not to the left of the picture frame on wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the picture frame on wall have a larger size compared to the potted plant on left side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the picture frame on wall is not larger than the potted plant on left side table."
+  },
+  {
+    "from": "human",
+    "value": "Does the potted plant on left side table have a larger size compared to the picture frame on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the potted plant on left side table is larger in size than the picture frame on wall."
+  }
+]

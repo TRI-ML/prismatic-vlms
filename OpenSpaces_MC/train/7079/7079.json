@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the refrigerator and the lighting horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the refrigerator and the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "the refrigerator is 2.0 meters away from the lighting."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove bigger than the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stove is not bigger than the lighting."
+  },
+  {
+    "from": "human",
+    "value": "Is the stove positioned behind the lighting?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the stove is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sink and the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the stove are 2.88 meters apart from each other."
+  }
+]

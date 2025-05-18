@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the oven handle and the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "the oven handle and the microwave oven are 4.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the woman or the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is microwave oven."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the oven handle and the microwave oven horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "35.57 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the oven handle or the microwave oven?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is oven handle."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the burners?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the burners is 1.0 meters."
+  }
+]

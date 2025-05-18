@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the woman's purse or the man in blue shirt and green shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, man in blue shirt and green shorts appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the woman's purse and the man in blue shirt and green shorts?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's purse and the man in blue shirt and green shorts are 3.64 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's watch and the woman's high heels, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is woman's high heels."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the woman's purse from the benches?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.94 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the woman's purse and the woman's purse?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the woman's purse from the woman's purse is 8.0 meters."
+  }
+]

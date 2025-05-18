@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the grass in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 80.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the old-fashioned cannon appear on the right side of the large tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the old-fashioned cannon is either to the left of or directly aligned with the large tree."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the large tree and the water?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the large tree from the water is 3.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the dirt more distant than that of the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the dirt is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the grass from the old-fashioned cannon?"
+  },
+  {
+    "from": "gpt",
+    "value": "the grass and the old-fashioned cannon are 30.9 meters apart horizontally from each other."
+  }
+]

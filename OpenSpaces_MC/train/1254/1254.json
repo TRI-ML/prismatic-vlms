@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the woman in uniform to the woman in uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in uniform is 13.0 inches away from the woman in uniform."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the woman in uniform is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the woman in uniform is 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the locker or the man in uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is locker."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the locker and the man in uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the locker is 8.07 meters from the man in uniform."
+  },
+  {
+    "from": "human",
+    "value": "How far is the woman in uniform from the woman in uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in uniform and the woman in uniform are 13.0 inches apart from each other."
+  }
+]

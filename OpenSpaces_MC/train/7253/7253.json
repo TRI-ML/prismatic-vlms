@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the person in black shirt to the person in blue shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person in black shirt from the person in blue shirt is 125.4 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in black shirt positioned before the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person in black shirt is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in white shirt closer to camera compared to the person in green shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the person in red shirt or the person in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in red shirt is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How big is the person in red shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "25.87 feet"
+  }
+]

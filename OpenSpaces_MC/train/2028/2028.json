@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the body of water or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is trees."
+  },
+  {
+    "from": "human",
+    "value": "Between the grass and the cow with brown and white coloring, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "cow with brown and white coloring is above."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the body of water from the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the body of water is 26.0 feet away from the grass."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the body of water or the cow with brown and white coloring?"
+  },
+  {
+    "from": "gpt",
+    "value": "cow with brown and white coloring is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the body of water or the cow with brown and white coloring?"
+  },
+  {
+    "from": "gpt",
+    "value": "cow with brown and white coloring is more to the left."
+  }
+]

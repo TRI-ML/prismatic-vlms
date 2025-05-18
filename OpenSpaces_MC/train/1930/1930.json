@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the wall is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the window from the wall art horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.31 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the window appear over the wall art?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window is not above the wall art."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.84 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the window and the wall art?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window is 2.6 meters away from the wall art."
+  }
+]

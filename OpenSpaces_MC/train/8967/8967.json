@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the vendor at food cart from the people's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the vendor at food cart and the people's legs are 5.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the vendor at food cart and the people's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the vendor at food cart is 5.7 meters away from the people's legs."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the pink and green ring from the people's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pink and green ring is 8.4 meters away from the people's legs."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue trash can and the people's legs, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "people's legs is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Between the pink and green ring and the people's legs, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "people's legs is lower down."
+  }
+]

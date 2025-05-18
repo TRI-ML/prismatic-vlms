@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the silver car on the right side of the street and the red car in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the silver car on the right side of the street from the red car in the distance is 17.41 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue car in the distance appear on the right side of the silver car on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the blue car in the distance is positioned on the right side of the silver car on the right side of the street."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue car in the distance and the silver car on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue car in the distance is 31.88 feet from the silver car on the right side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Is the street light bigger than the car on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the street light is larger in size than the car on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver car on the right side of the street to the right of the red car in the distance from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the silver car on the right side of the street is either to the left of or directly aligned with the red car in the distance."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the brown bowl with green seeds come in front of the wooden spoon with white powder?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown bowl with white powder smaller than the wooden spoon with yellow powder?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown bowl with white powder is not smaller than the wooden spoon with yellow powder."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the brown bowl with green seeds from the brown bowl with white powder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown bowl with green seeds and the brown bowl with white powder are 1.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the brown bowl with white powder from the wooden spoon with yellow powder?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown bowl with white powder from the wooden spoon with yellow powder is 93.78 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the wooden spoon with red powder and the black bowl with yellow powder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden spoon with red powder and the black bowl with yellow powder are 3.77 feet apart."
+  }
+]

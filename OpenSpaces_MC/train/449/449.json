@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the sign with english text from the person with red umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "35.7 feet"
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the person with red umbrella and the blue car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with red umbrella and the blue car are 36.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the sign with english text and the person with red umbrella?Could you provide the horizontal distance between the sign with english text and the person with red umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with english text and the person with red umbrella are 17.77 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the person with red umbrella and the blue car?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person with red umbrella and the blue car are 36.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the blue car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the blue car is 4.0 meters."
+  }
+]

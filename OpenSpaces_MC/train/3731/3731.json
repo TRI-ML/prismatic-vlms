@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the pallets stacked in the distance in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the pallets stacked in the distance or the pallets stacked in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, pallets stacked in the distance appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the pallets stacked in the distance and the pallets stacked in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "31.16 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blue metal support beams from the yellow metal shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue metal support beams and the yellow metal shelves are 1.0 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the pallets stacked in the distance and the pallets stacked in the distance, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is pallets stacked in the distance."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sign with chinese characters and the sign with 'no parking' text."
+  },
+  {
+    "from": "gpt",
+    "value": "2.3 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sign with 'all traffic' text and the sign with english text."
+  },
+  {
+    "from": "gpt",
+    "value": "the sign with 'all traffic' text and the sign with english text are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the sign with 'all traffic' text wider than the sign with english text?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the sign with 'all traffic' text might be narrower or the same width as the sign with english text."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the sign with english text."
+  },
+  {
+    "from": "gpt",
+    "value": "21.2 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the sign with english text?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the sign with english text is 21.2 feet."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the house with white stairs and the gray asphalt road vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 4.47 meters exists between the house with white stairs and the gray asphalt road."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the house with white stairs and the gray asphalt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the white staircase leading to the front door to the green bushes."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 20.9 feet exists between the white staircase leading to the front door and the green bushes."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the house with white stairs in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the house with white stairs is 20.1 feet wide."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the gray asphalt road?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray asphalt road is 5.5 meters wide."
+  }
+]

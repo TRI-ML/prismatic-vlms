@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the person examining fruit display and the bananas on display horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the person examining fruit display from the bananas on display is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the grapes on display is bigger than the apples on display?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the grapes on display is not bigger than the apples on display."
+  },
+  {
+    "from": "human",
+    "value": "Does the person examining fruit display have a smaller size compared to the bananas on display?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the person examining fruit display might be larger or the same size as the bananas on display."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the strawberries on display and the peaches on display."
+  },
+  {
+    "from": "gpt",
+    "value": "the strawberries on display is 8.3 feet away from the peaches on display."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the peaches on display?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 inches"
+  }
+]

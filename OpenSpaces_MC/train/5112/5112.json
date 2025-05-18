@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the man in red shirt wider than the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the man in red shirt exceeds that of the woman in black shirt."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the man in blue shirt to the woman in white hat."
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue shirt and the woman in white hat are 15.5 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the woman in blue shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.21 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in red shirt positioned at the back of the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the woman in white hat from the woman in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white hat and the woman in black shirt are 5.0 meters apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the picture to the knife block."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.5 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the light lie behind the pot rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the light and the pot rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light is 27.0 feet from the pot rack."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the toaster to the chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the toaster and the chair are 6.7 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the toaster to the sink."
+  },
+  {
+    "from": "gpt",
+    "value": "the toaster is 4.4 feet away from the sink."
+  }
+]

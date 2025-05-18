@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the boxes on floor or the boxes on bottom shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is boxes on bottom shelf."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the boxes on lower shelves or the boxes on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is boxes on lower shelves."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the shutterstock.com url and the boxes on floor vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.31 inches."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the shutterstock.com url?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the shutterstock.com url is 7.58 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the boxes on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on floor is 2.04 meters wide."
+  }
+]

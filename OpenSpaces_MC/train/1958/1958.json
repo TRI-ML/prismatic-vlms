@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the woman in white shirt and purple skirt and the man in black shirt and khaki pants (referee)."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white shirt and purple skirt and the man in black shirt and khaki pants (referee) are 4.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the woman in white shirt and purple skirt or the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, woman in white shirt and purple skirt appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue fence and the man in black shirt and khaki pants, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue fence appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the woman in white shirt and purple skirt or the man in black shirt and khaki pants (referee)?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is woman in white shirt and purple skirt."
+  },
+  {
+    "from": "human",
+    "value": "How far is the woman in white shirt and purple skirt from the man in black shirt and khaki pants vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white shirt and purple skirt is 45.0 centimeters from the man in black shirt and khaki pants vertically."
+  }
+]

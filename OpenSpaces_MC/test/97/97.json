@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the table come in front of the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the chair lie in front of the couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the table less distant than that of the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the wall less distant than that of the rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the rug."
+  },
+  {
+    "from": "human",
+    "value": "Is the wall closer to the viewer compared to the rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

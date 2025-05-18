@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is taller, the red cloth on top of cabinet or the british flag design?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is british flag design."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the white cabinet with logo and the red cloth on top of cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white cabinet with logo is 20.13 centimeters from the red cloth on top of cabinet vertically."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the white cabinet with logo or the red cloth on top of cabinet, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is white cabinet with logo."
+  },
+  {
+    "from": "human",
+    "value": "Between the british flag design and the white cabinet with logo, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "british flag design is taller."
+  },
+  {
+    "from": "human",
+    "value": "Does the white cabinet with logo appear under the red cloth on top of cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white cabinet with logo is not below the red cloth on top of cabinet."
+  }
+]

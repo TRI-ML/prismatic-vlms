@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the white car wider than the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the white car is not wider than the white car."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white car from the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 11.0 meters exists between the white car and the white car."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white car and the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white car from the white car is 13.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the white car."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the white car is 5.23 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white car is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  }
+]

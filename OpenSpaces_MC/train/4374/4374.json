@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the trees lie behind the red and white boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is positioned to the left of the red and white boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees is not to the left of the red and white boat."
+  },
+  {
+    "from": "human",
+    "value": "Does the person on dock lie behind the blue building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the blue building."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the boats in water to the boat on dock."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the boats in water from the boat on dock is 3.65 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person on dock more distant than that of the blue building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

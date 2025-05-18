@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you measure the horizontal distance between the brown cushion on the chair and the blue wooden chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the brown cushion on the chair from the blue wooden chair is 25.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the picture on the wall to the blue wooden chair."
+  },
+  {
+    "from": "gpt",
+    "value": "12.03 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue wooden chair and the orange tablecloth horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue wooden chair and the orange tablecloth are 37.3 inches apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the picture on the wall or the blue wooden chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "picture on the wall is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the orange tablecloth or the table with blue legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is orange tablecloth."
+  }
+]

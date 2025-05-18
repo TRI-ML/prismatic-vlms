@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the blue rug to the brown couch."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue rug and the brown couch are 11.9 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the window is smaller than the tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the window might be larger or the same size as the tv."
+  },
+  {
+    "from": "human",
+    "value": "Does the black lampshade come in front of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the orange flower on wall from the blue rug?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the orange flower on wall from the blue rug is 4.83 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the orange flower on wall closer to camera compared to the board game?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the street lamp and the woman horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street lamp and the woman are 4.0 meters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the child?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person from the person is 3.51 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the person and the person?Could you provide the horizontal distance between the person and the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 3.07 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the street lamp and the woman."
+  },
+  {
+    "from": "gpt",
+    "value": "the street lamp is 4.0 meters from the woman."
+  }
+]

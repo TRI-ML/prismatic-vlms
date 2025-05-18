@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white van with 'emu run tours' text or the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red car appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the white van with 'emu run tours' text have a larger size compared to the white trailer with green seats?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white van with 'emu run tours' text has a larger size compared to the white trailer with green seats."
+  },
+  {
+    "from": "human",
+    "value": "Does the white van with 'emu run tours' text have a larger size compared to the white trailer with green seats?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white van with 'emu run tours' text is bigger than the white trailer with green seats."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the white van with 'emu run tours' text from the red car?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red car from the trees vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 33.3 inches apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the parking lot or the mountains?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, parking lot appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the sign or the parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is sign."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the parking lot and the mountains?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.1 meters"
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the people and the mountains."
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the people from the mountains is 5.7 feet."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole is 8.0 feet tall."
+  }
+]

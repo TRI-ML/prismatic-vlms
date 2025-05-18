@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the player in action and the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the player in action from the racket is 50.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the player in action and the racket vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the player in action is 2.0 meters from the racket vertically."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the net or the racket?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, net appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the player's shadow and the player in action, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "player in action is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the player's shadow and the player's shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.7 centimeters apart."
+  }
+]

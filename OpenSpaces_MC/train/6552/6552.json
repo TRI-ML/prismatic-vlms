@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the white railing to the green trees."
+  },
+  {
+    "from": "gpt",
+    "value": "the white railing and the green trees are 13.86 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the railroad bridge from the white sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 0.9 centimeters exists between the railroad bridge and the white sky."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the white railing and the green trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white railing is 13.86 feet away from the green trees."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the green trees is bigger than the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the green trees is larger in size than the white wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the roadway smaller than the white concrete?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the roadway is smaller than the white concrete."
+  }
+]

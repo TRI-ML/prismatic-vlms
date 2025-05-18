@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the blue court area from the ball in air?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.08 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the court surface is 18.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the ball in air from the text at bottom of image?"
+  },
+  {
+    "from": "gpt",
+    "value": "the ball in air and the text at bottom of image are 13.46 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the ball in air to the text at bottom of image."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the ball in air from the text at bottom of image is 13.46 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the ball in air."
+  },
+  {
+    "from": "gpt",
+    "value": "27.0 centimeters"
+  }
+]

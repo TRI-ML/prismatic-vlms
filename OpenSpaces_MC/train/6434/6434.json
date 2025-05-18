@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the warehouse machine pedals lie in front of the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the warehouse machine steering wheel occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse machine steering wheel is 1.8 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the man wearing blue shirt positioned in front of the warehouse machine controls?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the warehouse shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse shelves is 5.97 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the warehouse shelves from the warehouse machine seat?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.8 inches apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the sandals on the floor and the metal bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sandals on the floor is 1.5 meters away from the metal bench horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pink fabric and the white text horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the white circle and the blue background."
+  },
+  {
+    "from": "gpt",
+    "value": "the white circle and the blue background are 0.0 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue background from the brown fabric horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue background is 0.0 inches away from the brown fabric horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the blue background or the brown fabric?"
+  },
+  {
+    "from": "gpt",
+    "value": "brown fabric is shorter."
+  }
+]

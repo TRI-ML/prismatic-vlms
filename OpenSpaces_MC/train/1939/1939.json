@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the dining table or the pumpkin on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "dining table is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the dining table in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the coffee table and the reclining chair horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the coffee table and the reclining chair are 13.16 feet apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Between the reclining chair and the vase on glass table, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "reclining chair is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the reclining chair have a larger size compared to the vase on glass table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the reclining chair has a larger size compared to the vase on glass table."
+  }
+]

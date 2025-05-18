@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the gray car and the yellow taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray car is 29.0 inches away from the yellow taxi."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray car thinner than the yellow taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the gray car's width is less than the yellow taxi's."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the gray building and the gray building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray building is 16.77 meters away from the gray building."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the gray car from the yellow taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 29.0 inches exists between the gray car and the yellow taxi."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the gray car to the yellow taxi."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray car is 29.0 inches from the yellow taxi."
+  }
+]

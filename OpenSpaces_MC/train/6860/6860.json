@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the light fixture from the tv mounted on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light fixture and the tv mounted on wall are 3.3 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the kitchen island appear on the right side of the pot with utensils?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the kitchen island to the right of the pot with utensils."
+  },
+  {
+    "from": "human",
+    "value": "Is the glass cup on table to the right of the tv mounted on wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the glass cup on table is either to the left of or directly aligned with the tv mounted on wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stool at kitchen island is positioned to the right of the white ceramic bowl on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the stool at kitchen island is positioned on the right side of the white ceramic bowl on table."
+  },
+  {
+    "from": "human",
+    "value": "Does the glass cup on table appear on the right side of the stool at kitchen island?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the glass cup on table is either to the left of or directly aligned with the stool at kitchen island."
+  }
+]

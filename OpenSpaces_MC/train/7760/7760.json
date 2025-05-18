@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the traffic lights and the crane on the right side of the street, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, crane on the right side of the street appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the sign on the left side of the street and the truck on the left side of the street, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sign on the left side of the street appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the traffic lights in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the traffic lights is 2.6 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the tree on the right side of the street or the sign on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, tree on the right side of the street appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the sky to the crane on the right side of the street."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the sky from the crane on the right side of the street is 7.23 feet."
+  }
+]

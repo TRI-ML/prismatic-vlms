@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the people in the background and the people standing in front of the bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the people in the background from the people standing in front of the bus is 13.38 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the people in the background smaller than the people standing in front of the bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the people in the background is smaller than the people standing in front of the bus."
+  },
+  {
+    "from": "human",
+    "value": "Is the people in the background in front of the people in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the people in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people in the background is 7.6 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Does the people in the background have a smaller size compared to the people standing in front of the bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people in the background has a smaller size compared to the people standing in front of the bus."
+  }
+]

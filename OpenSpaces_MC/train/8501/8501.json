@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the toilet paper holder and the water hose horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet paper holder is 96.9 centimeters away from the water hose horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the tissue box on wall from the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 52.3 centimeters exists between the tissue box on wall and the toilet."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the toilet and the toilet paper holder?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 37.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the toilet paper holder to the water hose."
+  },
+  {
+    "from": "gpt",
+    "value": "the toilet paper holder and the water hose are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the tissue box on wall and the toilet?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 52.3 centimeters exists between the tissue box on wall and the toilet."
+  }
+]

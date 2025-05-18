@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the sky and the trees, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is trees."
+  },
+  {
+    "from": "human",
+    "value": "Does the trees have a larger size compared to the small zebra statue?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees is not bigger than the small zebra statue."
+  },
+  {
+    "from": "human",
+    "value": "Is the large zebra statue bigger than the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the large zebra statue has a larger size compared to the stone wall."
+  },
+  {
+    "from": "human",
+    "value": "Between the large zebra statue and the stone wall, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "stone wall is below."
+  },
+  {
+    "from": "human",
+    "value": "Between the trees and the small zebra statue, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is lower down."
+  }
+]

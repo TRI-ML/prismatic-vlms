@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the person standing behind the camera holder to the blue kite in the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing behind the camera holder is 95.3 feet away from the blue kite in the sky horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the white canopy with a black border from the person standing next to the camera holder horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 51.0 feet exists between the white canopy with a black border and the person standing next to the camera holder."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the person standing behind the camera holder less distant than that of the blue kite in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the black box in the bottom right corner is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the black box in the bottom right corner is 92.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the person standing behind the camera holder closer to camera compared to the blue kite in the sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person standing behind the camera holder is in front of the blue kite in the sky."
+  }
+]

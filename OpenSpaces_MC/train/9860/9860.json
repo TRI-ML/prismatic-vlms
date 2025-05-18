@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the orange traffic cone from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange traffic cone and the person are 8.3 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the orange traffic cone from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange traffic cone is 7.0 meters away from the person."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the person to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.03 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the orange traffic cone from the person horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the orange traffic cone from the person is 35.41 feet."
+  }
+]

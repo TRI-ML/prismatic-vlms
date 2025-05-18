@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the boxes have a greater width compared to the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the boxes has a greater width compared to the man."
+  },
+  {
+    "from": "human",
+    "value": "How close is the warehouse floor from the pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.03 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the boxes wider than the man?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the boxes has a greater width compared to the man."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the website is thinner than the warehouse?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the website is not thinner than the warehouse."
+  },
+  {
+    "from": "human",
+    "value": "Is the website wider than the boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the website is not wider than the boxes."
+  }
+]

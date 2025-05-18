@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the black object in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 53.92 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the black object lie behind the yellow object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black object is behind the yellow object."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the black object is."
+  },
+  {
+    "from": "gpt",
+    "value": "the black object is 14.11 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the brown object?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the black object and the yellow forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 16.0 meters apart."
+  }
+]

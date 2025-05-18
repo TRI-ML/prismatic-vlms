@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the baseball in front of the spectators?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the spectators and the spectators."
+  },
+  {
+    "from": "gpt",
+    "value": "the spectators is 3.9 feet away from the spectators."
+  },
+  {
+    "from": "human",
+    "value": "Does the spectators come in front of the spectators?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the spectators is positioned to the right of the spectators?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the spectators is either to the left of or directly aligned with the spectators."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the spectators?"
+  },
+  {
+    "from": "gpt",
+    "value": "26.66 inches"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the man's shirt from the jars vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man's shirt and the jars are 1.5 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the bowl to the man's face."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the bananas and the bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bananas from the bowl is 3.94 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the bowl from the man's face?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 5.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the bananas behind the bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bananas is closer to the viewer."
+  }
+]

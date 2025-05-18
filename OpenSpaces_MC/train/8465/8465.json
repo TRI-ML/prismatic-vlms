@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light pole is 2.43 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the trees occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 33.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the parking lot is bigger than the sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the parking lot has a larger size compared to the sign."
+  },
+  {
+    "from": "human",
+    "value": "How far is the cars in parking lot from the cars vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 4.5 feet."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the light pole is bigger than the red building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the light pole is bigger than the red building."
+  }
+]

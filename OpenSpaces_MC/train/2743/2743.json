@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the shrubbery?"
+  },
+  {
+    "from": "gpt",
+    "value": "43.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the wooden fence or the red planter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is red planter."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the trees and the red planter?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.99 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the white house and the person sitting on chair, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white house is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the wooden fence or the red planter?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red planter appears more on the right side."
+  }
+]

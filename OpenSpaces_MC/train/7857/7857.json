@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the person holding meat from the person cutting meat vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "0.3 inches"
+  },
+  {
+    "from": "human",
+    "value": "Is the person cutting meat thinner than the person holding phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the person cutting meat's width is less than the person holding phone's."
+  },
+  {
+    "from": "human",
+    "value": "Is the person holding meat thinner than the person cutting meat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person holding meat is thinner than the person cutting meat."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the hot sauce bottle and the person in puffer jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "the hot sauce bottle and the person in puffer jacket are 4.1 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the person cutting meat closer to camera compared to the person holding phone?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person holding phone is behind the person cutting meat."
+  }
+]

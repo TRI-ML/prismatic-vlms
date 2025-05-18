@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the people standing near a table and the people standing near a table, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is people standing near a table."
+  },
+  {
+    "from": "human",
+    "value": "Does the people standing near a table appear on the left side of the people standing near a table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the people standing near a table is positioned on the left side of the people standing near a table."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the people standing near a table or the people standing near a table, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is people standing near a table."
+  },
+  {
+    "from": "human",
+    "value": "Between the people standing near a table and the people standing near a table, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is people standing near a table."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the people standing near a table and the people standing near a table."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 10.0 centimeters apart."
+  }
+]

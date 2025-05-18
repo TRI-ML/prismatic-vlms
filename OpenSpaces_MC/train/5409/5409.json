@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the people on boats from the people on boats?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people on boats and the people on boats are 3.67 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person in yellow shirt is positioned to the right of the boats on the river?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person in yellow shirt to the right of the boats on the river."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the person in yellow shirt occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.9 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the hats on boats appear on the right side of the people on boats?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the hats on boats to the right of the people on boats."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the people on boats?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the people on boats is 82.1 centimeters."
+  }
+]

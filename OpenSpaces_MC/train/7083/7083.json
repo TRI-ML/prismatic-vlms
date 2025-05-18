@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the tree stump and the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 16.17 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the tree or the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "person in orange shirt is taller."
+  },
+  {
+    "from": "human",
+    "value": "Is the person in black shirt closer to camera compared to the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in black shirt is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the tree and the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree and the person in orange shirt are 4.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the tree from the person in orange shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the tree is 4.1 meters away from the person in orange shirt."
+  }
+]

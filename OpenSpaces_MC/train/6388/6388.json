@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the fence."
+  },
+  {
+    "from": "gpt",
+    "value": "the fence is 1.15 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the distance between the parking lot and the windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "the parking lot is 26.0 inches from the windows."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the fence or the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "grass is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the fence further to camera compared to the grass?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the windows more distant than that of the light post?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  }
+]

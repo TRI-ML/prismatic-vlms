@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the wire fence and the horse in foreground horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 4.2 meters exists between the wire fence and the horse in foreground."
+  },
+  {
+    "from": "human",
+    "value": "Does the horse in background appear on the left side of the horse in middle ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the horse in background is to the left of the horse in middle ground."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the yellow dandelions?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the green grass and the wooden fence posts."
+  },
+  {
+    "from": "gpt",
+    "value": "the green grass is 38.9 inches away from the wooden fence posts."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the wire fence is positioned to the left of the horse in foreground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the wire fence is to the left of the horse in foreground."
+  }
+]

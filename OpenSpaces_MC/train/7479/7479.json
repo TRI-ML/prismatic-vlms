@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the stone statue of a person from the stone statue of a person horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stone statue of a person is 1.6 meters from the stone statue of a person horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stone statue of a person from the large stone urn with carved figures horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "18.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the stone statue of a person and the stone urn in the distance?Could you provide the horizontal distance between the stone statue of a person and the stone urn in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 38.4 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stone urn in the background from the stone statue of a person?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stone urn in the background from the stone statue of a person is 1.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "How close is the stone statue of a person from the stone urn in the distance?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.9 meters apart."
+  }
+]

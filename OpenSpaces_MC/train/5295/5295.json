@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the plant on counter to the chairs."
+  },
+  {
+    "from": "gpt",
+    "value": "15.7 feet"
+  },
+  {
+    "from": "human",
+    "value": "Does the window have a smaller size compared to the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the window is not smaller than the stove."
+  },
+  {
+    "from": "human",
+    "value": "How far is the table from the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table and the clock on wall are 17.28 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the table and the clock on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table and the clock on wall are 17.28 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the window from the stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window and the stove are 23.77 feet apart from each other."
+  }
+]

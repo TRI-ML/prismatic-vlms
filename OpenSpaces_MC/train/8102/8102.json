@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the u.s. postal service box and the u.s. postal service box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the u.s. postal service box is 1.27 meters away from the u.s. postal service box."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the u.s. postal service box to the u.s. postal service box."
+  },
+  {
+    "from": "gpt",
+    "value": "the u.s. postal service box is 3.45 feet from the u.s. postal service box."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the u.s. postal service box and the u.s. postal service box vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "55.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the u.s. postal service box and the u.s. postal service box?"
+  },
+  {
+    "from": "gpt",
+    "value": "the u.s. postal service box and the u.s. postal service box are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the u.s. postal service box from the u.s. postal service box?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the u.s. postal service box from the u.s. postal service box is 1.2 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the stacked white boxes and the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stacked white boxes is 18.0 meters away from the stacked pallets."
+  },
+  {
+    "from": "human",
+    "value": "Does the stacked white boxes have a smaller size compared to the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the stacked white boxes is not smaller in size than the stacked pallets."
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow forklift from the stacked white boxes vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stacked white boxes is smaller than the stacked pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the stacked white boxes is not smaller in size than the stacked pallets."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow forklift come in front of the stacked white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is in front of the stacked white boxes."
+  }
+]

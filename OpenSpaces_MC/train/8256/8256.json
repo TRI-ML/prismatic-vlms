@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the chair from the portrait of man?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the chair from the portrait of man is 10.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the door and the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.41 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the paper?"
+  },
+  {
+    "from": "gpt",
+    "value": "the paper is 1.2 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the chair and the portrait of man?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the chair from the portrait of man is 10.8 feet."
+  }
+]

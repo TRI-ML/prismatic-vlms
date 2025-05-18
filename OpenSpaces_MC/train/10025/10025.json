@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the stack of wooden crates?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the wooden crate on pallet and the hand truck."
+  },
+  {
+    "from": "gpt",
+    "value": "21.98 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the wooden crate on pallet or the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is hand truck."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the pallet with wooden crate."
+  },
+  {
+    "from": "gpt",
+    "value": "1.59 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the wooden crate on pallet and the hand truck?Could you provide the horizontal distance between the wooden crate on pallet and the hand truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "25.8 inches"
+  }
+]

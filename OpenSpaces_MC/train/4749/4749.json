@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the brick building from the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the parking meter and the police car vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 97.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Which is above, the brick building or the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "brick building is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Between the police car and the street light, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "police car is higher up."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the police car is wider than the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the police car is not wider than the street light."
+  }
+]

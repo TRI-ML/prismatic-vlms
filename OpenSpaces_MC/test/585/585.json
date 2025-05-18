@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the brown leather couch have a lesser width compared to the black laptop on coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the brown leather couch might be wider or the same width as the black laptop on coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown door have a lesser width compared to the brown door?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the brown door might be wider or the same width as the brown door."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the black remote control to the black laptop on coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black remote control from the black laptop on coffee table is 20.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown door appear under the brown door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown door is below the brown door."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown door below the brown door?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the brown door is located below the brown door."
+  }
+]

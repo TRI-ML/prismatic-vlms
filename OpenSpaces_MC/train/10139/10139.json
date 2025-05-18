@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 19.65 feet."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the orange traffic cone and the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.8 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the orange traffic cone."
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the orange traffic cone."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the orange traffic cone is 5.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the orange traffic cone?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the orange traffic cone is 6.85 meters."
+  }
+]

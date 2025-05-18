@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the pots and pans to the right of the books on shelf from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the pots and pans to the right of the books on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Between the alien picture and the angel picture, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "angel picture is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the kitchen cabinets and the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the kitchen cabinets or the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "kitchen cabinets is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the pots and pans or the books on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "pots and pans is more to the right."
+  }
+]

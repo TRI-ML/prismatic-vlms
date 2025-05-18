@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brown wooden coffee table from the brown wooden coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden coffee table and the brown wooden coffee table are 1.8 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden coffee table in front of the brown wooden coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown wooden coffee table is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden coffee table positioned before the brown wooden coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown wooden coffee table is in front of the brown wooden coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Is the brown wooden coffee table further to camera compared to the brown wooden coffee table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the brown wooden coffee table is behind the brown wooden coffee table."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the brown wooden coffee table to the brown wooden coffee table."
+  },
+  {
+    "from": "gpt",
+    "value": "the brown wooden coffee table and the brown wooden coffee table are 1.99 meters apart from each other."
+  }
+]

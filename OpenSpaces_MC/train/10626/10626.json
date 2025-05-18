@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the brown leather table and the brown leather ottoman, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is brown leather ottoman."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the brown leather table and the window with blinds?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 14.0 feet exists between the brown leather table and the window with blinds."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the picture frame on right wall and the brown leather end table?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the picture frame on right wall is bigger than the brown leather end table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the picture frame on right wall is not bigger than the brown leather end table."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the brown leather table?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  }
+]

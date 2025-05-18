@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the fence or the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, fence appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the street or the bicycle wheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, street appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the fence is 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the bicycle wheel and the sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle wheel and the sky are 7.26 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far is the fence from the sky horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the fence is 38.0 centimeters from the sky horizontally."
+  }
+]

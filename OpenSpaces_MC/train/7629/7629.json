@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the blue sky and the stack of pallets on the left, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, blue sky appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the gravel ground and the person operating forklift, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is gravel ground."
+  },
+  {
+    "from": "human",
+    "value": "Between the gravel ground and the person operating forklift, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "gravel ground is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the blue sky and the stack of pallets with boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue sky is 1.58 meters away from the stack of pallets with boxes."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the pallets to the blue sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets and the blue sky are 9.7 meters apart vertically from each other."
+  }
+]

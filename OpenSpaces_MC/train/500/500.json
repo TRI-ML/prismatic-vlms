@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the purple vegetables in glass jar and the yellow peppers in glass jar?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 5.3 centimeters exists between the purple vegetables in glass jar and the yellow peppers in glass jar."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the purple vegetable on table and the green vegetable on table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the purple vegetable on table is 4.54 centimeters away from the green vegetable on table vertically."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the purple vegetable on table and the green vegetable on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.79 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the carrot on table and the broccoli in glass jar?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 90.1 centimeters exists between the carrot on table and the broccoli in glass jar."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the purple vegetable on table is taller than the green vegetable on table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the purple vegetable on table is much taller as the green vegetable on table."
+  }
+]

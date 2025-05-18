@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the drink in the top left corner is positioned above the food in the top right corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the drink in the top left corner is located above the food in the top right corner."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sauce in the bottom right corner and the food in the top right corner."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 68.8 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the sauce in the bottom right corner and the drink in the top left corner horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sauce in the bottom right corner is 3.4 feet from the drink in the top left corner horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the sauce in the bottom right corner from the drink in the top left corner horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 3.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the food in the top right corner and the sauce in the bottom right corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "the food in the top right corner and the sauce in the bottom right corner are 69.0 centimeters apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the helly hansen store sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the helly hansen store sign is 8.0 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the helly hansen store sign and the helly hansen store sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the helly hansen store sign and the helly hansen store sign are 54.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the clock on building and the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the clock on building is 25.0 feet from the helly hansen store sign."
+  },
+  {
+    "from": "human",
+    "value": "How far is the helly hansen store sign from the helly hansen store sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 86.46 centimeters exists between the helly hansen store sign and the helly hansen store sign."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the helly hansen store sign and the helly hansen store sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the helly hansen store sign is 3.8 feet from the helly hansen store sign."
+  }
+]

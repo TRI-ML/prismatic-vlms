@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the firefighters in blue uniforms and the street light?"
+  },
+  {
+    "from": "gpt",
+    "value": "the firefighters in blue uniforms is 3.8 feet from the street light."
+  },
+  {
+    "from": "human",
+    "value": "Is the car behind the firefighters in blue uniforms?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "the street is 9.58 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the street sign from the firefighters in blue uniforms?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 62.37 centimeters exists between the street sign and the firefighters in blue uniforms."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the street sign and the firefighters in blue uniforms?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 62.37 centimeters exists between the street sign and the firefighters in blue uniforms."
+  }
+]

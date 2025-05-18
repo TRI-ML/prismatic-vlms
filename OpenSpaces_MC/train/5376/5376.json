@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the banana come behind the white bottle with label?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the apple and the orange?"
+  },
+  {
+    "from": "gpt",
+    "value": "the apple is 22.1 inches from the orange."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the white bottle with label and the banana."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 37.6 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the white bottle with label come behind the banana?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white bottle with label is further from the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white bottle with label is smaller than the banana?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white bottle with label is not smaller in size than the banana."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the vase with flowers is positioned to the left of the vase with flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the vase with flowers is either to the right of or directly aligned with the vase with flowers."
+  },
+  {
+    "from": "human",
+    "value": "Is the lamp on side table to the left of the picture frame on couch from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the lamp on side table is either to the right of or directly aligned with the picture frame on couch."
+  },
+  {
+    "from": "human",
+    "value": "What is the radius of the vase with flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the couch is wider than the lamp on side table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the couch is wider than the lamp on side table."
+  },
+  {
+    "from": "human",
+    "value": "Does the vase with flowers appear on the left side of the vase with flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the vase with flowers is either to the right of or directly aligned with the vase with flowers."
+  }
+]

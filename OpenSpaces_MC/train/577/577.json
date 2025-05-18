@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the baseball uniform to the baseball uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 1.71 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the baseball uniform and the baseball uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the baseball uniform from the baseball uniform is 1.71 meters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the baseball uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball uniform to the left of the baseball uniform from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the baseball uniform to the left of the baseball uniform."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the baseball uniform and the truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball uniform is 6.44 meters from the truck."
+  }
+]

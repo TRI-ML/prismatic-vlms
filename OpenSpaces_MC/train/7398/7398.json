@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the large white statue?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large white statue is 2.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the large white statue from the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the large white statue and the trees are 13.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees is wider than the white planter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the trees exceeds that of the white planter."
+  },
+  {
+    "from": "human",
+    "value": "Is the white planter wider than the black suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the white planter might be narrower or the same width as the black suv."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the large white statue."
+  },
+  {
+    "from": "gpt",
+    "value": "the large white statue is 1.6 meters wide."
+  }
+]

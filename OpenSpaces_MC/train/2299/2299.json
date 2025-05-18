@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the cargo container or the truck cab?"
+  },
+  {
+    "from": "gpt",
+    "value": "cargo container is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the truck or the dumpster?"
+  },
+  {
+    "from": "gpt",
+    "value": "truck is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the truck and the dumpster, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is truck."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the truck."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 65.08 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the cargo container and the truck cab, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cargo container appears more on the right side."
+  }
+]

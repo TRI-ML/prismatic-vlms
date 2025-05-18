@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the trees on the right side and the yellow taxi, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees on the right side is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the trees on the right side or the yellow taxi?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow taxi."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the red traffic light and the sunset on the horizon."
+  },
+  {
+    "from": "gpt",
+    "value": "the red traffic light is 3.4 meters away from the sunset on the horizon."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the red traffic light or the sunset on the horizon?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, sunset on the horizon appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Between the red traffic light and the yellow taxi, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, yellow taxi appears more on the left side."
+  }
+]

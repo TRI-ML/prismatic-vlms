@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the people from the water?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 11.0 meters from the water."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the people?"
+  },
+  {
+    "from": "gpt",
+    "value": "the people is 2.98 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the people or the water?"
+  },
+  {
+    "from": "gpt",
+    "value": "people is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the kites further to the viewer compared to the cars?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "How big is the mountains?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the mountains is 88.0 centimeters."
+  }
+]

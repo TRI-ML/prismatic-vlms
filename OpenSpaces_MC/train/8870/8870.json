@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person using laptop to the left of the poster on wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person using laptop is positioned on the left side of the poster on wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the couch in front of the poster on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the couch positioned in front of the lamp on floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the couch is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the couch is positioned to the left of the poster on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the couch is to the left of the poster on wall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the couch and the poster on wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the couch from the poster on wall is 3.9 meters."
+  }
+]

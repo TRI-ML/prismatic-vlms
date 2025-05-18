@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the tomato and the bunch of garlic vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 61.7 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the bunch of garlic or the bunch of garlic?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned lower is bunch of garlic."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the bunch of garlic and the bunch of garlic?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bunch of garlic and the bunch of garlic are 43.5 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the tomato and the tomato."
+  },
+  {
+    "from": "gpt",
+    "value": "the tomato and the tomato are 39.28 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the tomato and the tomato, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "tomato is lower down."
+  }
+]

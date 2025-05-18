@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the plug in outlet to the outlet with plugs."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 19.0 centimeters exists between the plug in outlet and the outlet with plugs."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the outlet with plugs in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the outlet with plugs is 11.38 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "How far is the plug in outlet from the outlet with plugs?"
+  },
+  {
+    "from": "gpt",
+    "value": "19.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Is the outlet with plugs below the grocery items on refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the outlet with plugs is positioned under the grocery items on refrigerator."
+  },
+  {
+    "from": "human",
+    "value": "Is the outlet with plugs shorter than the grocery items on refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the outlet with plugs is not as tall as the grocery items on refrigerator."
+  }
+]

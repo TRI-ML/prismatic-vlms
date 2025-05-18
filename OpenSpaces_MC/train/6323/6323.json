@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the blue and yellow striped object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue and yellow striped object is 20.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "the trees is 9.6 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver car bigger than the blue and yellow striped object?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the silver car is not bigger than the blue and yellow striped object."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver car bigger than the blue and yellow striped object?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the silver car is not larger than the blue and yellow striped object."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the gray trash can to the silver car."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray trash can and the silver car are 7.17 feet apart from each other."
+  }
+]

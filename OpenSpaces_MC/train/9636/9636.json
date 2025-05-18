@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the microphone from the microphone horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the microphone and the microphone are 31.0 inches apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the microphone closer to camera compared to the microphone?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the microphone is behind the microphone."
+  },
+  {
+    "from": "human",
+    "value": "Is the microphone closer to camera compared to the microphone?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the microphone is further to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Is the microphone closer to the viewer compared to the microphone?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the microphone and the microphone vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 4.0 inches apart."
+  }
+]

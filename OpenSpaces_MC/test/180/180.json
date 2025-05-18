@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the vase with flowers from the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the vase with flowers and the chair are 2.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the vase with flowers and the person walking vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 48.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the vase with flowers behind the person walking?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the vase with flowers is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the lamp in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.03 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the vase with flowers further to camera compared to the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  }
+]

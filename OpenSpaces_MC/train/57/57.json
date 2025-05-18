@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on shelves is 54.0 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Does the gray floor have a larger size compared to the gray wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the gray floor is bigger than the gray wall."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the boxes on shelves."
+  },
+  {
+    "from": "gpt",
+    "value": "the boxes on shelves is 21.43 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the gray floor or the gray wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray floor is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Between the orange fence and the warehouse shelves, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "orange fence is more to the right."
+  }
+]

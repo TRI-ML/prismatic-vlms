@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the corona extra neon sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the corona extra neon sign is 23.6 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the corona extra neon sign and the delicious ice cold drinks."
+  },
+  {
+    "from": "gpt",
+    "value": "the corona extra neon sign is 1.0 meters from the delicious ice cold drinks vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the cash only sign and the philippe sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the cash only sign and the philippe sign."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the cash only sign or the philippe sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, cash only sign appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the large clock or the cash only sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "cash only sign is more to the left."
+  }
+]

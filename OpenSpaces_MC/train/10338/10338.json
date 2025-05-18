@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the background is bigger than the black shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the background is bigger than the black shoes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the background less distant than that of the black shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red helmet is bigger than the khaki pants?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the red helmet is larger in size than the khaki pants."
+  },
+  {
+    "from": "human",
+    "value": "Does the young boy on skateboard have a larger size compared to the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the young boy on skateboard is not bigger than the background."
+  },
+  {
+    "from": "human",
+    "value": "Does the red helmet come in front of the black shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the red helmet is further to the viewer."
+  }
+]

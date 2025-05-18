@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the zebra and the grassland."
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra and the grassland are 3.71 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the zebra and the grassland?"
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra and the grassland are 3.71 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the body of water from the mountains?"
+  },
+  {
+    "from": "gpt",
+    "value": "the body of water and the mountains are 11.62 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the zebra and the body of water?"
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra is 1.4 meters away from the body of water."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the zebra to the grassland."
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra is 5.0 meters from the grassland horizontally."
+  }
+]

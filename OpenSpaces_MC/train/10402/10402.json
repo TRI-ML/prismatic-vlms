@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the plant on windowsill behind the blue couch with orange and yellow pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the plant on windowsill and the blue couch with orange and yellow pillows horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.32 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the plant on windowsill more distant than that of the blue couch with orange and yellow pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Does the plant on windowsill lie behind the blue couch with orange and yellow pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the plant on windowsill is behind the blue couch with orange and yellow pillows."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the plant on windowsill is smaller than the blue couch with orange and yellow pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the plant on windowsill occupies less space than the blue couch with orange and yellow pillows."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the red traffic light from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 7.0 feet exists between the red traffic light and the tree."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the walk/don't walk sign and the traffic light pole?"
+  },
+  {
+    "from": "gpt",
+    "value": "the walk/don't walk sign and the traffic light pole are 42.81 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the red traffic light is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the red traffic light is 14.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the red traffic light bigger than the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red traffic light is not larger than the tree."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the red traffic light from the tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red traffic light and the tree are 2.0 meters apart horizontally from each other."
+  }
+]

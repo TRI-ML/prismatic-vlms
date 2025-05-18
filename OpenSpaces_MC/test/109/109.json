@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the black object to the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "12.09 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the cow and the rocky cliff."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cow from the rocky cliff is 20.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the black object is thinner than the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the black object is thinner than the stone wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the cow come behind the stone steps?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the stone steps."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the black object and the stone wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black object and the stone wall are 12.09 meters apart."
+  }
+]

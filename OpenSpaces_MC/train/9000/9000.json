@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the man in the center and the text below the main text, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, man in the center appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the text at the top of the image to the man in the center."
+  },
+  {
+    "from": "gpt",
+    "value": "the text at the top of the image and the man in the center are 40.68 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's shoes and the white border, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "man's shoes is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the man's shoes or the white border?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, man's shoes appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the text at the top of the image or the man in the center?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, text at the top of the image appears more on the left side."
+  }
+]

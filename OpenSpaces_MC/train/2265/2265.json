@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the radius of the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 2.74 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the sink from the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 6.0 inches away from the sink."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the sink and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink is 27.5 inches from the sink."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sink and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sink and the sink are 59.0 centimeters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sink and the sink."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.02 centimeters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the green tennis court and the trees in background."
+  },
+  {
+    "from": "gpt",
+    "value": "the green tennis court is 15.9 feet away from the trees in background."
+  },
+  {
+    "from": "human",
+    "value": "Does the green tennis court appear on the left side of the black fence?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the green tennis court is either to the right of or directly aligned with the black fence."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the green tennis court and the trees in background vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the green tennis court and the trees in background."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 15.9 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees in background is positioned to the left of the green tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the trees in background to the left of the green tennis court."
+  }
+]

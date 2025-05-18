@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the blue objects on shelves less distant than that of the brown boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the brown boxes on shelves and the blue metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the brown boxes on shelves from the blue metal beams is 4.6 feet."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the brown boxes on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown boxes on shelves is 43.52 centimeters wide."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the man in blue vest and the white objects on shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue vest is 1.27 meters from the white objects on shelves."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown boxes on shelves lie in front of the blue metal beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

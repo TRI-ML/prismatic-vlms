@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the width of the red solo cup in sink."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 40.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the pepsi can in sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pepsi can in sink is 33.0 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the yellow box?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 15.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the pepsi can in sink and the bottle of soda."
+  },
+  {
+    "from": "gpt",
+    "value": "the pepsi can in sink is 36.0 inches from the bottle of soda."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the red solo cup in sink or the microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, red solo cup in sink appears more on the left side."
+  }
+]

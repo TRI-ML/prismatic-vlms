@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the yellow cookie to the brown owl with white face."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow cookie and the brown owl with white face are 18.7 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the brown donut with white sprinkles and the brown owl with white face vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.32 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the yellow cookie from the white umbrella vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow cookie is 12.0 inches from the white umbrella vertically."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the brown donut with white sprinkles or the pink sausage?"
+  },
+  {
+    "from": "gpt",
+    "value": "pink sausage is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white owl with brown wings and the brown donut with white sprinkles vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white owl with brown wings and the brown donut with white sprinkles are 12.0 centimeters apart vertically."
+  }
+]

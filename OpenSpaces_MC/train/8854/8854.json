@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the black object with yellow front and the white box on the floor vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black object with yellow front is 22.1 inches from the white box on the floor vertically."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the white box on the floor or the blue object on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white box on the floor."
+  },
+  {
+    "from": "human",
+    "value": "Is the white box on the floor positioned in front of the blue object on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the black object with yellow front and the white box on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black object with yellow front from the white box on the floor is 1.22 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the yellow object on the black object positioned in front of the white box on the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the person wearing yellow jacket from the person with yellow backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "28.8 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the person with yellow gloves from the person wearing blue jeans vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 4.0 inches exists between the person with yellow gloves and the person wearing blue jeans."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person wearing yellow jacket and the person with yellow backpack."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 28.8 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the person wearing yellow jacket and the person wearing blue jeans, which one has more height?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is person wearing blue jeans."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the person wearing yellow jacket from the person with yellow backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person wearing yellow jacket is 28.8 centimeters away from the person with yellow backpack."
+  }
+]

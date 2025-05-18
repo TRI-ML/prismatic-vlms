@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the soap dispenser and the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "Between the shower handle and the towel on rack, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "towel on rack is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the sticker and the shower?"
+  },
+  {
+    "from": "gpt",
+    "value": "77.47 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the sticker from the shower?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the sticker from the shower is 27.08 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the soap dispenser occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "26.0 centimeters"
+  }
+]

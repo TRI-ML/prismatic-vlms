@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the sheep from the sheep horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 3.01 meters from the sheep horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the sheep and the house?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep is 46.3 feet away from the house."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the house is positioned to the right of the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the house is positioned on the right side of the sheep."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the sheep and the house."
+  },
+  {
+    "from": "gpt",
+    "value": "the sheep and the house are 11.7 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the house behind the sheep?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the house is behind the sheep."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the person on the sidewalk is positioned to the left of the yellow truck on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person on the sidewalk is to the left of the yellow truck on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person on the sidewalk from the person on the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 8.6 feet exists between the person on the sidewalk and the person on the sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Is the person on the sidewalk to the left of the yellow truck on the left side of the street from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person on the sidewalk is positioned on the left side of the yellow truck on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person on the sidewalk is thinner than the yellow truck on the left side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person on the sidewalk is thinner than the yellow truck on the left side of the street."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person on the sidewalk and the yellow truck on the left side of the street vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person on the sidewalk and the yellow truck on the left side of the street are 4.0 feet apart vertically from each other."
+  }
+]

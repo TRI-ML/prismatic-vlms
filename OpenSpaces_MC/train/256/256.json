@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the signpost and the red suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the signpost is bigger than the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the signpost is bigger than the large building."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the signpost and the signpost?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the signpost from the signpost is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far is the signpost from the signpost?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the signpost is taller than the red suv?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the signpost is much taller as the red suv."
+  }
+]

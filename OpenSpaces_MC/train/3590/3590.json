@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the oven handle to the stove top."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the oven handle from the stove top is 13.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Who is higher up, the oven handle or the microwave?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is microwave."
+  },
+  {
+    "from": "human",
+    "value": "Could you provide the vertical distance between the light switch and the stove top?"
+  },
+  {
+    "from": "gpt",
+    "value": "the light switch is 54.0 centimeters from the stove top vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the plug-in and the microwave."
+  },
+  {
+    "from": "gpt",
+    "value": "97.0 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the plug-in?"
+  },
+  {
+    "from": "gpt",
+    "value": "13.94 centimeters"
+  }
+]

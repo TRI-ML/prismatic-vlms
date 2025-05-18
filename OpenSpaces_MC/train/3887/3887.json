@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the zebra positioned before the giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the zebra is in front of the giraffe."
+  },
+  {
+    "from": "human",
+    "value": "Does the zebra lie in front of the zebra?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the zebra is behind the zebra."
+  },
+  {
+    "from": "human",
+    "value": "Is the zebra taller than the giraffe?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the zebra has a greater height compared to the giraffe."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the zebra and the zebra horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "4.56 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the giraffe from the zebra?"
+  },
+  {
+    "from": "gpt",
+    "value": "the giraffe is 1.0 meters away from the zebra."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white car appear under the striped shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white car is not positioned below the striped shirt."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the white car or the striped shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "striped shirt is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Between the concrete ramp and the black beanie, which one is positioned lower?"
+  },
+  {
+    "from": "gpt",
+    "value": "black beanie is below."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the white car?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 7.7 feet."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the black pants and the skateboarder?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black pants is 4.0 meters away from the skateboarder vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the silver spoon come in front of the silver spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the silver spoon is behind the silver spoon."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the striped kitchen towel and the bowl of crumble with whipped cream horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the striped kitchen towel from the bowl of crumble with whipped cream is 5.99 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the silver spoon positioned before the silver spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the silver spoon is behind the silver spoon."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the bowl of crumble with whipped cream or the blue and white plate, stands taller?"
+  },
+  {
+    "from": "gpt",
+    "value": "bowl of crumble with whipped cream is taller."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the silver spoon less distant than that of the silver spoon?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the silver spoon."
+  }
+]

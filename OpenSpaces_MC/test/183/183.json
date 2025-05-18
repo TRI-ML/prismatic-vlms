@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the green and white bus or the partially visible car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is partially visible car."
+  },
+  {
+    "from": "human",
+    "value": "Is the partially visible car bigger than the large building?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the partially visible car is not bigger than the large building."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the partially visible car."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the partially visible car is 38.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the green and white bus from the partially visible building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green and white bus from the partially visible building is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the partially visible car have a larger size compared to the grass area?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the partially visible car is larger in size than the grass area."
+  }
+]

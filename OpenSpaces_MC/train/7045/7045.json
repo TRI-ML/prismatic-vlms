@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the safeway logo and the baseball player in white uniform, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "baseball player in white uniform is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Is the baseball player in white uniform bigger than the safeway logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the baseball player in white uniform might be smaller or the same size as the safeway logo."
+  },
+  {
+    "from": "human",
+    "value": "How close is the baseball player in white uniform from the safeway logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 33.6 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far is the baseball player in white uniform from the safeway logo?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baseball player in white uniform and the safeway logo are 104.0 feet apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the safeway logo and the baseball player in white uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the safeway logo from the baseball player in white uniform is 7.3 meters."
+  }
+]

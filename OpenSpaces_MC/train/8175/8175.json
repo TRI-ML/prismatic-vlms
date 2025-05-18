@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the cabinet and the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinet is 14.73 inches from the cabinet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cabinet and the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the cabinet from the cabinet is 14.73 inches."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the picture frame on wall and the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.65 feet"
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the picture frame on wall in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the picture frame on wall is 13.5 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the cabinet bigger than the cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cabinet is not bigger than the cabinet."
+  }
+]

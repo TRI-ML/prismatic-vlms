@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bowl with food taller than the bowl with food?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the bowl with food's height is not larger of the bowl with food's."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the bowl with food to the bowl with food."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bowl with food from the bowl with food is 11.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the bowl with food to the bowl with food."
+  },
+  {
+    "from": "gpt",
+    "value": "the bowl with food is 11.1 inches from the bowl with food."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the bowl with food from the bowl with food?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 20.9 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the bowl with food and the bowl with food?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 16.0 inches exists between the bowl with food and the bowl with food."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the table less distant than that of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the table is in front of the plant."
+  },
+  {
+    "from": "human",
+    "value": "How close is the door from the lamp?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door and the lamp are 3.4 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the chair and the plant, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is chair."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the chair and the table vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 78.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the chair in front of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the chair is closer to the viewer."
+  }
+]

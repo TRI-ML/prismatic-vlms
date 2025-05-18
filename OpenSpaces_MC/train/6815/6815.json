@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the books on shelf and the green plant, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "green plant is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the black wood-burning stove and the green plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black wood-burning stove is 25.6 inches away from the green plant."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white picture frame and the black bird on stove?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white picture frame from the black bird on stove is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the books on shelf is."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the books on shelf is 46.08 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the leather chair lie in front of the brown pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  }
+]

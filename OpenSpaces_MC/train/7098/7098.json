@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the electric guitar and the painting vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the electric guitar and the painting are 3.1 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white fireplace and the cords?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white fireplace and the cords are 4.1 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the cords and the speakers?"
+  },
+  {
+    "from": "gpt",
+    "value": "32.36 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the collectible figurines (repeated) and the electric guitar vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the collectible figurines (repeated) from the electric guitar is 6.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the electric guitar to the painting."
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.0 meters apart."
+  }
+]

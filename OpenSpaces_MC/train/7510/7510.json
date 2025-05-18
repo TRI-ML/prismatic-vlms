@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much space does the tomato occupy horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 8.2 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the herb."
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the herb is 10.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the herb or the herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, herb appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the herb and the herb?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the herb from the herb is 20.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the tomato."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 8.0 inches."
+  }
+]

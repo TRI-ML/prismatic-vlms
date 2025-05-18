@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the white porcelain bowl and the white sink, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white sink."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the white toilet from the white porcelain bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white toilet and the white porcelain bowl are 2.46 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white toilet and the brown wooden shelf horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the white porcelain bowl taller than the white sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white porcelain bowl has a greater height compared to the white sink."
+  },
+  {
+    "from": "human",
+    "value": "Does the white toilet have a greater height compared to the white porcelain bowl?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the white toilet's height is not larger of the white porcelain bowl's."
+  }
+]

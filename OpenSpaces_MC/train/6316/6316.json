@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the plate from the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 14.4 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the bottle to the right of the knife from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the bottle is not to the right of the knife."
+  },
+  {
+    "from": "human",
+    "value": "Does the plate have a smaller size compared to the knife?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the plate is not smaller in size than the knife."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the cloth to the clock cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "the cloth is 6.0 feet away from the clock cabinet."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the cloth and the clock cabinet?Could you provide the horizontal distance between the cloth and the clock cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cloth and the clock cabinet are 7.0 feet apart horizontally."
+  }
+]

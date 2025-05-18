@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the wooden chair from the coca-cola glass?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden chair is 25.0 centimeters from the coca-cola glass."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the olympics 94 text?"
+  },
+  {
+    "from": "gpt",
+    "value": "the olympics 94 text is 29.8 centimeters tall."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the white wall and the bananas in a bowl."
+  },
+  {
+    "from": "gpt",
+    "value": "the white wall is 21.0 inches from the bananas in a bowl."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the wooden chair and the wooden table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden chair and the wooden table are 0.98 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the wooden chair to the wooden table."
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden chair is 0.98 centimeters from the wooden table."
+  }
+]

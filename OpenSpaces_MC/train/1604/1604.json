@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How wide is the papers?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.51 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the towel from the shoes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the towel and the shoes are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the papers in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the papers is 2.0 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the shoes and the sweater?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the shoes from the sweater is 52.16 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the papers in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the papers is 4.94 feet."
+  }
+]

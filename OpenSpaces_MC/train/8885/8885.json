@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the car wider than the pedestrian crossing sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the car might be narrower or the same width as the pedestrian crossing sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the car wider than the no parking sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the car might be narrower or the same width as the no parking sign."
+  },
+  {
+    "from": "human",
+    "value": "Is the car to the right of the pedestrian crossing sign from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the car is to the right of the pedestrian crossing sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the car is positioned to the right of the pedestrian crossing sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the car to the right of the pedestrian crossing sign."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the car and the pedestrian crossing sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 16.0 meters apart."
+  }
+]

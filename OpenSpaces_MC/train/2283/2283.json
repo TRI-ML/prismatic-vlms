@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the gray bowl with utensil above the gray pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the gray bowl with utensil is either below or at the same elevation as the gray pillow."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the gray bowl with utensil and the gray pillow?"
+  },
+  {
+    "from": "gpt",
+    "value": "the gray bowl with utensil and the gray pillow are 94.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the door and the woman in black and white top."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 2.0 meters exists between the door and the woman in black and white top."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the glass cup and the door."
+  },
+  {
+    "from": "gpt",
+    "value": "the glass cup is 8.7 feet away from the door horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Does the glass cup appear over the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the glass cup is not above the door."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the toilet positioned before the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the toilet is positioned to the left of the sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the toilet to the left of the sink."
+  },
+  {
+    "from": "human",
+    "value": "Is the paper towel to the left of the rag from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the paper towel is not to the left of the rag."
+  },
+  {
+    "from": "human",
+    "value": "Does the brush come in front of the bathtub?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the paper towel is positioned to the left of the rag?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the paper towel is either to the right of or directly aligned with the rag."
+  }
+]

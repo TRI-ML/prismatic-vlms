@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the t-shirt to the right of the jeans from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the t-shirt is positioned on the right side of the jeans."
+  },
+  {
+    "from": "human",
+    "value": "How far is the t-shirt from the jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 0.01 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the t-shirt is positioned to the right of the star wars poster?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the t-shirt is either to the left of or directly aligned with the star wars poster."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the t-shirt to the jeans."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the t-shirt from the jeans is 0.01 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the red office chair appear on the right side of the blue jacket?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red office chair is not on the right side of the blue jacket."
+  }
+]

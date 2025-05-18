@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far away is the woman on the right from the red boots?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman on the right is 61.0 centimeters away from the red boots."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the red building and the gravel?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 18.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the gray sky or the red boots?"
+  },
+  {
+    "from": "gpt",
+    "value": "gray sky is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the red building from the gravel?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.39 meters exists between the red building and the gravel."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the bird?"
+  },
+  {
+    "from": "gpt",
+    "value": "328.76 feet"
+  }
+]

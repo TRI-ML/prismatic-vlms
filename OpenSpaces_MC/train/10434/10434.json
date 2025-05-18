@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the red boxes closer to camera compared to the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is not."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the red boxes to the white boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "the red boxes is 9.0 meters away from the white boxes vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the driver positioned in front of the red boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the white boxes is positioned to the right of the white boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white boxes is positioned on the right side of the white boxes."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red boxes is positioned to the right of the red boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the red boxes is not to the right of the red boxes."
+  }
+]

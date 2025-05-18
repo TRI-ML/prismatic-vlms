@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the metal bridge have a lesser width compared to the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the metal bridge's width is not less than the blue sky's."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the person driving the forklift and the large brown box truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person driving the forklift and the large brown box truck are 9.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Determine the vertical dimensions of the person driving the forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "the person driving the forklift is 1.0 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the metal bridge and the blue sky."
+  },
+  {
+    "from": "gpt",
+    "value": "the metal bridge is 9.0 meters from the blue sky."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the metal bridge or the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, metal bridge appears more on the right side."
+  }
+]

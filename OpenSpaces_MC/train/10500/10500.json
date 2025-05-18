@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the building on street closer to camera compared to the street lights?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Is the people walking on street in front of the person standing on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the people walking on street is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the trees in background is bigger than the person standing on sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the trees in background is not bigger than the person standing on sidewalk."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the street lights and the cars on street?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 57.0 centimeters exists between the street lights and the cars on street."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the people walking on street to the person standing on sidewalk."
+  },
+  {
+    "from": "gpt",
+    "value": "12.5 feet"
+  }
+]

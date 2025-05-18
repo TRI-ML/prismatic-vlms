@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the cash register less distant than that of the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the paper with writing further to camera compared to the silver machine with black front?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, it is."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the cash register and the window horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 6.25 feet."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the paper with writing from the silver machine with black front?"
+  },
+  {
+    "from": "gpt",
+    "value": "the paper with writing and the silver machine with black front are 2.5 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Is the window positioned in front of the cash register?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the cash register is behind the window."
+  }
+]

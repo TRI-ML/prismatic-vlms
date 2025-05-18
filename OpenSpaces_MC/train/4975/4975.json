@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the pallets to the pallets."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 62.12 centimeters exists between the pallets and the pallets."
+  },
+  {
+    "from": "human",
+    "value": "How close is the pallets from the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the pallets from the stop sign is 6.16 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the pallets to the pallets."
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets is 19.3 centimeters away from the pallets."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the pallets is smaller than the pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the pallets is not smaller than the pallets."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the pallets and the pallets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the pallets and the pallets are 62.12 centimeters apart."
+  }
+]

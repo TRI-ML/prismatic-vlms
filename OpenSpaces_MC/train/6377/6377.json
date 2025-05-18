@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the distance between the warehouse lights and the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "16.61 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse floor have a smaller size compared to the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse floor is not smaller than the warehouse ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the warehouse overall setting and the warehouse shelves horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "the warehouse overall setting is 3.18 meters away from the warehouse shelves horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse floor smaller than the warehouse ceiling?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the warehouse floor is not smaller than the warehouse ceiling."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the warehouse lights is."
+  },
+  {
+    "from": "gpt",
+    "value": "15.02 meters"
+  }
+]

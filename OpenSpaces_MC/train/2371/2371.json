@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the zebra from the brown animals horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra is 6.21 meters from the brown animals horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the zebra is wider than the brown animals?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the zebra might be narrower or the same width as the brown animals."
+  },
+  {
+    "from": "human",
+    "value": "Does the brown animals have a greater width compared to the brown animals?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown animals is not wider than the brown animals."
+  },
+  {
+    "from": "human",
+    "value": "Between the zebra and the brown animals, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, brown animals appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How close is the zebra from the brown animals?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 7.0 meters apart."
+  }
+]

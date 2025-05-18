@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the plant further to camera compared to the refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the stove to the plant."
+  },
+  {
+    "from": "gpt",
+    "value": "the stove and the plant are 48.6 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Does the stove come behind the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the stove more distant than that of the plant?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the plant and the refrigerator?"
+  },
+  {
+    "from": "gpt",
+    "value": "the plant and the refrigerator are 12.88 meters apart."
+  }
+]

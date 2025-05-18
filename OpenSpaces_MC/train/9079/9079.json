@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the donuts with white glaze thinner than the brown cabinet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the donuts with white glaze's width is less than the brown cabinet's."
+  },
+  {
+    "from": "human",
+    "value": "Does the green chalkboard have a lesser width compared to the donuts with white glaze?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the green chalkboard's width is not less than the donuts with white glaze's."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the bulletin board from the boy with short blonde hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "3.85 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the bulletin board have a lesser width compared to the boy with short blonde hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bulletin board is thinner than the boy with short blonde hair."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the green chalkboard to the donuts with white glaze."
+  },
+  {
+    "from": "gpt",
+    "value": "the green chalkboard is 17.0 feet away from the donuts with white glaze."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the height of the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the stone wall is 10.8 feet."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the zebra on the left side and the person in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the zebra on the left side from the person in the background is 19.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the person in the background to the stone wall."
+  },
+  {
+    "from": "gpt",
+    "value": "49.9 feet"
+  },
+  {
+    "from": "human",
+    "value": "How wide is the zebra on the left side?"
+  },
+  {
+    "from": "gpt",
+    "value": "the zebra on the left side is 3.1 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the person in the background occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.85 feet."
+  }
+]

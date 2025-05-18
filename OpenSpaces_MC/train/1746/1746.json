@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the bed from the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 1.4 meters exists between the bed and the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "Is the bed bigger than the air conditioning unit?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the bed is not larger than the air conditioning unit."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the clothes on bed and the clothes on bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the clothes on bed from the clothes on bed is 24.1 inches."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the bed to the air conditioning unit."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 7.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Is the window bigger than the blankets on bed?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the window is not larger than the blankets on bed."
+  }
+]

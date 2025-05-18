@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the books under chair to the red chair."
+  },
+  {
+    "from": "gpt",
+    "value": "7.5 inches"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the books under chair and the red chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "the books under chair is 19.0 centimeters away from the red chair vertically."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the black backpack to the books under chair."
+  },
+  {
+    "from": "gpt",
+    "value": "46.3 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the books under chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.7 feet"
+  },
+  {
+    "from": "human",
+    "value": "How tall is the black backpack?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black backpack is 14.51 inches in height."
+  }
+]

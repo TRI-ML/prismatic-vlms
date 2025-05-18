@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the truck with white cab and the black forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 9.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the black forklift and the gray floor, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "black forklift is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Is the truck with white cab in front of the black forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes."
+  },
+  {
+    "from": "human",
+    "value": "Does the white pallets come in front of the black forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white pallets is in front of the black forklift."
+  },
+  {
+    "from": "human",
+    "value": "Does the truck with white cab lie in front of the black forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the truck with white cab is in front of the black forklift."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the position of the small table or stool less distant than that of the bookshelf with five shelves?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the windows with partially open blinds and the small table or stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the gray couch closer to camera compared to the large plant in a white pot?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the large plant in a white pot."
+  },
+  {
+    "from": "human",
+    "value": "Does the bookshelf with five shelves have a lesser width compared to the windows with partially open blinds?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the bookshelf with five shelves has a lesser width compared to the windows with partially open blinds."
+  },
+  {
+    "from": "human",
+    "value": "Does the windows with partially open blinds have a lesser width compared to the small table or stool?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the windows with partially open blinds might be wider or the same width as the small table or stool."
+  }
+]

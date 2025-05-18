@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the blue umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue umbrella is 35.3 inches in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the shop with plants is wider than the blue umbrella?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the shop with plants is not wider than the blue umbrella."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue umbrella lie in front of the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the blue umbrella is in front of the table."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the blue umbrella from the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue umbrella is 28.0 feet from the table."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the shop with plants and the chest high boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.0 meters"
+  }
+]

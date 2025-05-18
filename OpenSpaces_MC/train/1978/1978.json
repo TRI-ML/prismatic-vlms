@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the picture frames in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frames is 1.64 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "Is the picture frames smaller than the picture frames?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the picture frames occupies less space than the picture frames."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the picture frames and the picture frames."
+  },
+  {
+    "from": "gpt",
+    "value": "the picture frames is 3.3 feet from the picture frames horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the picture frames or the picture frames?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, picture frames appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How far is the picture frames from the picture frames?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 9.4 feet exists between the picture frames and the picture frames."
+  }
+]

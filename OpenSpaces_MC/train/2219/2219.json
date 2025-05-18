@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is taller, the person's torso or the person's arms?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is person's arms."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the red apples on a shelf or the person's chin?"
+  },
+  {
+    "from": "gpt",
+    "value": "person's chin is taller."
+  },
+  {
+    "from": "human",
+    "value": "Which is below, the red apples on a shelf or the person's chin?"
+  },
+  {
+    "from": "gpt",
+    "value": "person's chin is below."
+  },
+  {
+    "from": "human",
+    "value": "Who is taller, the person's torso or the person's arms?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing taller between the two is person's arms."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the red apples on a shelf."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 13.7 centimeters."
+  }
+]

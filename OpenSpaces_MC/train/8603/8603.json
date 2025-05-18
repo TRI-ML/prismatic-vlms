@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is shorter, the box or the box?"
+  },
+  {
+    "from": "gpt",
+    "value": "With less height is box."
+  },
+  {
+    "from": "human",
+    "value": "Measure the vertical distance from the box to the box."
+  },
+  {
+    "from": "gpt",
+    "value": "the box is 13.12 inches from the box vertically."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the box and the box."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the box from the box is 32.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the box to the box."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 48.2 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the box and the box horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "the box and the box are 28.0 centimeters apart horizontally from each other."
+  }
+]

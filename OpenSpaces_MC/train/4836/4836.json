@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the woman's legs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's legs is 4.0 feet tall."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the woman's legs and the man's laptop?Could you provide the horizontal distance between the woman's legs and the man's laptop?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the tree from the woman's hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 11.0 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Between the man's shirt and the man's laptop, which one is positioned higher?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned higher is man's laptop."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the woman's legs and the man's laptop."
+  },
+  {
+    "from": "gpt",
+    "value": "the woman's legs and the man's laptop are 2.0 meters apart."
+  }
+]

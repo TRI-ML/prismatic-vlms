@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the red pillow in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white light and the black tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white light from the black tv is 7.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Determine the horizontal dimensions of the black cabinet."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Is the white light closer to camera compared to the black tv?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the black cabinet and the white light vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black cabinet and the white light are 8.2 meters apart vertically."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the forklift to the toyota forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "the forklift is 21.57 inches away from the toyota forklift."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the driver to the forklift attachment."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the driver from the forklift attachment is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the driver and the forklift attachment?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 2.0 meters exists between the driver and the forklift attachment."
+  },
+  {
+    "from": "human",
+    "value": "Does the toyota forklift lie behind the forklift attachment?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is in front of the forklift attachment."
+  },
+  {
+    "from": "human",
+    "value": "Is the toyota logo bigger than the forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the toyota logo is bigger than the forklift."
+  }
+]

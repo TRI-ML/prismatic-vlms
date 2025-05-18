@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the man in blue shirt and the man in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue shirt and the man in white shirt are 1.4 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the motorcycle in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the motorcycle is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the motorcycle from the man in brown shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the motorcycle is 3.74 meters from the man in brown shirt."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the motorcycle or the man in brown shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is man in brown shirt."
+  },
+  {
+    "from": "human",
+    "value": "Is the man in military uniform further to camera compared to the man in brown shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the man in brown shirt is in front of the man in military uniform."
+  }
+]

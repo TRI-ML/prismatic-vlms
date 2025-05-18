@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Who is taller, the woman with red hair or the donut on plate?"
+  },
+  {
+    "from": "gpt",
+    "value": "With more height is woman with red hair."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the fork on sign to the roses."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 4.0 feet exists between the fork on sign and the roses."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the wine glass and the flowers vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 1.9 meters exists between the wine glass and the flowers."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the person in black shirt and the man with short hair?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 49.8 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the woman with red hair and the flowers?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the woman with red hair from the flowers is 1.51 meters."
+  }
+]

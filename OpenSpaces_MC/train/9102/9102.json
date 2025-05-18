@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the yellow bottle with blue label?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 6.68 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the yellow bottle with blue label from the shaving cream bottle?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 24.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the yellow bottle with blue label appear over the medicine bottle with red cap?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the yellow bottle with blue label is above the medicine bottle with red cap."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the yellow bottle with blue label and the medicine bottle with red cap."
+  },
+  {
+    "from": "gpt",
+    "value": "93.88 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "How far is the yellow bottle with blue label from the shaving cream bottle vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 10.0 inches exists between the yellow bottle with blue label and the shaving cream bottle."
+  }
+]

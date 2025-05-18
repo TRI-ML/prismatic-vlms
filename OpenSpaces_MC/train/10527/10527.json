@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the store with blue awning from the store with blue awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 39.85 feet exists between the store with blue awning and the store with blue awning."
+  },
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the store with blue awning to the store with blue awning."
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Does the store with blue awning appear on the left side of the store with blue awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the store with blue awning is not to the left of the store with blue awning."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the store with blue awning or the store with blue awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, store with blue awning appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the store with blue awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "the store with blue awning is 18.0 inches in height."
+  }
+]

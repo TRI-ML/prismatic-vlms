@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the wooden slats appear on the left side of the low wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the wooden slats is not on the left side of the low wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the tree appear on the left side of the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the tree is to the left of the building."
+  },
+  {
+    "from": "human",
+    "value": "Does the tree appear on the left side of the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the tree to the left of the building."
+  },
+  {
+    "from": "human",
+    "value": "How far is the tree from the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tree from the building is 3.5 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the tree from the building?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tree from the building is 3.5 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the television to the right of the cabinets from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the television is either to the left of or directly aligned with the cabinets."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the cabinets to the picture on wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinets is 10.0 feet from the picture on wall horizontally."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the television is positioned to the right of the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the television is not to the right of the cabinets."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the television to the cabinets."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the television from the cabinets is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the television appear on the right side of the table?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the television is not to the right of the table."
+  }
+]

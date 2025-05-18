@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the white blanket or the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, white wall appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white blanket and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 57.51 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "Estimate the vertical distance between the black headboard and the white wall."
+  },
+  {
+    "from": "gpt",
+    "value": "the black headboard is 16.3 centimeters from the white wall vertically."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white sheets is."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.24 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the white blanket and the white wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white blanket and the white wall are 57.51 centimeters apart."
+  }
+]

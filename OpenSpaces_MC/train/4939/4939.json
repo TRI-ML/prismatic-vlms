@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the window and the floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.9 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the handrail and the window horizontally."
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 8.0 feet exists between the handrail and the window."
+  },
+  {
+    "from": "human",
+    "value": "Is the handrail taller than the window?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the handrail is much taller as the window."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wall in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wall is 3.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.0 meters"
+  }
+]

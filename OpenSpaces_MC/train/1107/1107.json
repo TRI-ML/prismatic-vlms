@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the traffic light appear on the right side of the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the traffic light is positioned on the right side of the street."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the person walking or the bicycle rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person walking appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Does the person walking appear on the right side of the bicycle rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person walking is positioned on the right side of the bicycle rack."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the sidewalk?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person walking is positioned to the right of the bicycle rack?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the person walking is to the right of the bicycle rack."
+  }
+]

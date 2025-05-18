@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the green double-decker bus have a greater width compared to the people on bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the green double-decker bus is wider than the people on bus."
+  },
+  {
+    "from": "human",
+    "value": "Does the people on bus have a greater width compared to the people in line?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the people on bus exceeds that of the people in line."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the people waiting in line and the people on bus."
+  },
+  {
+    "from": "gpt",
+    "value": "the people waiting in line is 5.0 feet from the people on bus."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the people waiting in line and the people on bus vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "19.96 inches"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the people waiting in line is wider than the people on bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the people waiting in line is not wider than the people on bus."
+  }
+]

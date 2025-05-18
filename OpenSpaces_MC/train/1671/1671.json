@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How tall is the red curb in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the red curb is 1.79 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "Which of these two, the potted plant or the man in white shirt and khaki pants, stands shorter?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is potted plant."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the man in white shirt and khaki pants and the white building?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in white shirt and khaki pants and the white building are 2.41 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the man in white shirt and khaki pants."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the red curb and the white building, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "red curb is shorter."
+  }
+]

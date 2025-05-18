@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the church windows in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 29.3 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the church windows or the church spires?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is church spires."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the church windows to the street sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the church windows and the street sign are 28.9 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the church windows and the street sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the church windows and the street sign are 28.9 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the power line and the church steeple vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 11.4 inches apart."
+  }
+]

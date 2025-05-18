@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the black object on shelf from the picture of a moose?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the black object on shelf from the picture of a moose is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the black object on shelf and the picture of a moose?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black object on shelf and the picture of a moose are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the white object on shelf or the white object on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the right is white object on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Does the black object on shelf appear on the left side of the picture of a woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the black object on shelf is not on the left side of the picture of a woman."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the black object on shelf and the picture of a woman?"
+  },
+  {
+    "from": "gpt",
+    "value": "the black object on shelf is 1.0 meters away from the picture of a woman."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far is the spectators on sidelines from the yellow soccer ball?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 12.71 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the player in yellow uniform or the player in yellow uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "player in yellow uniform is shorter."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the spectators on sidelines and the yellow soccer ball?"
+  },
+  {
+    "from": "gpt",
+    "value": "12.71 meters"
+  },
+  {
+    "from": "human",
+    "value": "Between the player in yellow uniform and the player in white uniform, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "player in yellow uniform is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Is the player in yellow uniform taller than the player in yellow uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the player in yellow uniform has a greater height compared to the player in yellow uniform."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman's clothing is wider than the woman playing tennis?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the woman's clothing's width does not surpass the woman playing tennis's."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the woman's clothing occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 1.47 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman's clothing is wider than the woman playing tennis?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the woman's clothing is not wider than the woman playing tennis."
+  },
+  {
+    "from": "human",
+    "value": "Does the woman's clothing have a greater width compared to the woman playing tennis?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the woman's clothing's width does not surpass the woman playing tennis's."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the tennis racket to the banner with text."
+  },
+  {
+    "from": "gpt",
+    "value": "the tennis racket is 2.0 meters from the banner with text."
+  }
+]

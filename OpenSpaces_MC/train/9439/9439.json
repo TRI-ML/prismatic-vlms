@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the white statue lie in front of the circular object?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the circular object."
+  },
+  {
+    "from": "human",
+    "value": "How close is the white statue from the circular object?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.06 meters"
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the blue couch is wider than the table with wine bottles?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the blue couch is not wider than the table with wine bottles."
+  },
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the blue couch to the table with wine bottles."
+  },
+  {
+    "from": "gpt",
+    "value": "the blue couch is 15.34 feet away from the table with wine bottles horizontally."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the table with wine bottles and the abstract sculpture?"
+  },
+  {
+    "from": "gpt",
+    "value": "the table with wine bottles is 32.9 feet from the abstract sculpture."
+  }
+]

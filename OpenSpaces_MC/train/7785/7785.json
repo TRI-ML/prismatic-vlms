@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the refrigerator closer to the viewer compared to the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "No."
+  },
+  {
+    "from": "human",
+    "value": "Measure the width of the cabinets."
+  },
+  {
+    "from": "gpt",
+    "value": "It is 8.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Does the refrigerator come in front of the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "How far is the cabinets from the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "the cabinets is 1.2 meters away from the cabinets."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the cabinets is bigger than the cabinets?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the cabinets is bigger than the cabinets."
+  }
+]

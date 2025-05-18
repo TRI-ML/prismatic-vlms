@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How big is the stack of pallets with plastic wrapping in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of pallets with plastic wrapping is 4.07 meters wide."
+  },
+  {
+    "from": "human",
+    "value": "How far is the stack of pallets with plastic wrapping from the stack of pallets with plastic wrapping?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the stack of pallets with plastic wrapping from the stack of pallets with plastic wrapping is 5.0 feet."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue flatbed truck come in front of the stack of pallets with plastic wrapping?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, it is behind the stack of pallets with plastic wrapping."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stack of pallets with plastic wrapping?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of pallets with plastic wrapping is 2.5 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the stack of pallets with plastic wrapping in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  }
+]

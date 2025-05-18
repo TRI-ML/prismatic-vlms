@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the height of the orange awning?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange awning is 1.91 meters tall."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the rainbow-colored pinwheel in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.6 feet"
+  },
+  {
+    "from": "human",
+    "value": "Could you tell me the horizontal size of the rainbow-colored pinwheel?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 2.31 meters."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the rainbow-colored pinwheel or the table with chairs?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is table with chairs."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the rainbow-colored pinwheel to the fish sign."
+  },
+  {
+    "from": "gpt",
+    "value": "the rainbow-colored pinwheel is 3.0 meters from the fish sign."
+  }
+]

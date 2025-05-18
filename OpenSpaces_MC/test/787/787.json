@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the swan on the left side of the pond and the person sitting on the bench."
+  },
+  {
+    "from": "gpt",
+    "value": "the swan on the left side of the pond is 2.8 meters away from the person sitting on the bench."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the speaker at the podium from the person sitting on the bench?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the speaker at the podium from the person sitting on the bench is 7.2 feet."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the swan on the left side of the pond and the person sitting on the bench vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 82.9 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the speaker at the podium?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the speaker at the podium is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the swan on the left side of the pond?"
+  },
+  {
+    "from": "gpt",
+    "value": "the swan on the left side of the pond is 10.75 meters in width."
+  }
+]

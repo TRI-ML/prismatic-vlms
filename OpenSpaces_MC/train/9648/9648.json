@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the orange object and the yellow and black warning sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange object is 12.2 centimeters from the yellow and black warning sign vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the orange object from the blue object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange object and the blue object are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the yellow and black warning sign and the blue object?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow and black warning sign is 2.0 inches from the blue object vertically."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the white garage door is."
+  },
+  {
+    "from": "gpt",
+    "value": "22.0 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the orange object from the yellow and black warning sign vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 4.8 inches apart."
+  }
+]

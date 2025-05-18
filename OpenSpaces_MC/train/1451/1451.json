@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the heating element on wall in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the heating element on wall is 1.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is lower down, the white cabinet with items on top or the white plate with oranges?"
+  },
+  {
+    "from": "gpt",
+    "value": "white cabinet with items on top is lower down."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the heating element on wall to the orange being peeled."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the heating element on wall from the orange being peeled is 2.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the heating element on wall from the orange being peeled horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "A horizontal distance of 1.93 meters exists between the heating element on wall and the orange being peeled."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the heating element on wall from the green curtain on window?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 69.0 centimeters apart."
+  }
+]

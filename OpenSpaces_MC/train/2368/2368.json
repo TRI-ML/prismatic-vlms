@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person to the right of the person from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the person to the right of the person."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the central tree and the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "the central tree is 7.58 meters from the person."
+  },
+  {
+    "from": "human",
+    "value": "Does the central tree appear on the right side of the person?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the central tree is not on the right side of the person."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the person to the person."
+  },
+  {
+    "from": "gpt",
+    "value": "the person is 2.4 meters away from the person."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person and the person."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the person from the person is 2.4 meters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the person walking and the white suv vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person walking is 6.0 inches away from the white suv vertically."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the red brick building from the red brick building?"
+  },
+  {
+    "from": "gpt",
+    "value": "Horizontally, They are 2.16 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the red brick building and the silver suv with green stripe?"
+  },
+  {
+    "from": "gpt",
+    "value": "11.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "How far away is the red brick building from the silver suv with green stripe?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 11.0 meters exists between the red brick building and the silver suv with green stripe."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the red brick building or the silver suv with green stripe?"
+  },
+  {
+    "from": "gpt",
+    "value": "red brick building is more to the left."
+  }
+]

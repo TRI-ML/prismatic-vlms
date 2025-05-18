@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the man in blue shirt in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the man in blue shirt is 78.08 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Between the man in blue shirt and the man in black shirt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is man in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the red apples and the bananas."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 17.0 feet exists between the red apples and the bananas."
+  },
+  {
+    "from": "human",
+    "value": "Between the man in blue shirt and the bananas, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, man in blue shirt appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the man in black shirt or the man in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, man in blue shirt appears more on the left side."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How far apart are the stack of brown boxes on hand truck and the worker in red overalls and yellow hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown boxes on shelf is positioned to the right of the paper in worker's hand?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the brown boxes on shelf is either to the left of or directly aligned with the paper in worker's hand."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the brown boxes on shelf is positioned to the left of the brown boxes on shelf?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the brown boxes on shelf is not to the left of the brown boxes on shelf."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the brown boxes on shelf from the stack of brown boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the brown boxes on shelf is 1.4 meters from the stack of brown boxes."
+  },
+  {
+    "from": "human",
+    "value": "Is the stack of brown boxes on hand truck to the right of the worker in red overalls and yellow hat from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the stack of brown boxes on hand truck to the right of the worker in red overalls and yellow hat."
+  }
+]

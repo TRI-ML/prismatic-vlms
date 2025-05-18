@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance from the bananas to the woman in red dress."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.63 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Does the bananas appear on the right side of the man in blue shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the bananas to the right of the man in blue shirt."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the bananas to the woman in red dress."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the bananas from the woman in red dress is 2.63 meters."
+  },
+  {
+    "from": "human",
+    "value": "Does the red apples have a greater width compared to the red apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the red apples's width does not surpass the red apples's."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the red apples is wider than the red apples?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the red apples might be narrower or the same width as the red apples."
+  }
+]

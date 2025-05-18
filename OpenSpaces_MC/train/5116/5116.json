@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the wooden shelf with aprons appear under the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wooden shelf with aprons is not below the wooden shelf with aprons."
+  },
+  {
+    "from": "human",
+    "value": "Does the wooden shelf with aprons have a lesser height compared to the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the wooden shelf with aprons is not shorter than the wooden shelf with aprons."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the wooden shelf with aprons and the window above the sink vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 8.0 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the wooden shelf with aprons from the wooden shelf with aprons?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden shelf with aprons and the wooden shelf with aprons are 13.0 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the wooden shelf with aprons from the wooden shelf with aprons vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the wooden shelf with aprons and the wooden shelf with aprons are 2.18 centimeters apart vertically."
+  }
+]

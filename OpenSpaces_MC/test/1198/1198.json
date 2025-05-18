@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the sliding glass door to the chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the sliding glass door and the chair are 7.0 meters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the chair to the chair."
+  },
+  {
+    "from": "gpt",
+    "value": "the chair is 13.0 feet from the chair."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the chair and the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "2.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the chair and the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 34.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Is the chair wider than the chair?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the chair exceeds that of the chair."
+  }
+]

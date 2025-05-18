@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What are the dimensions of the yellow forklift in terms of height?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift is 3.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the blue part of forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the blue part of forklift is 11.58 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much space does the yellow forklift occupy vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift is 1.04 meters in height."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the yellow forklift to the green stretch wrap."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow forklift and the green stretch wrap are 3.2 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the cargo on forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 4.0 feet."
+  }
+]

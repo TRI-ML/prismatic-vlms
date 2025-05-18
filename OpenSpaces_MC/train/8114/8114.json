@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the tree stump appear on the right side of the boy in hammock?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the tree stump is positioned on the right side of the boy in hammock."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the boy in hammock and the bear on the ground."
+  },
+  {
+    "from": "gpt",
+    "value": "the boy in hammock and the bear on the ground are 1.0 meters apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the tree stump to the boy in hammock."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tree stump from the boy in hammock is 76.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the tree stump and the bear climbing tree?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the tree stump from the bear climbing tree is 33.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "What is the width of the tree stump?"
+  },
+  {
+    "from": "gpt",
+    "value": "15.1 centimeters"
+  }
+]

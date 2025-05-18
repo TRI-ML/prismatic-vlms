@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you confirm if the red sign with white arrow is wider than the man in white shirt and hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the width of the red sign with white arrow exceeds that of the man in white shirt and hat."
+  },
+  {
+    "from": "human",
+    "value": "Is the green truck to the right of the red sign with white arrow from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the green truck is positioned on the right side of the red sign with white arrow."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the woman in pink hat is positioned to the right of the woman in blue hat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the woman in pink hat to the right of the woman in blue hat."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the green truck?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green truck is 23.2 inches wide."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the green truck and the man in front seat?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the green truck from the man in front seat is 35.0 feet."
+  }
+]

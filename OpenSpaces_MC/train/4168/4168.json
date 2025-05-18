@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the signboard appear on the right side of the red double-decker bus?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the signboard is not on the right side of the red double-decker bus."
+  },
+  {
+    "from": "human",
+    "value": "Between the blue and white umbrella and the red double-decker bus, which one has less height?"
+  },
+  {
+    "from": "gpt",
+    "value": "red double-decker bus is shorter."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the building and the brick wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 12.7 centimeters from the brick wall."
+  },
+  {
+    "from": "human",
+    "value": "Does the mannequin of bus driver appear on the right side of the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the mannequin of bus driver is positioned on the right side of the trash can."
+  },
+  {
+    "from": "human",
+    "value": "Who is shorter, the mannequin of bus driver or the trash can?"
+  },
+  {
+    "from": "gpt",
+    "value": "Standing shorter between the two is trash can."
+  }
+]

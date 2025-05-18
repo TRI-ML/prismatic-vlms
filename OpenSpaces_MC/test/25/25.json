@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the kid in the pool appear under the boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the kid in the pool is either above or at the same elevation as the boat."
+  },
+  {
+    "from": "human",
+    "value": "How close is the canoe from the light post?"
+  },
+  {
+    "from": "gpt",
+    "value": "7.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the kid in the pool and the boat?"
+  },
+  {
+    "from": "gpt",
+    "value": "the kid in the pool is 20.0 meters away from the boat."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the house and the dog vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 8.67 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the house and the dog."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the house from the dog is 68.5 meters."
+  }
+]

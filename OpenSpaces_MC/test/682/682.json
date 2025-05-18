@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the horizontal distance from the heart-shaped object to the stack of boxes."
+  },
+  {
+    "from": "gpt",
+    "value": "8.0 feet"
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate width of the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "23.8 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far is the blue shelving unit from the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the blue shelving unit and the gray object?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the blue shelving unit from the gray object is 4.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "How big is the heart-shaped object in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the heart-shaped object is 7.3 feet."
+  }
+]

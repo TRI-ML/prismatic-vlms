@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the operator from the gray beams?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the operator from the gray beams is 9.6 meters."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the gray beams and the metal beams vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the gray beams and the metal beams are 1.0 meters apart vertically from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how wide the yellow beams is."
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow beams is 23.0 meters in width."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the left, the yellow beams or the toyota forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, yellow beams appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "How big is the operator?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the operator is 5.0 meters."
+  }
+]

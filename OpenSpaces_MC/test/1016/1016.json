@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the vertical distance from the woman in white shirt to the man in blue shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "It is approximately 22.79 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the baby being held from the woman in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the baby being held is 40.7 centimeters away from the woman in white shirt."
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the woman in white shirt and the woman in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the woman in white shirt and the woman in white shirt are 20.32 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Find out how tall the baby being held is."
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the baby being held is 16.24 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How close is the woman in white shirt from the woman in white shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 20.32 inches exists between the woman in white shirt and the woman in white shirt."
+  }
+]

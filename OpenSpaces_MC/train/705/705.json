@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the president clinton avenue sign thinner than the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the president clinton avenue sign's width is less than the stop sign's."
+  },
+  {
+    "from": "human",
+    "value": "Does the building have a lesser width compared to the rock sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the building is thinner than the rock sign."
+  },
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the president clinton avenue sign and the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the president clinton avenue sign from the stop sign is 1.8 meters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the building and the rock sign vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "the building is 18.0 inches from the rock sign vertically."
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the distance between the president clinton avenue sign and the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "the president clinton avenue sign is 1.8 meters away from the stop sign."
+  }
+]

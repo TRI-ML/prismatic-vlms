@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the blue tarp on cart appear on the left side of the stack of tarps on cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the blue tarp on cart to the left of the stack of tarps on cart."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the stack of tarps on cart is positioned to the left of the stack of tarps on cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, you'll find the stack of tarps on cart to the left of the stack of tarps on cart."
+  },
+  {
+    "from": "human",
+    "value": "Does the stack of tarps on cart appear on the left side of the stack of tarps on cart?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the stack of tarps on cart is to the left of the stack of tarps on cart."
+  },
+  {
+    "from": "human",
+    "value": "Vertial gap between the stack of tarps on cart and the blue tarp on cart."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 6.11 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the stack of tarps on cart in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the stack of tarps on cart is 1.5 meters in width."
+  }
+]

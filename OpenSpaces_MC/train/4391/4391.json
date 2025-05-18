@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Between the keyboard and the glass cup, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "glass cup is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the mouse?"
+  },
+  {
+    "from": "gpt",
+    "value": "The height of the mouse is 38.0 inches."
+  },
+  {
+    "from": "human",
+    "value": "Between the keyboard and the phone, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, keyboard appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the right, the mouse or the headphones?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, mouse appears more on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Between the mouse and the headphones, which one appears on the right side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, mouse appears more on the right side."
+  }
+]

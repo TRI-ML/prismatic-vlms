@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the pitcher's mound and the umpire?"
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 36.07 inches exists between the pitcher's mound and the umpire."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the second base coach is bigger than the batter?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the second base coach is not bigger than the batter."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the first base coach and the first baseline."
+  },
+  {
+    "from": "gpt",
+    "value": "9.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Is the third base coach bigger than the second base coach?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the third base coach is bigger than the second base coach."
+  },
+  {
+    "from": "human",
+    "value": "Does the pitcher's mound appear on the right side of the umpire?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the pitcher's mound is to the right of the umpire."
+  }
+]

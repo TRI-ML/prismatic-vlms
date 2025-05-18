@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Vertial gap between the forklift tires and the orange forklift."
+  },
+  {
+    "from": "gpt",
+    "value": "the forklift tires and the orange forklift are 69.0 centimeters apart horizontally."
+  },
+  {
+    "from": "human",
+    "value": "How close is the orange forklift from the forklift tires?"
+  },
+  {
+    "from": "gpt",
+    "value": "the orange forklift and the forklift tires are 15.74 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the forklift tires from the orange forklift?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the forklift tires from the orange forklift is 45.28 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the orange forklift is positioned to the right of the two stacked boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the orange forklift is not to the right of the two stacked boxes."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the forklift tires?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 22.18 inches."
+  }
+]

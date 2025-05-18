@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the right, the green building or the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "blue sky is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the blue sky?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue sky is 20.27 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue sky further to camera compared to the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  },
+  {
+    "from": "human",
+    "value": "Who is positioned more to the right, the blue sky or the trees?"
+  },
+  {
+    "from": "gpt",
+    "value": "trees is more to the right."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue sky lie behind the skateboarder?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is False."
+  }
+]

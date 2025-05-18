@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the warehouse wall come in front of the warehouse wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the warehouse wall is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the metal shelving and the warehouse floor?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 8.4 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Is the position of the warehouse floor less distant than that of the warehouse wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the warehouse floor is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "Does the warehouse wall come in front of the warehouse wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "That is True."
+  },
+  {
+    "from": "human",
+    "value": "Is the warehouse wall closer to camera compared to the warehouse wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the warehouse wall is in front of the warehouse wall."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the bear above the table on storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the bear is located above the table on storefront."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the bear and the table on storefront vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "A vertical distance of 4.6 feet exists between the bear and the table on storefront."
+  },
+  {
+    "from": "human",
+    "value": "Is the storefront above the sign on storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the storefront is located above the sign on storefront."
+  },
+  {
+    "from": "human",
+    "value": "Is the bear above the person on storefront?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the bear is above the person on storefront."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the text on storefront is positioned above the bear?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the text on storefront is not above the bear."
+  }
+]

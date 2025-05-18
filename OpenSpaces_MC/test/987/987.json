@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the person playing trombone bigger than the person playing trombone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the person playing trombone is not larger than the person playing trombone."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance between the person playing trombone and the person playing trombone vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "4.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person playing trumpet and the person playing trombone."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 5.9 feet exists between the person playing trumpet and the person playing trombone."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the person playing tuba is bigger than the person playing trombone?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the person playing tuba has a larger size compared to the person playing trombone."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the person playing trombone or the person playing trombone?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, person playing trombone appears more on the left side."
+  }
+]

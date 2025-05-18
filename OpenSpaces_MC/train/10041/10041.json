@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How distant is the silver fork from the sausage links?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 41.6 centimeters apart."
+  },
+  {
+    "from": "human",
+    "value": "How close is the wooden table from the sausage links?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the wooden table from the sausage links is 42.19 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Measure the distance from the silver fork to the sunny-side-up egg."
+  },
+  {
+    "from": "gpt",
+    "value": "87.62 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the sliced mushrooms in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "the sliced mushrooms is 5.92 inches in width."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the silver fork?"
+  },
+  {
+    "from": "gpt",
+    "value": "17.0 inches"
+  }
+]

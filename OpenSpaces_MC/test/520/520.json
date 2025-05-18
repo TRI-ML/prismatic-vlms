@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the worker's safety vest and the worker's jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "The vertical distance of the worker's safety vest from the worker's jeans is 61.7 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the vertical distance between the worker's safety vest and the stack of pillows?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's safety vest is 19.53 inches from the stack of pillows vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the worker's safety vest positioned before the worker's jeans?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the worker's safety vest is in front of the worker's jeans."
+  },
+  {
+    "from": "human",
+    "value": "How far is the worker's safety vest from the stack of pillows vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "49.6 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "What is the distance between the worker's hard hat and the stack of boxes?"
+  },
+  {
+    "from": "gpt",
+    "value": "the worker's hard hat is 2.0 meters from the stack of boxes."
+  }
+]

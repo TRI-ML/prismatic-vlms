@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person standing in background and the small wooden building vertically."
+  },
+  {
+    "from": "gpt",
+    "value": "Vertically, They are 29.75 inches apart."
+  },
+  {
+    "from": "human",
+    "value": "What is the vertical distance between the person standing in background and the person standing in background?"
+  },
+  {
+    "from": "gpt",
+    "value": "6.3 feet"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person standing in background and the small wooden building."
+  },
+  {
+    "from": "gpt",
+    "value": "the person standing in background and the small wooden building are 31.5 inches apart from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the horizontal distance between the person standing in background and the adult in blue jacket and white helmet?Could you provide the horizontal distance between the person standing in background and the adult in blue jacket and white helmet?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 56.37 feet apart."
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the person standing in background and the small wooden building."
+  },
+  {
+    "from": "gpt",
+    "value": "A distance of 31.5 inches exists between the person standing in background and the small wooden building."
+  }
+]

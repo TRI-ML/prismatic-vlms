@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Measure the distance between the date in bottom right corner and the woman in black t-shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "the date in bottom right corner is 2.0 meters away from the woman in black t-shirt."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the brown tiled roof from the red border of tennis court?"
+  },
+  {
+    "from": "gpt",
+    "value": "They are 3.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the brown tiled roof?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 3.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "What is the approximate height of the green tennis court surface?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green tennis court surface is 16.0 feet in height."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the green tennis court surface from the man in white t-shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the green tennis court surface and the man in white t-shirt are 7.8 feet apart from each other."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the dark background appear on the left side of the statue of a man in a blue uniform?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the dark background is positioned on the left side of the statue of a man in a blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "How tall is the dark background in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "41.86 centimeters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the dark background and the wooden tags with chinese characters."
+  },
+  {
+    "from": "gpt",
+    "value": "1.22 meters"
+  },
+  {
+    "from": "human",
+    "value": "Tell me the distance between the dark background and the statue of a man in a blue uniform."
+  },
+  {
+    "from": "gpt",
+    "value": "the dark background is 33.2 inches away from the statue of a man in a blue uniform."
+  },
+  {
+    "from": "human",
+    "value": "Does the dark background have a lesser width compared to the wooden tags with chinese characters?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the dark background is thinner than the wooden tags with chinese characters."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "What is the horizontal distance between the white sink and the burnt pan?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white sink and the burnt pan are 67.8 centimeters apart horizontally from each other."
+  },
+  {
+    "from": "human",
+    "value": "Can you give me an estimation of the distance between the silver pot and the white sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "20.24 inches"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the silver pot or the white sink?"
+  },
+  {
+    "from": "gpt",
+    "value": "white sink is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the whole lemon from the burnt pan?"
+  },
+  {
+    "from": "gpt",
+    "value": "5.71 inches"
+  },
+  {
+    "from": "human",
+    "value": "How far is the silver pot from the brown eggs?"
+  },
+  {
+    "from": "gpt",
+    "value": "the silver pot and the brown eggs are 20.99 inches apart."
+  }
+]

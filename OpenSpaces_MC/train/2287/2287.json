@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Can you provide the distance measurement between the white building in the background and the blue building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "1.4 meters"
+  },
+  {
+    "from": "human",
+    "value": "Could you measure the vertical distance between the two brown sticks on the ground and the orange cloth on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "the two brown sticks on the ground is 46.0 centimeters away from the orange cloth on the ground vertically."
+  },
+  {
+    "from": "human",
+    "value": "How far away is the white building in the background from the blue building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the white building in the background from the blue building in the background is 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the two brown sticks on the ground is smaller than the orange cloth on the ground?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the two brown sticks on the ground is not smaller in size than the orange cloth on the ground."
+  },
+  {
+    "from": "human",
+    "value": "Is the white building in the background taller than the blue building in the background?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the white building in the background has a greater height compared to the blue building in the background."
+  }
+]

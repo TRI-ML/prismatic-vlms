@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the distance from the painting on the wall to the window on the right side."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the painting on the wall from the window on the right side is 7.0 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the plant in the corner is positioned to the right of the window on the right side?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the plant in the corner is either to the left of or directly aligned with the window on the right side."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the bed in the center is positioned to the right of the plant in the corner?"
+  },
+  {
+    "from": "gpt",
+    "value": "In fact, the bed in the center is either to the left of or directly aligned with the plant in the corner."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the window on the right side and the painting on the wall?"
+  },
+  {
+    "from": "gpt",
+    "value": "the window on the right side is 6.1 meters away from the painting on the wall."
+  },
+  {
+    "from": "human",
+    "value": "Is the window on the right side to the right of the painting on the wall from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the window on the right side is positioned on the right side of the painting on the wall."
+  }
+]

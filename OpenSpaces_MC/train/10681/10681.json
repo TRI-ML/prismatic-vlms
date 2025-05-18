@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the credit card with gold chip have a larger size compared to the shopping bag?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the credit card with gold chip is not bigger than the shopping bag."
+  },
+  {
+    "from": "human",
+    "value": "Does the blue truck with red circle have a larger size compared to the red wallet?"
+  },
+  {
+    "from": "gpt",
+    "value": "Indeed, the blue truck with red circle has a larger size compared to the red wallet."
+  },
+  {
+    "from": "human",
+    "value": "Give me the distance from the credit card with gold chip to the shop front with red and white stripes."
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the credit card with gold chip from the shop front with red and white stripes is 59.85 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Is the blue truck bigger than the blue truck with red circle?"
+  },
+  {
+    "from": "gpt",
+    "value": "Actually, the blue truck might be smaller or the same size as the blue truck with red circle."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the horizontal distance of the blue truck with red circle from the blue truck with red circle?"
+  },
+  {
+    "from": "gpt",
+    "value": "the blue truck with red circle is 37.0 centimeters from the blue truck with red circle horizontally."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the grass or the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "From the viewer's perspective, grass appears more on the left side."
+  },
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the grass to the car."
+  },
+  {
+    "from": "gpt",
+    "value": "10.0 meters"
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the sky or the parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is parking lot."
+  },
+  {
+    "from": "human",
+    "value": "How far apart are the sky and the parking lot?"
+  },
+  {
+    "from": "gpt",
+    "value": "The distance of the sky from the parking lot is 7.26 meters."
+  },
+  {
+    "from": "human",
+    "value": "Can you confirm if the sky is smaller than the car?"
+  },
+  {
+    "from": "gpt",
+    "value": "Correct, the sky occupies less space than the car."
+  }
+]

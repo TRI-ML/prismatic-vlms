@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "How much distance is there between the stool in kitchen area and the blue rug in living room horizontally?"
+  },
+  {
+    "from": "gpt",
+    "value": "The horizontal distance of the stool in kitchen area from the blue rug in living room is 3.9 meters."
+  },
+  {
+    "from": "human",
+    "value": "Between the white chair in living room and the white chair in living room, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "white chair in living room is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the stool in kitchen area?"
+  },
+  {
+    "from": "gpt",
+    "value": "It is 89.74 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "How much distance is there between the white chair in living room and the kitchen island vertically?"
+  },
+  {
+    "from": "gpt",
+    "value": "the white chair in living room and the kitchen island are 40.8 centimeters apart vertically."
+  },
+  {
+    "from": "human",
+    "value": "Is the white chair in living room thinner than the white chair in living room?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the white chair in living room is thinner than the white chair in living room."
+  }
+]

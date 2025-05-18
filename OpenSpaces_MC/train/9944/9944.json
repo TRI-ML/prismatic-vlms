@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Is the door with glass panels and wood frame and wood frame and wood frame and wood frame positioned before the door with glass panels and wood frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the door with glass panels and wood frame and wood frame and wood frame and wood frame is closer to the viewer."
+  },
+  {
+    "from": "human",
+    "value": "What is the height of the door?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door is 54.8 centimeters in height."
+  },
+  {
+    "from": "human",
+    "value": "Does the door with glass panels and wood frame and wood frame and wood frame and wood frame come in front of the door with glass panels and wood frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "Yes, the door with glass panels and wood frame and wood frame and wood frame and wood frame is in front of the door with glass panels and wood frame."
+  },
+  {
+    "from": "human",
+    "value": "Is the door bigger than the door with glass panels and wood frame?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the door is not bigger than the door with glass panels and wood frame."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the door with glass panels and wood frame and wood frame from the father sitting on couch?"
+  },
+  {
+    "from": "gpt",
+    "value": "the door with glass panels and wood frame and wood frame and the father sitting on couch are 9.7 feet apart from each other."
+  }
+]

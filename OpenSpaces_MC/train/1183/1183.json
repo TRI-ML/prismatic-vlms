@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Does the pedestrian crossing have a lesser height compared to the bicycle symbol?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the pedestrian crossing's height does not fall short of the bicycle symbol's."
+  },
+  {
+    "from": "human",
+    "value": "Does the car on the road have a lesser height compared to the stop sign?"
+  },
+  {
+    "from": "gpt",
+    "value": "Incorrect, the car on the road's height does not fall short of the stop sign's."
+  },
+  {
+    "from": "human",
+    "value": "Measure the height of the bicycle lane marking."
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle lane marking is 18.0 inches tall."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the bicyclist?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the bicyclist is 1.4 meters."
+  },
+  {
+    "from": "human",
+    "value": "How distant is the bicycle lane marking from the bicyclist?"
+  },
+  {
+    "from": "gpt",
+    "value": "the bicycle lane marking is 2.74 meters from the bicyclist."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Give me the horizontal distance from the person in black shirt to the person in black shirt."
+  },
+  {
+    "from": "gpt",
+    "value": "They are 2.0 meters apart."
+  },
+  {
+    "from": "human",
+    "value": "Which is more to the left, the person in black shirt or the white van with black windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is white van with black windows."
+  },
+  {
+    "from": "human",
+    "value": "What are the dimensions of the person in black shirt in terms of width?"
+  },
+  {
+    "from": "gpt",
+    "value": "The width of the person in black shirt is 66.0 centimeters."
+  },
+  {
+    "from": "human",
+    "value": "Does the person in black shirt have a larger size compared to the white van with black windows?"
+  },
+  {
+    "from": "gpt",
+    "value": "No, the person in black shirt is not bigger than the white van with black windows."
+  },
+  {
+    "from": "human",
+    "value": "Can you tell me the distance of the person in black shirt from the person in black shirt?"
+  },
+  {
+    "from": "gpt",
+    "value": "the person in black shirt and the person in black shirt are 18.84 centimeters apart."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "from": "human",
+    "value": "Which is more to the left, the yellow lines or the street?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is yellow lines."
+  },
+  {
+    "from": "human",
+    "value": "Between the stone wall and the cracks in street, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "cracks in street is more to the left."
+  },
+  {
+    "from": "human",
+    "value": "How wide is the yellow lines?"
+  },
+  {
+    "from": "gpt",
+    "value": "the yellow lines is 6.54 feet in width."
+  },
+  {
+    "from": "human",
+    "value": "Between the yellow lines and the gray asphalt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is gray asphalt."
+  },
+  {
+    "from": "human",
+    "value": "Between the street and the gray asphalt, which one appears on the left side from the viewer's perspective?"
+  },
+  {
+    "from": "gpt",
+    "value": "Positioned to the left is gray asphalt."
+  }
+]
