@@ -13,26 +13,29 @@ dataset_dir = "data/OpenSpaces_MC"
 for split in ["train", "test"]:
     sample_dir = os.path.join(dataset_dir, split, "images")
     os.makedirs(sample_dir, exist_ok=True)
-    instruct_json = {}
-    for idx, image in enumerate(ds[split]["images"], start=1):
-        image[0].save(os.path.join(sample_dir, f"{idx}.jpg"))
-        instruct_json[idx] = {"image": f"{idx}.jpg"}
 
-    for idx, messages in enumerate(ds[split]["messages"], start=1):
-        # save messages as .json
-        # For some reason the first message is not in the format of the rest
-        z = [x['content'][0] for x in messages]
-        z[0] = messages[0]['content'][1]
-        # split the text into question and answer
-        texts = [q['text'].split(" Answer: ") for q in z]
-        # flatten the nested lists in texts
-        texts = [t for sublist in texts for t in sublist]
-        # Add in the format that prismatic vlm wants
-        messages = [
-            {"from": "human" if i % 2 == 0 else "gpt", "value": text} for i, text in enumerate(texts)
+    instruct_json = []
+
+    # save images and build initial list entries
+    for idx, image in enumerate(ds[split]["images"]):
+        image[0].save(os.path.join(sample_dir, f"{idx}.jpg"))
+        instruct_json.append({"image": f"{idx}.jpg"})
+
+    # process messages and attach conversations to each entry
+    for idx, messages in enumerate(ds[split]["messages"]):
+        # extract contents
+        z = [x["content"][0] for x in messages]
+        z[0] = messages[0]["content"][1]
+        # split into question/answer pairs
+        texts = [q["text"].split(" Answer: ") for q in z]
+        texts = [t for pair in texts for t in pair]
+        # format as human/gpt exchanges
+        convs = [
+            {"from": "human" if i % 2 == 0 else "gpt", "value": text}
+            for i, text in enumerate(texts)
         ]
-        # save the image
-        instruct_json[idx]["conversations"] = messages
+        # attach to the corresponding list entry (idx−1)
+        instruct_json[idx]["conversations"] = convs
     
     # save the instruct_json as .json
     with open(os.path.join(dataset_dir, split, "instruct.json"), "w") as f:
