@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#SBATCH --partition=staging
+#SBATCH -J download_data
+#SBATCH -t 0:30:00
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --gpus=0
+#SBATCH --cpus-per-task=1
+#SBATCH --output=slurm_outputs/slurm_output_%A.out
+#SBATCH --error=slurm_outputs/slurm_error_%A.err
+
+module purge
+module load 2023
+# module load CUDA/12.4.0
+module load Python/3.11.3-GCCcore-12.3.0
+
+# install uv for dependency management
+curl -LsSf https://astral.sh/uv/install.sh | sh
+source $HOME/.cargo/env
+
+uv pip install datasets
+uv pip install pillow
+
+uv run dataset.py

@@ -25,6 +25,6 @@ if __name__ == "__main__":
         trackers=("jsonl",),
         # wandb_project="onyx-vlms",
         # wandb_entity="stanford-voltron",
-        pretrained_checkpoint="/home/scur0690/.cache/huggingface/hub/models--TRI-ML--prismatic-vlms/snapshots/a3ba8a19c453a82eaf5a3fb1e699dd9e441f0a12/dinov2-224px+7b/checkpoints/latest-checkpoint.pt",
+        pretrained_checkpoint="/home/jyao/.cache/huggingface/hub/models--TRI-ML--prismatic-vlms/snapshots/a3ba8a19c453a82eaf5a3fb1e699dd9e441f0a12/dinov2-224px+7b/checkpoints/latest-checkpoint.pt",
     )
     pretrain(cfg)

@@ -40,5 +40,5 @@ source .venv/bin/activate
 # FLASH ATTENTION RAAAAAAH
 uv pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 
-python scripts/preprocess.py --dataset_id "llava-v1.5-instruct" --root_dir data
+# python scripts/preprocess.py --dataset_id "llava-v1.5-instruct" --root_dir data
 torchrun --standalone --nnodes 1 --nproc-per-node 1 finetune_vggt.py
