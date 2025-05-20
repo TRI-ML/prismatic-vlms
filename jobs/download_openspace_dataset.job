@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#SBATCH --partition=staging
+#SBATCH --partition=gpu_mig
 #SBATCH -J download_data
 #SBATCH -t 0:30:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --gpus=0
+#SBATCH --gpus=1
 #SBATCH --cpus-per-task=1
 #SBATCH --output=slurm_outputs/slurm_output_%A.out
 #SBATCH --error=slurm_outputs/slurm_error_%A.err
