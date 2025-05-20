@@ -19,11 +19,18 @@ module load Python/3.11.3-GCCcore-12.3.0
 curl -LsSf https://astral.sh/uv/install.sh | sh
 source $HOME/.local/bin/env
 
-export HF_DATASETS_CACHE="$HOME/data_cache"
+mkdir -p "$TMPDIR/work"
+
+# copy project over
+rsync -r "$HOME/prismatic-vlms" "$TMPDIR/work" --exclude .venv --exclude .git --exclude .checkpoints --exclude wandb
+
+export HF_DATASETS_CACHE="$TMPDIR/data_cache"
 export CUDA_HOME=$CUDA_PATH
 export PATH=$CUDA_HOME/bin:$PATH
 export LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH
 export UV_LINK_MODE=copy
+
+cd "$TMPDIR/work/prismatic-vlms"
 
 uv python install 3.11
 uv sync
@@ -33,5 +40,5 @@ source .venv/bin/activate
 # FLASH ATTENTION RAAAAAAH
 uv pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 
-# python scripts/preprocess.py --dataset_id "llava-v1.5-instruct" --root_dir data
-torchrun --standalone --nnodes 1 --nproc-per-node 1 finetune_vggt.py
+python scripts/preprocess.py --dataset_id "llava-v1.5-instruct" --root_dir data
+torchrun --standalone --nnodes 1 --nproc-per-node 1 finetune_vggt.py --run_root_dir "$HOME/vggt_finetune/runs"

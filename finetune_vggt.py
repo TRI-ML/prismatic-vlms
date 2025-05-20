@@ -4,6 +4,20 @@ from prismatic.conf import DatasetRegistry, ModelRegistry, ModelConfig, DatasetC
 import torch
 import torch.distributed as dist
 
+import argparse
+
+
+def parse_args():
+    p = argparse.ArgumentParser(description="Launch pretraining/finetuning run")
+    p.add_argument(
+        "--run_root_dir",
+        type=Path,
+        default=Path("runs"),
+        help="root directory under which to create the run folder",
+    )
+    return p.parse_args()
+
+
 if __name__ == "__main__":
     # Set up config to match train_vggt.py
     model_id = "dinov2-224px+7b"
@@ -14,12 +28,14 @@ if __name__ == "__main__":
     if not dist.is_initialized():
         dist.init_process_group(backend="nccl" if torch.cuda.is_available() else "gloo")
 
+    args = parse_args()
+
     cfg = PretrainConfig(
         model=model_cfg,
         dataset=dataset_cfg,
         stage="finetune",
         run_id="vggt_projector_run",
-        # run_root_dir=Path("runs"),
+        run_root_dir=args.run_root_dir,
         seed=42,
         hf_token="",  # Adjust if your token is elsewhere
         trackers=("jsonl",),
